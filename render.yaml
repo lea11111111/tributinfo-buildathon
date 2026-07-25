@@ -1,0 +1,19 @@
+# Render Blueprint — solo backend API
+# Docs: https://render.com/docs/blueprint-spec
+#
+# Crear el servicio: Dashboard → New → Blueprint → conectar este repo.
+# ZAVU_API_KEY no es obligatoria para desplegar; agregala en Environment cuando
+# quieras activar WhatsApp (POST /api/whatsapp devolverá error legible sin ella).
+
+services:
+  - type: web
+    name: tributinfo-api
+    runtime: node
+    plan: free
+    rootDir: backend
+    buildCommand: corepack enable && corepack prepare pnpm@11.10.0 --activate && pnpm install
+    startCommand: pnpm start
+    healthCheckPath: /health
+    envVars:
+      - key: NODE_ENV
+        value: production

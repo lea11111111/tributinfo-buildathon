@@ -72,7 +72,10 @@ async function handleWhatsApp(req: IncomingMessage, res: ServerResponse) {
   }
 
   const meta = getLastDiagnosisMeta();
-  const appUrl = process.env.NEXT_PUBLIC_APP_URL ?? `http://localhost:${PORT}`;
+  const appUrl =
+    process.env.NEXT_PUBLIC_APP_URL ??
+    process.env.RENDER_EXTERNAL_URL ??
+    `http://localhost:${PORT}`;
 
   const resultado = await enviarRecordatorio({
     telefono: body.telefono,

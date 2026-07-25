@@ -44,3 +44,23 @@ La app vive en la carpeta `client`. En Netlify (Site configuration → Build & d
 También está el archivo `netlify.toml` en la raíz del repo, que configura lo mismo automáticamente.
 
 Si ves **Page not found**, casi seguro el Publish directory está mal (por ejemplo vacío o apuntando a la raíz en vez de `client/dist`).
+
+## Publicar el backend en Render
+
+El archivo `render.yaml` en la raíz configura solo la API (`backend/`).
+
+1. Render → **New** → **Blueprint** → conectar este repo.
+2. (Opcional, cuando activen WhatsApp) Agregar en **Environment**:
+   - `ZAVU_API_KEY`
+   - `ZAVU_SENDER_ID` (opcional)
+   - `NEXT_PUBLIC_APP_URL` (opcional; si no se setea, Render usa `RENDER_EXTERNAL_URL`)
+3. Tras el deploy, apuntar el frontend a la API:
+   - En Netlify: `VITE_DATA_SOURCE=real` y `VITE_API_URL=https://tu-servicio.onrender.com`
+
+Si configurás el servicio a mano (sin Blueprint):
+
+| Ajuste | Valor |
+|--------|--------|
+| Root Directory | `backend` |
+| Build Command | `corepack enable && corepack prepare pnpm@11.10.0 --activate && pnpm install` |
+| Start Command | `pnpm start` |

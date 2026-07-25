@@ -4,8 +4,13 @@
   "private": true,
   "description": "Agente tributario boliviano - Cursor Buildathon 2026. Backend de tools deterministicas (Leonardo).",
   "type": "module",
+  "packageManager": "pnpm@11.10.0",
+  "engines": {
+    "node": ">=22"
+  },
   "scripts": {
     "dev": "tsx server.ts",
+    "start": "tsx server.ts",
     "mcp": "tsx mcp/server.ts",
     "test:tools": "tsx scripts/test-tools.ts",
     "test:zavu": "tsx scripts/test-zavu.ts",
@@ -13,14 +18,14 @@
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.29.0",
+    "dotenv": "^17.0.0",
     "googleapis": "^173.0.0",
     "ics": "^3.8.1",
+    "tsx": "^4.19.0",
     "zod": "^4.4.3"
   },
   "devDependencies": {
     "@types/node": "^24.0.0",
-    "dotenv": "^17.0.0",
-    "tsx": "^4.19.0",
     "typescript": "^5.7.0"
   }
 }
