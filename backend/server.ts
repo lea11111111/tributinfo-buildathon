@@ -1,6 +1,6 @@
-/**
- * Servidor HTTP mínimo para el frontend Vite (client/).
- * Corre en http://localhost:3001 — ver client/src/lib/config.ts
+﻿/**
+ * Servidor HTTP mÃ­nimo para el frontend Vite (client/).
+ * Corre en http://localhost:3001 â€” ver client/src/lib/config.ts
  */
 import "dotenv/config";
 import { createServer, type IncomingMessage, type ServerResponse } from "node:http";
@@ -12,6 +12,8 @@ import {
 import { generarCalendario } from "./lib/tools/generar-calendario";
 import { enviarRecordatorio } from "./lib/tools/enviar-recordatorio";
 import type { DiagnosisInput, WhatsAppPayload } from "./lib/types/diagnosis-contract";
+import { ragAsk } from "./lib/ai/rag-ask";
+import { buscarNormativa } from "./lib/tools/buscar-normativa";
 import type { NombreRegimen } from "./lib/types/resultado";
 
 const PORT = Number(process.env.PORT ?? 3001);
@@ -41,6 +43,14 @@ const server = createServer(async (req, res) => {
       handleDescargarCalendario(url, res);
       return;
     }
+        if (req.method === "POST" && url.pathname === "/api/ask") {
+      await handleAsk(req, res);
+      return;
+    }
+    if (req.method === "POST" && url.pathname === "/api/buscar-normativa") {
+      await handleBuscarNormativa(req, res);
+      return;
+    }
     if (req.method === "GET" && url.pathname === "/health") {
       json(res, 200, { ok: true });
       return;
@@ -55,7 +65,7 @@ const server = createServer(async (req, res) => {
 async function handleDiagnose(req: IncomingMessage, res: ServerResponse) {
   const body = (await readJson(req)) as DiagnosisInput;
   if (!body.actividad || body.ventasMensuales == null || body.capital == null) {
-    json(res, 400, { error: "Faltan campos obligatorios del diagnóstico." });
+    json(res, 400, { error: "Faltan campos obligatorios del diagnÃ³stico." });
     return;
   }
 
@@ -94,11 +104,11 @@ function handleDescargarCalendario(url: URL, res: ServerResponse) {
   const anioParam = url.searchParams.get("anio");
 
   if (!regimen || !REGIMENES.includes(regimen)) {
-    json(res, 400, { error: `regimen inválido. Valores: ${REGIMENES.join(", ")}` });
+    json(res, 400, { error: `regimen invÃ¡lido. Valores: ${REGIMENES.join(", ")}` });
     return;
   }
   if (!Number.isInteger(digito) || digito < 0 || digito > 9) {
-    json(res, 400, { error: "digito inválido (0-9)" });
+    json(res, 400, { error: "digito invÃ¡lido (0-9)" });
     return;
   }
 
@@ -130,6 +140,29 @@ function json(res: ServerResponse, status: number, data: unknown) {
   res.end(JSON.stringify(data));
 }
 
+
+async function handleAsk(req: IncomingMessage, res: ServerResponse) {
+  const body = (await readJson(req)) as { pregunta?: string; topK?: number };
+  if (!body.pregunta?.trim()) {
+    json(res, 400, { error: "Falta pregunta." });
+    return;
+  }
+  try {
+    const result = await ragAsk({ pregunta: body.pregunta.trim(), topK: body.topK });
+    json(res, 200, result);
+  } catch (err) {
+    json(res, 502, { error: err instanceof Error ? err.message : "Error en RAG/Ollama" });
+  }
+}
+
+async function handleBuscarNormativa(req: IncomingMessage, res: ServerResponse) {
+  const body = (await readJson(req)) as { consulta?: string; limite?: number };
+  if (!body.consulta?.trim()) {
+    json(res, 400, { error: "Falta consulta." });
+    return;
+  }
+  json(res, 200, buscarNormativa({ consulta: body.consulta.trim(), limite: body.limite }));
+}
 function readJson(req: IncomingMessage): Promise<unknown> {
   return new Promise((resolve, reject) => {
     let raw = "";
@@ -138,7 +171,7 @@ function readJson(req: IncomingMessage): Promise<unknown> {
       try {
         resolve(raw ? JSON.parse(raw) : {});
       } catch {
-        reject(new Error("JSON inválido"));
+        reject(new Error("JSON invÃ¡lido"));
       }
     });
     req.on("error", reject);
@@ -146,5 +179,5 @@ function readJson(req: IncomingMessage): Promise<unknown> {
 }
 
 server.listen(PORT, () => {
-  console.log(`TributInfo API → http://localhost:${PORT}`);
+  console.log(`TributInfo API â†’ http://localhost:${PORT}`);
 });

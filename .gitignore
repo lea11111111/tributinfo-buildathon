@@ -38,3 +38,7 @@ tareas-gabriel.md
 # npm lockfiles (monorepo uses pnpm)
 package-lock.json
 **/package-lock.json
+
+corpus/pdfs/
+**/*.pdf
+
