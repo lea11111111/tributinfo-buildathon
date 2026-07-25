@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import type { DiagnosisResult, WhatsAppStatus } from '@/lib/types'
+import type { CalendarioEvento, DiagnosisResult, WhatsAppStatus } from '@/lib/types'
 import { ToolsPanel } from './ToolsPanel'
 import { downloadChecklist, downloadIcs, sendWhatsApp } from '@/lib/api'
 
@@ -10,6 +10,28 @@ type Props = {
 
 function formatBs(n: number) {
   return `Bs ${n.toLocaleString('es-BO')}`
+}
+
+/** Elige el evento más próximo (fecha >= hoy); si no hay, usa datos de prueba. */
+function proximoVencimiento(eventos: CalendarioEvento[]): {
+  fecha: string
+  concepto: string
+} {
+  const hoy = new Date().toISOString().slice(0, 10)
+  const futuros = eventos
+    .filter((e) => e.fecha >= hoy)
+    .sort((a, b) => a.fecha.localeCompare(b.fecha))
+  const elegido = futuros[0] ?? eventos[0]
+  if (elegido) {
+    return {
+      fecha: elegido.fecha,
+      concepto: elegido.descripcion ?? elegido.titulo,
+    }
+  }
+  return {
+    fecha: '2026-08-17',
+    concepto: 'Cuota bimestral RTS — mensaje de prueba de TributInfo',
+  }
 }
 
 export function ResultScreen({ result, onRestart }: Props) {
@@ -25,18 +47,25 @@ export function ResultScreen({ result, onRestart }: Props) {
       return
     }
 
+    const proximo = proximoVencimiento(result.calendario.eventos)
+
     setWaStatus('sending')
     setWaError(null)
     try {
       await sendWhatsApp({
         telefono: cleaned,
         regimen: result.regimen,
-        calendarioFilename: result.calendario.filename,
+        proximoVencimiento: proximo.fecha,
+        concepto: proximo.concepto,
       })
       setWaStatus('sent')
-    } catch {
+    } catch (err) {
       setWaStatus('error')
-      setWaError('No se pudo enviar. Descargá el calendario abajo.')
+      setWaError(
+        err instanceof Error
+          ? err.message
+          : 'No se pudo enviar. Descargá el calendario abajo.',
+      )
     }
   }
 

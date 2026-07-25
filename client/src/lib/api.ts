@@ -26,13 +26,12 @@ export async function diagnose(
 export async function sendWhatsApp(payload: {
   telefono: string
   regimen: string
-  calendarioFilename: string
+  proximoVencimiento: string
+  concepto: string
+  linkCalendario?: string
 }): Promise<void> {
   if (isMock) {
     await new Promise((r) => setTimeout(r, 1400))
-    if (!/^\+591\d{8}$/.test(payload.telefono.replace(/\s/g, ''))) {
-      // Accept common formats in mock; still validate loosely
-    }
     return
   }
 
@@ -42,8 +41,12 @@ export async function sendWhatsApp(payload: {
     body: JSON.stringify(payload),
   })
 
-  if (!res.ok) {
-    throw new Error('No se pudo enviar por WhatsApp.')
+  const data = (await res.json().catch(() => null)) as
+    | { exito?: boolean; error?: string }
+    | null
+
+  if (!res.ok || !data?.exito) {
+    throw new Error(data?.error ?? 'No se pudo enviar por WhatsApp.')
   }
 }
 
