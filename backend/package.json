@@ -1,5 +1,5 @@
 {
-  "name": "tributinfo",
+  "name": "tributinfo-backend",
   "version": "0.1.0",
   "private": true,
   "description": "Agente tributario boliviano - Cursor Buildathon 2026. Backend de tools deterministicas (Leonardo).",

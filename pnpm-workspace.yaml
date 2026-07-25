@@ -1,0 +1,5 @@
+packages:
+  - client
+  - backend
+allowBuilds:
+  esbuild: true

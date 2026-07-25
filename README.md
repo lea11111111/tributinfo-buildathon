@@ -4,13 +4,22 @@ Agente tributario boliviano — frontend (Vite + React + TypeScript + Tailwind).
 
 ## Correr en local
 
+Desde la raíz del repo (frontend + backend en paralelo):
+
 ```bash
-cd client
 pnpm install
 pnpm dev
 ```
 
-Abrí la URL que imprime Vite (por defecto `http://localhost:5173`).
+- Frontend: `http://localhost:5173` (Vite)
+- Backend API: `http://localhost:3001`
+
+Solo frontend o solo backend:
+
+```bash
+pnpm --filter tributinfo-client dev
+pnpm --filter tributinfo-backend dev
+```
 
 ## Datos mock vs reales
 

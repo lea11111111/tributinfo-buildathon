@@ -10,7 +10,7 @@ a Cursor, Claude Desktop o cualquier cliente MCP.
 | `generar_calendario_fiscal` | Calendario de vencimientos + links "Añadir a Google Calendar" | No |
 | `agregar_a_google_calendar` | Crea los eventos directamente en tu Google Calendar (API oficial) | Sí (OAuth2) |
 
-Correr a mano (para probar que arranca): `cd backend && npm run mcp`
+Correr a mano (para probar que arranca): `pnpm --filter tributinfo-backend mcp`
 
 ## Registrar en Cursor / Claude Desktop
 

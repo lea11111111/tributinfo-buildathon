@@ -1,0 +1,13 @@
+{
+  "name": "tributinfo",
+  "private": true,
+  "description": "TributInfo monorepo — frontend (client) + backend API",
+  "scripts": {
+    "dev": "pnpm --parallel -r dev",
+    "build": "pnpm -r --if-present build",
+    "test:tools": "pnpm --filter tributinfo-backend test:tools",
+    "test:zavu": "pnpm --filter tributinfo-backend test:zavu",
+    "typecheck": "pnpm -r --if-present typecheck"
+  },
+  "packageManager": "pnpm@11.10.0"
+}

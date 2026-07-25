@@ -1,18 +1,21 @@
 # TODO Leonardo — tareas manuales (lo que la IA no puede hacer por vos)
 
 Estado del código al sábado 10:30: las 4 tools están escritas, tipadas y probadas
-(`npm run test:tools` pasa). Lo que falta es **todo lo de abajo**, en este orden.
+(`pnpm run test:tools` pasa). Lo que falta es **todo lo de abajo**, en este orden.
 
 **Todo este backend vive en `backend/`**. El frontend de Gabriel está en `client/`
-(Vite + React). Comandos `npm run ...` se corren desde `backend/`.
+(Vite + React). Comandos `pnpm run ...` se corren desde `backend/` o desde la raíz
+con `pnpm --filter tributinfo-backend <script>`.
 
 Para conectar frontend ↔ backend en local:
 ```bash
-# Terminal 1
-cd backend && npm run dev          # API en http://localhost:3001
+# Desde la raíz (recomendado)
+pnpm install
+pnpm dev          # client :5173 + backend :3001
 
-# Terminal 2
-cd client && pnpm install && pnpm dev   # UI en http://localhost:5173
+# O por separado
+pnpm --filter tributinfo-backend dev
+pnpm --filter tributinfo-client dev
 ```
 En `client/.env`: `VITE_DATA_SOURCE=real` y `VITE_API_URL=http://localhost:3001`
 
@@ -30,7 +33,7 @@ El adapter que lo implementa: `backend/lib/adapters/diagnosis.ts`.
   ZAVU_API_KEY=tu_key
   TEST_PHONE=+591XXXXXXXX   (tu celular o el de alguien del equipo)
   ```
-- [ ] Correr el envío de prueba real: `npm run test:zavu`
+- [ ] Correr el envío de prueba real: `pnpm run test:zavu`
 - [ ] Verificar que el WhatsApp **llegue de verdad** al celular.
 
 ### ⚠️ Trampas de Zavu que encontré en su documentación (leelas antes de la demo)
@@ -65,12 +68,12 @@ corra. La demo NO puede salir con esos números.
 - [ ] Confirmar con Fernanda el caso borde: ¿el tope de capital de cada categoría es inclusivo?
 - [ ] Cuando TODO esté copiado y verificado: poner `DATOS_VERIFICADOS = true`
   en `lib/data/verificacion.ts` (eso apaga las advertencias en los outputs).
-- [ ] Volver a correr `npm run test:tools` y ajustar los casos esperados si los
+- [ ] Volver a correr `pnpm run test:tools` y ajustar los casos esperados si los
   topes reales cambian los resultados.
 
 ## 3. Probar el .ics en Google Calendar (5 min, no lo dejes para el domingo)
 
-- [ ] `npm run test:tools` genera `scripts/out/calendario-fiscal-2026.ics`.
+- [ ] `pnpm run test:tools` genera `scripts/out/calendario-fiscal-2026.ics`.
 - [ ] Importalo en Google Calendar (Configuración → Importar y exportar) y
   verificá que los eventos aparecen con título, fecha y recordatorio.
 
@@ -82,7 +85,7 @@ las tools `generar_calendario_fiscal` y `agregar_a_google_calendar`. Lo que falt
 son las credenciales y el registro, que son manuales:
 
 - [ ] **Probar un link de la capa demo** (2 min, sin credenciales): correr
-  `npm run test:tools`, copiar cualquier `googleCalendarUrl` de un evento
+  `pnpm run test:tools`, copiar cualquier `googleCalendarUrl` de un evento
   (también sale en la respuesta de `POST /api/diagnose`) y abrirlo en el
   navegador logueado en Google → debe abrir Google Calendar con el evento precargado.
 - [ ] **Registrar el MCP en Cursor**: copiar el bloque de `backend/mcp/README.md`
@@ -153,15 +156,14 @@ son las credenciales y el registro, que son manuales:
 | API WhatsApp | `app/api/whatsapp/route.ts` | Listo |
 | API descarga .ics | `app/api/descargar-calendario/route.ts` | Listo |
 | Links "Añadir a Google Calendar" | `lib/utils/google-calendar-link.ts` | Listo, probado (sin OAuth) |
-| Servidor MCP (2 tools) | `mcp/server.ts` (`npm run mcp`) | Listo, faltan credenciales de Google |
+| Servidor MCP (2 tools) | `mcp/server.ts` (`pnpm run mcp`) | Listo, faltan credenciales de Google |
 | Tests de tools | `scripts/test-tools.ts` | 30 casos, todos pasan |
 | Test envío real | `scripts/test-zavu.ts` | Listo para correr con key |
 
-Comandos útiles (correr desde `backend/`):
+Comandos útiles (desde la raíz o `backend/`):
 
 ```
-cd backend
-npm run test:tools   # prueba las tools sin red
-npm run test:zavu    # envío real de WhatsApp (necesita .env)
-npm run typecheck    # verificación de tipos
+pnpm run test:tools   # prueba las tools sin red
+pnpm run test:zavu    # envío real de WhatsApp (necesita .env)
+pnpm run typecheck    # verificación de tipos
 ```
