@@ -5,6 +5,7 @@ Agente tributario boliviano — frontend (Vite + React + TypeScript + Tailwind).
 ## Correr en local
 
 ```bash
+cd client
 pnpm install
 pnpm dev
 ```
@@ -13,7 +14,7 @@ Abrí la URL que imprime Vite (por defecto `http://localhost:5173`).
 
 ## Datos mock vs reales
 
-Por defecto usa mocks (`VITE_DATA_SOURCE=mock`). Copiá `.env.example` a `.env` y cambiá a `real` cuando el backend esté listo.
+Por defecto usa mocks (`VITE_DATA_SOURCE=mock`). Copiá `client/.env.example` a `client/.env` y cambiá a `real` cuando el backend esté listo.
 
 ## Pantallas
 

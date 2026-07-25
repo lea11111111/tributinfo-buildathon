@@ -58,4 +58,4 @@ type ToolEvent = {
 - `POST /api/diagnose` → body `DiagnosisInput` → `DiagnosisResult`
 - `POST /api/whatsapp` → `{ telefono, regimen, calendarioFilename }` → 200 | error
 
-Fuente tipada en el frontend: `src/lib/types.ts`.
+Fuente tipada en el frontend: `client/src/lib/types.ts`.
