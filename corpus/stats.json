@@ -1,0 +1,17 @@
+{
+  "embeddingModel": "tfidf-v1",
+  "documents": 9,
+  "chunks": 6378,
+  "sources": [
+    "01-ley-2492-codigo-tributario.md",
+    "02-ley-843-impuestos.md",
+    "03-ley-2166-sin.md",
+    "04-calendario-tributario-2026.md",
+    "05-cartilla-retenciones.md",
+    "06-texto-puct.md",
+    "07-tomo-i-compendio-rnd.md",
+    "08-tomo-ii-compendio-rnd.md",
+    "09-texto-rcv.md"
+  ],
+  "note": "El índice completo no va en Git. Se genera con pnpm --filter tributinfo-backend run build:embeddings o se construye en memoria al arrancar el backend."
+}

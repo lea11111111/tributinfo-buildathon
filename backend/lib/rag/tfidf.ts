@@ -148,13 +148,14 @@ export function loadEmbeddingsIndex(): EmbeddingsIndex {
   if (cachedIndex) return cachedIndex;
 
   const root = repoRootFromHere();
-  const jsonPath = join(root, "embeddings.json");
-  if (existsSync(jsonPath)) {
-    cachedIndex = JSON.parse(readFileSync(jsonPath, "utf-8")) as EmbeddingsIndex;
+  const parsedDir = join(root, "corpus", "parsed");
+  const cachePath = join(root, "backend", ".cache", "embeddings.json");
+
+  if (existsSync(cachePath)) {
+    cachedIndex = JSON.parse(readFileSync(cachePath, "utf-8")) as EmbeddingsIndex;
     return cachedIndex;
   }
 
-  const parsedDir = join(root, "corpus", "parsed");
   cachedIndex = buildFromCorpusDir(parsedDir);
   return cachedIndex;
 }

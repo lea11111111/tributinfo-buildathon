@@ -1,5 +1,5 @@
 /**
- * Genera embeddings.json desde corpus/parsed/*.md
+ * Genera cache local del índice TF-IDF y un resumen commiteable.
  * Uso: pnpm --filter tributinfo-backend run build:embeddings
  */
 import { mkdirSync, readdirSync, writeFileSync } from "node:fs";
@@ -8,7 +8,8 @@ import { buildFromCorpusDir, repoRootFromHere } from "../lib/rag/tfidf";
 
 const root = repoRootFromHere();
 const parsedDir = join(root, "corpus", "parsed");
-const outPath = join(root, "embeddings.json");
+const cachePath = join(root, "backend", ".cache", "embeddings.json");
+const statsPath = join(root, "corpus", "stats.json");
 
 const files = readdirSync(parsedDir).filter((f) => f.endsWith(".md"));
 if (files.length === 0) {
@@ -17,19 +18,18 @@ if (files.length === 0) {
 }
 
 const index = buildFromCorpusDir(parsedDir);
-mkdirSync(dirname(outPath), { recursive: true });
-writeFileSync(outPath, JSON.stringify(index, null, 2), "utf-8");
+mkdirSync(dirname(cachePath), { recursive: true });
+writeFileSync(cachePath, JSON.stringify(index), "utf-8");
 
-console.log(
-  JSON.stringify(
-    {
-      ok: true,
-      output: outPath,
-      documents: files.length,
-      chunks: index.chunks.length,
-      embeddingModel: index.embeddingModel,
-    },
-    null,
-    2,
-  ),
-);
+const stats = {
+  embeddingModel: index.embeddingModel,
+  documents: files.length,
+  chunks: index.chunks.length,
+  sources: files.sort(),
+  generatedAt: new Date().toISOString(),
+  cachePath: "backend/.cache/embeddings.json",
+};
+
+writeFileSync(statsPath, JSON.stringify(stats, null, 2), "utf-8");
+
+console.log(JSON.stringify({ ok: true, ...stats }, null, 2));

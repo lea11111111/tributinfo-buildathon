@@ -42,3 +42,6 @@ package-lock.json
 corpus/pdfs/
 **/*.pdf
 
+# Índice TF-IDF generado localmente (muy pesado para Git)
+embeddings.json
+backend/.cache/
