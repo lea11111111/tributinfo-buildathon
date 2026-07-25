@@ -1,3 +1,6 @@
+# Salidas de scripts de prueba (ics generados, etc.)
+**/scripts/out/
+
 # Logs
 logs
 *.log
