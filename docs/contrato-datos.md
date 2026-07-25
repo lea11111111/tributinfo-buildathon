@@ -31,7 +31,8 @@ type DiagnosisResult = {
     resumen: string
   }
   calendario: {
-    eventos: { titulo: string; fecha: string; descripcion?: string }[]
+    // googleCalendarUrl: adición opcional retrocompatible (ver nota abajo)
+    eventos: { titulo: string; fecha: string; descripcion?: string; googleCalendarUrl?: string }[]
     filename: string // ej. calendario-fiscal-2026.ics
   }
   checklist: {
@@ -52,6 +53,18 @@ type ToolEvent = {
   summary?: string // ej. "Ley 843, art. 15"
 }
 ```
+
+## Adición opcional: `googleCalendarUrl` (propuesto por Leonardo, pendiente OK de Gabriel)
+
+Cada evento de `calendario.eventos` ahora incluye un campo **opcional**
+`googleCalendarUrl?: string` con un link "Añadir a Google Calendar"
+(formato `https://calendar.google.com/calendar/render?action=TEMPLATE&...`).
+
+- Es **retrocompatible**: el frontend actual lo ignora sin romperse porque el campo es opcional.
+- Si el frontend quiere usarlo: renderizar un botón/link por evento que abra la URL
+  en una pestaña nueva; Google Calendar se abre con el evento precargado y el usuario
+  solo confirma con "Guardar".
+- El .ics descargable (`GET /api/descargar-calendario`) sigue funcionando igual (plan B).
 
 ## Endpoints previstos (cuando `VITE_DATA_SOURCE=real`)
 

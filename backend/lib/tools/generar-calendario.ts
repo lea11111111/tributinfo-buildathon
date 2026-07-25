@@ -7,6 +7,7 @@ import type { CalendarioResultado, EventoFiscal } from "../types/resultado";
 import type { GenerarCalendarioInput } from "../types/tools";
 import { OBLIGACIONES, VENCIMIENTOS_POR_DIGITO } from "../data/calendario-vencimientos";
 import { ADVERTENCIA_DATOS_NO_VERIFICADOS, DATOS_VERIFICADOS } from "../data/verificacion";
+import { generarLinkGoogleCalendar } from "../utils/google-calendar-link";
 
 export function generarCalendario(input: GenerarCalendarioInput): CalendarioResultado {
   const advertencias: string[] = [];
@@ -31,12 +32,15 @@ export function generarCalendario(input: GenerarCalendarioInput): CalendarioResu
 
   const eventos: EventoFiscal[] = obligacion.meses.map((mes) => {
     const fecha = `${anio}-${String(mes).padStart(2, "0")}-${String(regla.diaVencimiento).padStart(2, "0")}`;
+    const titulo = `Vencimiento: ${obligacion.concepto}`;
+    const descripcion = `${obligacion.concepto} — NIT terminado en ${ultimoDigitoNit} vence el día ${regla.diaVencimiento}. Régimen ${regimen}.`;
     return {
       fecha,
-      titulo: `Vencimiento: ${obligacion.concepto}`,
-      descripcion: `${obligacion.concepto} — NIT terminado en ${ultimoDigitoNit} vence el día ${regla.diaVencimiento}. Régimen ${regimen}.`,
+      titulo,
+      descripcion,
       impuesto: obligacion.concepto,
       fuente: regla.fuente,
+      googleCalendarUrl: generarLinkGoogleCalendar({ fecha, titulo, descripcion }),
     };
   });
 

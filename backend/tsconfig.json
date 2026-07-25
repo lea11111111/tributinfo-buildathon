@@ -15,6 +15,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["lib/**/*.ts", "scripts/**/*.ts", "app/**/*.ts", "server.ts"],
+  "include": ["lib/**/*.ts", "scripts/**/*.ts", "app/**/*.ts", "mcp/**/*.ts", "server.ts"],
   "exclude": ["node_modules"]
 }

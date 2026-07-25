@@ -74,6 +74,39 @@ corra. La demo NO puede salir con esos números.
 - [ ] Importalo en Google Calendar (Configuración → Importar y exportar) y
   verificá que los eventos aparecen con título, fecha y recordatorio.
 
+## 3.5 Google Calendar / servidor MCP (nuevo — solo vos podés hacer esto)
+
+El código ya está: cada evento del calendario trae un link "Añadir a Google Calendar"
+(sin OAuth, no puede fallar en la demo) y hay un servidor MCP en `backend/mcp/` con
+las tools `generar_calendario_fiscal` y `agregar_a_google_calendar`. Lo que falta
+son las credenciales y el registro, que son manuales:
+
+- [ ] **Probar un link de la capa demo** (2 min, sin credenciales): correr
+  `npm run test:tools`, copiar cualquier `googleCalendarUrl` de un evento
+  (también sale en la respuesta de `POST /api/diagnose`) y abrirlo en el
+  navegador logueado en Google → debe abrir Google Calendar con el evento precargado.
+- [ ] **Registrar el MCP en Cursor**: copiar el bloque de `backend/mcp/README.md`
+  a `.cursor/mcp.json` y verificar que las tools aparecen en el cliente.
+- [ ] **Credenciales de Google** (solo para la tool `agregar_a_google_calendar`,
+  paso a paso completo en `backend/mcp/README.md`):
+  - [ ] Crear proyecto en Google Cloud Console.
+  - [ ] Habilitar **Google Calendar API**.
+  - [ ] Configurar pantalla de consentimiento OAuth (tipo Externo) y agregarte
+    como usuario de prueba.
+  - [ ] Crear credenciales OAuth (app web, redirect a OAuth Playground) →
+    Client ID + Client Secret.
+  - [ ] Obtener el **refresh token** en OAuth Playground con el scope
+    `calendar.events` (ojo: en modo "pruebas" vence a los 7 días — sacalo cerca de la demo).
+  - [ ] Pegar `GOOGLE_CLIENT_ID`, `GOOGLE_CLIENT_SECRET` y `GOOGLE_REFRESH_TOKEN`
+    en `backend/.env` (nunca al repo).
+- [ ] **Probar la tool real**: desde el cliente MCP pedir "agregá mi calendario
+  fiscal a Google Calendar" y verificar que los eventos aparecen en tu calendario.
+- [ ] Sin credenciales la tool devuelve error y sugiere los links (nunca simula
+  éxito) — ese es el fallback ensayado para la demo. El .ics sigue siendo el plan B.
+- [ ] **Avisarle a Gabriel**: el contrato ganó un campo opcional `googleCalendarUrl`
+  por evento (ver `docs/contrato-datos.md`, sección "Adición opcional"). Su frontend
+  actual no se rompe (campo opcional); si quiere, puede renderizar un botón por evento.
+
 ## 4. Sincronización con el equipo
 
 - [ ] **Gabriel**: mostrale `lib/types/resultado.ts` — es el contrato de datos.
@@ -119,7 +152,9 @@ corra. La demo NO puede salir con esos números.
 | Validación teléfono BO | `lib/utils/validar-telefono.ts` | Listo, probado |
 | API WhatsApp | `app/api/whatsapp/route.ts` | Listo |
 | API descarga .ics | `app/api/descargar-calendario/route.ts` | Listo |
-| Tests de tools | `scripts/test-tools.ts` | 25 casos, todos pasan |
+| Links "Añadir a Google Calendar" | `lib/utils/google-calendar-link.ts` | Listo, probado (sin OAuth) |
+| Servidor MCP (2 tools) | `mcp/server.ts` (`npm run mcp`) | Listo, faltan credenciales de Google |
+| Tests de tools | `scripts/test-tools.ts` | 30 casos, todos pasan |
 | Test envío real | `scripts/test-zavu.ts` | Listo para correr con key |
 
 Comandos útiles (correr desde `backend/`):

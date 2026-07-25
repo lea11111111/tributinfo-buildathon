@@ -48,6 +48,11 @@ export interface EventoFiscal {
   descripcion: string;
   impuesto: string;
   fuente: Fuente;
+  /**
+   * Link "Añadir a Google Calendar" (adición opcional retrocompatible,
+   * propuesta por Leonardo — pendiente OK de Gabriel).
+   */
+  googleCalendarUrl?: string;
 }
 
 export interface CalendarioResultado {

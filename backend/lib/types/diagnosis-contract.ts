@@ -46,7 +46,16 @@ export type DiagnosisResult = {
     resumen: string;
   };
   calendario: {
-    eventos: { titulo: string; fecha: string; descripcion?: string }[];
+    eventos: {
+      titulo: string;
+      fecha: string;
+      descripcion?: string;
+      /**
+       * Link "Añadir a Google Calendar" (adición opcional retrocompatible,
+       * propuesta por Leonardo — pendiente OK de Gabriel).
+       */
+      googleCalendarUrl?: string;
+    }[];
     filename: string;
   };
   checklist: {

@@ -122,6 +122,7 @@ export function runDiagnosis(input: DiagnosisInput): {
           titulo: e.titulo,
           fecha: e.fecha,
           descripcion: e.descripcion,
+          googleCalendarUrl: e.googleCalendarUrl,
         })),
         filename: calendarioResult.nombreArchivo,
       },

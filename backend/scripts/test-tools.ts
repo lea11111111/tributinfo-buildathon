@@ -11,6 +11,7 @@ import { clasificarRegimen } from "../lib/tools/clasificar-regimen";
 import { calcularImpuestos } from "../lib/tools/calcular-impuestos";
 import { generarCalendario } from "../lib/tools/generar-calendario";
 import { validarTelefonoBoliviano } from "../lib/utils/validar-telefono";
+import { generarLinkGoogleCalendar } from "../lib/utils/google-calendar-link";
 import { DATOS_VERIFICADOS } from "../lib/data/verificacion";
 
 let fallos = 0;
@@ -135,6 +136,43 @@ try {
 } catch {
   check("dígito inválido lanza error", true);
 }
+
+console.log("\n=== links Google Calendar ===\n");
+
+// Todos los eventos traen su link "Añadir a Google Calendar" con el formato oficial
+check(
+  "todos los eventos tienen googleCalendarUrl",
+  cal.eventos.every((e) =>
+    e.googleCalendarUrl?.startsWith("https://calendar.google.com/calendar/render?action=TEMPLATE")
+  )
+);
+
+// Las fechas del link coinciden con la fecha del evento (día completo, fin exclusivo)
+const primerEvento = cal.eventos[0];
+const paramsLink = new URL(primerEvento.googleCalendarUrl!).searchParams;
+const fechaCompacta = primerEvento.fecha.replaceAll("-", "");
+check(
+  "el parámetro dates arranca en la fecha del evento",
+  paramsLink.get("dates")?.startsWith(`${fechaCompacta}/`) === true,
+  `dates=${paramsLink.get("dates")}`
+);
+check("el parámetro text es el título del evento", paramsLink.get("text") === primerEvento.titulo);
+check(
+  "el parámetro details es la descripción",
+  paramsLink.get("details") === primerEvento.descripcion
+);
+
+// Caso borde: fin de año — el día siguiente cruza al año nuevo
+const linkFinDeAnio = generarLinkGoogleCalendar({
+  fecha: "2026-12-31",
+  titulo: "Prueba fin de año",
+  descripcion: "cruce de año",
+});
+check(
+  "evento del 31/12 termina el 01/01 del año siguiente",
+  new URL(linkFinDeAnio).searchParams.get("dates") === "20261231/20270101",
+  new URL(linkFinDeAnio).searchParams.get("dates") ?? "sin dates"
+);
 
 // Guardar el .ics para probarlo a mano en Google Calendar
 const outDir = join(import.meta.dirname, "out");
