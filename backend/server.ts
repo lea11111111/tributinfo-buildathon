@@ -1,6 +1,6 @@
 ﻿/**
- * Servidor HTTP mÃ­nimo para el frontend Vite (client/).
- * Corre en http://localhost:3001 â€” ver client/src/lib/config.ts
+ * Servidor HTTP mínimo para el frontend Vite (client/).
+ * Corre en http://localhost:3001 — ver client/src/lib/config.ts
  */
 import "dotenv/config";
 import { createServer, type IncomingMessage, type ServerResponse } from "node:http";
@@ -65,7 +65,7 @@ const server = createServer(async (req, res) => {
 async function handleDiagnose(req: IncomingMessage, res: ServerResponse) {
   const body = (await readJson(req)) as DiagnosisInput;
   if (!body.actividad || body.ventasMensuales == null || body.capital == null) {
-    json(res, 400, { error: "Faltan campos obligatorios del diagnÃ³stico." });
+    json(res, 400, { error: "Faltan campos obligatorios del diagnóstico." });
     return;
   }
 
@@ -104,11 +104,11 @@ function handleDescargarCalendario(url: URL, res: ServerResponse) {
   const anioParam = url.searchParams.get("anio");
 
   if (!regimen || !REGIMENES.includes(regimen)) {
-    json(res, 400, { error: `regimen invÃ¡lido. Valores: ${REGIMENES.join(", ")}` });
+    json(res, 400, { error: `regimen inválido. Valores: ${REGIMENES.join(", ")}` });
     return;
   }
   if (!Number.isInteger(digito) || digito < 0 || digito > 9) {
-    json(res, 400, { error: "digito invÃ¡lido (0-9)" });
+    json(res, 400, { error: "digito inválido (0-9)" });
     return;
   }
 
@@ -171,7 +171,7 @@ function readJson(req: IncomingMessage): Promise<unknown> {
       try {
         resolve(raw ? JSON.parse(raw) : {});
       } catch {
-        reject(new Error("JSON invÃ¡lido"));
+        reject(new Error("JSON inválido"));
       }
     });
     req.on("error", reject);
@@ -179,5 +179,5 @@ function readJson(req: IncomingMessage): Promise<unknown> {
 }
 
 server.listen(PORT, () => {
-  console.log(`TributInfo API â†’ http://localhost:${PORT}`);
+  console.log(`TributInfo API → http://localhost:${PORT}`);
 });

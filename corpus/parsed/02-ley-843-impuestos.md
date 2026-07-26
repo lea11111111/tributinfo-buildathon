@@ -4,10 +4,6 @@ IMPUESTOS NACIONALES
 
 ---
 
-Prohibida su reproducción impresa o digital sin autorización
-
----
-
 Presentación
 
 El Servicio de Impuestos Nacionales tiene la importante misión de recaudar los recursos 
@@ -40,8 +36,6 @@ SERVICIO DE IMPUESTOS NACIONALES
 
 ---
 
-Prohibida su reproducción impresa o digital sin autorización
-
 *Los editores aclaran que el texto contenido en la presente* *publicación persigue solamente fines de divulgación y* *socialización de la Normativa Tributaria, reservándose* *la fidelidad de las mismas. Para cualquier referencia* *de orden legal los lectores deberán remitirse a las* *publicaciones oficiales realizadas por la Gaceta Oficial* *del Estado Plurinacional de Bolivia.*
 
 *N° de Depósito Legal:* *4-1-354-2021 P.O.*
@@ -49,34 +43,6 @@ Prohibida su reproducción impresa o digital sin autorización
 *“LA LEY DE 17 DE DICIEMBRE DE 1956 Y LOS DECRETOS* *SUPREMOS N° 27466 Y N° 27113 HAN ENCOMENDADO A LA* *GACETA OFICIAL DE BOLIVIA, EL REGISTRO Y PUBLICACIÓN* *DE TODOS LOS TEXTOS PROMULGADOS Y APROBADOS POR* *EL PODER EJECUTIVO, ACTUAL ÓRGANO EJECUTIVO, POR* *LO QUE LA PRESENTE PUBLICACIÓN, NO SUSTITUYE A LA* *REALIZADA POR LA GACETA OFICIAL DE BOLIVIA”*
 
 ***“PROHIBIDA SU REPRODUCCIÓN TOTAL O PARCIAL”***
-
----
-
-Prohibida su reproducción impresa o digital sin autorización
-
----
-
-Prohibida su reproducción impresa o digital sin autorización
-
----
-
-Prohibida su reproducción impresa o digital sin autorización
-
----
-
-Prohibida su reproducción impresa o digital sin autorización
-
----
-
-Prohibida su reproducción impresa o digital sin autorización
-
----
-
-Prohibida su reproducción impresa o digital sin autorización
-
----
-
-Prohibida su reproducción impresa o digital sin autorización
 
 ---
 
@@ -2407,8 +2373,6 @@ RÉGIMEN COMPLEMENTARIO AL IMPUESTO AL VALOR AGREGADO Ley
 
 ---
 
-Prohibida su reproducción
-
 impresa o digital sin autorización
 
 # RC IVA -
@@ -3151,8 +3115,6 @@ IMPUESTO SOBRE LAS UTILIDADES DE LAS EMPRESAS
 IMPUESTO SOBRE LAS UTILIDADES DE LAS Ley EMPRESAS
 
 ---
-
-Prohibida su reproducción
 
 impresa o digital sin autorización
 
@@ -7101,8 +7063,6 @@ mil novecientos noventa y cinco años.
 
 ---
 
-Prohibida su reproducción
-
 impresa o digital sin autorización
 
 # Título V
@@ -7120,8 +7080,6 @@ Ley
 IMPUESTO ESPECIAL A LA REGULARIZACIÓN IMPOSITIVA
 
 ---
-
-Prohibida su reproducción
 
 impresa o digital sin autorización
 
@@ -7207,8 +7165,6 @@ IMPUESTO A LAS TRANSACCIONES
 IMPUESTO A LAS TRANSACCIONES Ley
 
 ---
-
-Prohibida su reproducción
 
 impresa o digital sin autorización
 
@@ -7933,8 +7889,6 @@ Aclárase además que a partir de la vigencia de este Decreto Supremo se abrogan
 
 ---
 
-Prohibida su reproducción
-
 impresa o digital sin autorización
 
 # Título VII
@@ -7950,8 +7904,6 @@ IMPUESTO A LOS CONSUMOS ESPECÍFICOS
 IMPUESTO A LOS CONSUMOS ESPECÍFICOSLey
 
 ---
-
-Prohibida su reproducción
 
 impresa o digital sin autorización
 
@@ -8710,8 +8662,6 @@ Ley
 
 ---
 
-Prohibida su reproducción
-
 impresa o digital sin autorización
 
 # COPARTICIPACIÓN -
@@ -9183,8 +9133,6 @@ consumo específico de la chicha de maíz, con arreglo a esta Ley.
 
 ---
 
-Prohibida su reproducción
-
 impresa o digital sin autorización
 
 ## TÍTULO X
@@ -9202,8 +9150,6 @@ ABROGACIONES EROGACIONES
 Ley
 
 ---
-
-Prohibida su reproducción
 
 impresa o digital sin autorización
 
@@ -9301,8 +9247,6 @@ IMPUESTO A LAS SUCESIONES Y A LAS TRANSMISIONES GRAIAS E BIENES
 Ley
 
 ---
-
-Prohibida su reproducción
 
 impresa o digital sin autorización
 
@@ -9616,8 +9560,6 @@ IMPUESTO A LAS SALIDAS AÉREAS AL EXTERIOR Ley
 
 ---
 
-Prohibida su reproducción
-
 impresa o digital sin autorización
 
 # ISAE -
@@ -9804,8 +9746,6 @@ IMPUESTO MUNICIPAL A LAS TRANSFERENCIAS DE INMUEBLES Y VEHÍCULOS AUTOMOTORES
 IMPUESTO MUNICIPAL A LAS TRANSFERENCIAS DELey INMUEBLES Y VEHÍCULOS AUTOMOTORES
 
 ---
-
-Prohibida su reproducción
 
 impresa o digital sin autorización
 
@@ -10063,8 +10003,6 @@ IMPUESTO ESPECIAL A LOS HIDROCARBUROS **843** Y SUS DERIVADOS
 Ley
 
 ---
-
-Prohibida su reproducción
 
 impresa o digital sin autorización
 
@@ -10455,8 +10393,6 @@ de mil novecientos noventa y cinco años
 
 ---
 
-Prohibida su reproducción
-
 impresa o digital sin autorización
 
 ## Regalía Minera
@@ -10470,8 +10406,6 @@ impresa o digital sin autorización
 Ley
 
 ---
-
-Prohibida su reproducción
 
 impresa o digital sin autorización
 
@@ -11616,8 +11550,6 @@ Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veintiún días 
 
 ---
 
-Prohibida su reproducción
-
 impresa o digital sin autorización
 
 ## Impuesto a las Transacciones
@@ -11629,8 +11561,6 @@ impresa o digital sin autorización
 **843** Ley
 
 ---
-
-Prohibida su reproducción
 
 impresa o digital sin autorización
 
@@ -12415,8 +12345,6 @@ aclaraciones a las normas que rigen el ITF, siendo las últimas las R.M. N° 371
 
 ---
 
-Prohibida su reproducción
-
 impresa o digital sin autorización
 
 ## Impuesto Directo a los
@@ -12432,8 +12360,6 @@ impresa o digital sin autorización
 Ley
 
 ---
-
-Prohibida su reproducción
 
 impresa o digital sin autorización
 
@@ -13205,8 +13131,6 @@ Es dado en el Palacio de Gobierno de la ciudad de La Paz, a los veintisiete día
 
 ---
 
-Prohibida su reproducción
-
 impresa o digital sin autorización
 
 ## Impuesto al Juego
@@ -13220,8 +13144,6 @@ impresa o digital sin autorización
 Ley
 
 ---
-
-Prohibida su reproducción
 
 impresa o digital sin autorización
 
@@ -13432,8 +13354,6 @@ aplicación del IJ al Tesoro General de la Nación – TGN.
 
 ---
 
-Prohibida su reproducción
-
 impresa o digital sin autorización
 
 ## Impuesto a la Participación en
@@ -13447,8 +13367,6 @@ impresa o digital sin autorización
 Ley
 
 ---
-
-Prohibida su reproducción
 
 impresa o digital sin autorización
 
@@ -13633,8 +13551,6 @@ Cuando dichos recursos sean insuficientes para cubrir los programas específicos
 
 ---
 
-Prohibida su reproducción
-
 # RÉGIMEN DE REINTEGRO EN EFECTIVO impresa DEL IMPUESTO AL VALOR o
 
 digital
@@ -13652,8 +13568,6 @@ autorización
 Ley
 
 ---
-
-Prohibida su reproducción
 
 impresa o digital sin autorización
 
@@ -13869,8 +13783,6 @@ horarios y días no laborales.
 
 ---
 
-Prohibida su reproducción
-
 # IMPUESTO A LAS GRANDES FORTUNAS-impresa IGF
 
 o digital sin autorización
@@ -13886,8 +13798,6 @@ IGF
 Ley
 
 ---
-
-Prohibida su reproducción
 
 impresa o digital sin autorización
 
@@ -14246,8 +14156,6 @@ RELACIÓN DE OTRAS NORMAS CON EL ÁMBITO IMPOSITIVO
 Ley
 
 ---
-
-Prohibida su reproducción
 
 impresa o digital sin autorización
 
@@ -16540,8 +16448,6 @@ o digital sin autorización
 DECRETOS REGLAMENTARIOS REGÍMENES ESPECIALES RÉGIMENES ESPECIALES
 
 ---
-
-Prohibida su reproducción
 
 impresa o digital sin autorización
 

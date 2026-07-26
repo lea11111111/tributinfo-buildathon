@@ -1,21 +1,12 @@
-[Image: Im0]
+
 TOMO **II**
 **SISTEMA DE** 
 **FACTURACIÓN** 
 COMPILADO 
 Y ACTUALIZADO AL   
 **30/09/2022**
-[Image: Im0]
 
 30/09/2022 Y ACTUALIZADO AL COMPILADO
-
----
-
-Prohibida su reproducción impresa o digital sin autorización
-
----
-
-Prohibida su reproducción impresa o digital sin autorización
 
 ---
 
@@ -195,10 +186,6 @@ El presente documento contiene una serie de denominaciones de Instituciones, Nor
 
 SISTEMA DE
 FACTURACIÓN
-
----
-
-Prohibida su reproducción impresa o digital sin autorización
 
 ---
 
@@ -3858,8 +3845,6 @@ SISTEMA DE FACTURACIÓN - RND N° 10-0016-07
 
 ---
 
-[Image: Im0]
-
 | Importe Neto sujeto a Crédito Fiscal | Número | Importe en bolivianos neto de descuentos, bonificaciones, tasas, ICE y otros conceptos no válidos para Crédito Fiscal.
 Ej.: Factura de Luz
 Importe por Servicio de Luz Bs100.-Tasa de Aseo (HAM) Bs20.-Tasa de Alumbrado (HAM) Bs10.-Total a cancelar Bs130.-Importe para Crédito Fiscal Bs100.-(Cien 00/100 Bolivianos)(sólo deberá consignarse este importe)
@@ -3909,7 +3894,6 @@ Normativa de Directorio Nº 10-0047-05 de 14 de diciembre de 2005, con el cual s
 la información de ventas relacionadas a Facturas o Notas Fiscales de la modalidad de Facturación 
 Prevalorada, siempre y cuando sean correlativas, agrupadas diariamente por dosificación, fecha y 
 mismo importe.
-[Image: Im1]
 
 Documento Equivalente. El sistema acepta importes 
 Registrar el código de control correspondiente. Para
@@ -3938,7 +3922,6 @@ agrupadas, en el mismo Archivo de Ventas (.TXT) establecido en el Parágrafo ant
 alcanzados por la presente disposición, tienen la obligación de custodiar por el término de la 
 prescripción establecido en el Artículo 70 Numeral 8. de la Ley Nº 2492 de 2 de agosto de 2003, 
 Código Tributario Boliviano, lo siguiente:
-[Image: Im0]
 
 ---
 
@@ -3959,7 +3942,6 @@ Incumplimiento a Deberes Formales establecida en el Artículo 64 de la presente 
 sujetos pasivos o terceros responsables alcanzados por la presente resolución, deberán mantener en 
 los establecimientos comerciales donde emitan Facturas, Notas Fiscales o Documentos Equivalentes, 
 la siguiente documentación:
-[Image: Im1]
 
 **a)** Talonarios de Facturas que se estén utilizando, sólo para las modalidades de 
 Facturación Manual y Prevalorada.
@@ -4008,7 +3990,6 @@ Nacional de Contribuyentes, por única vez y en un solo trámite deberán solici
 Tributaria, la autorización para dosificar Facturas o Notas Fiscales en la cantidad que requieran, 
 exclusivamente utilizando la modalidad de Facturación Prevalorada con fecha preimpresa y la 
 característica especial “Espectáculo Público Eventual”. 
-[Image: Im0]
 
 ## CASOS ESPECIALES
 
@@ -4073,7 +4054,6 @@ la Administración Tributaria con la característica especial dispuesta en el In
 I. del Artículo 5 de la presente resolución, documentos a ser emitidos a través de la modalidad de 
 facturación Manual, con una fecha límite de emisión de cuatro (4) años computados desde la fecha 
 de solicitud de dosificación.
-[Image: Im1]
 
 Para fines de la presente norma, no se considera como alquiler de bienes inmuebles a la prestación 
 de servicios de parqueo de vehículos, uso de campos deportivos y/o lugares de esparcimiento, uso de 
@@ -4111,7 +4091,6 @@ dosificadas ante el Servicio de Impuestos Nacionales (SIN).  Para efectos de Dev
 el exportador deberá reemplazar las Facturas de exportación en libre consignación con las Facturas 
 comerciales de exportación dispuestas en el presente Artículo, una vez cerrada o concluida la 
 operación de exportación en destino.
-[Image: Im0]
 
 No se encuentran obligados a la emisión de Facturas comerciales de exportación establecidas en el 
 presente Artículo, los sujetos pasivos o terceros responsables que realicen operaciones de exportación 
@@ -4167,7 +4146,6 @@ tramitar dosificaciones por Casa Matriz y realizar la distribución de Facturas 
 sucursal y/o punto de emisión (casetas, vendedores ambulantes, vehículos de servicio o cualquier otro 
 lugar en el que se haga efectiva la venta del servicio). En cuyo caso corresponderá elaborar el Libro 
 Auxiliar de Registro y Distribución establecido en el Artículo 49 de la presente disposición.
-[Image: Im1]
 
 ---
 
@@ -4189,7 +4167,6 @@ forma y condiciones dispuestas por el Capítulo VI de la presente resolución; e
 correlativo de Facturas o Notas Fiscales del Libro de Ventas IVA.  En caso que los sujetos pasivos o 
 terceros responsables dosifiquen conforme lo previsto en el Parágrafo III. anterior, deberán llevar los 
 registros que correspondan, sólo por Casa Matriz.
-[Image: Im0]
 
 **Artículo 60. (Transporte Internacional de Carga).- I.** Los sujetos pasivos o terceros responsables 
 que se encuentren alcanzados por el Régimen de Tasa Cero en el IVA para el transporte internacional 
@@ -4255,7 +4232,6 @@ conforme lo dispuesto en la Ley N° 1850 de 7 de abril de 1998 y Decreto Supremo
 de octubre de 2000, tienen la obligación de emitir Facturas o Notas Fiscales Sin Derecho a Crédito 
 Fiscal, a objeto de respaldar las operaciones realizadas en esa ciudad, aplicando lo dispuesto en los 
 Parágrafos anteriores.
-[Image: Im1]
 
 La emisión de Facturas o Notas Fiscales Sin Derecho a Crédito Fiscal en Zona Franca Cobija, sólo 
 será válida para operaciones realizadas al interior de esa ciudad, por lo tanto toda prestación de 
@@ -4278,7 +4254,6 @@ virtuales (ET), emitidos directamente por las Líneas Aéreas y Agentes Generale
 como los emitidos por las Agencias de Viaje, estos últimos bajo el sistema regularizado denominado 
 Billing and Settlement Plan (BSP – Plan de Facturación Bancaria) de IATA, serán considerados 
 como documentos equivalentes a efectos tributarios, siempre y cuando cumplan con lo siguiente:
-[Image: Im0]
 
 **1)** Los documentos previamente referidos, deberán consignar mínimamente  los siguientes 
 datos:
@@ -4329,7 +4304,6 @@ número preimpreso del boleto.
 Receipt) o virtuales (ET), emitidos directamente por las Líneas Aéreas o Agentes Generales 
 Autorizados así como los emitidos por las Agencias de Viaje, no estarán obligados a 
 emitirse contemplando una numeración correlativa ni ascendente. 
-[Image: Im1]
 
 **II.** Los comprobantes de los documentos MPD, MCO, MSR y AWB, manuales y electrónicos, serán 
 considerados como Documentos Equivalentes a todos los efectos tributarios, siempre y cuando se 
@@ -4366,7 +4340,6 @@ del emisor, garantizar la integridad, completitud y consistencia de la informaci
 contenidos, de forma tal que cualquier modificación en los mismos ponga en evidencia su alteración, 
 conforme lo dispuesto en el Segundo Párrafo del Parágrafo I. del Artículo 79 de la Ley Nº 2492 de 2 
 de agosto de 2003, Código Tributario Boliviano.
-[Image: Im0]
 
 **IV.** Los sujetos pasivos o terceros responsables alcanzados por este tratamiento especial, deberán 
 elaborar los registros respectivos en la forma y condiciones dispuestas en el Capítulo VI de la presente 
@@ -4428,7 +4401,6 @@ en una sección distinta del Libro de Compras IVA (para el caso del emisor) o en
 IVA (para el caso del comprador), respetando el orden cronológico y correlativo de las mismas, 
 separadas del resto de los registros, consignando el encabezado con la leyenda “Notas de Crédito” o 
 “Notas de Débito”, según corresponda.
-[Image: Im1]
 
 Los importes de Notas de Crédito se registran en el Libro de Compras IVA del emisor, totalizados 
 se sumarán a los totales obtenidos como consecuencia del registro del resto de operaciones, a fin de 
@@ -4480,7 +4452,6 @@ Línea, estarán disponibles para su utilización una vez concluidas las pruebas
 del cual los sujetos pasivos o terceros responsables que optaren por estas modalidades de Facturación, 
 deberán tramitar ante el Servicio de Impuestos Nacionales (SIN) las respectivas suscripciones e 
 iniciar las pruebas técnicas que correspondan.
-[Image: Im0]
 
 **Tercera. (Actualización de Registros de Apoderados).-** A partir de la vigencia del NFS-07, el 
 sujeto pasivo o tercero responsable deberá apersonarse ante la Administración Tributaria a efecto de solicitar un nuevo registro del apoderado designado en el Padrón Nacional de Contribuyente, reproducción 
@@ -4520,7 +4491,6 @@ del Servicio de Impuestos Nacionales (SIN), a la conclusión satisfactoria del p
 las Facturas, Notas Fiscales o Documentos Equivalentes de gastos personales, a efectos de determinar 
 el RC-IVA Dependientes, RC-IVA Contribuyentes Directos, STI e IUE Profesionales liberales u 
 oficios.
-[Image: Im1]
 
 El Formulario F-110 Versión 2, deberá ser aplicada a partir del período fiscal en que entre en vigencia 
 la presente resolución.
@@ -4565,7 +4535,6 @@ mismos con importe cero (0) a fin de no incurrir en Incumplimiento a los Deberes
 Asimismo se deberá observar que la falta de presentación de la información a través del 
 módulo Da Vinci - LCV, antes que el NIT pase a estado inactivo, implicará la aplicación de 
 la sanción referida en el Artículo 4 de la presente norma”.
-[Image: Im0]
 
 **III.** Se sustituye el Artículo 7 de la Resolución Normativa de Directorio Nº 10-0047-05, por el 
 siguiente texto:
@@ -4592,7 +4561,6 @@ presente norma, quedarán sin efecto las autorizaciones obtenidas en el anterior
 trabajos de impresión de Facturas o Notas Fiscales, pudiendo las imprentas solicitar una nueva 
 autorización para ser registradas en el Padrón Nacional de Imprentas conforme lo dispuesto en el 
 Capítulo IV de la presente disposición.
-[Image: Im1]
 
 **II.** Las autorizaciones a imprentas del anterior Sistema de Facturación, serán válidas hasta la fecha 
 en que entre en vigencia el NSF-07, momento a partir de la cual no deberán procesar trabajos de 
@@ -4619,7 +4587,6 @@ de Autorización.
 **Décima. (Recibos de Alquiler).-**A partir de la vigencia del NSF-07, la Administración Tributaria no reproducción 
 proveerá los talonarios de Recibos de Alquiler preimpresos, debiendo los sujetos pasivos o terceros 
 responsables dosificar los mismos conforme lo previsto en la presente resolución.
-[Image: Im0]
 
 **Décima Primera. (Abrogación).- I.** Se abrogan las siguientes normas administrativas:
 
@@ -4682,11 +4649,7 @@ Empresas Unipersonales | Personas Jurídicas |
 | 5.5. | Existencia de sticker de autorización adherido a la
 Máquina Registradora, conforme a norma específica | 150 UFV | 300 UFV |
 
-[Image: Im1]
-
 ---
-
-[Image: Im0]
 
 ## ANEXO D
 
@@ -4721,7 +4684,6 @@ Los establecimientos en los que se realizen procesos de producción que por su n
 ***Nota del Editor:*** *Los Anexos del 1 al 17, Modelos de Facturas, LCV-IVA y otros, se* 
 *encuentran en el siguiente sitio web:*
 *https://www.impuestos.gob.bo/pdf/NORMATIVA/RND/rnd2007/RND10-0016-07_A.pdf*
-[Image: Im1]
 
 ---
 
@@ -4753,7 +4715,6 @@ Servicio de Impuestos Nacionales puede ejecutar acciones que son de competencia 
 en ese entendido, el Inciso a) del Numeral 1. de la Resolución Administrativa de Directorio Nº 09-
 0011-02 autoriza al Presidente Ejecutivo a suscribir Resoluciones Normativas de Directorio cuando 
 la urgencia del acto así lo imponga.
-[Image: Im0]
 
 ## POR TANTO:
 
@@ -4790,7 +4751,6 @@ emisión de un (1) año, excepto para el caso de Recibos de Alquiler que se otor
 (4) años y servicios de telefonía prepagados con tarjetas dosificadas con la característica 
 especial Impresión en el Exterior que se otorga dos (2) años, lapso en el que se podrá 
 utilizar la cantidad dosificada. 
-[Image: Im0]
 
 En las modalidades de facturación Electrónica y en Línea la fecha límite de emisión será 
 la misma fecha de emisión de la factura o nota fiscal.”
@@ -4832,7 +4792,6 @@ fiscal correspondiente al Sujeto Pasivo Titular de la transacción, emitida manu
 el tercero emisor o a través del sistema informático de éste. Esta característica también 
 podrá aplicarse cuando la nota fiscal sea generada por el Sujeto Pasivo Titular para su 
 posterior emisión por parte del tercero emisor.
-[Image: Im0]
 
 En todos los casos, el tercero emisor será registrado y acreditado por el titular ante la 
 Administración Tributaria a efecto de ser autorizado a emitir este tipo de facturas. La 
@@ -4871,7 +4830,6 @@ por los sujetos pasivos o terceros responsables que realicen la actividad de Alq
 Bienes Inmuebles, conforme lo dispuesto por el Artículo 56 de la presente Resolución. 
 Esta característica deberá aplicarse a las modalidades de facturación establecidas en los 
 Incisos d) y e) del parágrafo I. del Artículo 4 anterior.”
-[Image: Im0]
 
 **VIII.** Se modifica el Inciso c) del Numeral 1. del Parágrafo I. del Artículo 10 de la Resolución 
 Normativa de Directorio Nº 10-0016-07 de 18 de mayo de 2007 por el siguiente texto:
@@ -4926,7 +4884,6 @@ Parágrafo VI. del Artículo 10 y en el Inciso h) del Subnumeral 1.1 del Numeral
 en el Inciso k) del Subnumeral 2.1. del Numeral 2. del Parágrafo I. del Artículo 11 de la Resolución 
 Normativa de Directorio Nº 10-0016-07 de 18 de mayo de 2007, se suprime la obligación de consignar 
 la información relativa al precio unitario.
-[Image: Im0]
 
 **XV.** Se modifica el Numeral 1. del Parágrafo II. del Artículo 10 de la Resolución Normativa de 
 Directorio Nº 10-0016-07 de 18 de mayo de 2007 por el siguiente texto:
@@ -4990,7 +4947,6 @@ comercializados) en cualquier color distinto de negro (excepción no aplicable a
 debiendo consignar de forma manuscrita (salvo en el caso de Facturas Comerciales 
 de Exportación y las facturas sin derecho a crédito fiscal emitidas en Zonas Francas) 
 y en cualquier color la información relativa a la transacción.
-[Image: Im0]
 
 **XIX.** Se modifica el Parágrafo III. del Artículo 14 de la Resolución Normativa de Directorio Nº 10-
 0016-07 de 18 de mayo de 2007 por el siguiente texto:
@@ -5042,7 +4998,6 @@ cumplir con los límites mínimos o máximos establecidos en el Parágrafo I del
 13 de la presente Resolución, sólo para las modalidades de  facturación Máquinas 
 Registradoras o Computarizada (en todos sus tamaños), podrán solicitar una autorización 
 excepcional para aplicar límites distintos.”
-[Image: Im0]
 
 **XXV.** Se modifica el Parágrafo III. del Artículo 39 de la Resolución Normativa de Directorio Nº 10-
 SISTEMA DE FACTURACIÓN - RND Nº 10-0032-07
@@ -5086,7 +5041,6 @@ Tributaria con la característica especial dispuesta en el Inciso 6) del Parágr
 5 de la presente Resolución, documentos a ser emitidos a través de las modalidades de 
 facturación Computarizada o Manual, último caso en que se otorgará una fecha límite 
 de emisión de cuatro (4) años computados desde la fecha de solicitud de dosificación.”.
-[Image: Im0]
 
 **XXVIII.** Se modifica el Parágrafo II. del Artículo 57 de la Resolución Normativa de Directorio Nº 
 10-0016-07 de 18 de mayo de 2007 por el siguiente texto:
@@ -5132,7 +5086,6 @@ factura o nota fiscal a la conclusión del periodo de prestación por el cual se
 pago o contraprestación mensual, o a momento de su efectivo pago, lo que ocurra primero 
 en concordancia con lo dispuesto por el Inciso b) del Artículo 4 de la Ley Nº 843 (Texto 
 Ordenado Vigente).
-[Image: Im0]
 
 En el caso específico de servicios continuos de energía eléctrica, agua potable y gas 
 domiciliario y a efecto de la aplicación dispuesta en el párrafo anterior, este tipo de 
@@ -5187,7 +5140,6 @@ Terceros, a tal efecto se deberá incluir en la parte superior del anverso del d
 información del Tercero Emisor dispuesta por el Inciso a) del Numeral 1. del Parágrafo 
 I. del Artículo 10 de la presente Resolución, así como el título respectivo dispuesto en el 
 Inciso a) del Numeral 3. del mismo Parágrafo.”
-[Image: Im0]
 
 **VIII.**  Se adiciona como segundo párrafo del parágrafo I. del Artículo 13 de la Resolución Normativa 
 de Directorio Nº 10-0016-07 de 18 de mayo de 2007 el siguiente texto:
@@ -5240,7 +5192,6 @@ se debe hacer un registro con todos los reintegros consolidados del mes), en el 
 número de factura deberá registrarse el valor 999, en el campo número de autorización 
 se consignará el valor 4, en el campo importe total facturado se consignará el total del 
 importe del Reintegro.
-[Image: Im0]
 
 ---
 
@@ -5272,7 +5223,6 @@ casilla 013 del Form. 200 (IVA).”
 tercero responsable destine entradas de cortesía como forma de pago en la adquisición de 
 bienes y/o servicios, situación que se constituye en permuta conforme lo dispuesto por el 
 último párrafo del Artículo 5 de la Ley Nº 843 (Texto Ordenado Vigente).”
-[Image: Im0]
 
 SISTEMA DE FACTURACIÓN  - RND Nº 10-0032-07
 
@@ -5309,7 +5259,6 @@ las mencionadas Líneas Aéreas Internacionales o Agentes Generales deberán uti
 mejores mecanismos que vean conveniente para informar a los pasajeros el monto sujeto 
 a crédito fiscal en los boletos aéreos que emitan de manera directa o mediante agencias 
 de viajes."
-[Image: Im0]
 
 **XV.** Se adiciona como Parágrafo IV. de la Disposición Transitoria Primera de la Resolución 
 Normativa de Directorio Nº 10-0016-07 de 18 de mayo de 2007 el siguiente texto:
@@ -5352,7 +5301,6 @@ consecuencia de la aplicación de alguno de los procesos del Nuevo Sistema de Fa
 la obligación de presentar al Servicio de Impuestos Nacionales el detalle de compras y ventas a través 
 del software Da Vinci – LCV, conforme lo dispuesto en la Resolución Normativa de Directorio Nº 
 10-0047-05 de 14 de diciembre de 2005.
-[Image: Im0]
 
 **II.** La obligación previamente establecida no requerirá ser cumplida por los sujetos pasivos o terceros 
 responsables no obligados a llevar libros de Compras y Ventas IVA.
@@ -5371,7 +5319,6 @@ SISTEMA DE FACTURACIÓN - RND Nº 10-0032-07
 
 TXT), establecidos por el Anexo de la Resolución Administrativa Nº 05-0040-00 de 14 de diciembre reproducción 
 de 2000, de acuerdo a los siguientes formatos:
-[Image: Im0]
 
 | Archivo de Control (CONTROL.TXT) |  |  |
 | --- | --- | --- |
@@ -5415,7 +5362,6 @@ de 2000, de acuerdo a los siguientes formatos:
 
 **1.** Identificador Único: NÚMERO_FACTURA_BEN y NÚMERO_AUTORIZACION_FACTURA_
 BEN Los registros deben venir ordenados por el identificador único de forma ascendente
-[Image: Im0]
 
 *CID = Carnet de Identidad
 
@@ -5440,7 +5386,6 @@ SISTEMA DE FACTURACIÓN - RND Nº 10-0032-07
 del 02 de julio de 2007 y emitidas durante el período de transición establecido por la Disposición 
 Transitoria Primera de la Resolución Normativa de Directorio Nº 10-0016-07, se regirán a los aspectos 
 sustantivos o conceptuales dispuestos en las normas de facturación vigentes antes del NSF-07.
-[Image: Im0] [Image: Im0]
 
 **II.** Similar tratamiento tributario se aplicará a los Recibos de Alquiler y a los registros de control 
 llenados en forma manual del Libro de Compras y Ventas IVA, autorizados para ser emitidos o 
@@ -5491,7 +5436,6 @@ suscripciones e iniciar las pruebas técnicas que correspondan, dando lugar a la
 de instrumentos tecnológicos indispensables para su aplicación, por lo que se prorrogó su vigencia 
 hasta el 30 de junio de 2008, mediante el Artículo Único de la Resolución Normativa de Directorio 
 Nº 10-0012-08 de 28 de marzo de 2008.
-[Image: Im1]
 
 Que, la implantación de esta modalidad agilizará la emisión de Facturas o Notas Fiscales, 
 disminuyendo significativamente los costos de facturación del sujeto pasivo o tercero responsable y 
@@ -5515,7 +5459,6 @@ Institución, en uso de las facultades conferidas por el Artículo 64 de la Ley 
 2003, Código Tributario Boliviano, Inciso p) del Artículo 19 del Decreto Supremo Nº 26462 de 22 de 
 diciembre de 2001 y en cumplimiento de lo dispuesto en el Inciso a) del Numeral 1. de la Resolución 
 Administrativa de Directorio Nº 09-0011-02 de 28 de agosto de 2002,
-[Image: Im0]
 
 ## RESUELVE:
 
@@ -5574,7 +5517,6 @@ coordinarán las pruebas de conexión entre el Sistema del SIN y el Sistema del 
 modalidad de Facturación Electrónica, deberá adecuar su Sistema informático a partir de las 
 **“ESPECIFICACIONES TÉCNICAS PARA LA IMPLEMENTACIÓN DE LOS SERVICIOS** 
 **WEB”**, publicadas en la página Web del SIN (www.impuestos.gov.bo).
-[Image: Im1]
 
 **Artículo 4. (Suscripción).-** El sujeto pasivo o tercero responsable para suscribirse en la modalidad 
 de Facturación Electrónica, deberá observar el procedimiento previsto en el Artículo 15, Parágrafos 
@@ -5612,7 +5554,6 @@ siguientes a la fecha de confirmación de la recepción de las claves públicas,
 Entidad Certificadora la validez y vigencia de los Certificados Digitales proporcionados por el sujeto 
 pasivo o tercero responsable, de confirmarse dichas condiciones, será habilitado para iniciar las 
 pruebas de conexión.
-[Image: Im0]
 
 **II.** Si existieran problemas en alguno de los Certificados Digitales del sujeto pasivo o tercero 
 responsable, serán comunicados a través del Portal Tributario para su regularización.
@@ -5684,7 +5625,6 @@ datos de dosificación y una vez confirmada su recepción, corresponderá la emi
 Nota Fiscal cumpliendo lo establecido en la Resolución Normativa de Directorio Nº 10-0016-07 
 respecto a tamaños, papel, copias, etc., siendo responsabilidad exclusiva del sujeto pasivo o tercero 
 responsable el envío de la Factura o Nota Fiscal a su cliente, concluida la transacción comercial.
-[Image: Im1]
 
 ---
 
@@ -5731,7 +5671,6 @@ deberá reportar al SIN la existencia de las mismas a través del Portal Tributa
 la aplicación del Artículo 22 Parágrafo I Numeral 1. de la Resolución Normativa de Directorio Nº 
 10-0016-07, respecto a la consignación de la leyenda “ANULADA” en la Factura o Nota Fiscal y 
 resguardo del respectivo documento original, en razón a su inexistencia física.
-[Image: Im0]
 
 ---
 
@@ -5739,7 +5678,6 @@ resguardo del respectivo documento original, en razón a su inexistencia física
 al SIN a través del Portal Tributario que la(s) Factura(s) o Nota(s) Fiscal(es) generada(s) en esta 
 modalidad no fue (ron) emitida(s), por causa de fallas en la conexión entre Sistemas, siempre que 
 hubiere(n) sido emitida(s) utilizando otra modalidad de facturación.
-[Image: Im1]
 
 **III.** Asimismo, para esta modalidad de facturación no se aplicarán los conceptos de Facturas no 
 utilizadas, cierre de dosificación y extravío de Facturas o Notas Fiscales, de acuerdo al Artículo 22 de 
@@ -5806,7 +5744,6 @@ verifique la información contenida en la solicitud y se practiquen las correcci
 necesarias. En caso de no existir observaciones, el solicitante firmará el Formulario como 
 prueba de conformidad, correspondiendo generar y entregar la impresión del Formulario 
 1506 “Solicitud de Suscripciones”.
-[Image: Im0]
 
 **IV.** Una vez suscrito conforme al procedimiento previamente descrito, los sujetos pasivos 
 o terceros responsables deberán realizar los siguientes pasos de acuerdo a la modalidad de 
@@ -5851,7 +5788,6 @@ archivar una copia fotostática de la Factura original a efectos de no afectar l
 las Facturas de los sujetos pasivos incluidos, sin embargo, se deberá inhabilitar (de forma 
 impresa o con sello de goma) la Factura original resultado del servicio rescindido o bien 
 devuelto, evitando de ésta manera su uso.
-[Image: Im1]
 
 La Nota de Crédito deberá ser utilizada por el emisor para realizar los ajustes 
 correspondientes”.
@@ -5905,7 +5841,6 @@ no inscritos al IVA que fueren categorizados como PRICOS y GRACOS e Institucione
 deberán presentar la información relativa a sus compras respaldadas con Facturas en los plazos y 
 condiciones dispuestas en las Resoluciones Normativas de Directorio Nº 10-0047-05 y Nº 10-0016-
 07.
-[Image: Im0] [Image: Im0]
 
 Regístrese, hágase saber y archívese.
 
@@ -5943,7 +5878,6 @@ Servicio de Impuestos Nacionales puede ejecutar acciones que son de competencia 
 ese sentido, el Inciso a) del Numeral 1. de la Resolución Administrativa de Directorio Nº 09-0011-
 02 autoriza al Presidente Ejecutivo a suscribir Resoluciones Normativas de Directorio cuando la 
 urgencia del acto así lo imponga, para su posterior homologación.
-[Image: Im1]
 
 ## POR TANTO:
 
@@ -5980,7 +5914,6 @@ fiestas, presentaciones circenses, presentaciones de magia e ilusionismo, presen
 humorísticas. No se consideran espectáculos públicos las reuniones de carácter religioso, 
 institucional, político, congresos y marchas, a menos que en su desarrollo se involucren 
 expresiones o presentaciones artísticas abiertas al público.  
-[Image: Im0]
 
 **b) Titular:** Persona natural o persona jurídica con la que el artista suscribe el contrato por la 
 prestación del espectáculo.
@@ -6021,7 +5954,6 @@ Servicio de Impuestos Nacionales (SIN) por un monto no menor al cuarenta por cie
 o ejecución de cuarenta y cinco (45) días posteriores a la conclusión del espectáculo a 
 realizar. Se excluye este requisito a aquellos contribuyentes que desarrollan la actividad 
 económica habitualmente y se encuentran registrados en el Padrón de Contribuyentes.
-[Image: Im1]
 
 **f)** Nota simple dirigida al Gerente Distrital estableciendo los siguientes detalles del espectáculo  
 público:
@@ -6069,7 +6001,6 @@ caso de no existir observaciones, el titular firmará el Formulario como prueba 
 correspondiendo generar y entregar la impresión del Formulario 1500 “Solicitud de Dosificación”, 
 mismo que no podrá modificarse y contendrá toda la información necesaria así como el número de 
 trámite asignado.
-[Image: Im0]
 
 **V.** Asimismo, el funcionario generará y entregará el “Reporte de Imprenta” al titular, documento 
 que será entregado a la imprenta autorizada, al momento de encargar la elaboración de las Facturas 
@@ -6101,7 +6032,6 @@ del cómputo de las entradas o de la notificación con el recuento de entradas p
 anterior cuando no se constituya en el día y hora señalados para el cómputo de entradas, presentará 
 nota dirigida a la Gerencia Distrital donde realizó el trámite de dosificación, adjuntando la siguiente 
 documentación:
-[Image: Im1]
 
 **a)** Fotocopia del Formulario 1501 “Solicitud de inactivación”, reportando el detalle de las 
 Facturas o Notas Fiscales no utilizadas.
@@ -6145,7 +6075,6 @@ públicos en determinados lugares y fechas, la misma que debe ser enviada a toda
 Distritales en las capitales de departamento dependientes del Servicio de Impuestos Nacionales (SIN) 
 hasta el quince (15) de cada mes, de acuerdo al detalle del Anexo que en adjunto forma parte de la 
 presente resolución.
-[Image: Im0] [Image: Im0]
 
 **Artículo 8. (Derogatoria).-** Se derogan los Artículos 19, 54 y 55 de la Resolución Normativa de 
 Directorio Nº 10-0016-07 de 18 de mayo de 2007.
@@ -6189,7 +6118,6 @@ Servicio de Impuestos Nacionales puede ejecutar acciones que son de competencia 
 en ese entendido, el Inciso a) del Numeral 1. de la Resolución Administrativa de Directorio Nº 09-
 0011-02 autoriza al Presidente Ejecutivo a suscribir Resoluciones Normativas de Directorio cuando 
 la urgencia del acto así lo imponga, para su posterior homologación. 
-[Image: Im1]
 
 ## POR TANTO:
 
@@ -6236,7 +6164,6 @@ de Facturación Manual, por la venta de alimentos y/o bebidas en restaurantes o 
 por un monto menor o igual a Bs100.- (Cien 00/100 Bolivianos), se podrá consignar en 
 el campo concepto o descripción la leyenda “CONSUMO”, en los demás casos se deberá 
 consignar el detalle de la compra y/o la prestación del servicio.”. 
-[Image: Im0]
 
 **Artículo 5.-** Sustituir el Parágrafo I. del Artículo 13 de la Resolución Normativa de Directorio Nº 
 10-0016-07, por el siguiente texto:
@@ -6264,7 +6191,6 @@ en la Resolución Normativa de Directorio Nº 10-0047-05 de 14 de diciembre de 2
 podrán emitir Facturas o Notas Fiscales utilizando impresión en papel térmico, generando 
 copias magnéticas, que deberán ser registradas y archivadas en medios electrónicos, 
 cumpliendo con lo establecido en el Numeral 3. del Artículo 45 de la presente normativa”. 
-[Image: Im1]
 
 **Artículo 7.-** Modificar el Artículo 15 de la Resolución Normativa de Directorio Nº 10-0016-07, 
 incorporándose el Parágrafo X. con el siguiente texto:
@@ -6325,7 +6251,6 @@ contribuyente (Ejm. Mes de cierre “diciembre”: julio y enero), por Notario d
 dejando constancia en el reverso de la última impresión del Nombre o Razón Social del 
 sujeto pasivo a quien pertenece, el Número de Identificación Tributaria (NIT), número de 
 folios que contiene y estampará en todas las hojas el sello del Notario.”. 
-[Image: Im0]
 
 **Artículo 13.-** Modificar el Artículo 45 de la Resolución Normativa de Directorio Nº 10-0016-07, 
 incorporándose el Parágrafo X., con el siguiente texto:
@@ -6345,7 +6270,6 @@ turismo, consignando el nombre y apellido del turista y en el campo NIT el valor
 servicios de hospedaje a turistas que lleguen al país mediante Programas de Operadores 
 de Turismo Receptivo, deberán ser emitidas a nombre del Operador de Turismo con su 
 NIT, consignando adicionalmente el nombre y apellido de cada turista. 
-[Image: Im1]
 
 En el servicio de hospedaje a turistas que no lleguen al país mediante Programas de 
 Operadores de Turismo Receptivo, se debe facturar consignando el nombre y apellido del 
@@ -6411,7 +6335,6 @@ juicio que permitan determinar la veracidad de las operaciones, transacciones, d
 presentadas y pagos efectuados por los sujetos pasivos o terceros responsables con la finalidad de 
 generar información útil y veraz que coadyuve a las acciones de control, verificación, fiscalización 
 e investigación.
-[Image: Im0]
 
 Que, la Resolución Normativa de Directorio N° 10-0016-07 de 18 de mayo de 2007 complementada 
 y modificada por la Resolución Normativa de Directorio N° 10-0032-07 de 31 de octubre de 2007, 
@@ -6450,7 +6373,6 @@ por el Estado Plurinacional de Bolivia, a través de la información que deben c
 facturas emitidas por las Estaciones de Servicio de venta de combustibles, designar como Agentes de 
 Información a la Agencia Nacional de Hidrocarburos, Yacimientos Petrolíferos Fiscales Bolivianos 
 y Ministerio de Gobierno.
-[Image: Im0]
 
 **Artículo 2. (Alcance).-** Las disposiciones de la presente Resolución Normativa de Directorio alcanzan 
 a todas las Estaciones de Servicio de venta de combustibles del país que comercializan Gasolina 
@@ -6488,7 +6410,6 @@ extranjera. En ventas menores (bidones botellas u otros), identificarán el tipo
 Resolución Normativa de Directorio Nº 10-0016-07, modificado por el Parágrafo X del Artículo 1 
 de la RND Nº 10-0032-07, modificado por el Artículo 4 Parágrafo X de la Resolución Normativa 
 de Directorio Nº 10-0019-10, el siguiente texto:
-[Image: Im0]
 
 “Para el caso específico de las Estaciones de Servicio de venta de combustibles, es obligatorio el 
 desglose de la cantidad del producto vendido debiendo emitirse una Factura por tipo de producto.”
@@ -6544,7 +6465,6 @@ obligatoria el Número de Autorización emitido por la entidad que corresponda, 
 de ventas iguales o mayores a 121 litros o el volumen que permita la norma específica aplicable 
 a cada caso. El registro de este dato debe ser realizado, separado por el carácter punto y coma (;), 
 cuando corresponda.”
-[Image: Im0]
 
 ***Nota del Editor:*** *La RND Nº 10-0021-16 de 01/07/2016 en sus Disposiciones Abrogatorias* 
 *y Derogatorias Segunda, Numeral 5* ***derogó*** *el Artículo precedente.*
@@ -6610,7 +6530,6 @@ de Servicio de Impuestos Nacionales de acuerdo a las fechas de vencimiento del N
 de Información, en un medio magnético que deberá contener la información en un archivo tipo 
 texto, utilizando el carácter pipeline (|) como delimitador y separador de campos y con la siguiente 
 denominación:
-[Image: Im0]
 
 ---
 
@@ -6625,7 +6544,6 @@ Normativa de Directorio, que incumplan la presentación de la información en la
 establecidos en la presente disposición, serán pasibles a las sanciones establecidas en el Subnumeral 
 4.3.del Numeral 4. Del Anexo A consolidado de la Resolución Normativa de Directorio N° 10-0037-
 07 de 14 de diciembre de 2007.
-[Image: Im0]
 
 **II.** Las Estaciones de Servicio por cada venta de combustible a vehículos automotores sin placa, 
 serán sancionadas por incumplimiento a deberes formales, con Trescientas Unidades de Fomento a la 
@@ -6691,7 +6609,6 @@ Ventas Da Vinci, en el lugar del número de placa, el Número de Declaración Ú
 (DUI) y país de procedencia del vehículo, solo para vehículos motorizados que se encuentren en 
 proceso de obtención de la placa en el Municipio de su jurisdicción, y en el lugar destinado al NIT, 
 registrarán de forma obligatoria el número de Documento de Identidad del conductor, ejemplo:
-[Image: Im0]
 
 Nombre y Apellido o Razón Social; Nº de Declaración Única de Importación (DUI); 
 <u>País de procedencia del vehículo</u>
@@ -6732,7 +6649,6 @@ Normativa de Directorio N° 10-0038-11, y el Artículo 1 de la Resolución Norma
 
 **Disposición Final Única. (Vigencia).-** La presente Resolución Normativa de Directorio entra en 
 vigencia a partir del primer día del mes siguiente a su publicación.
-[Image: Im0]
 
 Regístrese, hágase saber y cúmplase.
 
@@ -6759,7 +6675,6 @@ fronteras, dispone que el Servicio de Impuestos Nacionales en coordinación con 
 competentes, establecerá el tipo de información adicional que deberá ser incluida en la Factura, 
 para fines de control de flujo en la venta de mercancías prohibidas o con suspensión territorial de 
 exportación y/o hidrocarburos y alimentos con subvención del Estado sujetos a protección específica. 
-[Image: Im0]
 
 Que, el Parágrafo III. del Artículo 18 de la Ley Nº 100, establece que el suministro de productos 
 refinados de petróleo, Gas Natural Vehicular - GNV, industrializados y otros, a medios de transporte 
@@ -6813,7 +6728,6 @@ obligatoria, el número de **Autorización de venta**, emitido por las entidades
 fiscalización y control en el ámbito de su competencia, quienes mediante norma específica 
 establecen los volúmenes de venta, en tanques principal y/o auxiliar que deben ser parte del 
 diseño de fábrica de la estructura del vehículo y/o fuera de tanque.
-[Image: Im1]
 
 El registro del número de Autorización de Venta en el Archivo de Ventas Da Vinci, debe ser 
 efectuado, separado por el carácter punto y coma (;), cuando corresponda.”
@@ -6877,7 +6791,6 @@ del Servicio de Impuestos Nacionales (SIN) puede ejecutar acciones que son de co
 del Directorio; en este entendido, el Inciso a) del Numeral 1. de la Resolución Administrativa de 
 Directorio Nº 09-0011-02, autoriza al Presidente Ejecutivo a suscribir Resoluciones Normativas de 
 Directorio cuando la urgencia del acto así lo imponga, para su posterior homologación. 
-[Image: Im0]
 
 ## POR TANTO:
 
@@ -6912,7 +6825,6 @@ presentaciones de música, presentaciones de ballet y baile artístico o coreogr
 operetas o zarzuelas, desfiles de moda, verbenas, peñas folklóricas, fiestas, presentaciones 
 circenses, presentaciones de magia o ilusionismo, presentaciones humorísticas, deportivas, 
 etc. 
-[Image: Im0]
 
 **b) Titular del contrato:** Persona natural o jurídica con la que el artista suscribe el contrato 
 para la presentación de eventos de carácter eventual, el cual debe dosificar Facturas, 
@@ -6991,7 +6903,6 @@ autorización para realizar trabajos de impresión; permitiendo la activación o
 aquellos trabajos en proceso autorizados con anterioridad a aplicar la cancelación definitiva. 
 Las imprentas autorizadas serán pasibles de cancelación definitiva, en caso de verificarse de 
 cualquiera de las siguientes causales descritas a continuación:”
-[Image: Im0]
 
 ---
 
@@ -7042,7 +6953,6 @@ encuentran alcanzados ni obligados a la presentación de la Boleta de Garantía 
 requerimiento a que se refiere el Inciso e) de este Parágrafo. De igual manera los espectáculos 
 públicos organizados y ejecutados por instituciones públicas, no tienen la obligación de presentar la 
 mencionada Boleta de Garantía Bancaria a primer requerimiento.
-[Image: Im0]
 
 SISTEMA DE FACTURACIÓN - RND Nº 10-0012-11
 
@@ -7077,7 +6987,6 @@ comunicación alguna por parte de la Administración Tributaria y de forma autom
 opción de presentar Letras de Cambio para nuevos eventos, debiendo solicitar la dosificación de 
 facturas únicamente presentando la Boleta de Garantía Bancaria a primer requerimiento, conforme lo 
 previsto en el Inciso e) del presente Parágrafo.
-[Image: Im0]
 
 ***Nota del Editor:*** *La RND Nº 10-0022-11 de 18/08/2011 en su Artículo 1, Parágrafo I,* 
 ***incorporó*** *los Párrafos precedentes.*
@@ -7143,7 +7052,6 @@ de Facturas debe efectuarse por cada valor asignado a las entradas, utilizando l
 Facturación Prevalorada, consignando la característica especial “Espectáculo Público Eventual”, el 
 lugar y fecha del evento de forma pre impreso. La fecha límite de emisión de las Facturas, será la 
 fecha de realización del espectáculo público. 
-[Image: Im0]
 
 **Artículo 7. (Procedimiento a la Conclusión del Espectáculo Público).- I.** Concluido el espectáculo 
 público, el Departamento de Fiscalización de la Gerencia Distrital o Gerencia GRACO, donde se 
@@ -7187,7 +7095,6 @@ debiendo emitir informe circunstanciado que será notificado al contribuyente, q
 en el plazo máximo de cinco (5) días hábiles posteriores a la fecha de notificación 
 deberá proceder al pago de la obligación, mediante Boletas de Pago 1000 y 3500, por 
 cada impuesto, según corresponda. 
-[Image: Im0]
 
 iv. Relación de ingresos y gastos del espectáculo público.
 
@@ -7214,7 +7121,6 @@ vencimiento establecida para la presentación y pago de las obligaciones tributa
 período fiscal en que se llevó a cabo el Espectáculo Público Eventual, deberá presentar 
 nota dirigida a la Gerencia Distrital donde realizó el trámite de dosificación, adjuntando la 
 siguiente documentación: 
-[Image: Im0]
 
 i. Fotocopia del Formulario 1501 “Solicitud de Inactivación”, reportando el 
 detalle de las Facturas no utilizadas.
@@ -7281,7 +7187,6 @@ evento, así como los lugares y puntos de venta, por no emisión de Factura, inc
 que las personas naturales o jurídicas responsables del evento y de la venta, se encuentren registradas 
 o no en el Padrón Nacional de Contribuyentes, conforme lo previsto en los Artículos 170 y Parágrafo 
 I. del 163 de la Ley N° 2492.
-[Image: Im0]
 
 De evidenciarse la realización de un espectáculo público eventual con Facturas dosificadas que no 
 cumplan con las condiciones, requisitos y procedimientos establecidos en la presente disposición, de 
@@ -7317,7 +7222,6 @@ por la prestación del servicio.
 Dicha información deberá ser remitida mínimamente hasta cinco (5) días antes de la realización del 
 Espectáculo Público, de no cumplir con esta obligación, será pasible a la Multa por Incumplimiento a 
 Deberes Formales de 1500 UFVs (Un Mil Quinientas Unidades de Fomento a la Vivienda).
-[Image: Im0]
 
 **Artículo 11. (Abrogatorio y Derogatorio).- I.** Se abroga la Resolución Normativa de Directorio N° 
 10-0025-09 de 30 de diciembre de 2009.
@@ -7355,8 +7259,6 @@ Servicio de Impuestos Nacionales
 | 1 | Perico Pererez |  |  |  | 123 | Potosi |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-[Image: Im0]
 
 SISTEMA DE FACTURACIÓN - RND Nº 10-0012-11
 
@@ -7407,7 +7309,6 @@ oficiales de circulación nacional de los vehículos que sean nacionalizados, de
 vigencia de la Disposición Transitoria Segunda adicionada al Capítulo VI de la Resolución Normativa 
 SISTEMA DE FACTURACIÓN - RND Nº 10-0020-11de Directorio Nº 10-0007-11 mediante el Artículo 2 de la Resolución Normativa de Directorio Nº 
 10-0010-11. 
-[Image: Im0]
 
 Que, de acuerdo al Inciso p) del Artículo 19 del Decreto Supremo Nº 26462 de 22 de diciembre de 
 2001, el Presidente Ejecutivo del Servicio de Impuestos Nacionales en uso de sus facultades y en 
@@ -7423,7 +7324,6 @@ por el Artículo 64 de la Ley N° 2492 de 2 de agosto de 2003, Código Tributari
 del Artículo 19 del Decreto Supremo N° 26462 de 22 de diciembre de 2001 y en cumplimiento de lo 
 dispuesto en el Inciso a) del Numeral 1. de la Resolución Administrativa de Directorio N° 09-0011-
 02 de 28 de agosto de 2002, 
-[Image: Im0]
 
 ## RESUELVE:
 
@@ -7482,7 +7382,6 @@ Institución, en uso de las facultades conferidas por el Articulo 64 de la Ley N
 diciembre de 2001 y en cumplimiento de lo dispuesto en el Inciso a) del Numeral 1. de la Resolución 
 SISTEMA DE FACTURACIÓN - RND Nº 10-0022-11
 Administrativa de Directorio N° 09-0011-02, de 28 de agosto de 2002,
-[Image: Im0]
 
 ## RESUELVE:
 
@@ -7498,7 +7397,6 @@ no se encuentran alcanzados ni obligados a la presentación de la Boleta de Gara
 a primer requerimiento a que se refiere el Inciso e) de este Parágrafo. De igual manera los 
 espectáculos públicos organizados y ejecutados por instituciones públicas, no tienen la 
 obligación  de presentar la mencionada Boleta de Garantía Bancaria a primer requerimiento.
-[Image: Im0]
 
 Se podrá sustituir la Boleta de Garantía Bancaria a primer requerimiento establecida en 
 el Inciso e) del presente Parágrafo por Letras de Cambio siempre que el valor total  de las 
@@ -7554,7 +7452,6 @@ impuestos que correspondan. Dentro el plazo de cinco (5) días de recibida dicha
 Departamento de Fiscalización emitirá informe de conformidad de pago de los impuestos 
 correspondientes, procediendo a la devolución de la Boleta de Garantía Bancaria dentro los 
 dos (2) días siguientes a la emisión del informe.
-[Image: Im0]
 
 La subfacturación y/o venta de entradas con un valor superior al habilitado, impreso y 
 autorizado por la Administración Tributaria, dará lugar a la liquidación de la obligación 
@@ -7595,7 +7492,6 @@ de Fronteras, dispone que el Servicio de Impuestos Nacionales en coordinación c
 competentes, establecerá el tipo de información adicional que deberá ser incluida en la Factura 
 para fines de control de flujo en la venta de mercancías prohibidas o con suspensión territorial de 
 exportación y/o hidrocarburos y alimentos con subvención del Estado sujetos a protección específica.
-[Image: Im0]
 
 Que, el Artículo 66 de la Ley Nº 2492 de 2 de agosto de 2003, Código Tributario Boliviano, confiere 
 a la Administración Tributaria la facultad de sancionar Ilícitos Tributarios que no constituyan delitos.
@@ -7661,7 +7557,6 @@ Resolución Normativa de Directorio, que incumplan la presentación de la inform
 la forma y plazos establecidos en la presente disposición, serán pasibles a las sanciones 
 establecidas en el Subnumeral 4.3. del Numeral 4. del Anexo A Consolidado de la 
 Resolución Normativa de Directorio N° 10-0037-07 de 14 de diciembre de 2007.
-[Image: Im0]
 
 **II.** Las Estaciones de Servicio por cada venta de combustible a vehículos automotores 
 sin placa, serán sancionadas por Incumplimiento a Deberes Formales, con Trescientas 
@@ -7685,7 +7580,6 @@ Ventas Da Vinci, en el lugar del Número de Placa, el Número de Declaración Ú
 (DUI) y país de procedencia del vehículo, solo para vehículos motorizados que se encuentren en 
 proceso de obtención de la placa en el Municipio de su jurisdicción, y en el lugar destinado al NIT, 
 registrarán de forma obligatoria el Número de Documento de Identidad del conductor, ejemplo:
-[Image: Im0]
 
 |  | Nombre y Apellido o Razón Social; N° de Declaración Única de Importación (DUI); País de procedencia del vehículo |
 | --- | --- |
@@ -7721,7 +7615,6 @@ legal, la Administración Tributaria emitió la Resolución Normativa de Directo
 1 de abril de 2011 y la Resolución Normativa de Directorio Nº 10-0010-11 de 27 de abril de 2011, 
 disponiendo la obligación para las Estaciones de Servicio de registrar en la Factura de compra de 
 combustible, el número de placa de los automotores.
-[Image: Im0]
 
 Que, de acuerdo al Inciso p) del Artículo 19 del Decreto Supremo Nº 26462 de 22 de diciembre de 
 2001, el Presidente Ejecutivo del Servicio de Impuestos Nacionales en uso de sus facultades y en 
@@ -7763,7 +7656,6 @@ considerando el siguiente formato en el campo Nombre o Razón Social.
 **Artículo 2. (Ampliación de Vigencia).-** Se amplía la vigencia de la Disposición Transitoria Tercera 
 de la Resolución Normativa de Directorio Nº 10-0038-11 de 2 de diciembre de 2011, hasta el treinta 
 (30) de junio de 2012.
-[Image: Im0]
 
 Se amplía la vigencia de la Resolución Normativa de Directorio Nº 10-0004-12 de 22 de febrero de 
 2012, hasta el 31 de diciembre de 2012.
@@ -7809,7 +7701,6 @@ las actividades de producción, presentación y difusión de eventos, teatro, da
 pintura, escultura y cine que sean producidos por artistas bolivianos. Asimismo, el Decreto Supremo 
 Nº 1241 de 23 de mayo de 2012, reglamenta su aplicación para todos los artistas bolivianos, como 
 para personas naturales o jurídicas vinculadas a dichas actividades. 
-[Image: Im0]
 
 Que, el Parágrafo II. del Artículo 4 del Decreto Supremo Nº 1241 de 23 de mayo de 2012, establece 
 que la Administración Tributaria autorizará la dosificación de entradas o boletos sin derecho a 
@@ -7842,7 +7733,6 @@ autorización de dosificación de Facturas “Sin Derecho a Crédito Fiscal”, 
 Identificación Tributaria - NIT, en plataforma de atención al contribuyente de la jurisdicción a la 
 que corresponde su NIT y en caso de no contar con éste, en la Distrital donde se desarrollará el 
 espectáculo público. 
-[Image: Im1]
 
 **I.** Cuando la solicitud de dosificación sea realizada por el propio artista nacional, deberá presentar 
 los siguientes documentos:
@@ -7911,7 +7801,6 @@ del espacio y/o escenario de propiedad del Gobierno Central o Municipal,
 especificando la(s) fecha(s) de presentación del Espectáculo Público, o la 
 Certificación de auspicio del Ministerio de Culturas o de las Entidades Territoriales 
 Autónomas. 
-[Image: Im0]
 
 **d)** Original y fotocopia del contrato o documento equivalente del representante legal 
 del evento con el o los artistas y/o representantes de los mismos, que establezca 
@@ -7934,7 +7823,6 @@ una Resolución Administrativa de Autorización, establecida en el Parágrafo II
 Resolución Normativa de Directorio Nº 10-0016-07 de 18 de mayo de 2007, debiendo el documento 
 de autorización de dosificación “Sin Derecho a Crédito Fiscal” ser llenado en el Formulario 1500 
 “Solicitud de Dosificación”, emitido por la Administración Tributaria. 
-[Image: Im1]
 
 **Artículo 4. (Características de la Dosificación de Facturas).- I.** La solicitud de dosificación de 
 Facturas (boletos o entradas), debe efectuarse por cada valor asignado a las entradas, utilizando la 
@@ -8005,7 +7893,6 @@ de Facturas, Notas Fiscales o Documentos Equivalentes, elementos técnicos que d
 en la elaboración y emisión de estos documentos y, los requisitos y condiciones para la utilización del 
 Crédito Fiscal contenido en las Facturas, Notas Fiscales o Documentos Equivalentes, estableciendo 
 excepciones necesarias para casos concretos. 
-[Image: Im0]
 
 Que, a efectos de una aplicación efectiva de la Disposición Adicional Tercera de la Ley Nº 317 es 
 necesario establecer un nuevo formato de Factura que debe ser utilizado por todas las Estaciones de 
@@ -8051,7 +7938,6 @@ Ley Nº 317”.  (Anexo 2).
 Especial, Gasolina Premium o Diésel Oil no computable para Crédito Fiscal, será registrado en la 
 columna “Importes de Montos Exentos, gravados a tasa cero u otros conceptos no gravados”, del 
 Libro de Compras IVA.
-[Image: Im1]
 
 **Artículo 4. (Plazo para adecuación del Sistema de Facturación).-** Las Estaciones de Servicio de 
 venta de combustible, deben adecuar sus sistemas de facturación de acuerdo a lo establecido en la 
@@ -8065,11 +7951,7 @@ Regístrese, hágase saber y archívese.
 
 ---
 
-[Image: Im0]
-
 ## ANEXO 1
-
-[Image: Im0]
 
 | Cant. Litros | Producto | Precio Total |
 | --- | --- | --- |
@@ -8085,8 +7967,6 @@ Regístrese, hágase saber y archívese.
 | De acuerdo a la Ley N° 317, del Importe Total de la factura sólo es válido para el Crédito Fiscal el 70%. |  |  |
 
 ## ANEXO 2
-
-[Image: Im1]
 
 | D. Pergile Harra Is
 A. D. Pergile Harra Is
@@ -8134,7 +8014,6 @@ Boliviano, establece que la información registrada en las Facturas autorizadas 
 Administración Tributaria, deben permitir la identificación de quien la emite, garantizar la verificación 
 de la integridad de la información y datos registrados, de forma tal que de realizarse modificaciones 
 a la misma se ponga en evidencia su alteración.
-[Image: Im0]
 
 Que, la Resolución Normativa de Directorio Nº 10-0007-11 de 1 de abril de 2011 y la Resolución 
 Normativa de Directorio Nº 10-0010-11 de 27 de abril de 2011, establece que las Estaciones de 
@@ -8171,7 +8050,6 @@ SISTEMA DE FACTURACIÓN - RND Nº 10-0041-12
 El Presidente Ejecutivo a.i. del Servicio de Impuestos Nacionales, a nombre del Directorio de la 
 Institución, en uso de las facultades conferidas por el Artículo 64 de la Ley Nº 2492, de 2 de agosto 
 de 2003, Código Tributario Boliviano y las disposiciones precedentemente citadas,
-[Image: Im0] [Image: Im0]
 
 ## RESUELVE:
 
@@ -8219,7 +8097,6 @@ del Servicio de Impuestos Nacionales (SIN), puede ejecutar acciones que son de c
 Directorio; en este sentido, la Resolución Administrativa de Directorio Nº 09-0011-02 de 28 de agosto 
 de 2002,Numeral 1. Inciso a), autoriza al Presidente Ejecutivo a suscribir Resoluciones Normativas 
 de Directorio cuando la urgencia del acto así lo imponga, para su posterior homologación.
-[Image: Im0]
 
 ## POR TANTO:
 
@@ -8271,7 +8148,6 @@ Código de Comercio, por un monto equivalente al 20% del valor total de las Fact
 a ser dosificadas, con fecha de vencimiento o ejecución de ciento veinte (120) días posteriores a la 
 conclusión del Espectáculo Público autorizado”.
 SISTEMA DE FACTURACIÓN - RND Nº 10-0043-12
-[Image: Im0] [Image: Im0]
 
 **Artículo 3. (Vigencia).-** La presente disposición entrará en vigencia a partir de su publicación.
 
@@ -8317,7 +8193,6 @@ las definiciones conceptuales de Facturas, Notas Fiscales o documentos equivalen
 técnicos que deberán emplearse en la elaboración y emisión de estos documentos, y los requisitos 
 y condiciones para la utilización del Crédito Fiscal contenido en las Facturas, Notas Fiscales o 
 Documentos Equivalentes, estableciendo excepciones necesarias para casos concretos.
-[Image: Im1]
 
 Que, a efectos de una aplicación efectiva de la Ley Nº 366, Artículo 8, Parágrafo II, es necesario 
 establecer un procedimiento de facturación, y la correspondiente actualización de los contribuyentes 
@@ -8350,7 +8225,6 @@ para la aplicación del Impuesto al Valor Agregado - IVA con Tasa Cero por cient
 Facturas, con la Característica Tributaria “IVA con Tasa Cero, Ley Nº 366 del Libro y la Lectura – 
 Oscar Alfaro”, a partir del 17 de junio de 2013, para este efecto estos contribuyentes deberán estar 
 actualizados en el Padrón Biométrico Digital.
-[Image: Im0]
 
 **Artículo 4. (Exclusividad en Emisión de Facturas).-** Las Facturas con Tasa Cero por ciento, para la 
 venta de libros de producción nacional e importados, y de publicaciones oficiales de instituciones del 
@@ -8399,7 +8273,6 @@ Bolivia, siempre y cuando se incluya en la Factura original y copias, la leyenda
 DERECHO A CRÉDITO FISCAL, LEY N° 366, DEL LIBRO Y LA LECTURA”, en forma impresa 
 o con sello. Este tipo de Facturas deberán ser emitidas exclusivamente para los productos señalados 
 en la presente disposición.
-[Image: Im1]
 
 Regístrese, hágase saber y cúmplase.
 
@@ -8449,7 +8322,6 @@ pago del Servicio de Terminal Aeroportuario y evitar demoras en su ejecución, l
 Tributaria en coordinación con esa entidad y el Servicio de Aeropuertos Bolivianos S.A. (SABSA), 
 la Asociación de Líneas Aéreas (ALA) y la Asociación de Transporte Aéreo Internacional (IATA), 
 reglamenta la inclusión del Servicio de Terminal Aeroportuario en los Boletos y Billetes Aéreos.  
-[Image: Im0]
 
 Que, conforme al Inciso p) del Artículo 19 del Decreto Supremo Nº 26462 de 22 de diciembre de 
 2001, el Presidente Ejecutivo del Servicio de Impuestos Nacionales en uso de sus atribuciones y 
@@ -8471,7 +8343,6 @@ disposiciones precedentemente citadas,
 modifica el Parágrafo I del Artículo 4 de la Resolución Normativa de Directorio Nº 10-0039-05 de 
 25 de noviembre de 2005, modificado por el Artículo 1 de la Resolución Normativa de Directorio 
 N° 10-0040-06 de fecha 21 de diciembre de 2006, con el siguiente texto: 
-[Image: Im1]
 
 “**I. (Información Requerida).-** Los documentos señalados en el Artículo precedente deberán 
 consignar mínimamente los siguientes datos:
@@ -8524,7 +8395,6 @@ modifica el Numeral 1) del Parágrafo I del Artículo 62 de la Resolución Norma
 Nº 10-0016-07 de 18 de mayo de 2007, modificado por la Disposición Adicional Única de la 
 Resolución Normativa de Directorio Nº 10-0029-12 de 18 de octubre de 2012, con el siguiente 
 texto:   
-[Image: Im0]
 
 “**1)** Los documentos previamente referidos, deberán consignar mínimamente los siguientes 
 datos:
@@ -8567,7 +8437,6 @@ de Terminal Aeroportuaria Nacional o Internacional, realizado por el pasajero al
 o Billete Aéreo, debe ser facturado por el Administrador de Aeropuerto (Santa Cruz - Viru Viru, 
 El Alto y Cochabamba), cuando éste perciba dicho importe o se haga uso del mencionado servicio, 
 lo que ocurra primero. 
-[Image: Im1]
 
 ## DISPOSICIÓN FINAL
 
@@ -8603,7 +8472,6 @@ disponible en el país, debiendo permitir la identificación de quien las emite,
 de la integridad de la información y datos registrados, de forma tal que cualquier modificación de las 
 mismas ponga en evidencia su alteración y cumplir los requisitos de pertenecer únicamente al titular 
 y encontrarse bajo su absoluto y exclusivo control. 
-[Image: Im0]
 
 Que, el Artículo 13 de la Ley N° 843 (Texto Ordenado Vigente), concordante con el Artículo 13 
 Decreto Supremo N° 21530 (Reglamento del Impuesto al Valor Agregado), faculta a la Administración 
@@ -8633,7 +8501,6 @@ Servicio de Impuestos Nacionales puede ejecutar acciones que son de competencia 
 ese entendido, el Numeral 1., Inciso a) de la Resolución Administrativa de Directorio N° 09-0011-
 02; autoriza al Presidente Ejecutivo a suscribir Resoluciones Normativas de Directorio cuando la 
 urgencia del acto así lo imponga. 
-[Image: Im1]
 
 ## POR TANTO:
 
@@ -8691,7 +8558,6 @@ Modalidades de Facturación Manual o Prevalorada.
 autorizada que vincula unos datos de verificación de firma a un signatario y confirma su identidad. 
 El certificado digital es válido únicamente dentro del período de vigencia, indicado en el certificado 
 digital. 
-[Image: Im0]
 
 **e) Clave de asignación de la Imprenta:** Es el número asignado a las imprentas autorizadas por el 
 SFV que se genera a momento de la autorización del trabajo de impresión en las Modalidades de 
@@ -8744,7 +8610,6 @@ Fiscal o Documento Equivalente al comprador, cumpliendo con las formalidades est
 Administración Tributaria en la presente resolución, al haberse perfeccionado el hecho generador del 
 IVA conforme lo dispuesto en el Artículo 4 de la Ley N° 843 (Texto Ordenado Vigente); concordante 
 con el Artículo 4 del Decreto Supremo N° 21530 (Reglamento del Impuesto al Valor Agregado). 
-[Image: Im1]
 
 **p) Entidad Certificadora:** Es el agente certificador que emite y revoca los Certificados Digitales 
 que legitiman la relación entre la identidad del usuario y su clave pública, ante terceros.
@@ -8777,7 +8642,6 @@ datos de la dosificación en el SFV para la conformación del Código de Control
 o Tercero Responsable solicita a la Administración Tributaria, la inhabilitación de las Facturas o 
 Notas Fiscales, involucrando los siguientes procesos: Anulación, No Utilización, Extravío de 
 Facturas o Notas Fiscales No Emitidas y Cierre de Dosificación por Tiempo. 
-[Image: Im0]
 
 **w) Modalidad de Facturación:** Es una determinada forma de facturación, que se rige a través de un 
 procedimiento particular establecido en el Sistema de Facturación Virtual (SFV).
@@ -8847,7 +8711,6 @@ por la Administración Tributaria. Los Sujetos Pasivos o Terceros Responsables q
 Modalidad de Facturación, deben previamente tramitar la respectiva suscripción ante el Servicio de 
 Impuestos Nacionales SIN y coordinar aspectos técnicos, deben además contar con el correspondiente 
 Certificado Digital y conexión a Internet (Ver Anexo N° 4). 
-[Image: Im1]
 
 ---
 
@@ -8881,7 +8744,6 @@ tributarias dispuestas al efecto, toda vez que en éste se verificará el hecho 
 obligación tributaria. Esta característica podrá aplicarse a las Modalidades de Facturación 
 Manual, Computarizada y Electrónica por Ciclos, establecidas en los Incisos a), c), y f) del 
 Artículo 5 de la presente resolución. 
-[Image: Im0]
 
 En la Modalidad de Facturación Electrónica por Ciclos el Tercero Emisor debe suscribir 
 su sistema computarizado, contar con el Certificado Digital del titular de la transacción, 
@@ -8906,7 +8768,6 @@ tributarias, de forma independiente y en relación a las operaciones gravadas qu
 correspondan. Previa autorización conforme a lo dispuesto en la presente resolución, esta 
 característica podrá aplicarse a las Modalidades de Facturación Computarizada y Electrónica 
 por Ciclos, establecidas en los Incisos c) y f) del Artículo 5 de la presente resolución. 
-[Image: Im1]
 
 Los Sujetos Pasivos Emisores serán responsables ante la Administración Tributaria por el 
 cumplimiento de las obligaciones formales relativas a la emisión de Facturas o Notas Fiscales 
@@ -8975,7 +8836,6 @@ validez probatoria, en el caso de las Modalidades de Facturación Manual y Factu
 siempre que se acredite el documento físico, y en el caso de las Modalidades de Facturación 
 Computarizada, Oficina Virtual, Electrónica Web y Electrónica por Ciclos sean acreditadas conforme 
 el Artículo 7 del Decreto Supremo Nº 27310 de 9 de enero de 2004. 
-[Image: Im0]
 
 Las operaciones electrónicas realizadas y registradas en el sistema computarizado de la Administración 
 Tributaria por un usuario autorizado surten efectos jurídicos.
@@ -9000,7 +8860,6 @@ Equivalentes deben contener obligatoriamente los siguientes datos:
 de las Personas Naturales y Empresas Unipersonales. Opcionalmente en el caso 
 de Empresas Unipersonales o de Personas Naturales podrán consignar el Nombre 
 Comercial; 
-[Image: Im1]
 
 **b)** Domicilio tributario, (casa matriz), número(s) telefónico(s) y la Alcaldía a la que 
 pertenece (o domicilio y Alcaldía declarada para el caso de espectáculos públicos 
@@ -9064,7 +8923,6 @@ restaurantes o similares por un monto menor o igual a Bs300.- (Trescientos 00/10
 Bolivianos), se podrá consignar en el campo Concepto o Descripción la leyenda 
 “**Consumo**”, en los demás casos se debe consignar el detalle de la compra y/o la 
 prestación del servicio; 
-[Image: Im0]
 
 **g)** Para el caso de las Estaciones de Servicio de Venta de Combustibles es obligatorio 
 el desglose de la cantidad del producto vendido debiendo emitirse una Factura por 
@@ -9086,7 +8944,6 @@ este dato en moneda nacional (bolivianos) u otra moneda extranjera. Cuando el To
 General contenga importes que no están sujetos a crédito fiscal, se debe discriminar el 
 importe que corresponde para crédito fiscal señalando el valor seguido de la leyenda 
 “IMPORTE VÁLIDO PARA CRÉDITO FISCAL”; 
-[Image: Im1]
 
 **k)** Los Usuarios de Zonas Francas deben consignar el Número de Parte de Recepción, 
 otorgado por el concesionario de Zona Franca, en la(s) venta(s) que comprenden el 
@@ -9143,7 +9000,6 @@ proporcionado por el SFV a la imprenta autorizada.
 Especial, Gasolina Premium o Diésel Oíl, deben insertar en forma legible la 
 leyenda: “De acuerdo a la Ley Nº 317, del importe total de la Factura sólo es válido 
 para el crédito fiscal el 70%.”
-[Image: Im0]
 
 **En la Parte Inferior Izquierda:**
 
@@ -9209,7 +9065,6 @@ de Dosificación, Datos de la Transacción Comercial (Detalle, ICE, Tipo de camb
 oficial de venta correspondiente a la fecha de la transacción, cuando la operación 
 sea en moneda extranjera) y los Datos Finales para las Modalidades de Facturación 
 Computarizada, Oficina Virtual, Electrónica Web y Electrónica por Ciclos. 
-[Image: Im0]
 
 **IV. Facturación Prevalorada.** Las Facturas de esta Modalidad se emitirán por cada transacción 
 comercial y deben consignar la Fecha Límite de Emisión; no requerirán consignar los datos de 
@@ -9276,7 +9131,6 @@ extranjera. Para el caso de entidades del sistema financiero nacional,
 estas podrán utilizar el tipo de cambio en moneda extranjera, de acuerdo 
 a disposiciones emitidas por la Autoridad de Supervisión del Sistema 
 Financiero; 
-[Image: Im1]
 
 ---
 
@@ -9296,7 +9150,6 @@ iii. Monto efectivo del Crédito-Débito.
 Electrónica Web y Facturación Electrónica por Ciclos, el intercambio de información entre 
 compradores y vendedores gravados por el IVA podrá realizarse utilizando la siguiente estructura de 
 datos en formato XML (Ver ejemplo de formato XML en el Anexo 7):
-[Image: Im0]
 
 | ETIQUETA | TIPO DE DATO | DESCRIPCIÓN |
 | --- | --- | --- |
@@ -9382,7 +9235,6 @@ Electrónica Web y Electrónica por Ciclos (que apliquen los límites mínimos y
 del Parágrafo I del presente Artículo), cuando por la magnitud de la información a ser consignada se 
 requiera utilizar más de una hoja, se debe numerar cada hoja haciendo referencia al número de hoja y 
 a la cantidad total de hojas del documento, en los siguientes formatos: 1 de 2, 1/2 o 1-2. 
-[Image: Im0]
 
 **Artículo 14. (Materiales y Colores).- I.** Los materiales y colores utilizados para la elaboración de 
 los originales y copias físicas de las Facturas, deben permitir imprimir o consignar de forma nítida, 
@@ -9396,7 +9248,6 @@ lo siguiente:
 (Datos Básicos, Datos de Dosificación, Título y Datos Finales), los datos pueden ser 
 consignados en cualquier color previendo la legibilidad de la información. No obstante 
 el Código QR debe ser impreso siempre en color negro sobre fondo blanco. 
-[Image: Im1]
 
 **2. Facturación Prevalorada:** En esta Modalidad las Facturas se emiten de forma física 
 en papel de cualquier color distinto al negro (excepción no aplicable al logo), deben 
@@ -9471,7 +9322,6 @@ Contribuyentes, salvo quienes realicen “Alquiler de Bienes Inmuebles” o se e
 dentro del grupo de “Profesionales Independientes” u “Oficios Liberales”. Para la Modalidad de 
 Facturación Prevalorada se deberá también registrar el importe de las mismas en la solicitud de 
 dosificación. 
-[Image: Im0]
 
 **VI.** Un trámite de dosificación puede contener hasta veinticinco (25) solicitudes, el cual estará vigente 
 por doce (12) días corridos, computables a partir de la solicitud, plazo en el cual debe ser asignada a 
@@ -9501,7 +9351,6 @@ la misma categoría y segmento, en caso de no contar con esta información se ot
 emitir las Facturas autorizadas para esa dosificación. Los Sujetos Pasivos o Terceros Responsables 
 que apliquen dosificaciones por tiempo, podrán solicitar una nueva dosificación a partir de dos 
 semanas antes que concluya la vigencia de la anterior. 
-[Image: Im1]
 
 **X**. En la dosificación por cantidad no se deben emitir Facturas o Notas Fiscales una vez se haya 
 cumplido la fecha límite de emisión.
@@ -9534,7 +9383,6 @@ la cantidad solicitada.
 **Artículo 18. (Procedimiento de Dosificación).- I.** Para realizar la solicitud de dosificación, el reproducción 
 Sujeto Pasivo o Tercero Responsable debe ingresar al SFV a través de la Oficina Virtual y según la 
 Modalidad de Facturación que elija, realizar los siguientes pasos: 
-[Image: Im0]
 
 ## 1. Modalidad de Facturación Manual:
 
@@ -9616,7 +9464,6 @@ Para el caso de Facturación Computarizada el sistema pondrá a disposición del
 digital por dosificación, para generar el Código de Control, siendo responsabilidad del Sujeto Pasivo 
 o Tercero Responsable su manejo y conocimiento; al igual que las previsiones para generar el Código 
 QR. Las dosificaciones para la Modalidad de Facturación Computarizada se activan automáticamente. 
-[Image: Im1]
 
 **II.** La dosificación para las Modalidades de Facturación Oficina Virtual, Electrónica Web y 
 Electrónica por Ciclos se realiza de manera automática a través del SFV.
@@ -9628,7 +9475,6 @@ Tercero Responsable, para emitir Facturas o Notas Fiscales bajo las Modalidades 
 Computarizada y Electrónica por Ciclos, previo a realizar la solicitud de dosificación, debe registrar 
 su sistema computarizado de facturación y proceder a la certificación del Código de Control, en el 
 SFV, realizando los siguientes pasos: 
-[Image: Im0]
 
 **1.** Registro de Sistemas Computarizados
 
@@ -9704,7 +9550,6 @@ Venta);
 Responsable debe solicitar a la Administración Tributaria la autorización para aplicar las 
 Características Especiales de Facturación Conjunta, por Terceros o Impresión en el Exterior y/o 
 Masiva, para lo cual debe realizar los siguientes pasos: 
-[Image: Im1]
 
 **a)** Ingresar al SFV;
 
@@ -9743,7 +9588,6 @@ deben apersonarse a una imprenta autorizada para realizar el trabajo de impresi�
 número de trámite de la solicitud de dosificación. Por su parte, la imprenta autorizada a través del 
 SFV se asignará el trabajo de impresión, obteniendo como resultado los datos de dosificación, la 
 imagen del Código QR a ser impresos en las Facturas, debiendo cumplir con los siguientes pasos: 
-[Image: Im0]
 
 **a)** Ingresar al SFV;
 
@@ -9789,7 +9633,6 @@ Responsables deben suscribir y firmar el acuse de recibo generado al efecto, acr
 de los talonarios de Facturas o Notas Fiscales entregados por la imprenta autorizada, debiendo 
 verificar previamente si dichos documentos cumplen con todos los requisitos y se encuentran de 
 acuerdo a los formatos y demás aspectos técnicos establecidos en la presente resolución. 
-[Image: Im1]
 
 **V.** La imprenta autorizada tiene la obligación de procesar el trabajo de impresión, consignando la 
 información proporcionada en la autorización para la impresión de las Facturas o Notas Fiscales.
@@ -9842,7 +9685,6 @@ asignarse el trabajo de impresión).
 **II.** Transcurrido el plazo de treinta (30) días corridos a partir de la asignación a la imprenta autorizada, 
 el requisito del Inciso d) de los Numerales 1. y 2. del Parágrafo I del presente Artículo no serán 
 exigidos por el SFV. 
-[Image: Im0]
 
 **III.** A partir de la fecha de cancelación del trabajo de impresión, se renueva el plazo establecido en la 
 Solicitud de Dosificación de doce (12) días corridos para su reasignación a otra imprenta autorizada.
@@ -9867,7 +9709,6 @@ certificado y **Persona de Contacto** (nombre, teléfono y correo electrónico);
 suscripción en las Modalidades de Facturación Oficina Virtual, Electrónica Web y Electrónica por 
 Ciclos, especificando la Actividad Económica, Característica Especial y otros, debiendo al efecto 
 realizar los siguientes pasos: 
-[Image: Im1]
 
 **a)** Ingresar al SFV;
 
@@ -9939,7 +9780,6 @@ Responsable utilice, debiendo realizar el procedimiento descrito en el Parágraf
 el procedimiento satisfactoriamente, se identificará como exitoso el intercambio de información, 
 siendo de entera responsabilidad del Sujeto Pasivo o Tercero Responsable verificar que los datos de 
 la Factura o Nota Fiscal concuerden íntegramente con los enviados al SFV. 
-[Image: Im0]
 
 **Artículo 33. (Activación de Suscripciones).-** Para la Activación de las Suscripciones en las 
 Modalidades de Facturación Electrónica Web y Electrónica por Ciclos, son requisitos contar con 
@@ -9976,7 +9816,6 @@ de “Alquiler de Bienes Inmuebles” o a aquellas comprendidas dentro del grupo
 Independientes” u “Oficios Liberales”, deben utilizar de manera obligatoria las Modalidades de 
 Facturación Prevalorada, Computarizada, Oficina Virtual, Electrónica Web o Electrónica por Ciclos, 
 previstas en los Incisos b), c), d) e) y f) del Artículo 5 de la presente resolución. 
-[Image: Im1]
 
 **II.** Los Sujetos Pasivos o Terceros Responsables cuyo volumen de facturación durante tres periodos 
 fiscales del IVA consecutivos no superen cinco (5) transacciones por período, deben utilizar de 
@@ -10012,7 +9851,6 @@ Electrónica por Ciclos, previstas en los Incisos b), c), d), e) y f) del Artíc
 Facturación Computarizada, Oficina Virtual, Electrónica Web o Electrónica por Ciclos, previstas 
 en los Incisos c), d), e) y f) del Artículo 5 de la presente resolución, para aquellos Sujetos Pasivos o 
 Terceros Responsables que considere de alto riesgo fiscal en función a su comportamiento tributario. 
-[Image: Im0]
 
 **VIII.** Se establece un plazo de adecuación de tres meses a partir del mes en el cual se cumpla alguna 
 de las condiciones establecidas en los Parágrafos precedentes para que los Sujetos Pasivos o Terceros 
@@ -10058,7 +9896,6 @@ Factura, Nota Fiscal o Documento Equivalente debe emitirse con carácter mensual
 período fiscal el mes correspondiente a la medición y/o lectura del consumo o de la prestación del 
 servicio. Cuando existan pagos parciales o totales, la emisión de la Factura o Nota Fiscal se sujetará a 
 lo establecido en el Inciso b) del Artículo 4 de la Ley Nº 843 (Texto Ordenado Vigente). 
-[Image: Im1]
 
 En ningún caso procederá el traslado de la obligación de emisión a períodos posteriores, distintos al 
 periodo en el que se perfeccionó el hecho generador o imponible.
@@ -10090,7 +9927,6 @@ Incisos a) y b) del Artículo 5 de la presente resolución, deben emitirse con c
 acuerdo a los aspectos técnicos señalados en la presente resolución, las que deben ser adecuadamente 
 conservadas por el término de la prescripción. Se establece la excepción de llevar copias en los 
 siguientes casos: 
-[Image: Im0]
 
 **1.** Los servicios de telefonía pre pagados con tarjetas.
 
@@ -10160,7 +9996,6 @@ Los requisitos previamente citados deben ser resguardados por el término de la 
 previamente activadas en la Modalidad de Facturación Computarizada, cuando se 
 produzcan cambios en la información y no se pueda continuar con la emisión de Facturas 
 de una determinada Dosificación, como por ejemplo: 
-[Image: Im1]
 
 **a)** Cambio de dirección del domicilio tributario;
 
@@ -10193,7 +10028,6 @@ Terceros o Conjunta.
 con el respectivo documento original, serán consideradas como emitidas y por lo tanto sujetas a lo 
 establecido en la reglamentación para la determinación de la base imponible sobre base presunta y 
 demás disposiciones tributarias conexas. 
-[Image: Im0]
 
 **Artículo 40. (Procedimiento de Inactivación de Facturas).- I.** El Sujeto Pasivo o Tercero 
 Responsable para la Inactivación, de sus Facturas, debe realizar los siguientes pasos:
@@ -10259,7 +10093,6 @@ por solicitud de inactivación incluida en el rubro Detalle de Solicitudes de In
 **3.** El campo Número Autorización, desplegará todas las autorizaciones asociadas a 
 dosificaciones activas del contribuyente que realiza la inactivación y, que corresponden a la 
 Modalidad de Facturación seleccionada. 
-[Image: Im1]
 
 **4.** El campo Tipo de Inactivación se desplegará de acuerdo a la Modalidad de Facturación 
 seleccionada previamente, de acuerdo al siguiente detalle:
@@ -10295,7 +10128,6 @@ debe aplicar el siguiente procedimiento:
 Responsables utilicen la Modalidad de Facturación Computarizada, por razones tecnológicas no 
 puedan cumplir con los límites mínimos y máximos establecidos en el Parágrafo I del Artículo 13 de 
 la presente resolución, podrán solicitar autorización a través del SFV para utilizar tamaños especiales. 
-[Image: Im0]
 
 **II.** La solicitud de autorización para el uso de tamaño especial de papel, debe realizarse con carácter 
 previo a la dosificación de Facturas.
@@ -10358,7 +10190,6 @@ Consignación”, las que por su carácter provisional no requerirán ser dosifi
 Tributaria. Para efectos de Devolución Impositiva, el exportador debe remplazar las Facturas de 
 exportación en libre consignación con las Facturas Comerciales de Exportación dispuestas en el 
 presente Artículo, una vez cerrada o concluida la operación de exportación en destino. 
-[Image: Im1]
 
 Los Sujetos Pasivos o Terceros Responsables que realicen exportaciones de forma no habitual y/o 
 aquellos que efectúen exportaciones no alcanzadas por el Régimen de Devolución Impositiva, no 
@@ -10388,7 +10219,6 @@ del turista y en el campo NIT el valor cero (0). Las Facturas emitidas por los e
 Hospedaje, por servicios de hospedaje a turistas que lleguen al país mediante Programas de Operadores 
 de Turismo Receptivo, deben ser emitidas a nombre del Operador de Turismo consignando el NIT de 
 éste y registrando el nombre y apellido del turista. 
-[Image: Im0]
 
 Los establecimientos que presten servicio de hospedaje a turistas extranjeros que individualmente 
 lleguen al país (Sin Programa de Operadores de Turismo Receptivo), deben emitir la Factura con 
@@ -10423,7 +10253,6 @@ desarrollen actividades en zonas francas comerciales o industriales, en calidad 
 usuarios debidamente habilitados conforme lo dispuesto en el Decreto Supremo Nº 470 de 7 de abril 
 de 2010, tienen la obligación de emitir Facturas “Sin Derecho a Crédito Fiscal”, a objeto de respaldar 
 las operaciones realizadas al interior de dichos recintos. 
-[Image: Im1]
 
 **II.** Se podrán emitir este tipo de documentos a partir de cualquier Modalidad de Facturación 
 previa dosificación con la característica especial “Sin Derecho a Crédito Fiscal” y aplicando los 
@@ -10476,7 +10305,6 @@ virtuales (ET), emitidos directamente por las Líneas Aéreas y Agentes Generale
 como los emitidos por las Agencias de Viaje, estos últimos bajo el sistema regularizado denominado 
 Billing and Settlement Plan (BSP – Plan de Facturación Bancaria) de IATA, serán considerados 
 como documentos equivalentes a efectos tributarios. 
-[Image: Im0]
 
 Los documentos previamente referidos, deben consignar mínimamente los siguientes datos:
 
@@ -10533,7 +10361,6 @@ en el territorio nacional, podrán utilizar los códigos (YQ) o (YR). Las mencio
 Internacionales o Agentes Generales deben utilizar los mejores mecanismos que vean convenientes 
 para informar a los pasajeros el monto sujeto a Crédito Fiscal en los Boletos Aéreos que emitan de 
 manera directa o mediante agencias de viajes. 
-[Image: Im1]
 
 1. Para el caso de boletos manuales, los requisitos anteriormente establecidos deben ser llenados 
 manualmente; en los boletos automáticos y electrónicos en forma automática o electrónica 
@@ -10563,7 +10390,6 @@ Generales Autorizadas, afiliadas a IATA o no, deben consignar la información co
 al importe por cobro de Servicio de Terminal Aeroportuaria. Asimismo, no podrán consignarse 
 cobros por otros servicios sujetos a los impuestos nacionales cuya facturación se sujetará a lo 
 dispuesto en el siguiente Artículo. 
-[Image: Im0]
 
 **II.** Los comprobantes de los documentos MPD, MCO, MSR y AWB, manuales y electrónicos, serán 
 considerados como documentos equivalentes a todos los efectos tributarios, siempre y cuando se 
@@ -10608,7 +10434,6 @@ originen en territorio nacional, están sujetos al Impuesto al Valor Agregado (I
 Transacciones (IT) y constituyen ingresos gravados a efecto de la determinación del Impuesto sobre 
 las Utilidades de las Empresas (IUE) o del IUE Por Actividades Parcialmente Realizadas en el País, 
 según corresponda. 
-[Image: Im1]
 
 Los servicios de transporte aéreo instrumentado a través de documentos de Transporte Pre-pagados 
 (PTA), pagados en el exterior del país y originados en Bolivia, se encuentran sujetos al IVA, IT e 
@@ -10642,7 +10467,6 @@ Vinci – IATA, un reporte (electrónico) mensual de boletos manuales, automáti
 documentos MPD y AWB emitidos por las Agencias de Viaje y Carga IATA obtenidos directamente 
 de los sistemas de distribución y reserva (GDS y otros sistemas) **hasta el día 25 del mes siguiente** al 
 que se informa. Caso contrario, serán sancionados conforme a normativa vigente. 
-[Image: Im0]
 
 **VII.** Para fines probatorios, Asociación de Transporte Aéreo Internacional IATA tiene la obligación 
 de acreditar o certificar las impresiones de la información proporcionada, a requerimiento del Servicio 
@@ -10703,7 +10527,6 @@ debe exigir la entrega de la Factura original como requisito para emitir la corr
 Nota de Crédito – Débito, sin entregar al Comprador ningún ejemplar de la misma, para 
 luego proceder al archivo conjunto de tales documentos. Además se debe tener en cuenta 
 los siguientes casos: 
-[Image: Im1]
 
 **a)** Si la devolución o rescisión es total, la Nota de Crédito – Débito debe expresar tal 
 importe y las referencias de la Factura original.
@@ -10730,7 +10553,6 @@ al tratamiento general, con la característica especial habilitada al efecto. As
 podrán aplicar las Modalidades de Facturación Manual, Computarizada, Oficina Virtual, Electrónica 
 Web y Electrónica por Ciclos, considerando los formatos establecidos en la presente resolución para 
 cada caso. 
-[Image: Im0]
 
 **III.** Las Notas de Crédito–Débito deben ser emitidas a momento de producirse la devolución o la 
 rescisión siempre que éstas sean realizadas de forma posterior al período fiscal de emisión de la 
@@ -10773,7 +10595,6 @@ aquellos Sujetos Pasivos o Terceros Responsables que estaban autorizados a utili
 Facturación Electrónica en aplicación del NSF-07. La Administración Tributaria habilitará las nuevas 
 suscripciones a la Modalidad de Facturación Electrónica Web mediante Resolución Normativa de 
 Directorio. 
-[Image: Im1]
 
 ## DISPOSICIONES FINALES
 
@@ -10823,7 +10644,6 @@ sustitución del Nuevo Sistema de Facturación (NSF-07), estableciendo modalidad
 procedimientos, aspectos técnicos, formalidades, requisitos para la dosificación, emisión y 
 conservación de Facturas, Notas Fiscales o Documentos Equivalentes, a través de la Oficina Virtual 
 del Servicio de Impuestos Nacionales.
-[Image: Im0]
 
 Que, ante  el requerimiento de contribuyentes a la Administración Tributaria, respecto a una 
 ampliación de la Resolución Normativa de Directorio Nº 10-0049-13 de 30 de diciembre de 2013, 
@@ -10870,7 +10690,6 @@ texto:
 Prevalorada, que se realicen desde el 24 de marzo de 2014 hasta el 31 de agosto de 2014, 
 a través del Sistema GAUSS y el Portal NEWTON, tendrán como fecha límite de emisión 
 hasta el 31 de diciembre de 2014”.
-[Image: Im1]
 
 **III.** Se modifica la Disposición Transitoria Segunda de la Resolución Normativa de Directorio 
 Nº 10-0049-13 de fecha 30 de diciembre de 2013, por el siguiente texto:
@@ -10924,7 +10743,6 @@ Sistema de Facturación (NSF-07), estableciendo modalidades de facturación, pro
 aspectos técnicos, formalidades, requisitos para la dosificación, emisión y conservación de Facturas, 
 Notas Fiscales  o  Documentos Equivalentes, a  través  de  la  Oficina  Virtual  del  Servicio  de  
 Impuestos Nacionales.
-[Image: Im0]
 
 Que, mediante Resolución Normativa de Directorio Nº 10-0007-14 de 14 de marzo de 2014 se 
 modifica la Resolución Normativa de Directorio Nº 10-0049-13, estableciendo la ampliación de 
@@ -10956,7 +10774,6 @@ de 2003, Código Tributario Boliviano, y las disposiciones precedentemente citad
 Primera de la Resolución Normativa de Directorio Nº 10-0049-13 de 30 de diciembre de 2013, 
 modificada por la Resolución Normativa de Directorio Nº 10-0007-14 de 14 de marzo de 2014, el 
 siguiente texto:
-[Image: Im1]
 
 “Todas  las  solicitudes  de  dosificación  para  la  Modalidad  de  Facturación  Prevalorada  con  la 
 característica de impresión en el exterior, tendrá como Fecha Límite de Emisión hasta el 30 de junio 
@@ -11002,7 +10819,6 @@ debiendo permitir la identificación de quien las emite, garantizar la verificac
 la información y datos registrados, de forma tal que cualquier modificación de las mismas ponga en 
 evidencia su alteración y cumplir los requisitos de pertenecer únicamente al titular y encontrarse bajo 
 su absoluto y exclusivo control.
-[Image: Im0]
 
 Que el Artículo 4 de la Ley N° 843 de 20 de mayo de 1986 (Texto Ordenado Vigente), establece 
 que al perfeccionamiento del hecho imponible del Impuesto al Valor Agregado (IVA), la transacción 
@@ -11046,7 +10862,6 @@ optimización e integración de procesos y aplicaciones impositivas, con la prem
 Administración Tributaria de mecanismos de control oportunos y eficientes que le permitan cumplir 
 adecuadamente con sus fines y facilitar el cumplimiento de las obligaciones tributarias de los Sujetos 
 Pasivos o Terceros Responsables.
-[Image: Im1]
 
 Que conforme al Artículo 19, inciso p) del Decreto Supremo Nº 26462 de 22 de diciembre de 2001, 
 Reglamento de la Ley Nº 2166, del Servicio de Impuestos Nacionales, el Presidente Ejecutivo en 
@@ -11093,7 +10908,6 @@ así como Empresa Públicas, están alcanzadas por la presente Resolución, siem
 bienes muebles o presten servicios gravados cuyo valor sea repuesto o pagado bajo contraprestación 
 económica, conforme lo previsto en el Artículo 4 de la Ley N° 1314 de 27 de febrero de 1992; salvo 
 excepciones establecidas en Leyes especiales.
-[Image: Im0]
 
 **Artículo 3. (Exclusiones).-** No se encuentran comprendidos dentro del alcance de la presente 
 Resolución los documentos fiscales relacionados con las Tasas y Contribuciones Especiales 
@@ -11140,7 +10954,6 @@ Tecnologías de Información y Comunicación, que vincula unos datos de verifica
 de firma a un signatario y confirma su identidad. El certificado digital es válido 
 únicamente dentro del término de vigencia indicado en el mismo, requerido en las 
 Modalidades de Facturación Electrónica Web y Electrónica por Ciclos.
-[Image: Im1]
 
 **h) Clave de Asignación de la Imprenta:** Es el número comunicado a las imprentas 
 autorizadas por el SFV, que se genera a momento de asignarse el trabajo de impresión 
@@ -11171,7 +10984,6 @@ y Electrónica por Ciclos, está constituido por pares de datos alfanuméricos s
 por guiones (-) y expresados en formato hexadecimal (A, B, C, D, E y F), no debe 
 contener la letra “O” solamente el número cero (0). Para la generación del código de 
 control el monto de la transacción se considera redondeado sin decimales.
-[Image: Im0]
 
 **m) Código de Respuesta Rápida (Código QR):** Es la imagen que almacena información 
 de la dosificación autorizada por la Administración Tributaria y datos de la transacción 
@@ -11239,7 +11051,6 @@ conciertos, recitales o presentaciones de música, presentaciones de ballet y ba
 artístico o coreográfico, operas, operetas o zarzuelas, desfiles de moda, verbenas, 
 peñas folklóricas, fiestas, presentaciones circenses, presentaciones de magia o 
 ilusionismo, presentaciones humorísticas, deportivas, etc.
-[Image: Im1]
 
 **z) Espectáculo Público Eventual:** Es aquel evento de carácter eventual organizado por 
 personas inscritas o no al Padrón Nacional de Contribuyentes, en escenarios públicos, 
@@ -11259,7 +11070,6 @@ Tributaria cuya emisión respalda la realización de compra-venta de bienes mueb
 contratos de obras, prestación de servicios o toda otra prestación cualquiera fuere su 
 naturaleza alcanzados por el IVA u otro impuesto, que incluye además a los Recibos 
 de Alquiler.
-[Image: Im0]
 
 **cc) Fecha Límite de Emisión:** Es el plazo máximo otorgado por la Administración 
 Tributaria para la emisión de Facturas o Notas Fiscales, previamente dosificadas y 
@@ -11309,7 +11119,6 @@ Impuestos Nacionales, que se emite a objeto de practicar los ajustes respectivos
 el Crédito o el Débito Fiscal IVA, cuando efectivamente se produce la devolución o 
 rescisión total o parcial de bienes y/o servicios adquiridos con anterioridad al periodo 
 que se liquida.
-[Image: Im1]
 
 **mm) Número de Autorización:** Es el número asignado por el SFV que permite identificar 
 una dosificación.
@@ -11375,7 +11184,6 @@ técnicas publicadas en el portal tributario del SIN, siendo necesario además c
 con el Certificado Digital vigente y conexión a Internet permanente. Las Facturas o 
 Notas Fiscales serán generadas digitalmente, mínimamente en formato PDF, según 
 requerimiento de cada contribuyente.
-[Image: Im0]
 
 **f) Facturación Electrónica por Ciclos:** Modalidad en la cual la generación y la 
 emisión de Facturas o Notas Fiscales, se realiza a partir del sistema de facturación 
@@ -11420,7 +11228,6 @@ sola Factura pudiendo utilizarse un sistema de facturación computarizado propio
 titular o del tercero emisor. Esta característica podrá aplicarse a las Modalidades de 
 Facturación Manual, Computarizada y Electrónica por Ciclos, establecidas en los 
 incisos a), c), y f) del Artículo 5 de la presente Resolución.
-[Image: Im1]
 
 En la Modalidad de Facturación Electrónica por Ciclos el tercero emisor deberá 
 registrar su sistema de facturación computarizado, contar con el Certificado de 
@@ -11447,7 +11254,6 @@ independiente y en relación a las operaciones gravadas que les correspondan, (v
 Anexo N° 6). Esta característica especial podrá aplicarse a las Modalidades de 
 Facturación Computarizada y Electrónica por Ciclos, establecidas en los incisos c) y 
 f) del Artículo 5 de la presente Resolución.
-[Image: Im0]
 
 En todos los casos, el Sujeto Pasivo Emisor será registrado y autorizado en el SFV por 
 todos los Sujetos Pasivos Incluidos. La dosificación con esta característica especial 
@@ -11493,7 +11299,6 @@ EXPORTACIÓN EN LIBRE CONSIGNACION” (ver Anexo Nº  9); puede ser
 utilizada en las Modalidades de Facturación Computarizada, Oficina Virtual y 
 Electrónica por Ciclos, previstas en los incisos c), d) y f) del Artículo 5 de la presente 
 Resolución.
-[Image: Im1]
 
 **h) Factura Turística:** Característica especial aplicable a las operaciones de turismo 
 receptivo conforme lo dispuesto en el Artículo 30 de la Ley N° 292 de fecha 25 de 
@@ -11535,7 +11340,6 @@ parcial, adquiridos con anterioridad al periodo que se liquida (ver Anexo N° 16
 característica especial puede ser utilizada en las Modalidades de Facturación Manual 
 y Computarizada, establecidas en los incisos a) y c) del Artículo 5 de la presente 
 Resolución.
-[Image: Im0]
 
 **Artículo 8. (Fecha Límite de Emisión).-** Las Facturas, Notas Fiscales o Documentos Equivalentes 
 deberán ser emitidos hasta la fecha límite de emisión según la Modalidad de Facturación que se 
@@ -11584,7 +11388,6 @@ Unipersonales, podrán consignar el nombre comercial;
 Departamento (éste último cuando sea distinto al del Municipio), para el caso de 
 espectáculos públicos eventuales el domicilio, Municipio y Departamento donde se 
 realice el evento;
-[Image: Im1]
 
 **c)** Datos de Sucursal: Número, domicilio, número telefónico, Municipio y Departamento 
 (cuando sea distinto al de la casa matriz), sólo en el caso de una dosificación asignada 
@@ -11637,7 +11440,6 @@ CRÉDITO FISCAL”, “TASA CERO - SIN DERECHO A CRÉDITO FISCAL”,
 Y LA LECTURA” o “SIN DERECHO A CRÉDITO FISCAL - VENTA MONEDA 
 EXTRANJERA”, “ZONA FRANCA - SIN DERECHO A CREDITO FISCAL”, 
 según corresponda.
-[Image: Im0]
 
 **c)** Subtítulo: Para el caso de los espectáculos públicos eventuales se deberá consignar 
 “ESPECTÁCULO PÚBLICO EVENTUAL”.
@@ -11667,7 +11469,6 @@ Combustible (Gasolina Especial, Gasolina Premium, Diésel y Gas Natural Vehicula
 también se deberá consignar el número de placa del vehículo automotor, identificando 
 si es placa nacional o extranjera. Cuando la venta se realice en envases se registrará 
 uno de los siguientes caracteres: bidones (B), botellas (T) u otros (O). Ejemplos:
-[Image: Im1]
 
 | NOMBRE O RAZÓN SOCIAL | PLACA | PAÍS ORIGEN DE LA PLACA | ENVASE |
 | --- | --- | --- | --- |
@@ -11721,7 +11522,6 @@ la transacción, cuando la operación sea en moneda extranjera; con excepción d
 Facturas Prevaloradas. Para el caso de entidades del sistema financiero nacional, éstas 
 podrán utilizar el tipo de cambio en moneda extranjera, de acuerdo a disposiciones 
 emitidas por la Autoridad de Supervisión del Sistema Financiero (ASFI).
-[Image: Im0]
 
 **h)** Importe total en bolivianos (numeral y literal), se deberá utilizar como signo separador  
 de decimales el punto (.).
@@ -11760,7 +11560,6 @@ consignar en letras minúsculas, con excepción de la primera letra, una de las 
 contenidas en el Anexo N° 17 de la presente Resolución. La leyenda será asignada 
 por el SFV en cada dosificación dando preferencia a la que corresponda al sector de 
 la actividad económica.
-[Image: Im1]
 
 De manera opcional, sólo en las Modalidades de Facturación Prevalorada la leyenda 
 podrá ser ubicada al reverso de la Factura o Nota Fiscal.
@@ -11834,7 +11633,6 @@ en la Modalidad de Facturación Manual, es posible evitar la inactivación de Fa
 optando por consignar en los documentos con un sello de goma la información modificada, siempre 
 y cuando la nueva dirección se mantenga en la misma jurisdicción y hubiera sido registrada en el 
 Padrón Nacional de Contribuyentes.
-[Image: Im0]
 
 **IV.** Las Facturas o Notas Fiscales de los Sujetos Pasivos o Terceros Responsables que se encuentren 
 sujetos a regulación, podrán adecuar sus formatos según las disposiciones emitidas por la autoridad reguladora competente, siempre y cuando cumplan con los requisitos mínimos establecidos en la reproducción 
@@ -11875,7 +11673,6 @@ de venta correspondiente a la fecha de la transacción, cuando la operación sea
 moneda extranjera, siendo opcional el lugar y fecha de emisión) y los datos finales para 
 las Modalidades de Facturación Computarizada y Electrónica por Ciclos. El código de 
 control y el Código QR deben generarse por cada una de las Facturas incluidas.
-[Image: Im1]
 
 **3.** Total de la Facturación y Leyendas. Una vez incorporada la información detallada 
 precedentemente, por única vez al final de la Factura, se consignará lo siguiente:
@@ -11895,7 +11692,6 @@ se deberá consignar en letras minúsculas, con excepción de la primera letra, 
 de las leyendas contenidas en el Anexo N° 17 de la presente Resolución. La 
 leyenda será asignada por el SFV en cada dosificación dando preferencia a la que 
 corresponda al sector de la actividad económica.
-[Image: Im0]
 
 **IV.**  Las Facturas en la Modalidad de Facturación Prevalorada se emitirán por cada transacción 
 comercial y deberán consignar la fecha límite de emisión; no requerirán consignar los datos de 
@@ -11956,7 +11752,6 @@ relacionados con la operación comercial de exportación.
 información establecida en el Parágrafo precedente con excepción de los Numerales 1, 2, 10, 11 y 
 12; asimismo se deberá señalar el lugar de acopio o puerto en el campo destinado a la dirección del 
 importador.
-[Image: Im1]
 
 **VII.** La Nota de Crédito - Débito deberá consignar la información establecida en el Artículo 
 precedente considerando las siguientes particularidades:
@@ -12006,7 +11801,6 @@ Facturación.
 impresión de las Facturas bajo la Modalidad de Facturación Computarizada sea en rollo, deberá 
 contener en el anverso los datos señalados en el Artículo 10 de la presente Resolución, (ver Anexo 
 N° 12):
-[Image: Im0]
 
 **1.** Datos Básicos;
 
@@ -12036,7 +11830,6 @@ las Usuarias y los Usuarios y de las Consumidoras y los Consumidores, se deberá
 en letras minúsculas, con excepción de la primera letra, una de las leyendas contenidas en 
 el Anexo N° 17 de la presente Resolución. La leyenda será asignada por el SFV en cada 
 dosificación dando preferencia a la que corresponda al sector de la actividad económica.
-[Image: Im1]
 
 **Artículo 13. (Consistencia de la información).-** La información del Sujeto Pasivo o Tercero 
 Responsable que figura en las Facturas, Notas Fiscales o Documentos Equivalentes, deberá 
@@ -12092,7 +11885,6 @@ requiera la impresión a través de esta modalidad, se podrá utilizar cualquier
 distinto al negro que permita la completa legibilidad de la información contenida en las  
 Facturas. El Código QR deberá ser impreso en color negro u otro de tinta oscura sobre fondo 
 que permita la legibilidad.
-[Image: Im0]
 
 **II.**  La información deberá imprimirse tomando en cuenta lo siguiente:
 
@@ -12128,7 +11920,6 @@ garantizar la legibilidad y nitidez de la información a partir de su emisión.
 deberán realizar la solicitud de dosificación a través del SFV; la dosificación por cantidad se aplica a 
 las Modalidades de Facturación Manual y Prevalorada, y por tiempo se aplica a las Modalidades de 
 Facturación Computarizada, Oficina Virtual, Electrónica Web y Electrónica por Ciclos.
-[Image: Im1]
 
 **II.** El procedimiento de dosificación es automático en las Modalidades de Facturación Oficina 
 Virtual, Electrónica Web y Electrónica por Ciclos.
@@ -12171,7 +11962,6 @@ dosificación en las Modalidades de Facturación Manual y Prevalorada, se obtend
 del promedio de dosificación de los Sujetos Pasivos o Terceros Responsables que tengan la misma 
 Actividad Económica y pertenezcan a la misma categoría y segmento, en caso de no contar con esta  
 información se otorgarán:
-[Image: Im0]
 
 **3.** Como máximo trescientas (300) Facturas a solicitud del contribuyente, para la categoría Resto de 
 Contribuyentes y un mil quinientas (1500) Facturas para las categorías GRACO y PRICO.
@@ -12219,7 +12009,6 @@ Riesgo Tributario determinada por la Administración Tributaria.
 precedentes, se establecen los siguientes tipos de dosificación excepcional siempre y cuando no 
 consignen alguna marca de control y no se encuentre en los parámetros de Riesgo Tributario y se 
 registre el motivo de la solicitud:
-[Image: Im1]
 
 **a)** Dosificación de Cantidad Extraordinaria: Aplicable sólo a la Modalidad de Facturación 
 Manual, como máximo cinco (5) dosificaciones por gestión fiscal, conforme la 
@@ -12246,8 +12035,6 @@ Modalidad de Facturación que elija, realizar los siguientes pasos:
 **e)** Seleccionar sucursal y punto de venta móvil cuando corresponda;
 
 ---
-
-[Image: Im0]
 
 **f)** Seleccionar la Modalidad de Facturación Manual;
 
@@ -12326,7 +12113,6 @@ Tercero Responsable su manejo y custodia.
 bajo las Modalidades de Facturación Computarizada y Electrónica por Ciclos, previo a realizar la 
 solicitud de dosificación, deberá registrar su sistema de facturación computarizado (SFC) y proceder 
 a la certificación del código de control, en el SFV, realizando los siguientes pasos:
-[Image: Im1]
 
 **1.**Registro del sistema de facturación computarizado (SFC):
 
@@ -12360,7 +12146,6 @@ a la certificación del código de control, en el SFV, realizando los siguientes
 Responsable a través del SFV. Si los casos de prueba hubieran sido respondidos correctamente, se 
 procederá a la certificación para la generación del código de control; caso contrario se finalizará el 
 proceso de certificación, debiendo realizar nuevamente el proceso de certificación.
-[Image: Im0]
 
 **1.** En Red, para lo que será suficiente utilizar una misma dosificación (utilizado simultáneamente por 
 uno o varios computadores conectados a una misma red);
@@ -12410,7 +12195,6 @@ computarizado a una sucursal, deberá realizar los siguientes pasos:
 **Artículo 26. (Autorizaciones).-** Los Sujetos Pasivos o Terceros Responsables para aplicar las 
 características especiales de Facturación por Terceros o Facturación Conjunta deberán autorizar al 
 tercero emisor o emisor a través del SFV.
-[Image: Im1]
 
 Para acceder a una dosificación masiva y/o impresión en el exterior los Sujetos Pasivos o Terceros 
 Responsables deberán solicitar a través del SFV la correspondiente autorización.
@@ -12458,7 +12242,6 @@ deberán apersonarse a una imprenta autorizada para realizar el trabajo de impre
 el número de trámite de la solicitud de dosificación. Por su parte,  la imprenta autorizada a través 
 del SFV se asignará el trabajo de impresión, obteniendo como resultado los datos de dosificación, 
 debiendo cumplir con los siguientes pasos:
-[Image: Im0]
 
 **b)** Elegir la opción “Imprentas”;
 
@@ -12510,7 +12293,6 @@ o Notas Fiscales.
 o Terceros Responsables, deberán verificar si las Facturas o Notas Fiscales impresas cumplen con 
 todos los requisitos y se encuentran de acuerdo a los formatos y demás aspectos técnicos establecidos 
 en la presente Resolución.
-[Image: Im1]
 
 Realizada la verificación señalada precedentemente, los Sujetos Pasivos o Terceros Responsables 
 deberán firmar el acuse de recibo generado al efecto “Certificado de Activación de Dosificación”, 
@@ -12541,7 +12323,6 @@ Electrónica por Ciclos la activación de dosificación es automática.
 **Artículo 30. (Cancelación de Trabajos de Impresión).- I.** La cancelación del trabajo de impresión 
 deberá ser realizada por el Sujeto Pasivo o Tercero Responsable y/o por la imprenta autorizada, para 
 lo cual se deberán realizar los siguientes pasos:
-[Image: Im0]
 
 **1.** Cancelación por parte del Sujeto Pasivo o Tercero Responsable:
 
@@ -12610,7 +12391,6 @@ teléfono y correo electrónico).
 suscripción en las Modalidades de Facturación Oficina Virtual, Electrónica Web y Electrónica por 
 Ciclos, especificando la actividad económica, característica especial y otros, debiendo al efecto 
 realizar los siguientes pasos:
-[Image: Im1]
 
 **a)** Ingresar al SFV;
 
@@ -12646,7 +12426,6 @@ registrar su Certificado Digital; realizando los siguientes pasos:
 **II.** En caso de que los certificados digitales sean revocados o renovados por la entidad certificadora, 
 el Sujeto Pasivo o Tercero Responsable, deberá seguir los pasos descritos en el Parágrafo anterior 
 para actualizarlos.
-[Image: Im0]
 
 **4.** Registrar “Usuario Certificado”;
 
@@ -12673,7 +12452,6 @@ tres (3) días hábiles siguientes a la recepción del archivo “.cer” del Ce
 su instalación, verificación y comunicar el resultado a través del SFV en el módulo “Administración 
 de Certificados”; de confirmarse dichas condiciones, el Sujeto Pasivo o Tercero Responsable será 
 habilitado para iniciar la etapa de pruebas.
-[Image: Im1]
 
 **II.** Si existieran problemas con los certificados digitales, éstos serán comunicados a través del SFV 
 en el módulo “Administración de Certificados” para su regularización.
@@ -12730,7 +12508,6 @@ a las de “Alquiler de Bienes raíces propios” o las comprendidas dentro del 
 Independientes” u “Oficios”, deberán utilizar de manera obligatoria las Modalidades de Facturación 
 Prevalorada, Computarizada, Oficina Virtual, Electrónica Web o Electrónica por Ciclos, previstas en 
 los incisos b), c), d), e) y f) del Artículo 5 de la presente Resolución.
-[Image: Im0]
 
 **II.** Los Sujetos Pasivos o Terceros Responsables cuyo volumen de Facturación durante seis (6) 
 periodos fiscales consecutivos del IVA no superen una (1) transacción por período fiscal mensual, 
@@ -12767,7 +12544,6 @@ de la entrega del bien o acto equivalente que suponga la transferencia de domini
 al comprador la Factura o Nota Fiscal emitida bajo las Modalidades de Facturación Computarizada, 
 Electrónica Web o Electrónica por Ciclos, previstas en los incisos c), e) y f) del Artículo 5 de la 
 presente Resolución.
-[Image: Im1]
 
 En las operaciones de venta por comercio electrónico con intermediarios, éstos realizarán la 
 Facturación con la característica especial Facturación por Terceros, a través de las Modalidades de 
@@ -12849,7 +12625,6 @@ ventas deberán totalizarse diariamente, importe que deberá ser facturado consi
 de emisión y la leyenda “VENTAS MENORES DEL DÍA” en la sección destinada a la razón social 
 del cliente, además de tachar o consignar el valor cero (0) en el campo destinado al NIT o número de 
 Documento de Identificación, debiendo mantener también el original para fines de control posterior.
-[Image: Im0]
 
 ---
 
@@ -12882,7 +12657,6 @@ con carácter mensual a la conclusión del periodo de prestación por el cual se
 el pago o contraprestación mensual o a momento de su efectivo pago lo que ocurra 
 primero en concordancia con lo dispuesto por el inciso b) del Artículo 4 de la Ley No. 
 843 (Texto Ordenado Vigente).
-[Image: Im1]
 
 En el caso específico de servicios continuos de energía eléctrica, agua potable y gas 
 domiciliario la Factura o Nota Fiscal deberá emitirse con carácter mensual, tomándose 
@@ -12912,7 +12686,6 @@ número de autorización, número de Factura, fecha de emisión, importe total d
 código de control), a otro medio para que pueda ser complementada con aquella información 
 que el exportador requiera de acuerdo a las condiciones de comercialización negociadas o a las 
 necesidades inherentes a su actividad exportadora.
-[Image: Im0]
 
 **4.** Régimen de Tasa Cero: Las operaciones gravadas con Tasa Cero, deben ser emitidas exclusivamente 
 para este fin.
@@ -12952,7 +12725,6 @@ ponga en evidencia su alteración, conforme lo dispuesto por el segundo párrafo
 del Artículo 79 de la Ley Nº 2492 Código Tributario Boliviano. En caso que no se cumplan las 
 condiciones previamente referidas, los Sujetos Pasivos o Terceros Responsables deberán generar 
 copias físicas en los términos dispuestos en la presente Resolución.
-[Image: Im1]
 
 **III.** En la Modalidad de Facturación Oficina Virtual, no se requerirán de copias físicas de respaldo, 
 salvo requerimiento del emisor para fines contables internos. El emisor deberá conservar los archivos 
@@ -12999,7 +12771,6 @@ reportará en el  SFV.
 previamente activadas e impresas bajo las Modalidades de Facturación Manual y Prevalorada que 
 no sean utilizadas, toda vez que manifiesten errores de impresión, se produjeran cambios en la 
 información preimpresa o no fueran utilizadas por cualquier razón, como ser:
-[Image: Im0]
 
 **a)** Cambio de dirección del domicilio fiscal;
 
@@ -13069,7 +12840,6 @@ Terceros o Conjunta.
 utilizadas y/o no cuenten con el respectivo documento original según corresponda, serán  consideradas 
 como emitidas y por lo tanto sujetas a lo establecido en la reglamentación para la determinación de la 
 base imponible sobre base presunta y demás disposiciones tributarias conexas.
-[Image: Im1]
 
 **Artículo 47. (Procedimiento de Inactivación).- I.** El Sujeto Pasivo o Tercero Responsable para la 
 Inactivación de sus Facturas o Notas Fiscales, deberá realizar los siguientes pasos:
@@ -13090,7 +12860,6 @@ Inactivación de sus Facturas o Notas Fiscales, deberá realizar los siguientes 
 
 **f)** Consignar información respecto de las publicaciones y denuncia realizadas (cuando el 
 tipo de inactivación sea extraviada);
-[Image: Im0]
 
 **g)** Registrar el rango de Facturas y/o Notas Fiscales;
 
@@ -13170,14 +12939,12 @@ se deberá aplicar el siguiente procedimiento:
 **Artículo 49. (Imprentas Autorizadas).- I.** La Administración Tributaria autorizará a las imprentas 
 para que operen como proveedores del servicio de impresión de Facturas o Notas Fiscales a los 
 Sujetos Pasivos o Terceros Responsables, que opten por las Modalidades de Facturación Manual y 
-[Image: Im1]
 
 ---
 
 Prevalorada, para tal efecto las imprentas que cumplan con los requisitos y realicen los procedimientos reproducción 
 establecidos en el presente Capítulo, serán registradas en el Padrón Nacional de Contribuyentes como 
 imprentas autorizadas.
-[Image: Im0]
 
 **II.** Los Sujetos Pasivos o Terceros Responsables deberán imprimir sus talonarios de Facturas o Notas 
 Fiscales, únicamente en una imprenta autorizada por la Administración Tributaria, sin la posibilidad 
@@ -13254,7 +13021,6 @@ presente Resolución, a tal efecto la Administración Tributaria realizará cont
 cumplimiento de los trabajos asignados, aplicando cuando corresponda los conceptos de suspensión 
 temporal o cancelación definitiva, en base a los siguientes criterios de control procesados con corte al 
 último día del mes sobre los datos del mes anterior:
-[Image: Im1]
 
 **1. Trabajos no Activados frente a los Trabajos Asignados:** Es la relación de las solicitudes de 
 dosificación asignadas en el SFV por la imprenta, respecto a los trabajos que no hubieren sido 
@@ -13279,7 +13045,6 @@ Sujeto Pasivo o Tercero Responsable respecto a las solicitudes asignadas en el S
 para desarrollar el seguimiento de las imprentas autorizadas, posteriormente y cuando corresponda, 
 se realizarán los procesos de suspensión temporal o cancelación definitiva de la autorización a la 
 imprenta para realizar trabajos de impresión como se detalla a continuación:
-[Image: Im0]
 
 **1.** Suspensión Temporal: Implica la imposibilidad de realizar nuevos trabajos de impresión, por el 
 transcurso de tres (3) meses, salvo trabajos en proceso asignados con anterioridad a la suspensión, 
@@ -13334,7 +13099,6 @@ con trabajos asignados pendientes de activación, realizando los siguientes paso
 Nacional de Contribuyentes, sea a solicitud de ésta o de oficio conforme normativa vigente; implicará 
 la pérdida automática de la calidad de imprenta autorizada, debiendo la misma activar o cancelar 
 aquellos trabajos en proceso asignados con anterioridad a la inactivación.
-[Image: Im1]
 
 ## CAPÍTULO VI
 
@@ -13367,7 +13131,6 @@ el IVA y el Documento de Identificación en aquellos que respalden gastos person
 descargar el RC-IVA (dependientes). Asimismo, en caso que el comprador sea Sujeto Pasivo del 
 IUE y ejerza profesiones liberales y/u oficios en forma independiente, debe solicitar se consigne su 
 NIT en las Facturas o Notas Fiscales por compra de bienes y servicios;
-[Image: Im0]
 
 **5.** Consigne para Personas Naturales mínimamente el primer apellido, para Empresas Unipersonales 
 también es válido el nombre comercial y para Personas Jurídicas la razón social o sigla, los errores 
@@ -13415,7 +13178,6 @@ Identificación no concuerde con el del comprador (o no contenga este dato), sie
 domicilio fiscal consignado en los documentos coincida con el declarado por el beneficiario en el 
 Padrón Nacional de Contribuyentes para el caso del IVA o el domicilio consignado en la Declaración 
 Jurada correspondiente para el caso del RC-IVA.
-[Image: Im1]
 
 **VI.** Serán válidas las Facturas de la Modalidad de Facturación Prevalorada, emitidas sin NIT o 
 número de Documento de Identificación, sin nombre o razón social o nombre comercial,  ni  fecha  
@@ -13458,7 +13220,6 @@ para el caso del RC-IVA hasta ciento veinte (120) días posteriores a la fecha l
 respaldar el Crédito Fiscal correspondiente al periodo fiscal de la fecha de emisión o bien a la fecha 
 de su efectivo pago, en este último caso la fecha de pago no podrá ser mayor a ciento ochenta (180) 
 días computados a partir de la fecha de emisión.
-[Image: Im0]
 
 **IV.** El Crédito Fiscal de las Declaraciones Únicas de Importación (DUI´s) debe ser imputado en el 
 periodo correspondiente a la fecha de pago de dichos documentos, con la que finalice el Despacho 
@@ -13509,7 +13270,6 @@ en el IVA dispuesto por la Ley N° 366 de 29 de abril de 2013 (ver Anexo N° 14)
 Responsables que utilicen la Modalidad de Facturación Computarizada no puedan cumplir con 
 los tamaños establecidos en el Parágrafo I del Artículo 14 de la presente Resolución por razones 
 tecnológicas, deberán solicitar autorización a través del SFV para utilizar tamaños especiales.
-[Image: Im1]
 
 **II.** La solicitud de autorización para el uso de tamaños especiales de Facturas o Notas Fiscales, deberá 
 realizarse con carácter previo a la dosificación de Facturas.
@@ -13573,7 +13333,6 @@ las cuales no serán sujetas a devolución impositiva. Asimismo, no se encuentra
 Factura Comercial de Exportación dosificada, las encomiendas internacionales u otras piezas postales, 
 transportadas por entidades de servicio expreso o postal de acuerdo a normas internacionales de 
 servicio de correos, no sujetos a devolución.
-[Image: Im0]
 
 **V.** En caso de operaciones de reimportación corresponderá anular la Factura Comercial de Exportación 
 previamente emitida, debiendo ser reportada a través del SFV y registrada en el Libro de Ventas como 
@@ -13587,7 +13346,6 @@ la devolución impositiva, el exportador deberá reemplazar las Facturas Comerci
 en Libre Consignación con las correspondientes Facturas Comerciales de Exportación debidamente 
 habilitadas por el Servicio de Impuestos Nacionales, una vez cerrada o concluida la operación de 
 exportación con DUE definitiva.
-[Image: Im1]
 
 **VII.** Las Facturas Comerciales de Exportación de minerales no deberán consignar el valor de las 
 regalías.
@@ -13648,7 +13406,6 @@ presten servicio de hospedaje a turistas extranjeros no residentes que individua
 (sin Programa de Operadores de Turismo Receptivo), deberán emitir la Factura o Nota Fiscal con la 
 característica especial “Sin Derecho a Crédito Fiscal”, consignando el nombre del turista y el valor 
 cero (0) en los campos NIT y Operador de Turismo Receptivo.
-[Image: Im0]
 
 En ambos casos se debe respaldar la Factura emitida con fotocopia del Documento de Identificación 
 o Pasaporte del turista extranjero no residente.
@@ -13709,7 +13466,6 @@ e Industriales, tales como Bancos, Empresas de Seguro, Agencias y Agentes Despac
 Aduana, restaurantes, y toda otra persona que no sea usuaria ni concesionaria y preste cualquier 
 otro servicio estando alcanzadas por los tributos establecidos en la Ley 843 (Texto Ordenado 
 Vigente) y demás disposiciones complementarias.
-[Image: Im1]
 
 **II.** En caso que los concesionarios o usuarios de Zonas Francas Comerciales e Industriales realicen 
 actividades gravadas fuera de éstas, deberán emitir Facturas o Notas Fiscales con derecho a Crédito 
@@ -13722,7 +13478,6 @@ conforme lo dispuesto en la Ley N° 1850 de 7 de abril de 1998, y el Decreto Sup
 de octubre de 2000, tienen la obligación de emitir Facturas o Notas Fiscales “Sin Derecho a Crédito 
 Fiscal”, a objeto de respaldar las operaciones realizadas dentro de esa ciudad, aplicando lo dispuesto 
 en los Parágrafos anteriores.
-[Image: Im0]
 
 La emisión de Facturas o Notas Fiscales Sin Derecho a Crédito Fiscal en Zona Franca Cobija, sólo 
 serán válidas para operaciones realizadas al interior de esa ciudad. Por toda venta de bienes o prestación 
@@ -13781,7 +13536,6 @@ boleto aéreo de forma separada a la Tarifa Neta (FARE) otros costos que forman 
 que a la fecha son cobrados a los pasajeros dentro la Tarifa Neta (FARE), para vuelos originados 
 en el territorio nacional, podrán utilizar los códigos (YQ) o (YR) en el boleto aéreo, en este caso el 
 importe sujeto a Crédito Fiscal al cual tendrá derecho el pasajero o beneficiario estará compuesto por:
-[Image: Im1]
 
 Tarifa Neta (FARE) + Impuesto Nacional IVA (BO) + Otros Conceptos (YQ o YR)
 
@@ -13838,7 +13592,6 @@ correcta, exacta, íntegra y permita identificar todos los datos de la transacci
 de procesamiento y de  registro, con un mecanismo de seguridad que haga evidente algún cambio 
 o alteración, conforme lo dispuesto en el segundo Párrafo del Parágrafo I, Artículo 79 de la Ley N° 
 2492 Código Tributario Boliviano.
-[Image: Im0]
 
 **V.** Se autoriza a las Líneas Aéreas, Agentes Generales Autorizados y a IATA, hacer imprimir o 
 adquirir en el exterior del Estado Plurinacional, de acuerdo a modelos internacionales, los boletos 
@@ -13886,7 +13639,6 @@ Para el caso de Facturación Conjunta se podrá archivar una fotocopia de la Fac
 de no afectar la utilización de las Facturas de los Sujetos Pasivos incluidos; sin embargo, se deberá 
 inhabilitar (de forma impresa o con sello de goma) la Factura original resultado de la devolución o 
 rescisión lograda, evitando de esta manera su uso.
-[Image: Im1]
 
 La Nota de Crédito - Débito debidamente emitida será utilizada para respaldar el Crédito Fiscal al 
 Vendedor de los bienes o Prestador de servicios en el periodo en el que se produzca la devolución o 
@@ -13934,7 +13686,6 @@ aplicación de la respectiva sanción por Incumplimiento de Deberes Formales en 
 correspondan, los Sujetos Pasivos o Terceros Responsables deberán realizar la regularización de 
 Facturas o Notas Fiscales cuando en la emisión de las mismas se consignen o adviertan los siguientes 
 errores:
-[Image: Im0]
 
 **1.  Número de Autorización inexistente en el SFV:** El Sujeto Pasivo que por error consigne en la 
 Factura o Nota Fiscal de manera impresa o preimpresa un Número de Autorización diferente al 
@@ -13956,7 +13707,6 @@ errado por captura incorrecta de la llave digital proporcionada por la Administr
 **5. de activación posterior a la emisión: Fecha**  Las Facturas o Notas Fiscales que fueron emitidas reproducción 
 antes de la activación de la dosificación por el Sujeto Pasivo o por la imprenta autorizada según 
 corresponda;
-[Image: Im1]
 
 **6.  Emisión de Facturas posterior a la fecha límite de emisión:** El Sujeto Pasivo continuó 
 emitiendo Facturas o Notas Fiscales fuera de la fecha límite de emisión;
@@ -14016,7 +13766,6 @@ con el procedimiento sancionador.
 
 **III.** El formato del archivo para la regularización de Facturas o Notas Fiscales emitidas con error 
 deberá cumplir con la siguiente estructura:
-[Image: Im0]
 
 **1.** El formato del nombre del archivo que se desplegará en el campo Nombre Archivo, deberá 
 corresponder a:
@@ -14081,7 +13830,6 @@ Web y Electrónica  por Ciclos.
 **Artículo 71. (Reversión de Inactivación de Facturas o Notas Fiscales).- I.** Cuando el Sujeto Pasivo 
 o Tercero Responsable, erróneamente hubiere inactivado Facturas o Notas Fiscales, podrá aplicar el 
 procedimiento de reversión, efectuando los siguientes pasos:
-[Image: Im1]
 
 **1.** Ingresar al SFV;
 
@@ -14104,7 +13852,6 @@ Fiscal.
 
 **II.** El formato del archivo para la Reversión de Inactivación de Facturas o Notas Fiscales deberá 
 cumplir con la siguiente estructura:
-[Image: Im0]
 
 **1.** El formato que se desplegará en el campo “Nombre Archivo”, deberá corresponder a:
 
@@ -14181,7 +13928,6 @@ formalizada por Notario de Fe Pública.
 **V.** Los Sujetos Pasivos o Terceros Responsables sean Concesionarios o Usuarios de Zonas Francas 
 deberán elaborar y enviar los Libros de Compras y Ventas IVA en la forma y condiciones dispuestas en 
 el presente Capítulo, debiendo consolidar las compras y ventas, realizadas al interior y fuera de éstas.
-[Image: Im1]
 
 ---
 
@@ -14220,7 +13966,6 @@ adecuada y conforme a Ley, debiendo ser presentado a requerimiento de la Adminis
 registrarse cronológica y correctamente las Facturas, Notas Fiscales o Documentos Equivalentes 
 en el periodo de liquidación del impuesto conforme a los formatos, la estructura y el aplicativo 
 informático, establecidos en la presente Resolución.
-[Image: Im0]
 
 Deberá entenderse como registro de una Factura, Nota Fiscal o Documento Equivalente, la 
 consignación de datos de este documento en cada fila del LCV-IVA.
@@ -14242,7 +13987,6 @@ gravadas, exentas, liberadas, gravadas a tasa cero, así como la discriminación
 Consumos Específicos (ICE), Impuesto Especial a los Hidrocarburos y sus Derivados (IEHD), 
 tasas y contribuciones especiales, descuentos, bonificaciones y otros impuestos indirectos cuando 
 corresponda de acuerdo a formatos establecidos en la presente Resolución.
-[Image: Im1]
 
 **V.** Los Libros de Compras y Ventas IVA no deberán presentar campos sin datos en los registros, ni 
 formatos diferentes a los previstos en la presente Resolución.
@@ -14286,7 +14030,6 @@ siguientes especificaciones:
 **2.1. ESTÁNDAR.** Se utilizará la especificación “ESTÁNDAR” en el cual se registrarán todas las 
 compras y adquisiciones realizadas en el periodo a informar, de acuerdo al formato y la estructura 
 del Anexo N° 21 de la presente Resolución, debiendo contener los siguientes datos:
-[Image: Im0]
 
 **a)** N° (número correlativo);
 
@@ -14360,7 +14103,6 @@ la estructura del Anexo N° 22 de la presente Resolución, debiendo contener los
 de Compras IVA consignando el 100% del importe en la columna “Total de la Compra”, un 30% del 
 importe de la compra en la columna “Importe no sujeto a Crédito Fiscal” y el restante 70% del valor 
 total de la compra en la columna “Importe base para Crédito Fiscal”.
-[Image: Im1]
 
 **III.** En ningún caso corresponderá el registro agrupado de compras.
 
@@ -14379,7 +14121,6 @@ El Libro de Ventas IVA contiene secciones agrupadas por las siguientes especific
 Estaciones de Servicio, Ventas Prevaloradas Agrupadas, Reintegros  y Notas de Crédito - Débito, 
 en las que se deberán registrar, según corresponda, los datos de las Facturas, Notas Fiscales o 
 Documentos Equivalentes, de acuerdo a lo siguiente:
-[Image: Im0]
 
 **1.** Datos del encabezado:
 
@@ -14442,7 +14183,6 @@ menos exportaciones y operaciones exentas menos ventas gravadas a Tasa Cero);
 SERVICIO” para el registro de las ventas de Gasolina Especial, Gasolina Premium, Diésel y 
 Gas Natural Vehicular, conforme el formato y la estructura del Anexo N° 24 de la presente 
 Resolución, debiendo contener los siguientes datos:
-[Image: Im1]
 
 **a)** N° (número correlativo);
 
@@ -14488,7 +14228,6 @@ respetando su correlatividad, así como la sumatoria del monto total correspondi
 rango (Ej. servicios de telefonía pre pagados con tarjetas, garrafas de GLP, cines, espectáculos 
 públicos), de conformidad al formato y la estructura del Anexo N° 25 de la presente Resolución, 
 debiendo contener los siguientes datos:
-[Image: Im0]
 
 **a)** N° (número correlativo);
 
@@ -14535,7 +14274,6 @@ DÉBITO” cuando se trate del registro de devoluciones o rescisiones que el Suj
 Tercero Responsable como comprador haya efectuado, y que estén respaldadas por Notas de 
 Crédito - Débito en el periodo fiscal, para el registro del Débito Fiscal, de acuerdo al formato y 
 la estructura del Anexo N° 27 de la presente Resolución, debiendo contener los siguientes datos:
-[Image: Im1]
 
 **a)** Nº (número correlativo);
 
@@ -14588,7 +14326,6 @@ LCV-IVA FACILITO desde la página web del SIN en la dirección **www.impuestos.g
 **bo** ejecutar el aplicativo informático “FACILITO”, elegir la opción Instalar Declaraciones 
 Juradas, señalar la ruta donde se encuentra descargado el archivo a instalar, abrir el archivo y 
 presionar Aceptar y Finalizar.
-[Image: Im0]
 
 **Artículo 79. (Registro en el LCV-IVA).-** El registro de Facturas, Notas Fiscales o Documentos 
 Equivalentes en el Módulo LCV-IVA FACILITO podrá realizarse ingresando manualmente los datos 
@@ -14609,7 +14346,6 @@ eximidos de la obligación de volver a informar tales transacciones en sus Libro
 **Artículo 81. (Envío de la Información).- I.** Los Sujetos Pasivos o Terceros Responsables deberán 
 enviar la información de los Libros de Compras y Ventas IVA elaborados a través del Módulo LCV-
 IVA FACILITO, utilizando optativamente una de las siguientes formas:
-[Image: Im1]
 
 ## 1. Desde el aplicativo “FACILITO”:
 
@@ -14672,7 +14408,6 @@ Resolución Normativa de Directorio 10-0004-16 de 5 de febrero de 2016, hasta la
 vencimiento de la Declaración Jurada del IVA correspondiente al periodo fiscal mayo 2016 de 
 acuerdo al último digito del NIT, para los periodos fiscales enero, febrero, marzo y abril de la 
 gestión 2016.
-[Image: Im0]
 
 ***Nota del Editor:*** *La RND Nº 10-0010-16 de 24/03/2016 en su Artículo Único,* ***prorrogó*** *el* 
 *plazo establecido en el Inciso precedente.*
@@ -14709,7 +14444,6 @@ tres (3) días posteriores a la notificación de la Resolución Administrativa d
 de rectificatorias a favor del contribuyente, o de la fecha de presentación de la Declaración Jurada 
 rectificatoria cuando sea a favor del Fisco. Vencido dicho plazo se incurrirá en incumplimiento a 
 deberes formales.
-[Image: Im1]
 
 **III.** La corrección de la información de los Libros de Compras y Ventas IVA, por los periodos o 
 gestiones señalados en una Orden de Fiscalización y/u  Orden de Verificación debidamente notificada, 
@@ -14751,7 +14485,6 @@ emisión de la Factura o Nota Fiscal resumen.
 se registrarán en el Libro de Ventas IVA en el último registro del día, especificando su condición de 
 resumen de “Ventas Menores del Día” en el campo Nombre o Razón Social y consignando el valor 
 cero (0) en el campo NIT o número de Documento de Identificación.
-[Image: Im0]
 
 **Artículo 85. (Otras Obligaciones Formales).- I.** Los Sujetos Pasivos o Terceros Responsables 
 alcanzados por la presente Resolución, deberán mantener en los establecimientos comerciales donde 
@@ -14810,7 +14543,6 @@ Personas Naturales que no estén inscritas en el Padrón Nacional de Contribuyen
 la autorización para la realización de un espectáculo público eventual, solamente una vez al año en 
 una misma jurisdicción de la Administración Tributaria donde solicite la autorización, para lo cual 
 deberá seguir los siguientes pasos:
-[Image: Im1]
 
 **1.** Ingresar a la página principal de la “Oficina Virtual”;
 
@@ -14846,7 +14578,6 @@ Resolución Administrativa de autorización del espectáculo público eventual, 
 el Sujeto Pasivo o Tercero Responsable que cuente con NIT podrá elegir entre las Modalidades de 
 Facturación Prevalorada o Electrónica por Ciclos o ambas a la vez, debiendo aplicar el siguiente 
 procedimiento en la Oficina Virtual:
-[Image: Im0]
 
 **1.** Ingresar al SFV;
 
@@ -14917,7 +14648,6 @@ Número de Identificación Tributaria – NIT, a través del SFV siguiendo los p
 Sección anterior, debiendo presentar en plataforma de atención al contribuyente de la jurisdicción 
 a la que corresponde su NIT y en caso de no contar con éste, en la Distrital donde se desarrollará el 
 espectáculo público, los siguientes documentos:
-[Image: Im1]
 
 **1.**Cuando la solicitud de dosificación sea realizada por el propio artista nacional, deberá presentar los 
 siguientes documentos:
@@ -14933,7 +14663,6 @@ Registro de Artistas Bolivianos”;
 espacio y/o lugar de propiedad del Gobierno Central o Municipal, especificando 
 la fecha de presentación del espectáculo público, o la Certificación de auspicio del 
 Ministerio de Culturas o de las Entidades Territoriales Autónomas;
-[Image: Im0]
 
 **d)** Solicitud de autorización con la fecha de presentación, nombre del evento, precios y 
 cantidades de Facturas “Sin Derecho a Crédito Fiscal” solicitadas.
@@ -15010,7 +14739,6 @@ presente Resolución, en caso de incumplimiento constituyen contravención tribu
 como Incumplimiento a Deberes Formales sujetos al régimen de sanciones establecido en normativa 
 tributaria vigente, en cumplimiento a lo establecido por el Artículo 162 de la Ley N° 2492 Código 
 Tributario Boliviano, y demás normativa conexa.
-[Image: Im1]
 
 **Segunda.-** Se aprueban los formularios y reportes del Sistema de Facturación Virtual conforme el 
 detalle del Anexo N° 31 que forma parte de la presente Resolución.
@@ -15051,7 +14779,6 @@ los contribuyentes suscritos y activados a la Modalidad de Facturación Electró
 podrán continuar emitiendo sus Facturas siempre y cuando sus sistemas incorporen el Código QR 
 y la leyenda señalada en el Anexo Nº 17 y cumplan los demás aspectos establecidos en la presente 
 Resolución.
-[Image: Im0]
 
 **Tercera.-** Las imprentas autorizadas con anterioridad a la vigencia de la presente Resolución serán 
 reconocidas automáticamente por el SFV hasta la fecha de vencimiento de su autorización, debiendo 
@@ -15091,7 +14818,6 @@ hasta antes de la vigencia de la presente resolución.
 computarizados para cumplir con lo dispuesto en esta resolución hasta antes de la vigencia de la 
 presente resolución, posteriormente sólo podrán dosificarse Facturas o Notas Fiscales a través del 
 SFV. 
-[Image: Im1]
 
 ***Nota del Editor:*** *La RND Nº 10-0029-14 de 06/11/2014 en su Artículo 1, Parágrafo II,* 
 ***modificó*** *la Disposición Transitoria precedente.*
@@ -15117,7 +14843,6 @@ Artículo 90 de la presente resolución, se podrán aplicar a partir de su vigen
 Resolución para que las Entidades de Intermediación Financiera puedan adecuar sus sistemas para 
 emitir las Facturas con la característica especial Venta de Moneda Extranjera en sujeción a las 
 disposiciones de la presente Resolución.
-[Image: Im0]
 
 **Décima Segunda.-** Los Sujetos Pasivos o Terceros Responsables que hayan adecuado el formato de 
 sus Facturas para dar cumplimiento a lo establecido en la RND 10-0049-13 de 30 de diciembre de 
@@ -15189,7 +14914,6 @@ de mayo de 2013;
 de 2013.
 Se derogan todas las disposiciones de igual o inferior jerarquía contrarias a la presente Resolución 
 Normativa de Directorio.
-[Image: Im1]
 
 ## DISPOSICIONES FINALES
 
@@ -15236,7 +14960,6 @@ inactivación, emisión y conservación de Facturas, Notas Fiscales o Documentos
 casos especiales de emisión y registro; la autorización y control de imprentas; efectos tributarios; el 
 registro y remisión de información de los Libros de Compras y Ventas IVA, así como la autorización 
 y dosificación de Facturas para espectáculos públicos y artistas nacionales.
-[Image: Im0]
 
 Que, habiéndose impugnado la Resolución Normativa de Directorio precitada ante el Ministerio 
 de Economía y Finanzas Públicas, se hace necesario modificar el Parágrafo I. del Artículo 9 de la 
@@ -15284,7 +15007,6 @@ presente resolución, tendrán como fecha límite de emisión hasta el 31 de mar
 con excepción de las Facturas Prevaloradas con la característica especial de impresión en el 
 exterior cuya fecha límite de emisión será válida hasta el 30 de junio de 2015. La Modalidad 
 de Facturación Computarizada tendrá vigencia hasta su fecha límite de emisión”.
-[Image: Im0]
 
 **“Séptima.-** Los procedimientos de Facturación establecidos en la Resolución Normativa de 
 Directorio Nº 10-0016-07 de 18 de mayo de 2007 y demás disposiciones complementarias, 
@@ -15327,7 +15049,6 @@ inactivación, emisión y conservación de Facturas, Notas Fiscales o Documentos
 casos especiales de emisión y registro; la autorización y control de imprentas; efectos tributarios; el 
 registro y remisión de información de los Libros de Compras y Ventas IVA, así como la autorización 
 y dosificación de Facturas para espectáculos públicos y artistas nacionales.
-[Image: Im0]
 
 Que, mediante Resolución Normativa de Directorio Nº 10-0029-14 de 6 de noviembre de 2014, se 
 modifican el Parágrafo I. del Artículo 9, las Disposiciones Transitorias Primera, Séptima y Octava, y 
@@ -15374,7 +15095,6 @@ Prevalorada que se hubieran realizado en el NSF-07, antes de la vigencia de la p
 tendrán como fecha límite de emisión hasta 180 días posteriores computables a partir de la vigencia 
 del SFV. La Modalidad de Facturación Computarizada tendrá vigencia hasta su fecha límite de 
 emisión”.
-[Image: Im0]
 
 **“Quinta.-** Los Libros de Compras y Ventas IVA de los contribuyentes clasificados como Newton y 
 Newton Específico, deberán ser encuadernados, foliados y notariados hasta el periodo fiscal anterior 
@@ -15428,7 +15148,6 @@ el Servicio de Impuestos Nacionales reglamentó todos los aspectos inherentes al
 Facturación (NSF-07), estableciendo modalidades de facturación, procedimientos, aspectos técnicos, 
 formalidades, requisitos para  la dosificación,  activación,  inactivación,  emisión  y  conservación de  
 Facturas, Notas Fiscales  o Documentos Equivalentes.
-[Image: Im0]
 
 Que, conforme al Inciso p) del Artículo 19 del Decreto Supremo Nº 26462 de 22 de diciembre de 
 2001, Reglamento de la Ley Nº 2166, del Servicio de Impuestos Nacionales, el Presidente Ejecutivo 
@@ -15478,7 +15197,6 @@ Los Contribuyentes Newton Específico alternativamente podrán solicitar la dosi
 dependencia del Servicio de Impuestos Nacionales SIN donde se encuentran inscritos, para ello el 
 titular o apoderado debe presentar su  Documento de  Identificación, a  objeto  de  verificar  en  el  
 Padrón Nacional de Contribuyentes que se encuentra habilitado para el efecto”**.**
-[Image: Im0]
 
 **Artículo 2. (Incorporación).-** Se incorpora como Segundo Párrafo del Numeral 4, del Parágrafo I 
 del Artículo 14 de la Resolución Normativa de Directorio Nº 10-0016-07, el siguiente texto:
@@ -15515,7 +15233,6 @@ en sustitución del anterior, denominado, Nuevo Sistema de Facturación (NSF-07)
 modalidades de facturación, procedimientos, aspectos técnicos, formalidades, requisitos para la 
 dosificación, emisión y conservación de Facturas, Notas Fiscales o Documentos Equivalentes a 
 través de la Oficina Virtual del Servicio de Impuestos Nacionales. 
-[Image: Im0]
 
 Que, mediante Resoluciones Normativas de Directorio Nº 10-0029-14 de 6 de noviembre de 2014 
 y Nº 10-0032-14 de 26 de diciembre de 2014, se modifica la Resolución Normativa de Directorio 
@@ -15556,7 +15273,6 @@ que se hayan realizado con el Nuevo Sistema de Facturación (NSF-07), antes de l
 presente resolución y se encuentren vigentes, tendrán como fecha límite de emisión hasta el 30 de 
 junio de 2015. Para las demás Modalidades de Facturación dosificadas con el NSF-07, la fecha límite 
 de emisión será la que corresponda a cada dosificación.” 
-[Image: Im0]
 
 **II.** Se modifica la Disposición Transitoria Novena de la Resolución Normativa de Directorio (RND) 
 Nº 10-0025-14 de 29 de agosto de 2014, modificada por la Resolución Normativa de Directorio Nº 
@@ -15597,7 +15313,6 @@ en sustitución del anterior denominado, Nuevo Sistema de Facturación (NSF-07),
 modalidades de facturación, procedimientos, aspectos técnicos, formalidades, requisitos para la 
 dosificación, emisión y conservación de Facturas, Notas Fiscales o Documentos Equivalentes a 
 través de la Oficina Virtual del Servicio de Impuestos Nacionales. 
-[Image: Im0]
 
 Que, mediante Resoluciones Normativas de Directorio (RND) Nº 10-0029-14 de 6 de noviembre de 
 2014, Nº 10-0032-14 de 26 de diciembre de 2014, Nº 10-0006-15 de fecha 31 de marzo de 2015, 
@@ -15638,7 +15353,6 @@ que se hayan realizado con el Nuevo Sistema de Facturación (NSF-07), antes de l
 presente resolución y se encuentren vigentes, tendrán como fecha límite de emisión hasta el 31 de 
 enero de 2016. Para las demás Modalidades de Facturación dosificadas con el NSF-07, la fecha límite 
 de emisión será la que corresponda a cada modalidad de dosificación.” 
-[Image: Im0]
 
 ## DISPOSICIÓN FINAL
 
@@ -15675,7 +15389,6 @@ Nº 10-0032-14 de 26 de diciembre de 2014, Nº 10-0006-15 de fecha 31 de marzo d
 estableciendo la ampliación de plazos para la vigencia del Sistema de Facturación Virtual (SFV), 
 así como las fechas límite de emisión para las modalidades de Facturación Manual y Prevalorada, 
 incluidas aquellas con la característica especial de impresión en el exterior. 
-[Image: Im0]
 
 Que, mediante Resolución Normativa de Directorio Nº 10-0032-14 de 26 de diciembre de 2014, 
 se establece que la vigencia del Sistema de Facturación Virtual será establecida por el Servicio de 
@@ -15711,7 +15424,6 @@ Bienes Raíces Propios activa en el Padrón Nacional de Contribuyentes. Esta car
 especial se aplica en las Modalidades de Facturación Manual, Computarizada, Oficina Virtual 
 y Electrónica por Ciclos, previstas en los Incisos a), c), d) y f) del Artículo 5 de la presente 
 Resolución.” 
-[Image: Im0]
 
 **II.** Se modifica el Primer Párrafo del Parágrafo II del Artículo 40 de la Resolución Normativa de 
 Directorio Nº 10-0025-14 de 29 de agosto de 2014, por el siguiente texto:
@@ -15768,7 +15480,6 @@ Asimismo, también son válidas las facturas de Servicios de Terminal Aeroportua
 Internacional emitidas en la Modalidad de Facturación Electrónica por Ciclos, que no cuenten 
 con NIT o Número de Documento de Identificación, sin nombre o razón social o nombre 
 comercial del comprador.” 
-[Image: Im0]
 
 **VI.** Se modifica el Parágrafo III del Artículo 81 de la Resolución Normativa de Directorio Nº 10-
 0025-14 de 29 de agosto de 2014, por el siguiente texto:
@@ -15808,7 +15519,6 @@ actividad económica.”
 **II.** Se incorpora al detalle del Anexo N° 31 de formularios y reportes del Sistema de Facturación 
 Virtual aprobado por la Disposición Adicional Segunda de la Resolución Normativa de Directorio Nº 
 10-0025-14 de 29 de agosto de 2014, lo siguiente:
-[Image: Im0]
 
 | Código | Descripción | Rol |
 | --- | --- | --- |
@@ -15860,7 +15570,6 @@ en el país, debiendo permitir la identificación de quien las emite, garantizar
 integridad de la información y datos registrados, de forma tal que cualquier modificación de las 
 mismas ponga en evidencia su alteración y cumplir los requisitos de pertenecer únicamente al titular 
 y encontrarse bajo su absoluto y exclusivo control.
-[Image: Im0]
 
 Que, el Artículo 4 de la Ley N° 843 de 20 de mayo de 1986 (Texto Ordenado Vigente), establece 
 que al perfeccionamiento del hecho imponible del Impuesto al Valor Agregado (IVA), la transacción 
@@ -15905,7 +15614,6 @@ Facturas, Notas Fiscales o Documentos Equivalentes; casos especiales de emisión
 autorización y control de imprentas; efectos tributarios; el registro y remisión de información de 
 los Libros de Compras y Ventas IVA, así como la autorización y dosificación de Facturas para 
 espectáculos públicos y artistas nacionales.
-[Image: Im0]
 
 Que, en el marco del Modelo de Administración del Sistema Impositivo (MASI) se ha desarrollado 
 el Sistema de Facturación Virtual (SFV) haciendo uso intensivo del Internet, para la modernización, 
@@ -15948,7 +15656,6 @@ Facturas, Notas Fiscales o Documentos Equivalentes; casos especiales de emisión
 autorización y control de imprentas; efectos tributarios; el registro y remisión de información de 
 los Libros de Compras y Ventas IVA, así como la autorización y dosificación de Facturas para 
 espectáculos públicos y artistas nacionales.
-[Image: Im0]
 
 **Artículo 2. (Alcance).- I.** Las disposiciones contenidas en la presente Resolución, alcanzan a 
 todos los Sujetos Pasivos y Terceros Responsables obligados a emitir Facturas, Notas Fiscales o 
@@ -16004,7 +15711,6 @@ Información y Comunicación, que vincula unos datos de verificación de firma a
 y confirma su identidad. El certificado digital es válido únicamente dentro del término de 
 vigencia indicado en el mismo, requerido en las Modalidades de Facturación Electrónica Web 
 y Electrónica por Ciclos.
-[Image: Im0]
 
 **h) Clave de Asignación de la Imprenta:** Es el número comunicado a las imprentas autorizadas 
 por el SFV, que se genera a momento de asignarse el trabajo de impresión en las Modalidades 
@@ -16035,7 +15741,6 @@ Electrónica por Ciclos, está constituido por pares de datos alfanuméricos sep
 guiones (-) y expresados en formato hexadecimal (A, B, C, D, E y F), no debe contener la 
 letra “O” solamente el número cero (0). Para la generación del código de control el monto de 
 la transacción se considera redondeado sin decimales.
-[Image: Im0]
 
 **m) Código de Respuesta Rápida (Código QR):** Es la imagen que almacena información de 
 la dosificación autorizada por la Administración Tributaria y datos de la transacción de la 
@@ -16101,7 +15806,6 @@ comprende: obras de teatro o actuaciones de compañías teatrales, conciertos, r
 presentaciones de música, presentaciones de ballet y baile artístico o coreográfico, operas, 
 operetas o zarzuelas, desfiles de moda, verbenas, peñas folklóricas, fiestas, presentaciones 
 circenses, presentaciones de magia o ilusionismo, presentaciones humorísticas, deportivas, etc.
-[Image: Im0]
 
 ---
 
@@ -16121,7 +15825,6 @@ Tributaria cuya emisión física o digital respalda la realización de compra-ve
 muebles, contratos de obras, prestación de servicios o toda otra prestación cualquiera fuere 
 su naturaleza alcanzados por el IVA u otro impuesto, que incluye además a los Recibos de 
 Alquiler.
-[Image: Im0]
 
 ***Nota del Editor:*** *La RND Nº 102000000017 de 21/07/2020 en su Artículo 2, Parágrafo I,* 
 ***modificó*** *el Inciso precedente.*
@@ -16184,7 +15887,6 @@ define la actividad económica y las características especiales de la Factura o
 mediante el cual el Sujeto Pasivo o Tercero Responsable realiza la emisión de sus Facturas 
 o Notas Fiscales en las Modalidades de Facturación Computarizada, Electrónica Web y 
 Electrónica por Ciclos.
-[Image: Im0]
 
 **qq) Suscripción:** Es el procedimiento que permite al Sujeto Pasivo o Tercero Responsable darse 
 de alta para utilizar las Modalidades de Facturación Oficina Virtual, Electrónica Web y/o 
@@ -16242,7 +15944,6 @@ especificaciones técnicas publicadas en el portal tributario del SIN, siendo ne
 contar con el Certificado Digital vigente y conexión a Internet permanente. Las Facturas o Notas 
 Fiscales serán generadas digitalmente, mínimamente en formato PDF, según requerimiento de 
 cada contribuyente.
-[Image: Im0]
 
 **f) Facturación Electrónica por Ciclos:** Modalidad en la cual la generación y la emisión 
 de Facturas o Notas Fiscales, se realiza a partir del sistema de facturación computarizado su 
@@ -16287,7 +15988,6 @@ N° 5). Cada transacción deberá ser emitida en una sola Factura pudiendo utili
 de facturación computarizado propio del titular o del tercero emisor. Esta característica podrá 
 aplicarse a las Modalidades de Facturación Manual, Computarizada y Electrónica por Ciclos, 
 establecidas en los Incisos a), c), y f) del Artículo 5 de la presente Resolución.
-[Image: Im0]
 
 En la Modalidad de Facturación Electrónica por Ciclos el tercero emisor deberá registrar su 
 sistema de facturación computarizado, contar con el Certificado de generación del código de 
@@ -16311,7 +16011,6 @@ obligaciones tributarias, de forma independiente y en relación a las operacione
 que les correspondan, (ver Anexo N° 6). Esta característica especial podrá aplicarse a las 
 Modalidades de Facturación Computarizada y Electrónica por Ciclos, establecidas en los 
 Incisos c) y f) del Artículo 5 de la presente Resolución.
-[Image: Im0]
 
 En todos los casos, el Sujeto Pasivo Emisor será registrado y autorizado en el SFV por 
 todos los Sujetos Pasivos Incluidos. La dosificación con esta característica especial deberá 
@@ -16380,7 +16079,6 @@ por Carretera (ver Anexo N° 13), Ley N° 366 del Libro y la Lectura “Oscar Al
 Anexo N° 14). Puede ser aplicada en las Modalidades de Facturación Manual, Prevalorada, 
 Computarizada, Oficina Virtual y Electrónica por Ciclos, previstas en los Incisos a), b), c), d) 
 y f) del Artículo 5 de la presente Resolución.
-[Image: Im0]
 
 **k) Nota de Crédito - Débito:** Característica especial para realizar ajustes en el Crédito o en 
 el Débito Fiscal IVA de los Sujetos Pasivos o los compradores, cuando efectivamente se 
@@ -16409,7 +16107,6 @@ o Terceros Responsables en las Modalidades de Facturación Oficina Virtual, Elec
 Electrónica por Ciclos, cumpliendo las disposiciones de la presente Resolución e informadas a la 
 Administración Tributaria, gozan de plena validez probatoria, conforme lo establecido en el Artículo 
 7 del Decreto Supremo Nº 27310 de 9 de enero de 2004.
-[Image: Im0]
 
 **II.** Las copias digitales emitidas en la Modalidad de Facturación Computarizada, podrán aplicar el 
 mismo tratamiento establecido para las Modalidades de Facturación Oficina Virtual, Electrónica Web 
@@ -16460,7 +16157,6 @@ dosificación se realice por la actividad principal y el Contribuyente además c
 actividad secundaria, ambas deberán consignarse en la Factura. Si la dosificación se realizó 
 por actividad económica y/o una característica especial se podrá consignar únicamente la 
 actividad por la que se realizó la dosificación o la asociada a la característica especial.
-[Image: Im0]
 
 La inactivación de una de las actividades económicas consignadas en la Factura no invalidará 
 la dosificación, debiendo emitirse las mismas únicamente por la actividad económica activa 
@@ -16514,7 +16210,6 @@ número de placa del vehículo automotor (identificando si es placa nacional o e
 número de B-SISA, u otro documento que establezca la Agencia Nacional de Hidrocarburos. 
 Cuando la venta se realice en envases se registrará uno de los siguientes caracteres: bidones 
 (B), botellas (T) u otros (O). Ejemplos
-[Image: Im0]
 
 ***Nota del Editor:*** *La RND Nº 102100000004 de 05/03/2021 en su Artículo 2, Parágrafo II* 
 ***sustituyó*** *el término “Gasolina Especial, Gasolina Premium, Diésel Oíl” por “Gasolina o* 
@@ -16547,7 +16242,6 @@ Excepcionalmente y para el caso de Facturas emitidas en la Modalidad de Facturac
 Manual, por la venta de alimentos y/o bebidas en restaurantes o similares por un monto menor 
 o igual a Bs300.- (Trescientos 00/100 Bolivianos), se podrá consignar en el campo detalle la 
 leyenda “Consumo”.
-[Image: Im0]
 
 En el caso de las Estaciones de Servicio por Venta de Combustibles (Gasolina o Diésel Oíl 
 de cualquier origen y Gas Natural Vehicular) es obligatorio el desglose de la cantidad del 
@@ -16610,7 +16304,6 @@ las Usuarias y los Usuarios y de las Consumidoras y los Consumidores, se deberá
 en letras minúsculas, con excepción de la primera letra, una de las leyendas contenidas en 
 el Anexo N° 17 de la presente Resolución. La leyenda será asignada por el SFV en cada 
 dosificación dando preferencia a la que corresponda al sector de la actividad económica.
-[Image: Im0]
 
 ---
 
@@ -16620,7 +16313,6 @@ ubicada al reverso de la Factura o Nota Fiscal.
 **d)** Las Facturas emitidas en la Modalidad de Facturación Manual para la venta de Gasolina o 
 Diésel Oíl de cualquier origen deberá consignar la leyenda: “De acuerdo a Ley, del importe 
 total de la factura, sólo el 70% es válido para el crédito fiscal”.
-[Image: Im0]
 
 ***Nota del Editor:*** *La RND Nº 102100000004 de 05/03/2021 en su Artículo 2, Parágrafo IV* 
 ***modificó*** *el Inciso precedente.*
@@ -16684,7 +16376,6 @@ en la Modalidad de Facturación Manual, es posible evitar la inactivación de Fa
 optando por consignar en los documentos con un sello de goma la información modificada, siempre 
 y cuando la nueva dirección se mantenga en la misma jurisdicción y hubiera sido registrada en el 
 Padrón Nacional de Contribuyentes.
-[Image: Im0]
 
 **IV.** Las Facturas o Notas Fiscales de los Sujetos Pasivos o Terceros Responsables que se encuentren 
 sujetos a regulación, podrán adecuar sus formatos según las disposiciones emitidas por la autoridad 
@@ -16727,7 +16418,6 @@ correspondiente a la fecha de la transacción, cuando la operación sea en moned
 siendo opcional el lugar y fecha de emisión) y los datos finales para las Modalidades de 
 Facturación Computarizada y Electrónica por Ciclos. El código de control y el Código QR 
 deben generarse por cada una de las Facturas incluidas.
-[Image: Im0]
 
 **3.**Total de la Facturación y Leyendas. Una vez incorporada la información detallada 
 precedentemente, por única vez al final de la Factura, se consignará lo siguiente:
@@ -16759,7 +16449,6 @@ ejemplo para tarjetas prepago de telecomunicaciones.
 **V.** En las Facturas Comerciales de Exportación no es obligatorio consignar en los datos de la transacción 
 comercial el Número de Identificación Tributaria (NIT) o número de Documento de Identidad del 
 comprador, debiendo adicionar mínimamente la siguiente información:
-[Image: Im0]
 
 **1.** Nombre del comprador (importador);
 
@@ -16800,7 +16489,6 @@ operación comercial de exportación.
 información establecida en el Parágrafo precedente con excepción de los Numerales 1, 2, 10, 11 y 
 12; asimismo se deberá señalar el lugar de acopio o puerto en el campo destinado a la dirección del 
 importador.
-[Image: Im0]
 
 **VII.** La Nota de Crédito - Débito deberá consignar la información establecida en el Artículo 
 precedente considerando las siguientes particularidades:
@@ -16874,7 +16562,6 @@ pasivo titular o del tercero emisor debidamente autorizado.
 que figura en las Facturas, Notas Fiscales o Documentos Equivalentes, deberá necesariamente coincidir 
 con la registrada en el Padrón Nacional de Contribuyentes y el SFV, con las excepciones establecidas 
 en la presente Resolución.
-[Image: Im0]
 
 **2.** Número de Identificación Tributaria, del sujeto pasivo titular o del tercero emisor debidamente 
 autorizado;
@@ -16908,7 +16595,6 @@ del Parágrafo I del presente Artículo), cuando por la magnitud de la informaci
 requiera utilizar más de una hoja, se deberá numerar cada hoja haciendo referencia al número de hoja 
 y a la cantidad total de hojas del documento, conforme al siguiente formato: “1 de n” donde n es el 
 total de hojas,  debiendo estar ubicado en la parte superior o inferior central de la Factura.
-[Image: Im0]
 
 **Artículo 15. (Materiales y Colores).- I.** Los materiales y colores utilizados para la elaboración de 
 los originales y copias físicas de las Facturas o Notas Fiscales, deberán permitir imprimir o consignar 
@@ -16974,7 +16660,6 @@ mínimamente con las siguientes especificaciones técnicas:
 deberán realizar la solicitud de dosificación a través del SFV; la dosificación por cantidad se aplica a 
 las Modalidades de Facturación Manual y Prevalorada, y por tiempo se aplica a las Modalidades de 
 Facturación Computarizada, Oficina Virtual, Electrónica Web y Electrónica por Ciclos.
-[Image: Im0]
 
 **II.** El procedimiento de dosificación es automático en las Modalidades de Facturación Oficina 
 Virtual, Electrónica Web y Electrónica por Ciclos.
@@ -17017,7 +16702,6 @@ dosificación en las Modalidades de Facturación Manual y Prevalorada, se obtend
 del promedio de dosificación de los Sujetos Pasivos o Terceros Responsables que tengan la misma 
 Actividad Económica y pertenezcan a la misma categoría y segmento, en caso de no contar con esta  
 información se otorgarán:
-[Image: Im0]
 
 **1.** El mínimo para dosificación por cantidad es de un talonario de cincuenta (50) Facturas;
 
@@ -17038,7 +16722,6 @@ semanas antes que concluya la vigencia de la anterior.
 registradas en el Padrón Nacional de Contribuyentes tres (3) o más actividades económicas deberán 
 dosificar por cada actividad económica y característica tributaria registrada en el Padrón Nacional de 
 Contribuyentes.
-[Image: Im0]
 
 **II.** Independientemente de la cantidad de actividades económicas registradas en el Padrón Nacional 
 de Contribuyentes, de igual forma se deberá dosificar por actividad económica cuando el Sujeto 
@@ -17138,8 +16821,6 @@ Modalidad de Facturación que elija, realizar los siguientes pasos:
 
 **b)** Seleccionar la opción “Dosificación de Facturas”;
 
-[Image: Im0]
-
 ---
 
 **c)** cionar actividad económica; Selec
@@ -17169,7 +16850,6 @@ Tercero Responsable su manejo y custodia.
 bajo las Modalidades de Facturación Computarizada y Electrónica por Ciclos, previo a realizar la 
 solicitud de dosificación, deberá registrar su sistema de facturación computarizado (SFC) y proceder 
 a la certificación del código de control, en el SFV, realizando los siguientes pasos:
-[Image: Im0]
 
 **b)** Elegir la opción “Sistema de Facturación Computarizado”;
 
@@ -17203,7 +16883,6 @@ proceso de certificación, debiendo realizar nuevamente el proceso de certificac
 Tercero Responsable, deberá asignar uno o más de sus sistemas de facturación computarizados 
 certificados por la Administración Tributaria a la casa matriz (sucursal 0) y sus sucursales registradas 
 en el Padrón Nacional de Contribuyentes, pudiendo ser: 
-[Image: Im0]
 
 **1.** En Red, para lo que será suficiente utilizar una misma dosificación (utilizado simultáneamente 
 por uno o varios computadores conectados a una misma red);
@@ -17293,7 +16972,6 @@ apersonarse a una imprenta autorizada para realizar el trabajo de impresión y p
 de trámite de la solicitud de dosificación. Por su parte, la imprenta autorizada a través del SFV se 
 asignará el trabajo de impresión, obteniendo como resultado los datos de dosificación, debiendo 
 cumplir con los siguientes pasos:
-[Image: Im0]
 
 ---
 
@@ -17316,7 +16994,6 @@ de las solicitudes de dosificación asignadas, al momento de entregar las Factur
 impresas, la imprenta autorizada deberá recabar del Sujeto Pasivo o Tercero Responsable la clave 
 de dosificación contenida en el reporte de la solicitud de dosificación con la que se procederá a la 
 activación, realizando los siguientes pasos:
-[Image: Im0]
 
 **1.** Ingresar al SFV;
 
@@ -17365,7 +17042,6 @@ activadas.
 Fiscales en el plazo de treinta (30) días corridos computables a partir del día siguiente de la fecha 
 de asignación y antes de la activación, la imprenta autorizada deberá aplicar el procedimiento de 
 cancelación de trabajos de impresión y destruir dichos talonarios.
-[Image: Im0]
 
 **VI.** Los Sujetos Pasivos o Terceros Responsables no deberán emitir Facturas o Notas Fiscales 
 activadas que presenten errores en formatos y demás aspectos técnicos.
@@ -17415,7 +17091,6 @@ impresión);
 el requisito del Inciso e) de los Numerales 1 y 2 del Parágrafo I del presente Artículo podrán ser 
 registrados por el contribuyente o la propia imprenta, debiendo recabar el código correspondiente en 
 plataforma de atención al contribuyente de su jurisdicción.
-[Image: Im0]
 
 **III.** A partir de la fecha de cancelación del trabajo de impresión, se renueva el plazo establecido en la 
 solicitud de dosificación de doce (12) días corridos para su reasignación a otra imprenta autorizada.
@@ -17451,7 +17126,6 @@ teléfono y correo electrónico).
 suscripción en las Modalidades de Facturación Oficina Virtual, Electrónica Web y Electrónica por 
 Ciclos, especificando la actividad económica, característica especial y otros, debiendo al efecto 
 realizar los siguientes pasos:
-[Image: Im0]
 
 **b)** Seleccionar la opción “Facturación por Oficina Virtual, Electrónica Web, Electrónica por 
 Ciclos”;
@@ -17512,7 +17186,6 @@ tres (3) días hábiles siguientes a la recepción del archivo “.cer” del Ce
 su instalación, verificación y comunicar el resultado a través del SFV en el módulo “Administración 
 de Certificados”; de confirmarse dichas condiciones, el Sujeto Pasivo o Tercero Responsable será 
 habilitado para iniciar la etapa de pruebas.
-[Image: Im0]
 
 **II.** Si existieran problemas con los certificados digitales, éstos serán comunicados a través del SFV 
 en el módulo “Administración de Certificados” para su regularización.
@@ -17566,7 +17239,6 @@ a las de “Alquiler de Bienes raíces propios” o las comprendidas dentro del 
 Independientes” u “Oficios”, deberán utilizar de manera obligatoria las Modalidades de Facturación 
 Prevalorada, Computarizada, Oficina Virtual, Electrónica Web o Electrónica por Ciclos, previstas en 
 los Incisos b), c), d), e) y f) del Artículo 5 de la presente Resolución.
-[Image: Im0]
 
 **II.** Los Sujetos Pasivos o Terceros Responsables cuyo volumen de Facturación durante seis (6) 
 periodos fiscales consecutivos del IVA no superen una (1) transacción por período fiscal mensual, 
@@ -17587,7 +17259,6 @@ cuyo monto total de Facturación durante un periodo fiscal del IVA sea superior 
 millón 00/100 Bolivianos), deberán utilizar de manera obligatoria las Modalidades de Facturación 
 Prevalorada, Computarizada, Oficina Virtual, Electrónica Web o Electrónica por Ciclos, previstas en 
 los Incisos b), c), d), e) y f) del Artículo 5 de la presente resolución.
-[Image: Im0]
 
 **V.** Los Sujetos Pasivos o Terceros Responsables que realizan exportación de mercancías deberán 
 utilizar las Modalidades de Facturación Computarizada, Oficina Virtual, Electrónica Web o Electrónica 
@@ -17660,7 +17331,6 @@ Cuando el comprador no proporcione sus datos (NIT o número de Documento de Iden
 social, apellido) o solicite expresamente que no se consignen los mismos en la Factura o Nota Fiscal, 
 el Sujeto Pasivo o Tercero Responsable emitirá la Factura o Nota Fiscal en todas las Modalidades de 
 Facturación, consignando lo siguiente:
-[Image: Im0]
 
 **1.** En el campo nombre o razón social las palabras “sin nombre” o “S/N”;
 
@@ -17701,7 +17371,6 @@ ventas deberán totalizarse diariamente, importe que deberá ser facturado consi
 de emisión y la leyenda “VENTAS MENORES DEL DÍA” en la sección destinada a la razón social 
 del cliente, además de tachar o consignar el valor cero (0) en el campo destinado al NIT o número de 
 Documento de Identificación, debiendo mantener también el original para fines de control posterior.
-[Image: Im0]
 
 **VI.** En ningún caso procederá el traslado de la obligación de emitir la Factura, Nota Fiscal o 
 Documento Equivalente a periodos posteriores, al que se perfeccionó el hecho generador o imponible.
@@ -17743,7 +17412,6 @@ Fiscales o Documentos Equivalentes por la venta de bienes y servicios efectuados
 Pasivos o Terceros Responsables que pertenecen a los Regímenes Especiales: Régimen Tributario 
 Simplificado (RTS), Sistema Tributario Integrado (STI), y Régimen Agropecuario Unificado (RAU), 
 conforme a la normativa tributaria vigente.
-[Image: Im0]
 
 **Artículo 42. (Casos Especiales en la Emisión de Facturas).-** Los Sujetos Pasivos o Terceros 
 Responsables, a tiempo de emitir las Facturas o Notas Fiscales, deberán considerar los siguientes 
@@ -17788,7 +17456,6 @@ autorización, número de Factura, fecha de emisión, código de control y la in
 en el Parágrafo V del Artículo 11 de la presente Resolución), a otro medio para que pueda ser 
 complementada con aquella información que el exportador requiera de acuerdo a las condiciones 
 de comercialización negociadas o a las necesidades inherentes a su actividad exportadora.
-[Image: Im0]
 
 **4.** Régimen de Tasa Cero: Las operaciones gravadas con Tasa Cero, deben ser emitidas exclusivamente 
 para este fin.
@@ -17828,7 +17495,6 @@ ponga en evidencia su alteración, conforme lo dispuesto por el segundo párrafo
 del Artículo 79 de la Ley Nº 2492 Código Tributario Boliviano. En caso que no se cumplan las 
 condiciones previamente referidas, los Sujetos Pasivos o Terceros Responsables deberán generar 
 copias físicas en los términos dispuestos en la presente Resolución.
-[Image: Im0]
 
 **III.** En la Modalidad de Facturación Oficina Virtual, no se requerirán copias físicas de respaldo, 
 salvo requerimiento del emisor para fines contables internos u otros. El emisor deberá conservar los 
@@ -17901,7 +17567,6 @@ Facturas Manuales o Prevaloradas no emitidas, deberá reportarlas a la Administr
 través del Libro de Ventas IVA. En el caso de que el contribuyente no esté obligado a llevar libros 
 de compras y ventas, el extravío deberá registrarse a través del SFV, previo cumplimiento de los 
 siguientes requisitos:
-[Image: Im0]
 
 **a)** Realizar una publicación en un periódico de circulación nacional, comunicando el extravío de 
 las Facturas o Notas Fiscales y la nulidad de las mismas, con especificación del NIT, nombre o 
@@ -17937,7 +17602,6 @@ Fiscales anuladas, no utilizadas y la documentación que respalde el extravío.
 no utilización y extravío, deberá ser registrada en el Libro de Ventas IVA. En el caso de que el 
 contribuyente no esté obligado a llevar libros de compras y ventas, la anulación, no utilización y 
 extravío deberá realizarse a través del SFV.
-[Image: Im0]
 
 **IV.** En general las Facturas o Notas Fiscales de las dosificaciones cerradas, anuladas o no utilizadas, 
 no deberán ser empleadas o emitidas; siendo el Sujeto Pasivo o Tercero Responsable el obligado 
@@ -17972,7 +17636,6 @@ Inactivación de sus Facturas o Notas Fiscales, deberá realizar los siguientes 
 
 **h)** Consignar información respecto de la publicación y denuncia realizadas (cuando el tipo de reproducción 
 inactivación sea extraviada);
-[Image: Im0]
 
 **i)** Registrar el rango de Facturas y/o Notas Fiscales;
 
@@ -18060,7 +17723,6 @@ y cuando hubiesen sido previamente activadas para su emisión.
 **Artículo 48. (Reimpresión de Reportes).-** El SFV permitirá al Sujeto Pasivo o Tercero Responsable 
 la reimpresión de los reportes que hubiesen sido generados previamente por el sistema, a este efecto 
 se deberá aplicar el siguiente procedimiento: 
-[Image: Im0]
 
 **b)** Seleccionar la opción “Consultas y Reimpresiones”;
 
@@ -18087,7 +17749,6 @@ para que operen como proveedores del servicio de impresión de Facturas o Notas 
 Sujetos Pasivos o Terceros Responsables, que opten por las Modalidades de Facturación Manual y 
 Prevalorada, para tal efecto las imprentas que cumplan con los requisitos y realicen los procedimientos 
 establecidos en el presente Capítulo, serán registradas en el SFV como imprentas autorizadas.
-[Image: Im0]
 
 **II.** Los Sujetos Pasivos o Terceros Responsables deberán imprimir sus talonarios de Facturas o Notas 
 Fiscales, únicamente en una imprenta autorizada por la Administración Tributaria, sin la posibilidad 
@@ -18163,7 +17824,6 @@ presente Resolución, a tal efecto la Administración Tributaria realizará cont
 cumplimiento de los trabajos asignados, aplicando cuando corresponda los conceptos de suspensión 
 temporal o cancelación definitiva, en base a los siguientes criterios de control procesados con corte al 
 último día del mes sobre los datos del mes anterior:
-[Image: Im0]
 
 **1. Trabajos no Activados frente a los Trabajos Asignados:** Es la relación de las solicitudes de 
 dosificación asignadas en el SFV por la imprenta, respecto a los trabajos que no hubieren sido 
@@ -18187,7 +17847,6 @@ Pasivo o Tercero Responsable respecto a las solicitudes asignadas en el SFV.
 para desarrollar el seguimiento de las imprentas autorizadas, posteriormente y cuando corresponda, 
 se realizarán los procesos de suspensión temporal o cancelación definitiva de la autorización a la 
 imprenta para realizar trabajos de impresión como se detalla a continuación:
-[Image: Im0]
 
 **1.** Suspensión Temporal: Implica la imposibilidad de realizar nuevos trabajos de impresión, por el 
 transcurso de tres (3) meses, salvo trabajos en proceso asignados con anterioridad a la suspensión, 
@@ -18262,7 +17921,6 @@ Computarizada, o documento digital registrado en la Base de Datos de la Administ
 cuando se trate de una Factura, Nota Fiscal o Documento Equivalente emitida en las Modalidades de 
 Facturación Oficina Virtual, Electrónica Web y Electrónica por Ciclos o una Modalidad de Facturación 
 en Línea;
-[Image: Im0]
 
 2. Estar vinculada con la actividad gravada que desarrolla;
 
@@ -18289,7 +17947,6 @@ fiscalización iniciados por la Administración Tributaria los errores en su emi
 pérdida del derecho al Crédito Fiscal, ni del gasto para fines del Impuesto sobre las Utilidades de 
 las Empresas (IUE), sin perjuicio que la Administración Tributaria verifique y establezca su correcta 
 apropiación.
-[Image: Im0]
 
 En caso que el comprador sea Sujeto Pasivo tanto del IVA y del RC-IVA (dependientes), deberá 
 solicitar se consigne el NIT en los documentos de gastos relacionados a la actividad gravada por el IVA 
@@ -18326,7 +17983,6 @@ Asimismo, también son válidas las facturas de Servicios de Terminal Aeroportua
 Internacional emitidas en la Modalidad de Facturación Electrónica por Ciclos, que no cuenten con 
 NIT o número de Documento de Identificación, sin nombre o razón social o nombre comercial del 
 comprador.
-[Image: Im0]
 
 **VII.** Las Facturas o Notas Fiscales emitidas fuera de la fecha límite de emisión, serán válidas para el 
 Crédito Fiscal, sin perjuicio de que la Administración Tributaria imponga la sanción correspondiente 
@@ -18403,7 +18059,6 @@ IVA dispuesto por la Ley N° 366 de 29 de abril de 2013 (ver Anexo N° 14);
 Responsables que utilicen la Modalidad de Facturación Computarizada no puedan cumplir con 
 los tamaños establecidos en el Parágrafo I del Artículo 14 de la presente Resolución por razones 
 tecnológicas, deberán solicitar autorización a través del SFV para utilizar tamaños especiales.
-[Image: Im0]
 
 **II.** La solicitud de autorización para el uso de tamaños especiales de Facturas o Notas Fiscales, deberá 
 realizarse con carácter previo a la dosificación de Facturas.
@@ -18468,7 +18123,6 @@ las cuales no serán sujetas a devolución impositiva. Asimismo, no se encuentra
 Factura Comercial de Exportación dosificada o autorizada por la Administración Tributaria, las 
 encomiendas internacionales u otras piezas postales, transportadas por entidades de servicio expreso 
 o postal de acuerdo a normas internacionales de servicio de correos, no sujetos a devolución.
-[Image: Im0]
 
 ---
 
@@ -18479,7 +18133,6 @@ en el Libro de Ventas como Factura Anulada según corresponda a la Modalidad de 
 utilizada, aplicando el procedimiento de inactivación establecido en la presente Resolución, para las 
 Modalidades de Facturación Manual, Prevalorada, Computarizada, Oficina Virtual, Electrónica por 
 Ciclos o Electrónica Web.
-[Image: Im0]
 
 ***Nota del Editor:*** *La RND Nº 102000000017 de 21/07/2020 en su Artículo 2, Parágrafo V,* 
 ***modificó*** *los Parágrafos precedentes.*
@@ -18553,7 +18206,6 @@ facturados al precio de comercialización del mercado interno, siempre y cuando 
 de servicio ubicadas dentro del territorio nacional a partir de los 50 Km. de la línea de frontera, a 
 ese efecto deberá registrarse el número de Documento de Identidad vigente, emitido por el Estado 
 Plurinacional de Bolivia.
-[Image: Im0]
 
 ***Nota del Editor:*** *La RND Nº 102100000004 de 05/03/2021 en su Artículo 2, Parágrafo VIII* 
 ***modificó*** *el Parágrafo precedente.*
@@ -18594,7 +18246,6 @@ presten servicio de hospedaje a turistas extranjeros no residentes que individua
 (sin Programa de Operadores de Turismo Receptivo), deberán emitir la Factura con la característica 
 especial “Sin Derecho a Crédito Fiscal”, consignando el nombre del turista y el número de Pasaporte 
 en el campo NIT y Operador de Turismo Receptivo.
-[Image: Im0]
 
 En ambos casos se debe respaldar la Factura emitida con la fotocopia del Documento de Identificación 
 o Pasaporte del turista extranjero no residente.
@@ -18659,7 +18310,6 @@ Agencias y Agentes Despachantes de Aduana, restaurantes, y toda otra persona que
 sea usuaria ni concesionaria y preste cualquier otro servicio estando alcanzadas por los 
 tributos establecidos en la Ley 843 (Texto Ordenado Vigente) y demás disposiciones 
 complementarias.
-[Image: Im0]
 
 ---
 
@@ -18672,7 +18322,6 @@ conforme lo dispuesto en la Ley N° 1850 de 7 de abril de 1998, y el Decreto Sup
 de octubre de 2000, tienen la obligación de emitir Facturas o Notas Fiscales “Sin Derecho a Crédito 
 Fiscal”, a objeto de respaldar las operaciones realizadas dentro de esa ciudad, aplicando lo dispuesto 
 en los Parágrafos anteriores.
-[Image: Im0]
 
 La emisión de Facturas o Notas Fiscales Sin Derecho a Crédito Fiscal en Zona Franca Cobija, sólo 
 serán válidas para operaciones realizadas al interior de esa ciudad. Por toda venta de bienes o prestación 
@@ -18739,7 +18388,6 @@ los códigos (YQ) o (YR) para el cobro de otros conceptos no alcanzados por impu
 como ser tributos, derechos aeroportuarios y/u otros cargos del exterior, dichos códigos no formarán 
 parte del importe sujeto a Crédito Fiscal, ya que dichos conceptos no se encuentran relacionados con 
 los servicios de transporte originados en el territorio nacional.
-[Image: Im0]
 
 **II.** Las Líneas Aéreas Internacionales o Agentes Generales deberán utilizar los mejores mecanismos 
 que vean convenientes para informar a los pasajeros el monto sujeto a Crédito Fiscal en los boletos 
@@ -18788,7 +18436,6 @@ correcta, exacta, íntegra y permita identificar todos los datos de la transacci
 de procesamiento y de  registro, con un mecanismo de seguridad que haga evidente algún cambio 
 o alteración, conforme lo dispuesto en el segundo Párrafo del Parágrafo I, Artículo 79 de la Ley N° 
 2492 Código Tributario Boliviano.
-[Image: Im0]
 
 **V.** Se autoriza a las Líneas Aéreas, Agentes Generales Autorizados y a IATA, hacer imprimir o 
 adquirir en el exterior del Estado Plurinacional, de acuerdo a modelos internacionales, los boletos 
@@ -18827,7 +18474,6 @@ rescisión.
 deberá exigir la Factura original como requisito para emitir la correspondiente Nota de Crédito - 
 Débito, sin entregar al Comprador ningún ejemplar de la misma, para luego proceder al archivo 
 conjunto de tales documentos. Además se deberá tener en cuenta los siguientes casos:
-[Image: Im0]
 
 Para el caso de Facturación Conjunta se podrá archivar una fotocopia de la Factura original a efectos 
 de no afectar la utilización de las Facturas de los Sujetos Pasivos incluidos; sin embargo, se deberá 
@@ -18879,7 +18525,6 @@ en que se cumplan doce (12) meses computados desde la fecha de emisión de la fa
 para la declaración y el reintegro del saldo del Crédito y/o Débito Fiscal; las Notas de Conciliación 
 emitidas fuera del plazo señalado precedentemente no serán admitidas por la Administración 
 Tributaria.
-[Image: Im0]
 
 **III.** A efectos de la actualización del Débito o Crédito Fiscal a reintegrar, se deberá considerar la UFV 
 del último día hábil del mes anterior al periodo fiscal de presentación de la Declaración Jurada del 
@@ -18923,7 +18568,6 @@ aplicación de la respectiva sanción por Incumplimiento de Deberes Formales en 
 correspondan, los Sujetos Pasivos o Terceros Responsables deberán realizar la regularización de 
 Facturas o Notas Fiscales cuando en la emisión de las mismas se consignen o adviertan los siguientes 
 errores:
-[Image: Im0]
 
 **1. Número de Autorización inexistente en el SFV:** El Sujeto Pasivo que por error consigne 
 en la Factura o Nota Fiscal de manera impresa o preimpresa un Número de Autorización 
@@ -18956,7 +18600,6 @@ de Facturación Computarizada y Electrónica por Ciclos no consignan el código 
 **8. or de correlatividad: Err** Emisión de Facturas o Notas Fiscales con duplicidad de reproducción 
 numeración, sin respetar la correlatividad o sin iniciarse en 1 (este último caso en las 
 Modalidades de Facturación Computarizada o Electrónica por Ciclos);
-[Image: Im0]
 
 **9. Datos de dosificación incorrectos:** Emisión de Facturas o Notas Fiscales que consignen 
 datos de dosificación distintos a los proporcionados por la Administración Tributaria;
@@ -19013,7 +18656,6 @@ el procedimiento sancionador.
 
 **III.** El formato del archivo para la regularización de Facturas o Notas Fiscales emitidas con error 
 deberá cumplir con la siguiente estructura:
-[Image: Im0]
 
 **1.** El formato del nombre del archivo que se desplegará en el campo Nombre Archivo, deberá 
 corresponder a:
@@ -19091,7 +18733,6 @@ El orden en el que los campos del archivo deberán ser registrados, se detalla  
 **IV.** El procedimiento para la Regularización de Facturas o Notas Fiscales emitidas con error 
 procederá para las Modalidades de Facturación Manual, Prevalorada, Computarizada, Electrónica 
 Web y Electrónica  por Ciclos.
-[Image: Im0]
 
 **Artículo 71. (Reversión de Inactivación de Facturas o Notas Fiscales).- I.** Cuando el Sujeto Pasivo 
 o Tercero Responsable, erróneamente hubiere inactivado Facturas o Notas Fiscales, podrá aplicar el 
@@ -19119,7 +18760,6 @@ Se podrá realizar el procedimiento de reversión de inactivación sólo una vez
 
 **II.** El formato del archivo para la Reversión de Inactivación de Facturas o Notas Fiscales deberá reproducción 
 cumplir con la siguiente estructura:
-[Image: Im0]
 
 **1.** El formato que se desplegará en el campo “Nombre Archivo”, deberá corresponder a:
 
@@ -19196,7 +18836,6 @@ formalizada por Notario de Fe Pública.
 deberán elaborar y enviar los Libros de Compras y Ventas IVA en la forma y condiciones dispuestas 
 en el presente Capítulo, debiendo consolidar las compras y ventas, realizadas al interior y fuera de 
 éstas.
-[Image: Im0]
 
 **VI.** Las Entidades Públicas y Organizaciones No Gubernamentales (ONG), estén o no alcanzadas por 
 el IVA, tienen la obligación de enviar a la Administración Tributaria los Libros de Compras y Ventas 
@@ -19257,7 +18896,6 @@ Consumos Específicos (ICE), Impuesto Especial a los Hidrocarburos y sus Derivad
 Impuesto a la Participación del Juego (IPJ), tasas y contribuciones especiales, descuentos, 
 bonificaciones y otros impuestos indirectos cuando corresponda de acuerdo a formatos establecidos 
 en la presente Resolución.
-[Image: Im0]
 
 **V.** Los Libros de Compras y Ventas IVA no deberán presentar campos sin datos en los registros, ni 
 formatos diferentes a los previstos en la presente Resolución.
@@ -19274,7 +18912,6 @@ casa matriz y sucursales del Sujeto Pasivo o Tercero Responsable.
 el registro de todas las compras, adquisiciones, contrataciones, prestación de servicios y toda otra 
 prestación cualquiera fuere su naturaleza e importaciones definitivas vinculadas con la actividad 
 desarrollada, respaldadas con Facturas, Notas Fiscales o Documentos Equivalentes.
-[Image: Im0]
 
 El Libro de Compras IVA contiene secciones agrupadas por las siguientes especificaciones: Estándar 
 y Notas de Crédito - Débito, en las que se deberá registrar según corresponda los datos de las Facturas, 
@@ -19346,7 +18983,6 @@ Fiscal);
 Responsable haya recibido, y por las cuales haya emitido la correspondiente Nota de Crédito - 
 Débito, para la apropiación del Crédito Fiscal, en el periodo a informar, de acuerdo al formato y la 
 estructura del Anexo N° 22 de la presente Resolución, debiendo contener los siguientes datos:
-[Image: Im0]
 
 **b)** Fecha Nota de Crédito - Débito;
 
@@ -19418,7 +19054,6 @@ El Libro de Ventas IVA contiene secciones agrupadas por las siguientes especific
 Estaciones de Servicio, Ventas Prevaloradas Agrupadas, Reintegros  y Notas de Crédito - Débito, 
 en las que se deberán registrar, según corresponda, los datos de las Facturas, Notas Fiscales o 
 Documentos Equivalentes, de acuerdo a lo siguiente:
-[Image: Im0]
 
 ## 1. Datos del encabezado:
 
@@ -19440,7 +19075,6 @@ según corresponda:
 ventas diferentes de la “Venta de Combustibles”, “Ventas Agrupadas”, “Reintegros de Crédito 
 Fiscal” y “Notas de Crédito - Débito”, conforme el formato y la estructura del Anexo N° 23 de la 
 presente Resolución, debiendo contener los siguientes datos:
-[Image: Im0]
 
 **a)** N° (número correlativo);
 
@@ -19557,7 +19191,6 @@ respetando su correlatividad, así como la sumatoria del monto total correspondi
 rango (Ej. servicios de telefonía pre pagados con tarjetas, garrafas de GLP, cines, espectáculos 
 públicos), de conformidad al formato y la estructura del Anexo N° 25 de la presente Resolución, 
 debiendo contener los siguientes datos:
-[Image: Im0]
 
 ---
 
@@ -19624,7 +19257,6 @@ DÉBITO” cuando se trate del registro de devoluciones o rescisiones que el Suj
 Tercero Responsable como comprador haya efectuado, y que estén respaldadas por Notas de 
 Crédito - Débito en el periodo fiscal, para el registro del Débito Fiscal, de acuerdo al formato y 
 la estructura del Anexo N° 27 de la presente Resolución, debiendo contener los siguientes datos:
-[Image: Im0]
 
 **a)** Nº (número correlativo);
 
@@ -19697,7 +19329,6 @@ LCV-IVA FACILITO desde la página web del SIN en la dirección **www.impuestos.g
 ejecutar el aplicativo informático “FACILITO”, elegir la opción Instalar Declaraciones Juradas, 
 señalar la ruta donde se encuentra descargado el archivo a instalar, abrir el archivo y presionar 
 Aceptar y Finalizar.
-[Image: Im0]
 
 ---
 
@@ -19716,7 +19347,6 @@ obligación de remitir a la Administración Tributaria los datos de las mismas y
 tales transacciones en sus Libros de Ventas IVA en el periodo fiscal que se declara hasta la fecha del 
 vencimiento de la Declaración Jurada del IVA de acuerdo al último dígito del NIT a través del aplicativo 
 FACILITO.
-[Image: Im0]
 
 ***Nota del Editor:*** *La RND N° 102100000007 de 07/05/2021 en su Disposición Adicional* 
 *Única,* ***modificó*** *el Artículo precedente.*
@@ -19789,7 +19419,6 @@ IVA de acuerdo al último dígito del NIT, a través del Módulo LCV-IVA FACILIT
 detecte errores o inconsistencias de la información enviada en el LCV –IVA en un periodo fiscal o 
 del año declarado según corresponda, deberá enviar el periodo a rectificar debidamente corregido en 
 el plazo de noventa (90) días a partir de la fecha de vencimiento del envío.
-[Image: Im0]
 
 **II.** Si como efecto de la Rectificación de la Declaración Jurada del IVA, sea necesario modificar el 
 Libro de Compras y Ventas IVA del periodo, corresponderá efectuar un nuevo envío dentro de los 
@@ -19819,7 +19448,6 @@ y cronológica las transacciones por montos menores a Bs5.- (Cinco 00/100 Bolivi
 en el día (ver Anexo N° 28). El registro será elaborado en medio físico o digital, a objeto de respaldar 
 el monto consignado en la Factura o Nota Fiscal que consolida diariamente el importe de estas 
 operaciones, conforme lo dispuesto en la presente Resolución.
-[Image: Im0]
 
 **II.** El registro de estas operaciones deberá realizarse en el momento de producida la venta o prestación 
 de servicios, por casa matriz y cada sucursal debidamente registrada en el Padrón Nacional de 
@@ -19896,7 +19524,6 @@ Personas Naturales que no estén inscritas en el Padrón Nacional de Contribuyen
 la autorización para la realización de un espectáculo público eventual, solamente una vez al año en 
 una misma jurisdicción de la Administración Tributaria donde solicite la autorización, para lo cual 
 deberá seguir los siguientes pasos:
-[Image: Im0]
 
 **1.** Ingresar a la página principal de la “Oficina Virtual”;
 
@@ -19932,7 +19559,6 @@ Resolución Administrativa de autorización del espectáculo público eventual, 
 el Sujeto Pasivo o Tercero Responsable que cuente con NIT podrá elegir entre las Modalidades de 
 Facturación Prevalorada o Electrónica por Ciclos o ambas a la vez, debiendo aplicar el siguiente 
 procedimiento en la Oficina Virtual:
-[Image: Im0]
 
 **3.** Seleccionar Modalidad de Facturación (Prevalorada y/o Electrónica por Ciclos);
 
@@ -19999,7 +19625,6 @@ se encuentren registrados en el Sistema Plurinacional de Registro de Artistas Bo
 solicitar la autorización de dosificación de Facturas “Sin Derecho a Crédito Fiscal”, tengan o no 
 Número de Identificación Tributaria – NIT, a través del SFV siguiendo los pasos señalados en la 
 Sección anterior, debiendo presentar en plataforma de atención al contribuyente de la jurisdicción 
-[Image: Im0]
 
 ---
 
@@ -20029,7 +19654,6 @@ carácter eventual, deberá presentar los siguientes documentos:
 lugar de propiedad del Gobierno Central o Municipal, especificando la fecha de presentación 
 del espectáculo público, o la Certificación de auspicio del Ministerio de Culturas o de las 
 Entidades Territoriales Autónomas;
-[Image: Im0]
 
 **a)** Original y fotocopia del o los certificados de registro en el “Sistema Plurinacional de Registro 
 de Artistas Bolivianos” y de la Persona Natural vinculada a la actividad artística;
@@ -20098,7 +19722,6 @@ Modalidades de Facturación: Electrónica en Línea, Computarizada en Línea y P
 que se sujetarán a las definiciones, emisión, formatos, formalidades, plazos y requisitos para la 
 autorización, anulación de las Facturas, registro de datos y envío de información a la Administración 
 Tributaria, conforme lo establecido en el presente Capítulo.
-[Image: Im0]
 
 **II.** Las disposiciones del presente Capítulo tienen alcance específico y prevalente sobre las 
 Modalidades de Facturación en Línea: Electrónica en Línea, Computarizada en Línea y Portal Web 
@@ -20144,7 +19767,6 @@ de autorización, emisión y trasmisión electrónica de las Facturas emitidas e
 Facturación Computarizada en Línea o Electrónica en Línea a la Base de Datos de la Administración 
 Tributaria, cumpliendo las especificaciones técnicas establecidas en el **ANEXO 33 - TÉCNICO** de 
 la presente Resolución.
-[Image: Im0]
 
 ## SECCIÓN II
 
@@ -20178,7 +19800,6 @@ Nº 25870 de 11 de agosto de 2000, deberán emitir la Factura Comercial de Expor
 Consignación, una vez concluida la exportación en destino para efectos de la devolución impositiva, 
 el exportador deberá emitir la Factura Comercial de Exportación sin Derecho a Crédito Fiscal, previo 
 a la emisión de la póliza de exportación definitiva. 
-[Image: Im0]
 
 ## e) Factura de Venta en Zona Franca (Usuario o Concesionario).-
 
@@ -20225,7 +19846,6 @@ libros de producción nacional e importados, y de publicaciones oficiales realiz
 del Estado Plurinacional de Bolivia, en versión impresa, deberán emitir una Factura Tasa Cero – 
 Venta de Libros sin Derecho a Crédito Fiscal. Se excluye de este tratamiento, la venta de revistas y 
 periódicos de carácter no oficial.
-[Image: Im0]
 
 i) **Factura Tasa Cero – Transporte Internacional de Carga por Carretera.-** Los que desarrollan 
 esta actividad, deberán emitir Factura Tasa Cero Transporte de Carga Internacional sin Derecho a 
@@ -20259,7 +19879,6 @@ medidas de seguridad establecidas en el **ANEXO 33 - TÉCNICO** disponible en el
 impuestos.gob.bo. Asimismo, conforme la Sección XII del presente Capítulo, la Administración 
 Tributaria pondrá a disposición del comprador opciones de consulta para la verificación de sus 
 Facturas.
-[Image: Im0]
 
 **Artículo 97. (Impresión de la Factura Digital).-** Cuando el comprador requiera una impresión del 
 documento digital, el vendedor deberá entregar una Impresión de la Factura Digital, cumpliendo con 
@@ -20328,7 +19947,6 @@ Administración Tributaria en el ejercicio de sus facultades de control verifica
 investigación, podrá verificar que las transacciones se hayan realizado materialmente y cumplan con 
 los requisitos de la presente Resolución, Leyes y Decretos Supremos reglamentarios y normativa 
 vigente.
-[Image: Im0]
 
 ## SECCIÓN IV
 
@@ -20351,7 +19969,6 @@ de Facturación se caracteriza por utilizar credenciales autorizadas por la Admi
 conforme al procedimiento establecido en el presente Capítulo, puede tratarse de un Sistema 
 Informático de Facturación Propio, Proveedor o proporcionado por la Administración Tributaria, 
 cuya utilización será de plena responsabilidad del Sujeto Pasivo. 
-[Image: Im0]
 
 En esta modalidad también se podrá emitir Facturas Prevaloradas cuando los Sujetos Pasivos o 
 Terceros Responsables realicen actividades de servicios de uso de terminal aeroportuaria o terrestre 
@@ -20406,7 +20023,6 @@ debidamente autorizado por el Sujeto Pasivo o Tercero Responsable a través del 
 impuestos.gob.bo, podrán utilizar un Sistema Informático de Facturación Proveedor autorizado en 
 las Modalidades de Facturación Electrónica en Línea o Computarizada en Línea, cumpliendo lo 
 establecido en la presente Resolución.    
-[Image: Im0]
 
 **III.** El Sujeto Pasivo o Tercero Responsable es responsable ante el Fisco por el pago de los tributos y 
 la autorización para la emisión de Facturas.
@@ -20479,7 +20095,6 @@ la generación y emisión de Facturas a través del Sistema Informático de Fact
 de pruebas, incluyen la verificación sobre el contenido de los datos establecidos para los formatos, 
 campos obligatorios, así como el envío, reenvío y validación de la información remitida a la 
 Administración Tributaria. 
-[Image: Im0]
 
 ---
 
@@ -20498,7 +20113,6 @@ Propietario o Proveedor para las Modalidades de Facturación Electrónica en Lí
 en Línea haya superado todas las pruebas detalladas en el Inciso a) precedente, se procederá a la 
 emisión de la  Autorización del Sistema Informático de Facturación, la cual establecerá que superó 
 en forma satisfactoria las pruebas de funcionalidad preliminares.
-[Image: Im0]
 
 Cuando el Sistema Informático de Facturación sea de un Proveedor, la Autorización le permitirá 
 ofertar su producto a terceros a condición de que los mismos superen las Pruebas Piloto por cada 
@@ -20560,7 +20174,6 @@ establecidas en el **ANEXO 33 – TÉCNICO** disponible en el Portal Web www.imp
 formulario electrónico de “Solicitud de Inicio de Facturación”, que estará disponible en el Portal 
 Web www.impuestos.gob.bo. Este formulario deberá ser presentado dentro los tres (3) días hábiles 
 siguientes a la conclusión de pruebas.
-[Image: Im0]
 
 **Artículo 112. (Conexión punto a punto con la Administración Tributaria).- I.** Los Sujetos 
 Pasivos o Terceros Responsables que deseen contar con una conexión punto a punto a través de fibra 
@@ -20607,7 +20220,6 @@ Sujetos Pasivos o Terceros Responsables en calidad de cliente, Propietario o Pro
 a la emisión de Facturas a través de los Sistemas Informáticos de Facturación autorizados para las 
 Modalidades de Facturación Electrónica en Línea o Computarizada en Línea, deberán solicitar a la 
 Administración Tributaria los siguientes códigos:   
-[Image: Im0]
 
 a)  En el Sistema Informático de Facturación para las Modalidades Electrónica en Línea y 
 Computarizada en Línea, para la obtención del Código Único de Inicio de Sistemas (CUIS) es 
@@ -20629,7 +20241,6 @@ de veinticuatro (24) horas desde el momento de su obtención, puede ser solicita
 día según las necesidades y capacidades del Sistema informático de Facturación del Sujeto Pasivo 
 o Tercero Responsable, con las medidas de seguridad establecidas en el **ANEXO 33 – TÉCNICO** 
 disponible en el Portal Web www.impuestos.gob.bo.
-[Image: Im0]
 
 c)  Código Único de Autorización de Factura (CUF)**,** generada de forma automática al momento 
 de la emisión de la Factura a partir del Sistema informático de Facturación, en las Modalidades de 
@@ -20710,7 +20321,6 @@ en áreas sin conexión y se vean impedidos de enviar información, la validez d
 extenderse hasta quince (15) días, siempre y cuando se registre el evento significativo autorizado por 
 la Administración Tributaria, por “Ingreso a zona o lugares sin Internet por despliegue de puntos de 
 venta en vehículos automotores”.
-[Image: Im0]
 
 ---
 
@@ -20758,7 +20368,6 @@ Línea  debiendo registrar el evento significativo “Venta en lugares sin Inter
 debiendo remitir la información de las Facturas emitidas dentro los  quince (15) días de su ocurrencia, 
 conforme lo establece la presente Resolución. En caso que el plazo supere la fecha de vencimiento del 
 impuesto del IVA, deberán remitir las Facturas hasta la ocurrencia del mismo.  
-[Image: Im0]
 
 ---
 
@@ -20768,7 +20377,6 @@ en Línea, el Sujeto Pasivo o Tercero Responsable podrá subsanar los errores re
 emisión de la factura, caso contrario será registrada por la Administración Tributaria, conforme los 
 datos enviados, quedando bajo responsabilidad del Sujeto Pasivo o Tercero Responsable, la calidad 
 de la información enviada. 
-[Image: Im0]
 
 **III.** Cuando las Facturas sean enviadas Fuera de Línea y presenten errores de emisión, al momento 
 de la recepción por la Administración Tributaria serán marcadas como observadas, sin que implique 
@@ -20823,7 +20431,6 @@ en la Modalidad de Facturación Portal Web en Línea, por los motivos previstos 
 habilitadas conforme a procedimiento vigente y registrarlas en el aplicativo FACILITO, además de 
 registrar el Evento Significativo en la opción habilitada para el efecto, hasta veinticuatro (24) horas 
 posteriores de finalizada la contingencia.
-[Image: Im0]
 
 **Artículo 121. (Facturas emitidas en Puntos de Venta). -** Los Sujetos Pasivos o Terceros 
 Responsables podrán emitir Facturas a través de puntos de venta, en las Modalidades de Facturación 
@@ -20879,7 +20486,6 @@ datos autorizados en las Modalidades de Facturación Electrónica en Línea y Co
 deberá solicitar la actualización de las mismas a través del Portal Web www.impuestos.gob.bo, 
 conforme procedimiento establecido en el **ANEXO 33 – TÉCNICO** disponible en el Portal Web 
 www.impuestos.gob.bo. 
-[Image: Im0]
 
 ## SECCIÓN X
 
@@ -20901,7 +20507,6 @@ Portal, en el registro de compras o en el Formulario 110 según corresponda. La 
 Tributaria, en uso de sus facultades realizará la verificación o fiscalización correspondiente a efecto 
 de determinar la existencia de obligaciones a favor del Fisco y/o en su caso la restitución del Crédito 
 Fiscal según corresponda.
-[Image: Im0]
 
 **Artículo 126. (Reversión de Facturas Anuladas en Línea).-** Cuando el Sujeto Pasivo o Tercero 
 Responsable, erróneamente hubiera anulado Facturas, podrá aplicar el procedimiento de reversión 
@@ -20951,7 +20556,6 @@ devuelto o rescindido.
 Tributaria facilitará a los Sujetos Pasivos o Terceros Responsables y Dependientes la información 
 relacionada a las Facturas de compra, emitidas por sus proveedores de bienes o servicios, a través de 
 los medios habilitados para el efecto, pudiendo acceder a:
-[Image: Im0]
 
 a) Consulta de las Facturas emitidas a su NIT o a su documento de identidad (CI o CEX).
 
@@ -21018,7 +20622,6 @@ Modalidades de Facturación: Electrónica en Línea, Computarizada en línea, Po
 Electrónica Web u Oficina Virtual, deben seleccionar del aplicativo “Mis Facturas”, las compras que 
 respaldan el Crédito Fiscal del Impuesto al Valor Agregado (IVA), del periodo fiscal, que constituirán 
 el registro de compras que dará lugar a la generación del Reporte de Compras.
-[Image: Im0]
 
 **II.** Las compras efectuadas a sujetos pasivos que emiten facturas en las Modalidades Manual, 
 Prevalorada, Computarizada o Electrónica por Ciclos deberán ser registradas en el Libro de Compras 
@@ -21067,7 +20670,6 @@ de sanciones establecido en normativa tributaria vigente, en cumplimiento a lo e
 Artículo 162 de la Ley N° 2492 Código Tributario Boliviano, y demás normativa reglamentaria. 
 En el marco de la presente Resolución, constituyen deberes formales del Sujeto Pasivo o Tercero 
 Responsable, los siguientes:
-[Image: Im0]
 
 ## DISPOSICIONES ADICIONALES
 
@@ -21088,7 +20690,6 @@ cantidad o por tiempo (Artículo 8 de la presente Resolución).
 establecidos en normativa específica (Parágrafos I y V del Artículo 10, Artículos 11 al 15, Parágrafo 
 VI del Artículo 29, Parágrafos I y II del Artículo 40, Artículos 42, 60, 61, 65 y 67 de la presente 
 Resolución).
-[Image: Im0]
 
 5. Dosificar por actividad cuando el contribuyente tiene registrado en el Registro de Contribuyentes 
 tres (3) o más actividades económicas y/o característica especial de facturación (Artículo 19 de la 
@@ -21171,7 +20772,6 @@ los contribuyentes suscritos y activados a la Modalidad de Facturación Electró
 podrán continuar emitiendo sus Facturas siempre y cuando sus sistemas incorporen el Código QR 
 y la leyenda señalada en el Anexo Nº 17 y cumplan los demás aspectos establecidos en la presente 
 Resolución.
-[Image: Im0]
 
 **Segunda.-** Los Sujetos Pasivos que antes de la vigencia de la presente Resolución hubiesen 
 certificado el código de control para la Modalidad de Facturación Computarizada, con la versión 7, 
@@ -21187,7 +20787,6 @@ nuevamente realizar el trámite de autorización de imprentas en el SFV.
 Libros de Compras y Ventas IVA a través del Módulo LCV-IVA Facilito, establecido en el Inciso 
 a) del Artículo 82 de la presente Resolución, para los periodos fiscales enero, febrero, marzo, abril y 
 mayo de la gestión 2016, conforme al siguiente cronograma:
-[Image: Im0]
 
 | ÚLTIMO DÍGITO DEL NIT | FECHA DE VENCIMIENTO |
 | --- | --- |
@@ -21306,7 +20905,6 @@ Servicio de Impuestos Nacionales
 ***ii)*** *La RND Nº 102100000004 de 05/03/2021 en su Artículo 2, Parágrafo XII* ***suprimió*** *toda* 
 *referencia a los Anexos 11 y/o 12 y en su Disposición Derogatoria Única* ***derogó*** *los* 
 *Anexos 11 y 12 de la presente resolución.*
-[Image: Im0]
 
 ---
 
@@ -21333,7 +20931,6 @@ en el país, debiendo permitir la identificación de quien las emite, garantizar
 integridad de la información y datos registrados de forma tal que cualquier modificación de las 
 mismas ponga en evidencia su alteración y cumplir los requisitos de pertenecer únicamente al titular 
 y encontrarse bajo su absoluto y exclusivo control. 
-[Image: Im0]
 
 Que, conforme al Inciso m) del Artículo 4 de la Ley N° 2166 de 22 de diciembre de 2000, Ley 
 del Servicio de Impuestos Nacionales (SIN), es atribución de esta entidad diseñar sistemas y 
@@ -21369,7 +20966,6 @@ disposiciones precedentemente citadas.
 y los deberes formales que deben cumplir las Entidades de Intermediación Financiera, Empresas de 
 Giro y Remesas de Dinero y Casas de Cambio en las operaciones de compra y venta de moneda 
 extranjera.
-[Image: Im0]
 
 **Artículo 2. (Alcance).-** Las disposiciones contenidas en la presente Resolución, alcanzan a las 
 Entidades de Intermediación Financiera, Empresas de Giro y Remesas de Dinero y Casas de Cambio 
@@ -21413,7 +21009,6 @@ Derecho a Crédito Fiscal a través del Sistema de Facturación Virtual – SFV,
 de facturación Manual, Computarizada y Electrónica por Ciclos, de acuerdo a los requisitos y 
 procedimientos establecidos en la Resolución Normativa de Directorio N° 10-0021-16 de 1° de julio 
 de 2016.
-[Image: Im0]
 
 **Artículo 5. (Formato y Emisión de Factura por la Compra y Venta de Moneda Extranjera Sin** 
 **Derecho a Crédito Fiscal).- I.** El formato de la Factura por compra y venta de moneda extranjera sin 
@@ -21488,7 +21083,6 @@ se adjunta en Anexo I de la presente Resolución.
 Remesas de Dinero y Casas de Cambio, deberán registrar todas las transacciones de compra y venta de 
 moneda extranjera en un registro auxiliar de control para determinar el Impuesto a las Transacciones 
 y el Impuesto sobre las Utilidades de las Empresas, debiendo contemplar las siguientes columnas:
-[Image: Im0]
 
 2. Número de la Factura o Nota Fiscal;
 
@@ -21526,7 +21120,6 @@ formales establecidos en los artículos 3 y 6 de la presente Resolución, consti
 tributaria tipificada como Incumplimiento a Deberes Formales sujeta a la clasificación de sanciones 
 por Incumplimiento a Deberes Formales vigente, conforme a lo establecido en el Artículo 162 de la 
 Ley Nº 2492, Código Tributario Boliviano.
-[Image: Im0]
 
 ## DISPOSICIÓN TRANSITORIA
 
@@ -21571,7 +21164,6 @@ identificación de quien las emite, garantizar la verificación de la integridad
 registrados, de forma tal que cualquier modificación de las mismas ponga en evidencia su alteración 
 y cumplir los requisitos de pertenecer únicamente al titular y encontrarse bajo su absoluto y exclusivo 
 control.
-[Image: Im0]
 
 Que, el Artículo 4 de la Ley N° 843 de 20 de mayo de 1986 (Texto Ordenado Vigente), establece que 
 al perfeccionamiento del hecho imponible del Impuesto al Valor Agregado (IVA), la transacción debe 
@@ -21605,7 +21197,6 @@ Reglamento de aplicación de la Ley Nº 2166 del Servicio de Impuestos Nacionale
 Ejecutivo en uso de sus atribuciones y en aplicación del Inciso a) del Numeral 1 de la Resolución 
 Administrativa de Directorio Nº 09-0011-02 de 28 de agosto de 2002, se encuentra autorizado a 
 suscribir Resoluciones Normativas de Directorio.
-[Image: Im1]
 
 ## POR TANTO:
 
@@ -21648,7 +21239,6 @@ Tributaria NIT o Cédula de Identidad y el nombre o razón social del comprador 
 **Única.-** Los contribuyentes que optaron por la modalidad de Facturación Computarizada con 
 impresión en rollo y utilicen papel térmico para la emisión de facturas tendrán el plazo hasta el 1 de 
 julio de 2017, para optar por otro tipo de papel.
-[Image: Im0]
 
 ## DISPOSICIONES FINALES
 
@@ -21679,7 +21269,6 @@ sea autorizada por la Administración Tributaria a los Sujetos Pasivos o Tercero
 podrá efectuarse por cualquier medio tecnológicamente disponible en el país, debiendo permitir la 
 identificación de quien las emite y garantizar la verificación de la integridad de la información y datos 
 registrados.
-[Image: Im0]
 
 Que, el Artículo 4 de la Ley N° 843 de 20 de mayo de 1986 (Texto Ordenado Vigente), establece 
 que al perfeccionamiento del hecho imponible del Impuesto al Valor Agregado (IVA), la transacción 
@@ -21718,7 +21307,6 @@ Reglamento de aplicación de la Ley Nº 2166 del Servicio de Impuestos Nacionale
 Ejecutivo en uso de sus atribuciones y en aplicación del Inciso a) del Numeral 1 de la Resolución 
 Administrativa de Directorio Nº 09-0011-02 de 28 de agosto de 2002, se encuentra autorizado a 
 suscribir Resoluciones Normativas de Directorio.
-[Image: Im0]
 
 ## POR TANTO:
 
@@ -21761,7 +21349,6 @@ Bolivianos) obligatoriamente deberá consignar en el campo NIT/CI, el Número de
 Tributaria (NIT) o Cédula de Identidad o Carnet de Extranjería; y en el campo nombre o razón social, 
 el nombre y apellido o apellido en caso de persona natural o la razón social del comprador (cliente), 
 según corresponda.
-[Image: Im0]
 
 En caso de procedimientos de control tributario para verificar el cumplimiento de la obligación 
 de emisión de Factura, Nota Fiscal o Documento Equivalente, realizados por la Administración 
@@ -21827,7 +21414,6 @@ identificación de quien las emite, garantizar la verificación de la integridad
 registrados, de forma tal que cualquier modificación de las mismas ponga en evidencia su alteración 
 y cumplir los requisitos de pertenecer únicamente al titular y encontrarse bajo su absoluto y exclusivo 
 control.
-[Image: Im0]
 
 Que el Artículo 4 de la Ley N° 843 (Texto Ordenado Vigente), establece que al perfeccionamiento del 
 hecho imponible del Impuesto al Valor Agregado (IVA), la transacción deberá estar obligatoriamente 
@@ -21866,7 +21452,6 @@ administración eficiente del régimen de impuestos internos, ve por necesaria l
 un Sistema de Facturación Electrónico, en base a criterios de integridad, seguridad y disponibilidad 
 inmediata de la información, que asimismo facilite el cumplimiento de las obligaciones tributarias 
 de los contribuyentes.
-[Image: Im0]
 
 Que conforme al Inciso p) del Artículo 19 del Decreto Supremo Nº 26462 de 22 de diciembre de 
 2001, Reglamento de la Ley Nº 2166, del Servicio de Impuestos Nacionales, el Presidente Ejecutivo 
@@ -21922,7 +21507,6 @@ descentralizadas, así como Empresas Públicas, que realicen ventas de bienes mu
 servicios gravados cuyo valor sea repuesto o pagado bajo contraprestación económica, conforme lo 
 previsto en el Artículo 4 de la Ley N° 1314 de 27 de febrero de 1992; salvo excepciones establecidas 
 en Leyes especiales.
-[Image: Im0]
 
 **V.** A las Entidades Públicas, Organizaciones No Gubernamentales (ONG) y Universidades Públicas, 
 estén o no alcanzadas por el IVA.
@@ -21965,7 +21549,6 @@ los sistemas informáticos o medios electrónicos, por cualquier usuario autoriz
 resultado un registro electrónico, tiene validez probatoria. Salvo prueba en contrario, se presume 
 que toda operación electrónica registrada en el sistema informático de la Administración 
 Tributaria pertenece al usuario autorizado.
-[Image: Im0]
 
 **f) Nominatividad:** Datos consignados en los Documentos Fiscales que identifican al comprador 
 como ser: primer apellido (mínimamente), nombre comercial o razón social del comprador; 
@@ -22006,7 +21589,6 @@ del Documento Fiscal.
 deberán exhibir permanentemente y en lugar visible, el documento “Exhibición NIT” con la leyenda 
 “EMITE FACTURA” entregado por la Administración Tributaria, en todos y cada uno de sus 
 establecimientos (Casa Matriz y Sucursales).
-[Image: Im0]
 
 **Artículo 6. (Publicación de Listado de Espectáculos Públicos Autorizados).-** La Administración 
 Tributaria publicará en su Portal Web, todos los Espectáculos Públicos autorizados, identificando si 
@@ -22088,7 +21670,6 @@ Gasolina Premium, Gasolina RON 91, Diésel Oíl, Gas Natural Vehicular y otros q
 la autoridad competente), deberán consignar en los Documentos Fiscales emitidos el número de 
 placa del vehículo automotor (identificando si es placa nacional o extranjera) o el número del 
 B-SISA u otro documento que establezca la Agencia Nacional de Hidrocarburos.
-[Image: Im0]
 
 Cuando la venta de combustible (Gasolina Especial, Gasolina Premium, Gasolina RON 91, Diésel 
 Oíl, Gas Natural Vehicular y otros que establezca la autoridad competente) sea a Entidades del 
@@ -22121,7 +21702,6 @@ Gasolina Premium, Diésel Oíl y otros que establezca la autoridad competente, d
 de forma obligatoria en el Documento Fiscal; la Autorización otorgada por la Dirección General 
 de Sustancias Controladas u otra autoridad competente, cuando se trate de ventas iguales o 
 mayores a 120 litros o el volumen que permita la norma específica aplicable a cada caso.
-[Image: Im0]
 
 La venta de Gasolinas, Diésel y Gas Natural Vehicular – GNV, a vehículos de uso particular 
 con placa de circulación extranjera de propiedad de residentes bolivianos en el exterior, deberán 
@@ -22186,7 +21766,6 @@ Turismo “Bolivia te espera” y Decreto reglamentario vigente, siempre que se 
 de servicios turísticos receptivos a extranjeros no residentes en el país, con permanencia no mayor 
 a ciento ochenta y tres (183) días sin interrupción y no cuenten con vivienda habitual o con un 
 domicilio permanente en territorio nacional.
-[Image: Im0]
 
 ---
 
@@ -22195,7 +21774,6 @@ turismo competente, podrán aplicar el beneficio señalado en el párrafo anteri
 inscritas en el Padrón Nacional de Contribuyentes con el registro de la respectiva Resolución de 
 autorización de Turismo Receptivo otorgado por la autoridad competente, cuando realicen las 
 siguientes actividades:
-[Image: Im0]
 
 **1. Operador Local:** Actividad realizada por Personas Jurídicas o Empresas Unipersonales que 
 presten servicios de turismo organizado desde los mercados de origen (exterior) hacia el 
@@ -22274,7 +21852,6 @@ conforme lo dispuesto en la Ley N° 1850 de 7 de abril de 1998, y el Decreto Sup
 de 10 de octubre de 2000, y Ley N° 1048 del 7 de abril de 2018, tienen la obligación de emitir 
 Nota Fiscal de Zona Franca, a objeto de respaldar las operaciones realizadas dentro de esa ciudad, 
 aplicando lo dispuesto en los párrafos anteriores.
-[Image: Im0]
 
 La emisión de Notas Fiscales de Zona Franca en Cobija, sólo serán válidas para operaciones 
 realizadas al interior de esa ciudad. Por toda venta de bienes o prestación de servicios que concluya 
@@ -22288,7 +21865,6 @@ Débito Fiscal de los Sujetos Pasivos o compradores, cuando se efectúa la devol
 parcial de bienes o rescisión de servicios, en el mismo periodo fiscal o hasta dieciocho (18) 
 meses posteriores a la emisión del Documento Fiscal correspondiente. Este documento podrá ser 
 emitido de acuerdo a lo siguiente: 
-[Image: Im0]
 
 **1.** En caso que la operación hubiere sido efectuada entre Sujetos Pasivos del IVA, se emitirá la 
 Nota de Crédito – Débito a través de la Modalidad de Facturación que utiliza el Contribuyente, 
@@ -22369,7 +21945,6 @@ el exterior, para la prestación de servicios de transporte aéreo u otros servi
 de viaje, que se originen en territorio nacional, están sujetos al IVA e IT y constituyen ingresos 
 gravados a efecto de la determinación del IUE o del IUE por actividades parcialmente realizadas 
 en el país, según corresponda.
-[Image: Im0]
 
 Los servicios de transporte aéreo, pagados en el exterior del país y originados en Bolivia, se 
 encuentran sujetos al IVA, IT e IUE.
@@ -22403,7 +21978,6 @@ internacionales, patrimonios autónomos, personal diplomático y personas extran
 que por su naturaleza o actividad no se encuentran obligados a inscribirse en el Padrón Nacional de 
 Contribuyentes, el proveedor deberá consignar el nombre o razón social y en el espacio destinado al 
 NIT/CI del Documento Fiscal el código noventa y nueve mil uno (99001).
-[Image: Im0]
 
 **III.** Excepcionalmente cuando el comprador no proporcione sus datos (Número de Identificación 
 Tributaria - NIT o Cédula de Identidad o Carnet de Extranjería, razón social, mínimamente el 
@@ -22438,7 +22012,6 @@ de bienes inmuebles, el Documento Fiscal deberá emitirse con carácter mensual 
 periodo de prestación, por el cual se devenga el pago o contraprestación mensual o a momento de su 
 efectivo pago, lo que ocurra primero, en concordancia con lo dispuesto por el Inciso b) del Artículo 4 
 de la Ley Nº 843 y sus disposiciones reglamentarias aplicables según el sector económico.
-[Image: Im0]
 
 En el caso específico de prestación de servicios continuos como energía eléctrica, agua potable y gas 
 domiciliario el Documento Fiscal deberá emitirse con carácter mensual, tomándose como periodo 
@@ -22482,7 +22055,6 @@ la liquidación de las obligaciones tributarias del contribuyente. El sujeto pas
 podrá realizar el registro de los Documentos Fiscales rezagados, hasta la fecha de vencimiento para la 
 presentación y pago de la Declaración Jurada del Impuesto al Valor Agregado, a través de la opción 
 habilitada en el Portal Web de la Administración Tributaria.
-[Image: Im0]
 
 Cuando el Sujeto Pasivo o Tercero Responsable registre Documentos Fiscales fuera del plazo 
 señalado en el párrafo precedente, deberá proceder a tramitar la rectificatoria de la Declaración 
@@ -22546,7 +22118,6 @@ Administración Tributaria adquieren validez tributaria. La Administración Trib
 de sus facultades de control, verificación, fiscalización e investigación podrá verificar que las 
 transacciones se hayan realizado y cumplan con los requisitos de la presente Resolución Normativa, 
 Leyes y Decretos Supremos reglamentarios.
-[Image: Im0]
 
 **III.** La emisión de Documentos Fiscales Electrónicos es responsabilidad del Sujeto Pasivo o Tercero 
 Responsable para fines legales y tributarios.
@@ -22615,7 +22186,6 @@ Técnico 1 de la presente Resolución Normativa.
 Facturación (Códigos de productos y servicios, países, códigos de eventos significativos, códigos 
 de errores de servicios y otros establecidos en el Anexo Técnico 1 de la presente Resolución 
 Normativa). 
-[Image: Im0]
 
 **e) Sincronización de fecha y hora.-** Permite la sincronización de la fecha y hora de los Sistemas 
 de Facturación con el de la Administración Tributaria, en los plazos establecidos en la presente 
@@ -22657,7 +22227,6 @@ inherentes al Sistema de Facturación que intervienen en su funcionamiento o que
 emisión de los Documentos Fiscales Electrónicos. Deben ser registrados a través del componente 
 certificado por la Administración Tributaria y enviados automáticamente a través del servicio Web 
 establecido en el Anexo Técnico 1 de la presente Resolución Normativa. 
-[Image: Im0]
 
 **II.** Cuando se produzcan eventos significativos no considerados en la presente Resolución Normativa, 
 el Sistema de Facturación deberá almacenarlos y el contribuyente a través del mismo notificará el 
@@ -22712,7 +22281,6 @@ estar sincronizados con la fecha y hora de la Administración Tributaria.
 La sincronización deberá realizarse diariamente antes de la solicitud del Código Único de Facturación 
 Diaria, a través de los servicios Web disponibles para el efecto, considerando lo establecido en el 
 Anexo Técnico 1 de la presente Resolución Normativa.
-[Image: Im0]
 
 **Artículo 21. (Reportes).- I.** El Sistema de Facturación deberá permitir la generación de los siguientes 
 reportes como mínimo:
@@ -22771,7 +22339,6 @@ Documentos Fiscales Electrónicos.
 tendrá validez hasta la fecha de caducidad de la Firma Digital otorgada por la autoridad competente 
 y registrada en la Administración Tributaria, de existir varias firmas registradas corresponderá a la 
 de menor vigencia.
-[Image: Im0]
 
 **II.** Para la Modalidad de Facturación Computarizada en Línea el CUIS tendrá validez de 365 días a 
 partir de la habilitación de emisión de Documentos Fiscales Electrónicos.
@@ -22817,7 +22384,6 @@ otorga a un Documento Fiscal electrónico las características de: No repudio, a
 creada por métodos que se encuentren bajo el absoluto y exclusivo control de su titular, susceptible de 
 verificación y está vinculada a los datos del Documento Fiscal electrónico emitido, de modo tal que 
 cualquier modificación de los mismos ponga en evidencia su alteración.
-[Image: Im0]
 
 **II.** Para el firmado de los Documentos Fiscales electrónicos el Sujeto Pasivo o Tercero Responsable, 
 deberá utilizar un certificado digital firmado por la autoridad competente. La custodia y generación 
@@ -22849,7 +22415,6 @@ el Sujeto Pasivo o Tercero Responsable prever su renovación, para este efecto l
 Tributaria informará oportunamente al Sujeto Pasivo o Tercero Responsable sobre la necesidad de 
 renovar la vigencia de la Firma Digital; a través de los distintos servicios Web establecidos en el 
 Anexo Técnico 1 de la presente Resolución Normativa.
-[Image: Im0]
 
 **II.** La Administración Tributaria validará que la firma digital consignada en los Documentos Fiscales 
 Electrónicos emitidos por el Sistema de Facturación, no se encuentre revocada o suspendida conforme 
@@ -22924,7 +22489,6 @@ ALIMENTOS – SEGURIDAD ALIMENTARIA Y ABASTECIMIENTO”, “NOTA DE
 CRÉDITO/DÉBITO”, “NOTA FISCAL TASA CERO”, “NOTA FISCAL DE COMPRA 
 Y VENTA DE MONEDA EXTRANJERA”, “NOTA DE CONCILIACIÓN” y otros 
 establecidos en normativa vigente según corresponda;
-[Image: Im0]
 
 ***Nota del Editor:*** *La RND Nº 101900000006 de 22/04/2019 en sus Disposiciones* 
 *Derogatorias Tercera,* ***derogó*** *la referencia "NOTA DE CONCILIACIÓN" en el Inciso* 
@@ -22974,7 +22538,6 @@ Para el caso de Facturas o Notas Fiscales de Alquiler, en la descripción se deb
 el mes o el periodo comprendido, así como la especificación de la dirección o localización 
 del bien inmueble objeto del alquiler (especificación de casa, piso, oficina, departamento, 
 local, etc.);
-[Image: Im0]
 
 **h)** Bonificaciones, descuentos, Tasas, intereses en el caso de arrendamiento financiero y otros 
 impuestos indirectos si corresponde;
@@ -23012,7 +22575,6 @@ de las Usuarias y los Usuarios y de las Consumidoras y los Consumidores, se debe
 en letras minúsculas, con excepción de la primera letra, una de las leyendas contenidas en el 
 Anexo Técnico 1 de la presente Resolución Normativa. Para esta modalidad el Sistema de 
 Facturación del emisor asignará la misma al momento de la emisión de la factura;
-[Image: Im0]
 
 De manera opcional, cuando su impresión se realice en rollo, la leyenda podrá ser ubicada al 
 reverso de la Factura o Nota Fiscal;
@@ -23036,7 +22598,6 @@ Los Documentos Fiscales de los Sujetos Pasivos o Terceros Responsables que se en
 sujetos a regulación, podrán adecuar sus formatos según las disposiciones emitidas por la autoridad 
 reguladora competente, siempre y cuando cumplan con los requisitos mínimos establecidos en la 
 presente Resolución Normativa.
-[Image: Im0]
 
 **II.** Las Facturas Comerciales de Exportación deberán consignar la siguiente información:
 
@@ -23115,7 +22676,6 @@ información:
 transacción, cuando la operación sea en moneda extranjera; pudiéndose utilizar el tipo 
 de cambio en moneda extranjera, de acuerdo a disposiciones emitidas por la autoridad 
 competente;
-[Image: Im0]
 
 **11.** Total, en bolivianos (numeral y literal) y su equivalente en moneda extranjera;
 
@@ -23153,7 +22713,6 @@ Adicionalmente deberá considerar:
 
 **Artículo 36. (Formato de la Nota de Conciliación).-** Deberá consignar la información establecida 
 en los Numerales 1 y 2 del Parágrafo I del Artículo 34 de la presente Resolución Normativa. 
-[Image: Im0]
 
 Adicionalmente deberá considerar:
 
@@ -23192,7 +22751,6 @@ Adicionalmente deberá considerar:
 alternativas para dar continuidad a la emisión de Documentos Fiscales Electrónicos a través del 
 Sistema de Facturación para las modalidades: Electrónica en Línea y Computarizada en Línea; 
 cuando se presenten los tipos de eventos significativos detallados en el siguiente Artículo.
-[Image: Im0]
 
 **Artículo 38. (Eventos significativos que generan contingencia).- I.** Los tipos de eventos 
 significativos que generan contingencia son los siguientes:
@@ -23248,7 +22806,6 @@ como máximo para la emisión de Documentos Fiscales Electrónicos.
 áreas sin conexión y se ven impedidos de enviar información, la validez del CUFD podrá extenderse 
 hasta quince (15) días, siempre y cuando se registre el evento significativo “Ingreso a zonas sin 
 Internet por despliegue de puntos de venta”, previa autorización de la Administración Tributaria.
-[Image: Im0]
 
 A efectos de lo señalado en el párrafo precedente, el sujeto pasivo o tercero responsable deberá 
 enviar su solicitud a través de la opción habilitada en el Portal Web de la Administración Tributaria 
@@ -23269,7 +22826,6 @@ zonas sin Internet por despliegue de puntos de venta” en el plazo veinticuatro
 recepción de la solicitud. En el caso de operaciones ordinarias la habilitación será de forma indefinida, 
 en el caso de operaciones extraordinarias la habilitación se realizará por el tiempo solicitado por el 
 contribuyente.
-[Image: Im0]
 
 La Administración Tributaria en el marco de sus facultades se reserva el derecho de verificar y 
 controlar que las operaciones realizadas se adecuen a la solicitud planteada.
@@ -23318,7 +22874,6 @@ Ante un evento significativo, descrito en el parágrafo II del Artículo 38 de l
 Normativa, el Sujeto Pasivo o Tercero Responsable, podrá utilizar Facturas de Contingencia o Notas 
 Fiscales de Contingencia autorizadas por la Administración Tributaria conforme los Artículos 71 al 
 74, 78 y 80 al 82 de la presente Resolución Normativa.
-[Image: Im0]
 
 **II.** Una vez concluida la contingencia de emisión de Facturas de Contingencia y Notas Fiscales de 
 Contingencia, el Sujeto Pasivo o Tercero Responsable deberá realizar las siguientes acciones:
@@ -23377,7 +22932,6 @@ c) Contar en stock con Facturas de Contingencia o Notas Fiscales de Contingencia
 Administración Tributaria homologa el “Sistema Propio” del contribuyente, o el “Sistema Proveedor” 
 a fin de comprobar que cumplan los requisitos mínimos establecidos en la presente Resolución 
 Normativa y Anexo Técnico 1.
-[Image: Im0]
 
 **Artículo 45. (Obligados a certificar).-** Están obligados a certificar los Sujetos Pasivos o Terceros 
 Responsables que sean propietarios de un Sistema de Facturación, así como el propietario de un 
@@ -23454,7 +23008,6 @@ de hardware y software que utiliza el contribuyente en el proceso de emisión de
 Fiscales Electrónicos. Esta fase incluye, el registro de rutas, archivos de código fuente y huellas 
 digitales de estos archivos, que contengan los componentes y funcionalidades mínimas del 
 Sistema de Facturación. 
-[Image: Im0]
 
 Cuando la Administración Tributaria no requiera la revisión IN SITU, el contribuyente o 
 proveedor de sistema deberá remitir:
@@ -23484,7 +23037,6 @@ Facturación, el cual será remitido al contribuyente a través de correo electr
 El mismo incluirá la firma digital de la autoridad competente y el detalle de pruebas aprobadas, así 
 como de su registro de rutas, archivos y huellas asociados a su sistema, de acuerdo al Anexo Técnico 
 1 de la presente Resolución Normativa.
-[Image: Im0]
 
 **II.** La Administración Tributaria comunicará la URL de acceso al entorno de Producción, al correo 
 electrónico de la(s) persona(s) de contacto declaradas por el contribuyente.
@@ -23541,7 +23093,6 @@ sea modificado y ello afecte a sus archivos de código fuente, el contribuyente 
 actualización de su certificación, que consistirá en la repetición de pruebas, conforme las fases 
 de certificación descritas en los Artículos precedentes, coordinada entre el contribuyente y la 
 Administración Tributaria. 
-[Image: Im0]
 
 **II.** La Administración Tributaria emitirá un nuevo certificado de cumplimiento de Sistemas de 
 Facturación cuando las pruebas hayan sido satisfactorias.
@@ -23591,7 +23142,6 @@ Pasivo o Tercero Responsable que utiliza un “Sistema Proveedor”, el contribu
 a la Administración Tributaria la desvinculación con éste a través de la opción habilitada en el Portal 
 Web, registrando la fecha a partir de la cual dejará de utilizar el “Sistema Proveedor” quedando 
 inhabilitado para emitir Documentos Fiscales Electrónicos.
-[Image: Im0]
 
 **Artículo 56.  (Inactivación del Sistema de Facturación).- I.** Cuando el NIT del Sujeto Pasivo o 
 Tercero Responsable cambie a estado Inactivo, el o los sistemas que estuvieren asociados al mismo 
@@ -23632,7 +23182,6 @@ validados y registrados en la Base de Datos de la Administración Tributaria adq
 tributaria. La Administración Tributaria en el ejercicio de sus facultades de control, verificación, 
 fiscalización e investigación podrá verificar que las transacciones se hayan realizado y cumplan con 
 los requisitos de la presente Resolución Normativa, Leyes y Decretos Supremos reglamentarios.
-[Image: Im0]
 
 **III.** De manera opcional bajo esta modalidad, se podrá imprimir la representación gráfica conforme 
 lo establecido en la presente Resolución Normativa.
@@ -23690,7 +23239,6 @@ que los Documentos Fiscales Electrónicos enviados en el paquete, se encuentran 
 y registrados en la Base de Datos de la Administración Tributaria, a través del servicio Web 
 habilitado para el efecto, conforme lo establecido en el Anexo Técnico 1 de la presente Resolución 
 Normativa.
-[Image: Im0]
 
 La validación y observación de los Documentos Fiscales Electrónicos contenidos en el paquete 
 será de forma individual.
@@ -23750,7 +23298,6 @@ Tributaria, conservando el derecho de realizar la denuncia por Documentos Fiscal
 su consentimiento a la Administración Tributaria, para que ésta en uso de sus facultades realice la 
 verificación o fiscalización correspondiente a efecto de determinar la existencia de obligaciones y en 
 su caso la restitución de derechos según corresponda.
-[Image: Im0]
 
 ---
 
@@ -23792,7 +23339,6 @@ o Terceros Responsables que emitan Documentos Fiscales Electrónicos de forma ma
 el caso de las telecomunicaciones, servicios básicos y otros que así informen a la Administración 
 Tributaria, concluido el proceso masivo deberán enviar los mismos en paquetes conforme lo establece 
 la presente Resolución Normativa.
-[Image: Im0]
 
 **II.** Los Sujetos Pasivos o Terceros Responsables cuyo procedimiento de emisión masiva iniciado, 
 exceda el Periodo Fiscal en el que se perfeccionó el hecho generador, podrán emitir Documentos 
@@ -23829,7 +23375,6 @@ que los Documentos Fiscales Electrónicos enviados en el paquete, se encuentran 
 y registrados en la Base de Datos de la Administración Tributaria, a través del servicio Web 
 habilitado para el efecto, conforme lo establecido en el Anexo Técnico 1 de la presente Resolución 
 Normativa.
-[Image: Im0]
 
 La validación y observación de los Documentos Fiscales Electrónicos contenidos en el paquete 
 será de forma individual.
@@ -23886,7 +23431,6 @@ Tributaria, conservando el derecho de realizar la denuncia por Documentos Fiscal
 su consentimiento a la Administración Tributaria, para que ésta en uso de sus facultades realice la 
 verificación o fiscalización correspondiente a efecto de determinar la existencia de obligaciones y en 
 su caso la restitución de derechos según corresponda.
-[Image: Im0]
 
 **II.** El Sujeto Pasivo o Tercero Responsable podrá anular el Documento Fiscal Electrónico a través de 
 su sistema de facturación registrando el motivo de la anulación.
@@ -23931,7 +23475,6 @@ y registrados en la Base de Datos de la Administración Tributaria adquieren val
 Administración Tributaria en el ejercicio de sus facultades de control, verificación, fiscalización e 
 investigación podrá verificar que las transacciones se hayan realizado y cumplan con los requisitos de 
 la presente Resolución Normativa, Leyes y Decretos Supremos reglamentarios.
-[Image: Im0]
 
 **VI.** De manera opcional bajo esta modalidad, se podrá imprimir la representación gráfica conforme 
 lo establecido en la presente Resolución Normativa.
@@ -23989,7 +23532,6 @@ de emisión y la leyenda “VENTAS MENORES DEL DÍA” en la sección destinada 
 del cliente, además de consignar el código noventa y nueve mil tres (99003) en el campo destinado 
 al NIT o número de Documento de Identificación, debiendo mantener también el original para fines 
 de control posterior.
-[Image: Im0]
 
 **III.** En la Modalidad de Facturación Manual, la cantidad por cada tipo de Documento Fiscal a ser 
 otorgada en la primera autorización será como máximo de trescientas (300) unidades.
@@ -24035,7 +23577,6 @@ Administración Tributaria, cuando sean solicitados.
 **Artículo 71. (Código de Autorización de Emisión de Documentos Fiscales-CAED).-** Código 
 Alfanumérico generado y otorgado por la Administración Tributaria que autoriza e identifica de 
 forma única un rango de Documentos Fiscales.
-[Image: Im0]
 
 El CAED es otorgado a través de las Imprentas Autorizadas ante la solicitud de impresión de 
 Documentos Fiscales realizada  por el Sujeto Pasivo o Tercero Responsable.
@@ -24102,7 +23643,6 @@ en el Portal Web de la Administración Tributaria con lo cual quedan habilitados
 Fiscales e imprimirá el reporte de entrega, para proceder a la entrega física de los mismos. El 
 Sujeto Pasivo o Tercero Responsable no deberá recepcionar los Documentos Fiscales si no están 
 respaldados con el reporte previamente citado.
-[Image: Im0]
 
 La Imprenta Autorizada no deberá entregar los Documentos Fiscales sin registrar el PIN de 
 entrega, de hacerlo el Sujeto Pasivo o Tercero Responsable deberá tramitar ante la Administración
@@ -24118,7 +23658,6 @@ o la Imprenta Autorizada hasta antes de efectuarse la impresión. A este efecto 
 Tercero Responsable o la Imprenta Autorizada deberán iniciar la cancelación del trabajo de impresión, 
 la cual se consolidará con la confirmación de la otra parte, a través de las opciones habilitadas en el 
 Portal Web de la Administración Tributaria.
-[Image: Im0]
 
 **Artículo 75. (Documentos Fiscales emitidos impresos con errores de formato).- I.**  Cuando el 
 Sujeto Pasivo o Tercero Responsable haya emitido Documentos Fiscales con errores en el formato 
@@ -24173,7 +23712,6 @@ Autorizada los entregará a la Administración Tributaria, dentro de los diez (1
 vencimiento del plazo para recojo de los Documentos Fiscales, para que de forma inmediata se 
 proceda a la destrucción, baja en el sistema y firma del Acta correspondiente por el Servidor Público 
 actuante, el Jefe de Departamento o Jefe de Agencia Tributaria y la Imprenta Autorizada.
-[Image: Im0]
 
 **Artículo 77. (Uso de la Modalidad de Facturación).-** Los Sujetos Pasivos o Terceros Responsables 
 que cuenten con tres (3) o más actividades económicas vigentes en el Padrón Nacional de 
@@ -24218,7 +23756,6 @@ DUTTY FREE”, “NOTA FISCAL DE EXPORTACIÓN DE SERVICIO TURÍSTICO”,
 COMPRA Y VENTA DE MONEDA EXTRANJERA”, “FACTURA DE CONTINGENCIA”, 
 “NOTA FISCAL DE CONTINGENCIA” y otros establecidos en normativa vigente según 
 corresponda;
-[Image: Im0]
 
 **b)** Subtítulo: Para Notas Fiscales se deberá consignar la leyenda “SIN DERECHO A CRÉDITO 
 FISCAL”.
@@ -24268,7 +23805,6 @@ la factura sólo es válido para el crédito fiscal el 70%”.
 sujetos a regulación específica, pueden adicionar otra información según las disposiciones emitidas 
 por la autoridad reguladora competente, siempre y cuando cumplan con los requisitos mínimos 
 establecidos en la presente Resolución Normativa.
-[Image: Im0]
 
 **III.** Adicionalmente, a solicitud del Sujeto Pasivo o Tercero Responsable, la Imprenta Autorizada 
 puede consignar otra información, respetando los formatos establecidos en el presente Artículo.
@@ -24348,7 +23884,6 @@ del vehículo automotor (identificando si es placa nacional o extranjera) o el n
 otro documento que establezca la Agencia Nacional de Hidrocarburos. Cuando la venta se realice 
 en envases se registrará uno de los siguientes caracteres: bidones (B), botellas (T) u otros (O), 
 Ejemplos:
-[Image: Im0]
 
 | NOMBRE O RAZÓN SOCIAL | PLACA/ B-SISA/OTRO | PAÍS ORIGEN | ENVASE |
 | --- | --- | --- | --- |
@@ -24387,7 +23922,6 @@ Premium, Gasolina RON 91, Diésel, Gas Natural Vehicular y otros que establezca 
 competente) es obligatorio el desglose de la cantidad del producto vendido, debiendo emitirse 
 un Documento Fiscal diferente por tipo de producto, además de señalar el importe base para el 
 Crédito Fiscal del IVA.
-[Image: Im0]
 
 **i)** Para el caso de Zonas Francas se deberá consignar en la Nota Fiscal el Número de Parte de 
 Recepción, otorgado por el concesionario de zona franca, en las ventas que comprenden el lote de 
@@ -24434,7 +23968,6 @@ requiere autorización de la Administración Tributaria; en cualquier momento, p
 formulario y Periodo Fiscal, el Sujeto Pasivo o Tercero Responsable realizará la rectificatoria del 
 formulario respectivo, procediendo con la actualización del Registro de Documentos Fiscales a 
 través de la opción habilitada en el Portal Web de la Administración Tributaria.
-[Image: Im0]
 
 **b)** Cuando la rectificatoria de la Declaración Jurada incremente el Saldo a Favor del Contribuyente, 
 requiere la aprobación de la Administración Tributaria mediante Resolución Administrativa; 
@@ -24464,7 +23997,6 @@ Sujeto Pasivo o Tercero Responsable deberá proceder de acuerdo al siguiente pro
 Sujeto Pasivo o Tercero Responsable deberá registrar los Documentos Fiscales anulados a través 
 de la opción habilitada en el Portal Web de la Administración Tributaria, hasta el día ocho (8) del 
 mes siguiente.
-[Image: Im0]
 
 **b)** Cuando un Documento Fiscal haya sido registrado como válido, podrá cambiar el estado del 
 mismo a “ANULADO”, a través de la opción habilitada en el Portal Web de la Administración 
@@ -24511,7 +24043,6 @@ utilizados o con cambios en la información preimpresa, el Sujeto Pasivo o Terce
 deberá apersonarse a oficinas de la Administración Tributaria para que de forma inmediata se proceda 
 al registro, baja en el sistema, destrucción y firma del Acta por el Servidor Público actuante, el Jefe de 
 Departamento o Jefe de Agencia Tributaria y el Sujeto Pasivo o Tercero Responsable.
-[Image: Im0]
 
 Excepcionalmente cuando se produzcan cambios en el domicilio fiscal de la casa matriz o sucursal del 
 contribuyente, es posible evitar la inutilización de los Documentos Fiscales optando por consignar en 
@@ -24573,7 +24104,6 @@ comprador, utilizado en actividades económicas de consumo masivo y/o precio fij
 los requerimientos comerciales y en ferias, como por ejemplo: venta de GLP en garrafas, tarjetas 
 de telefonía móvil, pago por uso de terminales terrestres o aéreas, boletos o entradas y venta de 
 productos en ferias o a través de máquinas dispensadoras u otros similares.
-[Image: Im0]
 
 El Sujeto Pasivo o Tercero Responsable, en el marco del parágrafo precedente, podrá habilitar la 
 modalidad de facturación prevalorada como una modalidad de facturación complementaria a la que 
@@ -24651,7 +24181,6 @@ Imprenta Autorizada, deberán entregar a la Administración Tributaria los Docum
 Prevalorados Preimpresos, para que de forma inmediata se proceda a la destrucción, baja en el 
 sistema y firma del Acta correspondiente por el Servidor Público actuante, el Jefe de Departamento 
 o Jefe de Agencia Tributaria y el Sujeto Pasivo o Tercero Responsable.
-[Image: Im0]
 
 **3.** La Administración Tributaria enviará el PIN de entrega al Sujeto Pasivo o Tercero Responsable 
 a su correo electrónico, mensaje de texto u otro medio tecnológico disponible determinado por la 
@@ -24669,7 +24198,6 @@ Fiscales Prevalorados Preimpresos e imprimirá el reporte de entrega, para proce
 entrega física de los mismos. El Sujeto Pasivo o Tercero Responsable no deberá recepcionar 
 los Documentos Fiscales Prevalorados Preimpresos si no están respaldados con el reporte 
 previamente citado.
-[Image: Im0]
 
 La Imprenta Autorizada no deberá entregar los Documentos Fiscales Prevalorados Preimpresos 
 sin registrar el PIN de entrega, de hacerlo el Sujeto Pasivo o Tercero Responsable deberá tramitar 
@@ -24745,7 +24273,6 @@ Pasivo o Tercero Responsable deberá apersonarse al área de Recaudaciones de la
 Tributaria para que de forma inmediata se proceda al registro, baja en el sistema, destrucción y firma 
 del Acta por el Servidor Público actuante, el Jefe de Departamento o Jefe de Agencia Tributaria y el 
 Sujeto Pasivo o Tercero Responsable.
-[Image: Im0]
 
 **II.**  Los Documentos Fiscales Prevalorados Preimpresos que no hubieren sido registrados como 
 no utilizados y no cuenten con el respectivo Documento Fiscal Prevalorado Preimpreso original 
@@ -24797,7 +24324,6 @@ Los documentos de respaldo deberán ser resguardados conforme a normativa vigent
 extraviados y no cuenten con los documentos establecidos en los numerales 1) y 2) del parágrafo 
 precedente, serán considerados como emitidos y por tanto sujetos a lo establecido en Normativa 
 vigente para la determinación de la base imponible.
-[Image: Im0]
 
 **Artículo 95. (Documentos Fiscales emitidos impresos con errores de formato).-  I.** Cuando el 
 Sujeto Pasivo o Tercero Responsable haya emitido Documentos Fiscales Prevalorados Preimpresos 
@@ -24839,7 +24365,6 @@ parágrafos II, III y IV precedentes deberá entregar a la Administración Tribu
 de forma inmediata se proceda a la destrucción, baja en el sistema y firma del Acta correspondiente 
 por el Servidor Público actuante, el Jefe de Departamento o Jefe de Agencia Tributaria y el Sujeto 
 Pasivo o Tercero Responsable. 
-[Image: Im0]
 
 **Artículo 96. (Formato de los Documentos Fiscales Prevalorados Preimpresos).- I.** Los 
 Documentos Fiscales Prevalorados Preimpresos, deben contener mínimamente los siguientes datos:
@@ -24855,7 +24380,6 @@ podrán consignar el nombre comercial registrado en el Padrón Nacional de Contr
 **b)**la casa matriz o sucursal: Número de sucursal (la matriz será sucursal 0) Domicilio Datos de reproducción 
 tributario, número telefónico, Municipio y Departamento (este último cuando sea distinto al 
 del Municipio). 
-[Image: Im0]
 
 **a)** Número de Identificación Tributaria (NIT);
 
@@ -24939,7 +24463,6 @@ materiales y colores utilizados para la emisión de los originales y copias fís
 Fiscales Prevalorados Preimpresos, deberá permitir consignar de forma nítida, legible y precisa la 
 información establecida al efecto, utilizando cualquier papel de color distinto al negro, permitiendo 
 que los datos consignados sean legibles.
-[Image: Im0]
 
 **II.** Se prohíbe el uso del formato “CURSIVA” excepto para el logotipo y otra información que no 
 afecte el contenido del Documento Fiscal.
@@ -24958,7 +24481,6 @@ Pasivo o Tercero Responsable del sector de Telecomunicaciones, podrá realizar i
 tarjetas prepago, solicitando la autorización a través de la opción habilitada en el Portal Web de la 
 Administración Tributaria. La autorización es automática al momento de finalizar la solicitud de 
 impresión.
-[Image: Im0]
 
 **II.** Para la solicitud de autorización el Sujeto Pasivo o Tercero Responsable, deberá proporcionar la 
 siguiente información:
@@ -25046,7 +24568,6 @@ señalada en el parágrafo anterior deberá entregar a la Administración Tribut
 de forma inmediata se proceda a la destrucción, baja en el sistema y firma del Acta correspondiente 
 por el Servidor Público actuante, el Jefe de Departamento o Jefe de Agencia Tributaria y el Sujeto 
 Pasivo o Tercero Responsable. 
-[Image: Im0]
 
 **Artículo 102. (Documentos Fiscales Prevalorados Extraviados para Telecomunicaciones).-I.** 
 Cuando el Sujeto Pasivo o Tercero Responsable, extravíe Documentos Fiscales Prevalorados para 
@@ -25101,7 +24622,6 @@ Responsables que realicen actividades de servicios de uso de terminal aeroportua
 ingreso de personas a ferias, podrán utilizar Documentos Fiscales Prevalorados Electrónicos, a través 
 de un Sistema de Facturación certificado en las modalidades de Facturación Computarizada en Línea 
 y Electrónica en Línea.
-[Image: Im0]
 
 ---
 
@@ -25141,7 +24661,6 @@ para que operen como proveedores del servicio de impresión de Documentos Fiscal
 Sujetos Pasivos o Terceros Responsables, que opten por las Modalidades de Facturación Manual y 
 Prevalorada, para tal efecto las imprentas que cumplan con los requisitos y realicen los procedimientos 
 establecidos en el presente Capítulo, serán registradas como imprentas autorizadas.
-[Image: Im0]
 
 **II.** Los Sujetos Pasivos o Terceros Responsables deberán imprimir sus talonarios de Facturas o Notas 
 Fiscales, únicamente a través de una imprenta autorizada por la Administración Tributaria.
@@ -25184,7 +24703,6 @@ inspección física hasta los diez (10) días hábiles siguientes de dicha solic
 información declarada por la imprenta solicitante en cuanto a los domicilios, datos de las máquinas 
 impresoras, equipos de computación con conexión a Internet, a cargo de la dependencia operativa 
 competente.
-[Image: Im0]
 
 **II.** Realizada la inspección y en caso que ésta no denote discrepancias con la información declarada 
 por la imprenta solicitante, en un plazo máximo de cinco (5) días de efectuada la inspección, 
@@ -25215,7 +24733,6 @@ en la presente Resolución Normativa, a tal efecto la Administración Tributaria
 que identificarán el cumplimiento de los trabajos asignados, aplicando cuando corresponda los 
 conceptos de suspensión temporal o cancelación definitiva, en base a los siguientes criterios de 
 control procesados con corte al último día del mes sobre los datos del mes anterior:
-[Image: Im0]
 
 **1. Trabajos de impresión pendientes frente a los Trabajos Asignados:** Es la relación de las 
 solicitudes de trabajos de impresión de Documentos Fiscales por la imprenta, respecto a los 
@@ -25268,7 +24785,6 @@ impresión de Documentos Fiscales sin la posibilidad de volver a obtener la auto
 realizar trabajos de impresión de Documentos Fiscales; permitiendo la entrega o cancelación de 
 aquellos trabajos autorizados con anterioridad a la aplicación de la cancelación definitiva, en caso 
 de verificarse cualquiera de las siguientes causales descritas a continuación:
-[Image: Im0]
 
 **a)** Si la imprenta autorizada hubiere acumulado más de tres (3) suspensiones temporales, 
 computadas desde la fecha de la autorización vigente;
@@ -25344,7 +24860,6 @@ manera digital en los archivos XML que serán enviados al SIN en el plazo señal
 I del Artículo 110 de la presente Resolución Normativa, a este efecto deberá habilitar los medios 
 electrónicos pertinentes para facilitar al beneficiario validar su boleto electrónico para descargo del 
 crédito fiscal.
-[Image: Im0]
 
 El importe sujeto a Crédito Fiscal consignado en los boletos aéreos, estará compuesto por:
 
@@ -25363,7 +24878,6 @@ boleto aéreo de forma separada a la Tarifa Neta (FARE), otros costos que forman
 que a la fecha son cobrados a los pasajeros dentro la Tarifa Neta (FARE), para vuelos originados 
 en el territorio nacional, podrán utilizar los códigos (YQ) o (YR) en el boleto aéreo, en este caso el 
 importe sujeto a Crédito Fiscal al cual tendrá derecho el pasajero o beneficiario estará compuesto por: 
-[Image: Im0]
 
 Tarifa Neta (FARE) + Impuesto Nacional IVA (BO) + Otros Conceptos (YQ o YR)
 
@@ -25429,7 +24943,6 @@ por la Línea Aérea, Agente General Autorizado y Agencia de viaje. La informaci
 en formato XML a través de los Servicios Web habilitados para el efecto, de acuerdo al formato 
 establecido en el Anexo Técnico 1 de la presente Resolución Normativa. Enviando la siguiente 
 información:
-[Image: Im0]
 
 a) CUF (Código Único de Facturación) generado por el Sistema de Facturación de la 
 Línea Aérea;
@@ -25505,7 +25018,6 @@ Tributaria conforme lo establecido en el Anexo Técnico 1 de la Presente Resoluc
 son válidos para respaldar la liquidación de los impuestos IVA, RC-IVA, IUE y como descargo en el 
 Sistema Tributario Integrado (STI), en los términos dispuestos en la Ley Nº 843 y Decretos Supremos 
 reglamentarios, siempre que cumplan los siguientes requisitos:
-[Image: Im0]
 
 ---
 
@@ -25520,7 +25032,6 @@ cuando cumpla los requisitos de realización, vinculación y medios fehacientes 
 dispuesto en el numeral 11 del Artículo 66 de la Ley Nº 2492 y Artículo 37 del Decreto Supremo 
 Nº 27310, sin perjuicio de que el Sujeto Pasivo o Tercero Responsable emisor sea sancionado por 
 incumplimiento a deber formal.
-[Image: Im0]
 
 **2.** Consigne la fecha de emisión y ésta se encuentre dentro del periodo fiscal a liquidar el impuesto.
 
@@ -25599,7 +25110,6 @@ para la emisión de Facturas, que será otorgada mediante la emisión de una Res
 Electrónicos con una anticipación de cinco (5) días hábiles a la fecha de realización del Espectáculo 
 Público, a través de la opción habilitada en el Portal Web de la Administración Tributaria registrando 
 la siguiente información:
-[Image: Im0]
 
 **a)** Datos del evento:
 
@@ -25654,7 +25164,6 @@ Nacionales) donde se realice el trámite de solicitud de Autorización de Docume
 Electrónicos, por un monto equivalente al veinte por ciento (20%) del valor total de los 
 Documentos Fiscales Electrónicos estimados, con fecha de vencimiento de noventa (90) días 
 posteriores a la conclusión del último Espectáculo Público autorizado.
-[Image: Im0]
 
 Se exceptúa de este requisito a las Entidades y Empresas Públicas del nivel Central del Estado 
 y Gobiernos Autónomos Departamentales y Municipales.
@@ -25685,7 +25194,6 @@ la Resolución Administrativa de Autorización, quedándose con la Boleta de Gar
 Primer Requerimiento original para su custodia; o en su caso emitirá la Resolución Administrativa de 
 Rechazo. Procediendo a notificar la Resolución de Autorización o de Rechazo según lo establecido 
 en el Código Tributario.
-[Image: Im0]
 
 La Resolución Administrativa de Autorización consignará y pondrá a disposición del Sistema de 
 Facturación del Sujeto Pasivo o Tercero Responsable, el Código de Autorización para Emisión 
@@ -25738,7 +25246,6 @@ establecidos, incluido el sector y el precio, éste último deberá ser del mism
 de venta al público (Ejemplo: vip, platea, general, etc.). Para este efecto se debe consignar en el 
 Documento Fiscal Electrónico, en el espacio nombre o razón social consignar la palabra “CORTESÍA” 
 y en el espacio destinado al NIT/CI el código noventa y nueve mil seis (99006).
-[Image: Im0]
 
 **Artículo 116. (Procedimiento de control).- I.** La Gerencia Distrital o GRACO de la jurisdicción 
 donde se lleve a cabo el Espectáculo Público, efectuará el control in situ, verificando el ingreso del 
@@ -25782,7 +25289,6 @@ por el Sujeto Pasivo o Tercero Responsable, correspondiendo la devolución de la
 debiendo el Departamento de Fiscalización remitir el informe al Área de Recaudaciones para que 
 proceda a la devolución de la Garantía presentada dentro los tres (3) días siguientes a la recepción 
 del informe.
-[Image: Im0]
 
 De evidenciarse el incumplimiento en el pago total o parcial de los impuestos por esta actividad, el 
 Departamento de Fiscalización emitirá el informe en el plazo de diez (10) días hábiles anteriores 
@@ -25828,7 +25334,6 @@ Los Artistas Nacionales organizarán y desarrollarán todo Espectáculo Público
 N° 2206 y el Decreto Supremo N° 1241, debiendo emitir Notas Fiscales sin Derecho a Crédito Fiscal 
 utilizando las modalidades de Facturación Prevalorada, Computarizada en Línea o Electrónica en 
 Línea, cumpliendo lo establecido en la presente Resolución Normativa.
-[Image: Im0]
 
 **II.** El Artista Nacional que cuente con el Número de Identificación Tributaria (NIT), deberá estar 
 registrado en el Padrón Nacional de Contribuyentes en el grupo “Actividades Creativas, Artísticas y 
@@ -25856,7 +25361,6 @@ de un Reporte de Autorización, de acuerdo a lo siguiente:
 anticipación de cinco (5) días hábiles a la fecha de realización del Espectáculo Público la Autorización 
 de Documentos Fiscales, a través de la opción habilitada en el Portal Web de la Administración 
 Tributaria registrando la siguiente información:
-[Image: Im0]
 
 **a)** Modalidad de Facturación (prevalorado, computarizado en línea o electrónico en línea)
 
@@ -25913,7 +25417,6 @@ Nacional o Persona Natural o Jurídica autorizadas por el primero, el Código de
 para Emisión de Documentos Fiscales Electrónicos para Espectáculos Públicos (CAEDFEP). La 
 utilización del CAEDFEP desde el Sistema de Facturación será a través del servicio Web habilitado 
 para el efecto, de acuerdo al Anexo Técnico 1 de la presente Resolución Normativa.
-[Image: Im0]
 
 Cuando la solicitud sea para la Modalidad Facturación Prevalorada y tipo de emisión Preimpreso, el 
 Reporte de Autorización consignará el Código de Autorización de Emisión de Prevalorados (CAEP) 
@@ -25959,7 +25462,6 @@ modificación de los lugares y/o fechas del Espectáculo Público.
 **I.** El Artista Nacional o Persona Natural o Jurídica autorizadas por el primero, que no esté registrado 
 en el Padrón Nacional de Contribuyentes, previamente deberá suscribirse a los servicios de la 
 Administración Tributaria según lo establecido en el Título VIII de la presente Resolución Normativa.
-[Image: Im0]
 
 **II.** El Artista Nacional o Persona Natural o Jurídica autorizadas por el primero, solicitará la 
 Autorización de Documentos Fiscales para el Espectáculo Público, a través de la opción habilitada en 
@@ -26028,7 +25530,6 @@ autorizadas por el primero, por hecho fortuito, causas de fuerza mayor o cualqui
 este efecto deberá comunicar la cancelación del Espectáculo Público a través de la opción del portal 
 Web de la Administración Tributaria, debiendo proceder a la destrucción o inutilización de los 
 Documentos Fiscales.
-[Image: Im0]
 
 El Artista Nacional o Persona Natural o Jurídica autorizadas por el primero, deberá publicitar la 
 cancelación del Espectáculo Público y la devolución del costo de las entradas emitidas.
@@ -26079,7 +25580,6 @@ autorizadas por el primero, la fecha y hora para el cómputo de entradas, debien
 dentro de los dos (2) días hábiles siguientes a la conclusión del Espectáculo Público, para lo cual el 
 mismo deberá apersonarse a oficinas del Departamento de Fiscalización de la Gerencia Distrital o 
 GRACO donde se realizó el Espectáculo Publico. 
-[Image: Im0]
 
 El resultado del recuento de entradas será registrado en un Acta, misma que deberá estar firmada por 
 el Servidor Público actuante, el Supervisor, el Jefe de Departamento o Jefe de Agencia Tributaria y el 
@@ -26122,7 +25622,6 @@ Fiscal.
 Naturales que no tengan Número de Identificación Tributaria, de manera voluntaria podrán suscribirse 
 a los servicios de la Administración Tributaria, a través de los medios habilitados para el efecto. La 
 suscripción no genera ninguna obligación ante la Administración Tributaria. 
-[Image: Im0]
 
 **II.** Sin perjuicio de lo señalado en el parágrafo precedente, las personas naturales en relación de 
 dependencia, de forma obligatoria deberán suscribirse a los servicios de la Administración Tributaria 
@@ -26172,7 +25671,6 @@ proporcionando los siguientes datos:
 La Administración Tributaria proporcionará los datos de usuario y contraseña al correo electrónico 
 o celular para autenticarse en el primer acceso. El suscrito deberá ingresar a los servicios de la 
 Administración Tributara y cambiará la contraseña conforme lo solicite la aplicación.
-[Image: Im0]
 
 ## TÍTULO IX
 
@@ -26231,7 +25729,6 @@ según corresponda, las Facturas de contingencia o Notas Fiscales de contingenci
 manualmente, en los plazos establecidos en normativa específica, (tercer párrafo del inc. c) del 
 Artículo 59, tercer párrafo del inc. c) del Artículo 64  y Parágrafo V de la Disposición Transitoria 
 Novena de la presente Resolución Normativa).
-[Image: Im0]
 
 **5)** Enviar los Documentos Fiscales Electrónicos Masivos emitidos, en las modalidades de 
 facturación Electrónica en Línea y Computarizada en Línea, en la forma y plazos establecidos 
@@ -26265,7 +25762,6 @@ resumen por “Ventas Menores del Día”.
 normativa específica. (Parágrafo II del Artículo 8, Parágrafo IV del Artículo 57, Parágrafo IV 
 del Artículo 62, Parágrafo VII del Artículo 67, Parágrafo I del Artículo 83 y Parágrafo XIII de la 
 Disposición Transitoria Novena de la presente Resolución Normativa).
-[Image: Im0]
 
 **3)** Emitir Documentos Fiscales cumpliendo los formatos establecidos en normativa específica. 
 (Parágrafo I del Artículo 78; Parágrafo I del Artículo 96, Parágrafo I del Artículo 109 y Parágrafo 
@@ -26308,7 +25804,6 @@ Administración Tributaria la solicitud de modificación de fechas y/o lugares d
 Público con Artistas Nacionales alcanzados por la Ley Nº 2206, con anticipación a la realización 
 del evento. (Parágrafo VIII del literal A y Parágrafo VIII del literal B ambos del Artículo 121 de 
 la presente Resolución Normativa).
-[Image: Im0]
 
 ***Nota del Editor:*** *La RND Nº 101900000003 de 26/02/2019 en su Artículo 1, Parágrafo XXX* 
 ***modificó*** *el Numeral precedente.*
@@ -26348,7 +25843,6 @@ o de Autorización correspondiente (CUFD, CAED, CAEP, CUAPE, CAEDFEP) generado p
 Documento Fiscal de acuerdo a la modalidad de facturación utilizada. En los campos donde se solicite 
 el Código de Control deberá ingresarse el CUF o CUFP para Documentos Fiscales Electrónicos y el 
 valor 0 (cero) para Documentos Fiscales Manuales.
-[Image: Im0]
 
 ***Nota del Editor:*** *La RND Nº 101900000003 de 26/02/2019 en su Artículo 1, Parágrafo* 
 *XXXI* ***modificó*** *el Párrafo precedente.*
@@ -26397,7 +25891,6 @@ N° 28656 de 25 de marzo de 2006, los sujetos pasivos o terceros responsables al
 citado Decreto, deberán determinar el impuesto mensual aplicando la proporcionalidad establecida 
 en el Artículo 8 del Decreto Supremo N° 21530 (Reglamento del IVA) y la norma tributaria vigente 
 para la determinación del crédito fiscal en operaciones gravadas con tasa cero.”
-[Image: Im0]
 
 ## DISPOSICIONES TRANSITORIAS
 
@@ -26476,7 +25969,6 @@ la presente Resolución Normativa a partir del 1 de enero de 2019.
 Responsable deberá anular las Facturas o Notas Fiscales no utilizadas en el SFV hasta las 23:59 
 horas del día 31 de mayo de 2020 y custodiar las mismas por el tiempo de prescripción establecido en 
 normativa vigente cuando corresponda.
-[Image: Im0]
 
 ***Nota del Editor:*** *La RND Nº 101900000018 de 29/10/2019 en su Artículo 1, Parágrafo VII* 
 *modificó el Párrafo precedente.*
@@ -26491,7 +25983,6 @@ Manual y Oficina Virtual del Sistema de Facturación Virtual-SFV, a partir del 1
 utilizarán la modalidad de Facturación Manual y Portal Web del Sistema de Facturación Electrónico 
 según corresponda hasta la fecha de implementación de la nueva Modalidad de Facturación establecida 
 por la Administración Tributaria en la Disposición Transitoria Primera.
-[Image: Im0]
 
 ***Nota del Editor:*** *La RND Nº 101900000018 de 29/10/2019 en su Artículo 1, Parágrafo VIII* 
 ***modificó*** *la Disposición Transitoria precedente.*
@@ -26568,7 +26059,6 @@ Fiscales emitidos en las modalidades señaladas en el párrafo precedente, será
 liquidación de los impuestos IVA, RC-IVA, IUE y como descargo en el Sistema Tributario Integrado 
 (STI), en los términos dispuestos en la Ley Nº 843 y Decretos Supremos reglamentarios, siempre que 
 cumplan los requisitos señalados en el Artículo 111 de la presente Resolución Normativa.
-[Image: Im0]
 
 ***Nota del Editor:*** *La RND Nº 101900000018 de 29/10/2019 en su Artículo 1, Parágrafo XI* 
 ***modificó*** *el Párrafo precedente.*
@@ -26606,7 +26096,6 @@ Número de Autorización, fecha límite de emisión, la Llave de Dosificación p
 de control y las leyendas correspondientes, siendo responsabilidad del Sujeto Pasivo o Tercero 
 Responsable su manejo e incorporación a su Sistema de Facturación. Para el caso de la modalidad 
 de Facturación por Ciclos la autorización será de quince (15) días.
-[Image: Im0]
 
 **V.** Cuando el Sujeto Pasivo o Tercero Responsable requiera emitir Facturas o Notas Fiscales manuales 
 podrá solicitar la autorización para su emisión, conforme al Artículo 72 de la presente Resolución 
@@ -26646,7 +26135,6 @@ Para la regularización de Facturas o Notas Fiscales emitidas con errores en su 
 Modalidades de Facturación Computarizada, Electrónica Web y Electrónica por Ciclos del Sistema 
 de Facturación Virtual “SFV”, el Sujeto Pasivo o Tercero Responsable deberá registrar en la opción 
 habilitada en el portal web de la Administración Tributaria, los siguientes datos:
-[Image: Im0]
 
 **b)** Sucursal o casa matriz;
 
@@ -26715,7 +26203,6 @@ pudiendo ser resumida y/o abreviada de acuerdo a la actividad realizada.
 DE ALQUILER”, “FACTURA COMERCIAL DE EXPORTACIÓN”, “FACTURA 
 COMERCIAL DE EXPORTACIÓN EN LIBRE CONSIGNACION”, “FACTURA 
 TURISTICA”, “NOTA CRÉDITO - DÉBITO”, según corresponda.
-[Image: Im0]
 
 ---
 
@@ -26761,7 +26248,6 @@ de las Usuarias y los Usuarios y de las Consumidoras y los Consumidores, se debe
 en letras minúsculas, con excepción de la primera letra, una de las leyendas contenidas en el 
 Anexo Técnico 2 de la presente Resolución. La leyenda será asignada por la Administración 
 Tributaria en cada autorización de facturación;
-[Image: Im0]
 
 **d)** Las Facturas emitidas por las Estaciones de Servicio para la venta de Gasolina Especial, 
 Gasolina Premium, Gasolina RON 91, Diésel Oíl y otros que establezca la autoridad 
@@ -26788,7 +26274,6 @@ Las Facturas o Notas Fiscales de los Sujetos Pasivos o Terceros Responsables que
 sujetos a regulación específica, pueden adicionar otra información según las disposiciones emitidas 
 por la autoridad reguladora competente, siempre y cuando cumplan con los requisitos mínimos 
 establecidos en la presente Resolución Normativa.
-[Image: Im0]
 
 Adicionalmente, el Sujeto Pasivo o Tercero Responsable podrá consignar otra información, 
 respetando los formatos establecidos en la presente Disposición.
@@ -26837,7 +26322,6 @@ logo), y contendrá impresa la información fija del documento (datos básicos, 
 título y datos finales), los datos pueden ser consignados en cualquier color que asegure la legibilidad 
 de la información. El Código QR deberá ser impreso en color negro u otro de tinta oscura sobre fondo 
 que permita la legibilidad.
-[Image: Im0]
 
 Se prohíbe el uso del formato “CURSIVA” excepto para el logotipo y otra información que no afecte 
 el contenido de las Facturas, Notas Fiscales o Documentos Equivalentes.
@@ -26877,7 +26361,6 @@ consignar el NIT y el nombre o razón social de la Empresa Operadora de Turismo 
 Para servicios de hospedaje a turistas extranjeros no residentes sin Programa de Operadores de 
 Turismo Receptivo deberán consignar el nombre del turista, el número de pasaporte o documento 
 de identificación y el campo Operador de Turismo Receptivo dejar en blanco.
-[Image: Im0]
 
 **f)** En el caso de venta de bienes se deberá consignar: cantidad, detalle, concepto o descripción, 
 precio unitario, subtotal y total. Para el caso de venta de Línea Blanca y Negra deberá consignarse 
@@ -26945,7 +26428,6 @@ formulario y Periodo Fiscal, el Sujeto Pasivo o Tercero Responsable realizará l
 del formulario respectivo, procediendo con la actualización del Registro de Facturas o Notas 
 Fiscales (Registro de Documentos Fiscales) a través de la opción habilitada en el Portal Web de 
 la Administración Tributaria.
-[Image: Im0]
 
 **b)** Cuando la rectificatoria de la Declaración Jurada incremente el Saldo a Favor del Contribuyente, 
 requiere la aprobación de la Administración Tributaria mediante Resolución Administrativa; 
@@ -26963,7 +26445,6 @@ rectificatorias, por los periodos o gestiones, posteriores a una Orden de Fiscal
 Verificación debidamente notificada, no surten efecto legal, ni se considerarán válidos conforme lo 
 establecido en el parágrafo IV del Artículo 28 del Decreto Supremo N° 27310 modificado por el 
 Decreto Supremo N° 2993.
-[Image: Im0]
 
 **XVI.** El Sujeto Pasivo o Tercero Responsable podrá anular las Facturas o Notas Fiscales, de acuerdo 
 al siguiente procedimiento:
@@ -27002,7 +26483,6 @@ presentación definida en las citadas Resoluciones.
 **Primera.-** Se deroga el Artículo 5 de la Resolución Normativa de Directorio Nº 10-0003-13 de 06 
 de febrero de 2013 modificado por la Resolución Normativa de Directorio Nº 10-0006-14 de 24 de 
 febrero de 2014.
-[Image: Im0]
 
 **Segunda.-** A la vigencia de la presente Resolución Normativa quedan abrogadas las siguientes 
 Resoluciones Normativas de Directorio:
@@ -27065,7 +26545,6 @@ Servicio de Impuestos Nacionales
 ***iii)*** *La RND N° 101900000003 de 26/02/2019, Modificaciones a la RND N° 101800000026* 
 *de 20/11/2018 Sistema de Facturación Electrónica, se encuentra en el siguiente sitio* 
 *web:*
-[Image: Im0]
 
 <u>https://www.impuestos.gob.bo/pdf/SFE-RND%202019%20nits.pdf</u>
 
@@ -27086,7 +26565,6 @@ proporcionar información operativa y técnica
 a todos aquellos contribuyentes que opten 
 por implementar un Sistema de Facturación 
 implementación efectiva de sus sistemas.
-[Image: Im0]
 
 ## ESQUEMA DE CONECTIVIDAD
 
@@ -27213,7 +26691,6 @@ varias firmas digitales. Se debe extremar
 medidas de seguridad para proteger de 
 accesos no autorizados el lugar donde se 
 halla almacenada la firma digital.
-[Image: Im0]
 
 El Contribuyente deberá obtener e implementar 
 el uso de Firma Digital en su Sistema de 
@@ -27254,7 +26731,6 @@ disponibilidad, autenticación y no repudio).
 Considerando que cada Documento Fiscal 
 Electrónico debe incluir la Firma Digital 
 asociada al contribuyente.
-[Image: Im0]
 
 Para la modalidad de Facturación Computarizada 
 en Línea, los anteriores esquemas pueden ser 
@@ -27361,7 +26837,6 @@ de Documento por Sector y archivos XSD
 relacionados serán publicados para su descarga, 
 en la Página Web de la Administración 
 Tributaria.
-[Image: Im0]
 
 ---
 
@@ -27391,7 +26866,6 @@ digito auto verificador utilizando Base 11. La
 cadena resultante debe ser codificada utilizando 
 para ello Base 16 dando como resultado el CUF 
 buscado (Código Único de Factura).
-[Image: Im0]
 
 | CAMPO | DESCRIPCIÓN | TIPO | LONGITUD |
 | --- | --- | --- | --- |
@@ -27404,16 +26878,6 @@ buscado (Código Único de Factura).
 Para el proceso de firmado de un archivo XML 
 se debe seguir los siguientes pasos:
 
-[Image: Im7]
-[Image: Im8]
-[Image: Im9]
-
-[Image: Im10]
-[Image: Im11]
-
-[Image: Im16]
-[Image: Im17]
-
 2 Registrar la información de la
 
 Registrar la información de la 
@@ -27425,52 +26889,9 @@ Realizar la validación del XML
 3de la factura contra el XSD 
 que el SIN proporcionará.
 
-[Image: Im0]
-[Image: Im1]
-[Image: Im2]
-
-[Image: Im3]
-[Image: Im4]
-
-[Image: Im5]
-[Image: Im6]
-
 # Para el caso de paquetes se debe considerar los siguientes pasos:
 
-[Image: Im20]
-[Image: Im21]
-[Image: Im22]
-
-[Image: Im23]
-[Image: Im24]
-[Image: Im25]
-[Image: Im23]
-
-[Image: Im26]
-[Image: Im27]
-[Image: Im28]
-
-[Image: Im23]
-[Image: Im29]
-[Image: Im30]
-[Image: Im31]
-
-[Image: Im32]
-[Image: Im33]
-[Image: Im34]
-
 ---
-
-[Image: Im0]
-[Image: Im1]
-[Image: Im2]
-
-[Image: Im3]
-[Image: Im4]
-[Image: Im5]
-
-[Image: Im6]
-[Image: Im7] [Image: Im8]
 
 **SERVICIOS WEB DEL SISTEMA DE** 
 **FACTURACIÓN**
@@ -27516,7 +26937,6 @@ https://www.impuestos.gob.bo/pdf/ANEXOS%20TECNICOS%20SFE.pdf
 *Virtual “SFV”, brindando los formatos, modelos y directrices para el uso correcto de estas* 
 *modalidades hasta la fecha de implementación de la nueva modalidad que corresponda a* 
 *cada contribuyente y se encuentra en el siguiente sitio web:*
-[Image: Im0]
 
 https://www.impuestos.gob.bo/pdf/ANEXOS%20TECNICOS%20SFE.pdf
 
@@ -27557,7 +26977,6 @@ Servicio de Impuestos Nacionales implementa y reglamenta el Sistema de Facturaci
 procedimientos, formatos, formalidades, requisitos para la autorización, modalidades de facturación, 
 así como la conservación, inhabilitación, efectos tributarios de los Documentos Fiscales, registro de 
 datos e información a la Administración Tributaria.
-[Image: Im0]
 
 Que el Anexo “A” de la citada Resolución Normativa, clasifica en grupos a los Sujetos Pasivos o 
 Terceros Responsables para que adecúen e implementen su Sistema de Facturación en la modalidad 
@@ -27583,7 +27002,6 @@ disposiciones precedentemente citadas,
 Artículo Único.- Se incorpora al ANEXO “A” de la Resolución Normativa de Directorio N° 
 101800000026 de 20 de noviembre de 2018, Sistema de Facturación Electrónica, el anexo adjunto a 
 la presente Resolución Normativa de Directorio. 
-[Image: Im0]
 
 Regístrese, publíquese y cúmplase
 
@@ -27644,7 +27062,6 @@ Que conforme al Inciso p) del Artículo 19 del Decreto Supremo Nº 26462 de 22 d
 en uso de sus atribuciones y en aplicación del Numeral 1, Inciso a) de la Resolución Administrativa de 
 Directorio Nº 09-0011-02 de 28 de agosto de 2002, se encuentra autorizado a suscribir Resoluciones 
 Normativas de Directorio.
-[Image: Im0]
 
 ---
 
@@ -27665,7 +27082,6 @@ y Débito Fiscal de los Sujetos Pasivos o compradores, cuando se efectúa la dev
 o parcial de bienes o rescisión de servicios, en el mismo periodo fiscal o hasta dieciocho 
 (18) meses posteriores a la emisión del Documento Fiscal correspondiente. Este documento 
 podrá ser emitido de acuerdo a lo siguiente:
-[Image: Im0]
 
 1. En caso que la operación hubiere sido efectuada entre Sujetos Pasivos del 
 IVA, se emitirá la Nota de Crédito - Débito a través de la Modalidad de 
@@ -27736,7 +27152,6 @@ en el Portal Web de la Administración Tributaria. Opcionalmente los sujetos pas
 utilicen las modalidades de facturación electrónica o computarizada en línea podrán realizar 
 la confirmación y/o registro de sus compras a través de los servicios web habilitados para 
 el efecto.
-[Image: Im0]
 
 Los Sujetos Pasivos o Terceros Responsables podrán verificar sus compras en el Registro 
 de Compras generado automáticamente por la Administración Tributaria en la opción 
@@ -27752,7 +27167,6 @@ o tercero responsable podrá realizar el registro de los Documentos Fiscales rez
 la fecha de vencimiento para la presentación y pago de la Declaración Jurada del Impuesto 
 al Valor Agregado, a través de la opción habilitada en el Portal Web de la Administración 
 Tributaria.
-[Image: Im0]
 
 Cuando el Sujeto Pasivo o Tercero Responsable registre Documentos Fiscales fuera del 
 plazo señalado en el párrafo precedente, deberá proceder a tramitar la rectificatoria de la 
@@ -27825,7 +27239,6 @@ de Directorio Nº 101800000026 de 20 de noviembre de 2018, con el siguiente text
 "III. La representación gráfica digital del Documento Fiscal Electrónico, será enviada al 
 correo electrónico del comprador cuando este hubiera proporcionado el mismo, y/o puesta 
 a su disposición en el portal Web del emisor (si lo tuviera)."
-[Image: Im0]
 
 "f) En el caso de venta de bienes se deberá consignar: código interno del producto, cantidad, 
 concepto o descripción, precio unitario, unidad, descuento por ítem (si corresponde) y 
@@ -27874,7 +27287,6 @@ La Administración Tributaria habilitará el uso del código asociado al evento 
 (24) hrs. a partir de la recepción de la solicitud. En el caso de operaciones ordinarias 
 la habilitación será de forma indefinida, en el caso de operaciones extraordinarias la 
 habilitación se realizará por el tiempo solicitado por el contribuyente.
-[Image: Im0]
 
 La Administración Tributaria en el marco de sus facultades se reserva el derecho de verificar 
 y controlar que las operaciones realizadas se adecuen a la solicitud planteada."
@@ -27928,7 +27340,6 @@ empresas que realicen actividades de producción, comercialización mayorista y 
 de hidrocarburos podrán emitir el Documento Fiscal Electrónico hasta el día diez (10) del 
 mes siguiente al periodo fiscal en que finalizó la medición, consignando la fecha del último 
 día del mes en que finalizó la medición."
-[Image: Im0]
 
 “Artículo 61. (Anulación de Documentos Fiscales Electrónicos).- I. La anulación de los 
 Documentos Fiscales Electrónicos a través del Sistema de Facturación podrá realizarse 
@@ -27986,7 +27397,6 @@ Administración Tributaria, conservando el derecho de realizar la denuncia por D
 Fiscales anulados sin su consentimiento a la Administración Tributaria, para que ésta en uso 
 de sus facultades realice la verificación o fiscalización correspondiente a efecto de determinar 
 la existencia de obligaciones y en su caso la restitución de derechos según corresponda.
-[Image: Im0]
 
 ---
 
@@ -28016,7 +27426,6 @@ Fiscales anulados sin su consentimiento a la Administración Tributaria, para qu
 uso de sus facultades realice la verificación o fiscalización correspondiente a efecto de 
 determinar la existencia de obligaciones y en su caso la restitución de derechos según 
 corresponda.
-[Image: Im0]
 
 II. El Sujeto Pasivo o Tercero Responsable podrá anular el Documento Fiscal Electrónico 
 a través de su sistema de facturación registrando el motivo de la anulación.
@@ -28056,7 +27465,6 @@ Pasivo o Tercero Responsable emisor, deberá registrar los Documentos Fiscales P
 Preimpresos emitidos en el periodo fiscal (mensual) a través de la opción habilitada en el 
 Portal Web de la Administración Tributaria, hasta el día ocho (8) del mes siguiente del 
 período a registrar, conforme la siguiente información:
-[Image: Im0]
 
 a) CAEP;
 
@@ -28115,7 +27523,6 @@ Aérea, Agente General Autorizado y Agencia de viaje. La información deberá re
 en formato XML a través de los Servicios Web habilitados para el efecto, de acuerdo al 
 formato establecido en el Anexo Técnico 1 de la presente Resolución Normativa. Enviando 
 la siguiente información:
-[Image: Im0]
 
 a) CUF (Código Único de Facturación) generado por el Sistema de Facturación de la 
 Línea Aérea;
@@ -28194,7 +27601,6 @@ Web de la Administración Tributaria la solicitud de modificación de fechas y/o
 del Espectáculo Público con Artistas Nacionales alcanzados por la Ley Nº 2206, con 
 anticipación a la realización del evento. (Parágrafo VIII del literal A y Parágrafo VIII del 
 literal B ambos del Artículo 121 de la presente Resolución Normativa)."
-[Image: Im0]
 
 ---
 
@@ -28208,7 +27614,6 @@ CAEDFEP) generado para cada Documento Fiscal de acuerdo a la modalidad de factur
 utilizada. En los campos donde se solicite el Código de Control deberá ingresarse el CUF o 
 CUFP para Documentos Fiscales Electrónicos y el valor 0 (cero) para Documentos Fiscales 
 Manuales."
-[Image: Im0]
 
 **XXXII.** Se modifica la Disposición Adicional Quinta de la Resolución Normativa de Directorio Nº 
 101800000026 de 20 de noviembre de 2018, con el siguiente texto:
@@ -28283,7 +27688,6 @@ Facturación Manual y Oficina Virtual del Sistema de Facturación Virtual-SFV, a
 Sistema de Facturación Electrónico según corresponda hasta la fecha de implementación 
 de la nueva Modalidad de Facturación establecida por la Administración Tributaria en la 
 Disposición Transitoria Primera."
-[Image: Im0]
 
 **XXXIX.** Se modifica el segundo párrafo del Parágrafo III de la Disposición Transitoria Octava de la 
 Resolución Normativa de Directorio Nº 101800000026 de 20 de noviembre de 2018, con el siguiente 
@@ -28303,7 +27707,6 @@ Directorio Nº 101800000026 de 20 de noviembre de 2018, con el siguiente texto:
 Módulo LCV-IVA FACILITO hasta el 31 de octubre de 2019. A partir del 1 de noviembre 
 de 2019, esta información deberá ser enviada a través de la opción habilitada para el efecto 
 en el Portal Web de la Administración Tributaria."
-[Image: Im0]
 
 **XLI.** Se modifica el Parágrafo V de la Disposición Transitoria Novena de la Resolución Normativa 
 de Directorio Nº 101800000026 de 20 de noviembre de 2018, con el siguiente texto:
@@ -28365,7 +27768,6 @@ con placa de circulación extranjera de propiedad de residentes bolivianos en el
 deberán ser facturadas al precio de comercialización del mercado interno, siempre y cuando 
 se trate de estaciones de servicio ubicadas dentro del territorio nacional a partir de los 50 Km 
 de la línea de frontera conforme dispone el Parágrafo III del Artículo 18 de la Ley Nº 100."
-[Image: Im0]
 
 **II.** Se incorpora como último párrafo del Artículo 59 de la Resolución Normativa de Directorio Nº 
 101800000026 de 20 de noviembre de 2018, el siguiente texto:
@@ -28395,7 +27797,6 @@ complementaria a la que hubiere sido asignado."
 **Única.-** Se amplía la fecha de límite de emisión de las dosificaciones realizadas a través del Sistema 
 de Facturación Virtual, con fecha límite de emisión 28 de febrero de 2019, hasta ciento ochenta (180) 
 días posteriores a la fecha de su dosificación.
-[Image: Im0]
 
 ## DISPOSICIÓN DEROGATORIA
 
@@ -28442,7 +27843,6 @@ Nacionales dispuso el marco normativo para la Implementación y reglamentación 
 Facturación Electrónico, estableciendo los procedimientos, formatos, formalidades, requisitos para la 
 autorización, modalidades de facturación, así como la conservación, inhabilitación, efectos tributarios 
 de los Documentos Fiscales, registro de datos e información a la Administración Tributaria.
-[Image: Im0]
 
 Que mediante RND Nº 101900000003 de 26 de febrero de 2019 el Servicio de Impuestos Nacionales 
 en el marco de la Resolución Ministerial Nº 030 de 18 de enero de 2019 y a efecto de optimizar la 
@@ -28478,7 +27878,6 @@ bienes inmuebles, el Documento Fiscal deberá emitirse con carácter mensual a l
 periodo de prestación, por el cual se devenga el pago o contraprestación mensual o a momento de su 
 efectivo pago, lo que ocurra primero, en concordancia con lo dispuesto por el Inciso b) del Artículo 4 
 de la Ley Nº 843 y sus disposiciones reglamentarias aplicables según el sector económico.
-[Image: Im0]
 
 En el caso específico de prestación de servicios continuos como energía eléctrica, agua potable y gas 
 domiciliario el Documento Fiscal deberá emitirse con carácter mensual, tomándose como periodo 
@@ -28534,7 +27933,6 @@ Directorio Nº 101800000026 de 20 de noviembre de 2018, con el siguiente texto:
 Fiscales, el Sujeto Pasivo o Tercero Responsable deberá registrar los Documentos Fiscales 
 anulados a través de la opción habilitada en el Portal Web de la Administración Tributaria, 
 hasta el día ocho (8) del mes siguiente.
-[Image: Im0]
 
 **b)** Cuando un Documento Fiscal haya sido registrado como válido, podrá cambiar el estado 
 del mismo a “ANULADO”, a través de la opción habilitada en el Portal Web de la 
@@ -28565,7 +27963,6 @@ En la Modalidad de Facturación Computarizada, el Sujeto Pasivo o Tercero Respon
 para efectuar la anulación, deberá custodiar el original de la Factura o Nota Fiscal con la 
 leyenda “ANULADO” por el tiempo de prescripción establecido en la Normativa vigente, 
 caso contrario la anulación no surte efecto legal tributario.
-[Image: Im0]
 
 Los documentos de respaldo deberán ser resguardados conforme a normativa vigente.
 
@@ -28627,7 +28024,6 @@ Sistema de Facturación Electrónica, estableciendo los procedimientos, formatos
 requisitos para la autorización, modalidades de facturación, así como la conservación, inhabilitación, 
 efectos tributarios de los Documentos Fiscales, registro de datos e información a la Administración 
 Tributaria.
-[Image: Im0]
 
 Que diversos sectores de contribuyentes han solicitado una postergación de la entrada en vigencia 
 del Sistema de Facturación Electrónica, en virtud a los ajustes técnicos necesarios para su puesta en 
@@ -28679,7 +28075,6 @@ comprador.”
 Anexo A que forma parte indivisible de la presente Resolución, deberán adecuar e implementar su 
 Sistema de Facturación en el marco de la presente Resolución Normativa de Directorio, de acuerdo 
 al siguiente cronograma:
-[Image: Im0]
 
 | GRUPO | FECHA IMPLEMENTACIÑO |
 | --- | --- |
@@ -28731,7 +28126,6 @@ Manual y Oficina Virtual del Sistema de Facturación Virtual-SFV, a partir del 1
 utilizarán la modalidad de Facturación Manual y Portal Web del Sistema de Facturación Electrónico 
 según corresponda hasta la fecha de implementación de la nueva Modalidad de Facturación establecida 
 por la Administración Tributaria en la Disposición Transitoria Primera.”
-[Image: Im0]
 
 **IX.** Se modifica el segundo párrafo del Parágrafo III de la Disposición Transitoria Octava de la 
 Resolución Normativa de Directorio Nº 101800000026, con el siguiente texto:
@@ -28764,7 +28158,6 @@ Fiscales emitidos en las modalidades señaladas en el párrafo precedente, será
 liquidación de los impuestos IVA, RC-IVA, IUE y como descargo en el Sistema Tributario Integrado 
 (STI), en los términos dispuestos en la Ley Nº 843 y Decretos Supremos reglamentarios, siempre que 
 cumplan los requisitos señalados en el Artículo 111 de la presente Resolución Normativa.”
-[Image: Im0]
 
 **XII.** Se modifica la Disposición Final Única de la Resolución Normativa de Directorio Nº 
 101800000026, con el siguiente texto:
@@ -28815,7 +28208,6 @@ disponible en el país, debiendo permitir la identificación de quien las emite,
 de la integridad de la información y datos registrados, de forma tal que cualquier modificación de 
 las mismas ponga en evidencia su alteración y cumplir los requisitos de pertenecer únicamente a su 
 titular y encontrarse bajo su absoluto y exclusivo control.
-[Image: Im0]
 
 Que el Artículo 4 de la Ley N° 843 (Texto Ordenado Vigente), establece que al perfeccionamiento del 
 hecho imponible del Impuesto al Valor Agregado (IVA), la transacción deberá estar obligatoriamente 
@@ -28845,7 +28237,6 @@ Que conforme al inciso p) del Artículo 19 del Decreto Supremo Nº 26462 de 22 d
 en uso de sus atribuciones y en aplicación del numeral 1, inciso a) de la Resolución Administrativa de 
 Directorio Nº 09-0011-02 de 28 de agosto de 2002, se encuentra autorizado a suscribir Resoluciones 
 Normativas de Directorio.
-[Image: Im0]
 
 **POR TANTO:**
 
@@ -28897,7 +28288,6 @@ una reducción temporal de las tarifas de electricidad, agua potable y gas domic
 aplicación, para los usuarios de las categorías Domiciliaria y/o Residencial en todo el país, así como 
 para los beneficiarios de la Ley N° 1886 y Tarifa Dignidad, sobre el importe de energía potencia, 
 facturado, que se aplicará a los periodos fiscales, abril, mayo y junio de 2020.
-[Image: Im0]
 
 Que el Artículo 24 establece que la reducción temporal de las tarifas de electricidad para los usuarios 
 de las categorías Domiciliaria y/o Residencial, tendrán el tratamiento de “Descuentos autorizados” 
@@ -28940,7 +28330,6 @@ eléctrica de las categorías Domiciliaria y/o Residencial, las EPSAS conseguimi
 y/o registro que prestan servicio de agua y saneamiento básico a la categoría domiciliaria, y las 
 empresas que prestan el servicio de distribución de gas natural por redes de uso domiciliario a la 
 categoría doméstica, en los meses de abril mayo y junio de 2020.
-[Image: Im0]
 
 **Artículo 3. (Descuentos sobre servicios básicos).- I**. Los sujetos pasivos alcanzados por la presente 
 Resolución, incluirán en su sistema de facturación los siguientes campos para la emisión de facturas 
@@ -29011,7 +28400,6 @@ doméstica, excepcionalmente emitirán una factura por periodo fiscal por el des
 acuerdo a los porcentajes descritos en el parágrafo I del Artículo 3 de la presente Resolución, al 
 Ministerio de Energías, Ministerio de Medio Ambiente y Agua o al Ministerio de Hidrocarburos, 
 según corresponda.
-[Image: Im0]
 
 ***Nota del Editor:*** *La RND Nº 102000000013 de 05/06/2020 en su Artículo Único,* ***modificó***
 *el Artículo precedente.*
@@ -29028,7 +28416,6 @@ registrarán en la columna habilitada para este efecto en el Libro de Compras y 
 **Artículo 7. (Leyenda). -** Las empresas alcanzadas en la Disposición Transitoria Segunda del Decre
 toSupremoN°4206,deberánconsignarmediantesellooimpresolaleyenda“LeyN°1294 de  1 de abril de 
 2020”, en las Facturas y/o aviso de cobranza en los meses de abril, mayo y junio del año encurso.
-[Image: Im0]
 
 ## DISPOSICIÓN FINAL
 
@@ -29067,7 +28454,6 @@ el país, debiendo permitir la identificación de quien  las  emite,  garantizar
 integridad de la información y datos registrados, de forma tal que cualquier modificación de las 
 mismas ponga en evidencia su alteración y cumplir los requisitos de pertenecer únicamente al titular 
 y encontrarse bajo su absoluto y exclusivo control.
-[Image: Im0]
 
 Que mediante Resolución Normativa de Directorio Nº 101800000026 de 20 de noviembre de 2018 
 modificada mediante Resolución Normativa de Directorio Nº 101900000003 de 26 de febrero de 
@@ -29103,7 +28489,6 @@ Que el Sistema de Facturación Electrónica, prevé como fecha de implementació
 101800000026, acotando además la situación actual de la economía, agravada por la emergencia 
 sanitaria del COVID-19 que impide la realización de actividades económicas de forma regular, esta 
 Administración Tributaria ha visto por conveniente dejarla sin efecto.
-[Image: Im0]
 
 Que conforme al Inciso p) del Artículo 19 del Decreto Supremo Nº 26462 de 22 de diciembre de 
 2001, Reglamento de la Ley Nº 2166, del Servicio de Impuestos Nacionales, el Presidente Ejecutivo 
@@ -29152,7 +28537,6 @@ como para los beneficiarios de la Ley N° 1886 y Tarifa Dignidad, que se aplicar
 fiscales, abril, mayo y junio de 2020. Asimismo en su Disposición Transitoria primera, faculta a la 
 Administración Tributaria a reglamentar el procedimiento para la aplicación del Decreto Supremo 
 N° 4206.
-[Image: Im0]
 
 Que mediante Resolución Normativa de Directorio Nº 102000000007 de 3 de abril de 2020 el 
 Servicio de Impuestos Nacionales reglamentó el procedimiento de facturación de los descuentos 
@@ -29196,7 +28580,6 @@ excepcionalmente emitirán una factura por periodo fiscal por el descuento otorg
 los porcentajes descritos en el parágrafo I del Artículo 3 de la presente Resolución, al Ministerio 
 de Energías, Ministerio de Medio Ambiente y Agua o al Ministerio de Hidrocarburos, según 
 corresponda.”
-[Image: Im0]
 
 Regístrese, publíquese y cúmplase.
 
@@ -29246,7 +28629,6 @@ del soporte utilizado para su fijación, almacenamiento o archivo; que la firma 
 únicamente a su titular, creada por métodos que se encuentren bajo el absoluto y exclusivo control de 
 su titular, susceptible de verificación y está vinculada a los datos del documento digital de modo tal 
 que cualquier modificación de los mismos ponga en evidencia su alteración. 
-[Image: Im0]
 
 Que el Artículo 78 de la Ley N° 164, establece que tienen validez jurídica y probatoria, el acto o 
 negocio jurídico realizado por persona natural o jurídica en documento digital y aprobado por las 
@@ -29266,7 +28648,6 @@ la implementación del Sistema de Facturación Virtual (SFV) en la Oficina Virtu
 Impuestos Nacionales, estableciendo las Modalidades de Facturación Electrónica Web, Electrónica 
 por Ciclos, Oficina Virtual, Computarizada, Manual y Prevalorada, además procedimientos, aspectos 
 técnicos, formalidades y otros aspectos contemplados en el mismo. 
-[Image: Im0]
 
 Que con la finalidad de promover la emisión de Facturas y Notas Fiscales por medios informáticos 
 en formato electrónico que reemplacen al documento físico en papel, conservando el mismo valor 
@@ -29320,7 +28701,6 @@ de emisión de Factura, Nota Fiscal o Documento Equivalente, realizados por la A
 Tributaria, cuando se desconozcan los datos del comprador, se deberá registrar en el campo Nombre 
 o Razón Social la leyenda “Control Tributario”; y en el campo correspondiente al NIT/CI consignar 
 el número 99002.”
-[Image: Im0]
 
 **IV.** Se modifican los Parágrafos I y II del Artículo 54 de la RND Nº 10-0021-16 con el siguiente 
 texto:
@@ -29403,7 +28783,6 @@ presten servicio de hospedaje a turistas extranjeros no residentes que individua
 (sin Programa de Operadores de Turismo Receptivo), deberán emitir la Factura con la característica 
 especial “Sin Derecho a Crédito Fiscal”, consignando el nombre del turista y el número de Pasaporte 
 en el campo NIT y Operador de Turismo Receptivo.
-[Image: Im0]
 
 ---
 
@@ -29445,7 +28824,6 @@ de sanciones establecido en normativa tributaria vigente, en cumplimiento a lo e
 Artículo 162 de la Ley N° 2492 Código Tributario Boliviano, y demás normativa reglamentaria. 
 En el marco de la presente Resolución, constituyen deberes formales del Sujeto Pasivo o Tercero 
 Responsable, los siguientes:
-[Image: Im0]
 
 **1.** Imprimir facturas o notas fiscales por imprentas autorizadas, con los datos proporcionados por 
 el SIN en el reporte de asignación, cumpliendo los aspectos técnicos, para las Modalidades 
@@ -29478,7 +28856,6 @@ normativa específica (Artículo 39 de la presente Resolución).
 anulación, en las  Modalidades de Oficina Virtual, Electrónica Web o Electrónica Por Ciclos 
 (Numeral 1 del Parágrafo I y Parágrafo III del Artículo 46, Parágrafo V del Artículo 60 de la 
 presente Resolución).
-[Image: Im0]
 
 **8.** Tener en el establecimiento el talonario de facturas o notas fiscales que se esté utilizando 
 (Numeral 1 del Parágrafo I del Artículo 85 de la presente Resolución).
@@ -29548,7 +28925,6 @@ facturados al precio de comercialización del mercado interno, siempre y cuando 
 de servicio ubicadas dentro del territorio nacional a partir de los 50 Km. de la línea de frontera 
 conforme dispone el Parágrafo III del Artículo 16 de la Ley N° 100, a ese efecto deberá registrarse el 
 número de Documento de Identidad vigente, emitido por el Estado Plurinacional de Bolivia.”
-[Image: Im0]
 
 **IV.** Se incorpora como Capítulo X de la Resolución Normativa de Directorio N° 10-0021-16, el 
 siguiente texto:
@@ -29578,7 +28954,6 @@ Modalidades de Facturación en Línea: Electrónica en Línea, Computarizada en 
 en Línea, respecto a otros Capítulos de la presente Resolución. Sin perjuicio de lo señalado, los 
 otros Capítulos de la presente Resolución son de aplicación en los aspectos complementarios que no 
 contradigan las disposiciones del presente Capítulo.
-[Image: Im0]
 
 **Artículo 94. (Definiciones).-** Se aplicarán las siguientes definiciones a las Modalidades de 
 Facturación en Línea:
@@ -29648,7 +29023,6 @@ Nº 25870 de 11 de agosto de 2000, deberán emitir la Factura Comercial de Expor
 Consignación, una vez concluida la exportación en destino para efectos de la devolución impositiva, 
 el exportador deberá emitir la Factura Comercial de Exportación sin Derecho a Crédito Fiscal, previo 
 a la emisión de la póliza de exportación definitiva. 
-[Image: Im0]
 
 ## e) Factura de Venta en Zona Franca (Usuario o Concesionario).-
 
@@ -29688,7 +29062,6 @@ Operador Local de Turismo Receptivo y/o Servicio de Hospedaje Turístico y prest
 extranjeros no residentes en el país, con permanencia no mayor a ciento ochenta y tres (183) días sin 
 interrupción y no cuenten con vivienda habitual o con un domicilio permanente dentro del territorio 
 nacional, deberán emitir Factura Turística sin Derecho a Crédito Fiscal.      
-[Image: Im0]
 
 **h) Factura Tasa Cero – Venta de Libros.-** Los que desarrollan la actividad económica de venta de 
 libros de producción nacional e importados, y de publicaciones oficiales realizadas por instituciones 
@@ -29727,7 +29100,6 @@ comprador, cumpliendo con los formatos establecidos en el ANEXO 32 – FORMATOS 
 de seguridad establecidas en el ANEXO 33 - TÉCNICO disponible en el Portal Web www.impuestos.
 gob.bo. Asimismo, conforme la Sección XII del presente Capítulo, la Administración Tributaria 
 pondrá a disposición del comprador opciones de consulta para la verificación de sus Facturas.
-[Image: Im0]
 
 **Artículo 97. (Impresión de la Factura Digital).-** Cuando el comprador requiera una impresión del 
 documento digital, el vendedor deberá entregar una Impresión de la Factura Digital, cumpliendo con 
@@ -29798,7 +29170,6 @@ SISTEMA DE FACTURACIÓN - RND Nº 102000000017Administración Tributaria en el e
 investigación, podrá verificar que las transacciones se hayan realizado materialmente y cumplan con 
 los requisitos de la presente Resolución, Leyes y Decretos Supremos reglamentarios y normativa 
 vigente.
-[Image: Im0]
 
 ---
 
@@ -29821,7 +29192,6 @@ de Facturación se caracteriza por utilizar credenciales autorizadas por la Admi
 conforme al procedimiento establecido en el presente Capítulo, puede tratarse de un Sistema 
 Informático de Facturación Propio, Proveedor o proporcionado por la Administración Tributaria, 
 cuya utilización será de plena responsabilidad del Sujeto Pasivo. 
-[Image: Im0]
 
 En esta modalidad también se podrá emitir Facturas Prevaloradas cuando los Sujetos Pasivos o 
 Terceros Responsables realicen actividades de servicios de uso de terminal aeroportuaria o terrestre 
@@ -29881,7 +29251,6 @@ debidamente autorizado por el Sujeto Pasivo o Tercero Responsable a través del 
 impuestos.gob.bo, podrán utilizar un Sistema Informático de Facturación Proveedor autorizado en 
 las Modalidades de Facturación Electrónica en Línea o Computarizada en Línea, cumpliendo lo 
 establecido en la presente Resolución.    
-[Image: Im0]
 
 **III.** El Sujeto Pasivo o Tercero Responsable es responsable ante el Fisco por el pago de los tributos y 
 la autorización para la emisión de Facturas.
@@ -29920,7 +29289,6 @@ de facturación con su sistema a terceros, deberá acceder a una nueva Autorizac
 del cual la Administración Tributaria verifica que los Sistemas Informáticos de Facturación Propio 
 o Proveedor, cumplan con los requisitos mínimos y superen las fases de pruebas establecidas en el 
 ANEXO 33 – TÉCNICO, disponible en el Portal Web de la Administración Tributaria. 
-[Image: Im0]
 
 **Artículo 110. (Inicio de Autorización).- I**. El inicio del proceso de Autorización para el Sistema 
 Informático de Facturación, será realizado a través del Portal Web www.impuestos.go.bo, declarando 
@@ -29976,7 +29344,6 @@ Propietario o Proveedor para las Modalidades de Facturación Electrónica en Lí
 en Línea haya superado todas las pruebas detalladas en el Inciso a) precedente, se procederá a la 
 emisión de la  Autorización del Sistema Informático de Facturación, la cual establecerá que superó 
 en forma satisfactoria las pruebas de funcionalidad preliminares.
-[Image: Im0]
 
 Cuando el Sistema Informático de Facturación sea de un Proveedor, la Autorización le permitirá 
 ofertar su producto a terceros a condición de que los mismos superen las Pruebas Piloto por cada 
@@ -30041,7 +29408,6 @@ establecidas en el ANEXO 33 – TÉCNICO disponible en el Portal Web www.impuest
 formulario electrónico de “Solicitud de Inicio de Facturación”, que estará disponible en el Portal 
 Web www.impuestos.gob.bo. Este formulario deberá ser presentado dentro los tres (3) días hábiles 
 siguientes a la conclusión de pruebas.
-[Image: Im0]
 
 SISTEMA DE FACTURACIÓN - RND Nº 102000000017
 
@@ -30089,7 +29455,6 @@ Sujetos Pasivos o Terceros Responsables en calidad de cliente, Propietario o Pro
 SISTEMA DE FACTURACIÓN - RND Nº 102000000017a la emisión de Facturas a través de los Sistemas Informáticos de Facturación autorizados para las 
 Modalidades de Facturación Electrónica en Línea o Computarizada en Línea, deberán solicitar a la 
 Administración Tributaria los siguientes códigos:   
-[Image: Im0]
 
 **a)** En el Sistema Informático de Facturación para las Modalidades Electrónica en Línea y 
 Computarizada en Línea, para la obtención del Código Único de Inicio de Sistemas (CUIS) es 
@@ -30111,7 +29476,6 @@ de veinticuatro (24) horas desde el momento de su obtención, puede ser solicita
 día según las necesidades y capacidades del Sistema informático de Facturación del Sujeto Pasivo 
 o Tercero Responsable, con las medidas de seguridad establecidas en el ANEXO 33 – TÉCNICO
 disponible en el Portal Web www.impuestos.gob.bo.
-[Image: Im0]
 
 c)  Código Único de Autorización de Factura (CUF),  generada de forma automática al momento 
 de la emisión de la Factura a partir del Sistema informático de Facturación, en las Modalidades de 
@@ -30183,7 +29547,6 @@ y Computarizada en Línea, que deberán ser enviadas hasta veinticuatro (24) hor
 SISTEMA DE FACTURACIÓN - RND Nº 102000000017restablecimiento de la comunicación y conectividad con la Administración Tributaria a través del 
 servicio Web conforme lo establecido en el ANEXO 33 - TÉCNICO disponible en el Portal Web 
 www.impuestos.gob.bo.
-[Image: Im0]
 
 En los casos que no sea posible emitir Facturas Fuera de Línea por contingencia, se podrá emitir 
 Factura Manual, conforme procedimiento establecido en la presente Resolución.
@@ -30224,7 +29587,6 @@ verificar a través del Servicio Web habilitado para el efecto, que las Facturas
 Modalidades de Facturación Electrónica en Línea, Computarizada en Línea y Portal Web en Línea, 
 se encuentren registradas y validadas en la Administración Tributaria, conforme lo establecido en el 
 ANEXO 33 - TÉCNICO disponible en el Portal Web www.impuestos.gob.bo.
-[Image: Im0]
 
 Para los Incisos b) y c) del Artículo precedente la validación y observación de las Facturas contenidas 
 en el paquete será de forma individual.
@@ -30243,7 +29605,6 @@ Línea  debiendo registrar el evento significativo “Venta en lugares sin Inter
 debiendo remitir la información de las Facturas emitidas dentro los  quince (15) días de su ocurrencia, 
 conforme lo establece la presente Resolución. En caso que el plazo supere la fecha de vencimiento del 
 impuesto del IVA, deberán remitir las Facturas hasta la ocurrencia del mismo.  
-[Image: Im0]
 
 II. En las Modalidades de Facturación Electrónica en Línea, Computarizada en Línea y Portal Web 
 en Línea, el Sujeto Pasivo o Tercero Responsable podrá subsanar los errores reportados antes de la 
@@ -30305,7 +29666,6 @@ en la Modalidad de Facturación Portal Web en Línea, por los motivos previstos 
 habilitadas conforme a procedimiento vigente y registrarlas en el aplicativo FACILITO, además de 
 registrar el Evento Significativo en la opción habilitada para el efecto, hasta veinticuatro (24) horas 
 posteriores de finalizada la contingencia.
-[Image: Im0]
 
 **Artículo 121. (Facturas emitidas en Puntos de Venta). -** Los Sujetos Pasivos o Terceros 
 Responsables podrán emitir Facturas a través de puntos de venta, en las Modalidades de Facturación 
@@ -30375,7 +29735,6 @@ misma a través de su Sistema Informático de Facturación, registrando el motiv
 el día diez (10) del mes siguiente del periodo en que se realizó la transacción original. Las Facturas 
 Comerciales de Exportación tendrán un plazo de ciento ochenta (180) días a partir de la fecha de 
 emisión para su anulación. 
-[Image: Im0]
 
 ---
 
@@ -30385,7 +29744,6 @@ Portal, en el registro de compras o en el Formulario 110 según corresponda. La 
 Tributaria, en uso de sus facultades realizará la verificación o fiscalización correspondiente a efecto 
 de determinar la existencia de obligaciones a favor del Fisco y/o en su caso la restitución del Crédito 
 Fiscal según corresponda.
-[Image: Im0]
 
 Artículo 126. (Reversión de Facturas Anuladas en Línea).- Cuando el Sujeto Pasivo o Tercero 
 Responsable, erróneamente hubiera anulado Facturas, podrá aplicar el procedimiento de reversión 
@@ -30437,7 +29795,6 @@ SISTEMA DE FACTURACIÓN - RND Nº 102000000017
 Tributaria facilitará a los Sujetos Pasivos o Terceros Responsables y Dependientes la información 
 relacionada a las Facturas de compra, emitidas por sus proveedores de bienes o servicios, a través de 
 los medios habilitados para el efecto, pudiendo acceder a:
-[Image: Im0]
 
 a) Consulta de las Facturas emitidas a su NIT o a su documento de identidad (CI o CEX).
 
@@ -30503,7 +29860,6 @@ Modalidades de Facturación: Electrónica en Línea, Computarizada en línea, Po
 Electrónica Web u Oficina Virtual, deben seleccionar del aplicativo “Mis Facturas”, las compras que 
 respaldan el Crédito Fiscal del Impuesto al Valor Agregado (IVA), del periodo fiscal, que constituirán 
 el registro de compras que dará lugar a la generación del Reporte de Compras.
-[Image: Im0]
 
 **II.** Las compras efectuadas a emisores de Facturas a través de las Modalidades de Facturación 
 Electrónica en Línea, Computarizada en línea, Portal Web en Línea, Electrónica Web u Oficina 
@@ -30534,7 +29890,6 @@ sea necesario modificar el Registro de Compras del periodo, el Sujeto Pasivo o T
 deberá realizar una nueva selección de Facturas en el aplicativo “Mis Facturas”, dentro de los 
 quince (15) días posteriores a la notificación de la Resolución Administrativa de aprobación de la 
 Rectificatoria a favor del contribuyente.
-[Image: Im0]
 
 **III.** Vencido el plazo señalado en los parágrafos precedentes, el Sujeto Pasivo o Tercero Responsable 
 deberá remitir una solicitud de autorización para rectificación del Registro de Compras a la Gerencia 
@@ -30581,7 +29936,6 @@ ANEXO 33 - TÉCNICO de la presente Resolución.
 el proceso de Certificación en el marco de lo establecido en la Resolución Normativa de Directorio 
 Nº 101800000026 abrogada, deberán cumplir con los requisitos establecidos en el procedimiento de 
 autorización de Sistemas Informáticos de Facturación de la presente Resolución.
-[Image: Im0]
 
 ## DISPOSICIÓN FINAL
 
@@ -30601,7 +29955,6 @@ SISTEMA DE FACTURACIÓN - RND Nº 102000000017
 ---
 
 SISTEMA DE FACTURACIÓN - RND Nº 102000000017
-[Image: Im0]
 
 ## ANEXO 32 - FORMATOS
 
@@ -30643,12 +29996,10 @@ a) Formatos de la Factura
 | h) | Tasas y otros impuestos | Si | No aplica para esta modalidad de Facturación | Aplica para servicios básicos de Luz y Agua y el Impuesto a los Consumos Especificos (ICE, IEHD), no forman parte de la Base imponible del IVA |
 
 SISTEMA DE FACTURACIÓN - RND Nº 102000000017
-[Image: Im0]
 
 ---
 
 SISTEMA DE FACTURACIÓN - RND Nº 102000000017
-[Image: Im0]
 
 | i) | Tipo de cambio oficial | Si | No aplica para esta modalidad de Facturación |  |
 | --- | --- | --- | --- | --- |
@@ -30684,7 +30035,6 @@ centro respetando el orden dispuesto en el cuadro precedente.
 Las Facturas de los Sujetos Pasivos o Terceros Responsables que se encuentren sujetos a regulación, 
 podrán adecuar sus formatos según las disposiciones emitidas por la Autoridad Reguladora 
 competente, siempre y cuando cumplan con los requisitos establecidos en la presente Resolución.
-[Image: Im0]
 
 El sujeto pasivo o Tercero Responsable podrá incorporar en la Factura, los campos que sean
 
@@ -30696,7 +30046,6 @@ SISTEMA DE FACTURACIÓN - RND Nº 102000000017
 
 necesarios según su actividad económica y sus necesidades comerciales, siempre y cuando cumplan reproducción 
 con los requisitos establecidos en la presente Resolución.
-[Image: Im0]
 
 b) Títulos y Subtítulos
 
@@ -30742,12 +30091,10 @@ c) Formato de Nota de Crédito - Débito
 | c) | Fecha de emisión | Si |
 
 SISTEMA DE FACTURACIÓN - RND Nº 102000000017
-[Image: Im0]
 
 ---
 
 SISTEMA DE FACTURACIÓN - RND Nº 102000000017
-[Image: Im0]
 
 | N° | DATOS DE LA NOTA DE CRÉDITO - DÉBITO | MODALIDADES DE FACTURACIÓN |
 | --- | --- | --- |
@@ -30795,7 +30142,6 @@ la Oficina Virtual del Servicio de Impuestos Nacionales, estableciendo las modal
 de Facturación Electrónica Web, Electrónica por Ciclos, Oficina Virtual, Computarizada, 
 Manual y Prevalorada, además procedimientos, aspectos técnicos, formalidades y otros 
 aspectos contemplados en el mismo.  
-[Image: Im0]
 
 Que es necesario realizar modificaciones a la RND Nº 10-0021-16 para optimizar la 
 disponibilidad de la información de las facturas registradas en los libros de compras y ventas 
@@ -30844,7 +30190,6 @@ el IVA y que utilicen las Modalidades de Facturación Computarizada, Manual o
 Prevalorada, deberán enviar la información de cada periodo fiscal hasta la fecha del 
 vencimiento de la Declaración Jurada del IVA de acuerdo al último dígito del NIT, a 
 través del Módulo LCV-IVA FACILITO”. 
-[Image: Im0]
 
 ## DISPOSICIÓN TRANSITORIA
 
@@ -30881,7 +30226,6 @@ Presidente Ejecutivo
 Servicio de Impuestos Nacionales
 
 SISTEMA DE FACTURACIÓN - RND Nº 102000000038
-[Image: Im0]
 
 ---
 
@@ -30911,7 +30255,6 @@ del Impuesto al Valor Agregado (IVA), computarán como crédito fiscal sólo el 
 por ciento) sobre el crédito fiscal del valor de la compra, tratamiento aplicable también al 
 Régimen Complementario al Impuesto al Valor Agregado (RC-IVA) y en la devolución del 
 impuesto previsto por el Artículo 11 de la Ley N° 843 (Texto Ordenado vigente).
-[Image: Im0]
 
 Que la Resolución Normativa de Directorio Nº 10-0021-16 de 1 de julio de 2016 modificada 
 por las Resoluciones Normativas de Directorio Nº 101700000007 de 28 de abril de 2017, 
@@ -30971,7 +30314,6 @@ origen en las Modalidades de Facturación Computarizada, Electrónica por Ciclos
 alguna de las Modalidades en Línea, después del importe total facturado, se deberá incluir 
 el cálculo del 70% de dicho monto, con la leyenda: “Importe base para crédito fiscal 
 conforme Ley”.
-[Image: Im0]
 
 **VI.** Se modifica el Parágrafo I del Artículo 61 de la RND Nº 10-0021-16 sustituyendo el 
 término: “Gasolina Especial, Gasolina Premium, Diésel Oíl” por “Gasolina o Diésel Oíl de 
@@ -30996,7 +30338,6 @@ en el exterior, deberán ser facturados al precio de comercialización del merca
 siempre y cuando se trate de estaciones de servicio ubicadas dentro del territorio nacional 
 a partir de los 50 Km. de la línea de frontera, a ese efecto deberá registrarse el número de 
 Documento de Identidad vigente, emitido por el Estado Plurinacional de Bolivia.”
-[Image: Im0]
 
 **IX.** Se modifica el Parágrafo II del Artículo 74 de la RND Nº 10-0021-16 sustituyendo el 
 término: “Gasolina Especial, Gasolina Premium o Diésel Oil” por “Gasolina o Diésel Oíl de 
@@ -31040,7 +30381,6 @@ vencimiento de la Declaración Jurada del IVA de acuerdo al último dígito del 
 que la factura emitida consigne el código CUF se deberá consignar el valor uno (1) en los 
 campos donde se solicite el Número de Autorización de la factura, dejando sin dato el campo 
 Código de Control.
-[Image: Im0]
 
 **Tercera.-** La información correspondiente a las facturas de compras a contribuyentes 
 que emiten facturas bajo alguna modalidad en línea (que generan código CUF) que con 
@@ -31099,7 +30439,6 @@ prestación de servicios continuos, asimismo disponiendo el reintegro del saldo 
 fiscal o débito fiscal según corresponda, proveniente de ajustes en los montos facturados de 
 hasta doce meses siguientes al perfeccionamiento del hecho generador, en los servicios de 
 energía eléctrica, telecomunicaciones, agua potable e hidrocarburos.
-[Image: Im0]
 
 Que la Resolución Normativa de Directorio Nº 10-0021-16 de 1 de julio de 2016 modificada 
 por las Resoluciones Normativas de Directorio Nº 101700000007 de 28 de abril de 2017, Nº 
@@ -31140,7 +30479,6 @@ la factura deberá emitirse a momento de su pago total o parcial o dentro de los
 hábiles siguientes a la conclusión del periodo mensual (mes calendario de prestación), lo 
 que ocurra primero; en cualquiera de los dos casos el periodo fiscal corresponderá al mes de 
 emisión de la factura.
-[Image: Im0]
 
 En la provisión de servicios continuos sujetos a medición o liquidación para la determinación 
 del importe a facturar, la factura deberá emitirse considerando cualquiera de los siguientes 
@@ -31194,7 +30532,6 @@ de la Declaración Jurada del IVA de la que formó parte la factura a ajustar y 
 del último día hábil del mes en que se emite la Nota de Conciliación.Las Notas de 
 Conciliación serán emitidas a través de la opción SIAT de la página web www.
 <u>impuestos.gob.bo.”</u>
-[Image: Im0]
 
 ## DISPOSICIÓN TRANSITORIA
 
@@ -31246,7 +30583,6 @@ el país, debiendo permitir la identificación de quien las emite, garantizar la
 la integridad de la información y datos registrados, de forma tal que cualquier modificación  
 de los mismos ponga en evidencia su alteración y cumplir los requisitos de pertenecer 
 únicamente al titular y encontrarse bajo su absoluto y exclusivo control.
-[Image: Im0]
 
 Que el Artículo 4 de la Ley N° 843 (Texto Ordenado vigente), establece que al 
 perfeccionamiento del hecho imponible del Impuesto al Valor Agregado (IVA), la 
@@ -31290,7 +30626,6 @@ de 2001, Reglamento de la Ley Nº 2166, del Servicio de Impuestos Nacionales, el
 Ejecutivo en uso de sus atribuciones y en aplicación del numeral 1, Inciso a) de la Resolución 
 Administrativa de Directorio Nº 09- 0011-02 de 28 de agosto de 2002, se encuentra autorizado 
 a suscribir Resoluciones Normativas de Directorio.
-[Image: Im0]
 
 ## POR TANTO:
 
@@ -31333,7 +30668,6 @@ de Tecnologías de Información y Comunicación, que vincula unos datos de
 verificación de firma a un signatario y confirma su identidad. El certificado 
 digital es válido únicamente dentro del término de vigencia indicado en el mismo, 
 requerido en la modalidad de facturación Electrónica en Línea.
-[Image: Im0]
 
 c) Código de Control: Dato alfanumérico, que se genera de  la combinación de la llave 
 digital proporcionada por la Administración Tributaria, los datos de autorización y 
@@ -31391,7 +30725,6 @@ Fiscal o Documento Equivalente y la entrega al comprador. En el caso de la emisi
 de Documentos Fiscales Digitales,   la emisión comprende el registro de los datos 
 y envío de la información de la transacción en formato XML a la Administración 
 Tributaria.
-[Image: Im0]
 
 m) Emisión Masiva: Emisión de  Facturas o Notas  Fiscales en las modalidades de 
 facturación Electrónica en Línea y Computarizada en Línea, que por la naturaleza 
@@ -31419,7 +30752,6 @@ susceptible de verificación y está vinculada a los datos del documento digital
 de modo tal que cualquier modificación de los mismos ponga en evidencia su 
 alteración. Otorga a un Documento Fiscal emitido bajo la modalidad de facturación 
 Electrónica en Línea las características de: No repudio, autenticidad e integridad.
-[Image: Im0]
 
 s) Modalidad de Facturación: Es una determinada forma de emitir Facturas, que se 
 rige a través de un procedimiento establecido en el Sistema de Facturación, para 
@@ -31467,7 +30799,6 @@ del Impuesto al Valor Agregado, así como la facturación de sus transacciones
 gravadas y otros deberes formales conforme normativa vigente. La obligación 
 del Sujeto Pasivo del IVA será cumplida por el Tercero Responsable, cuando 
 corresponda.
-[Image: Im0]
 
 ## CAPÍTULO II
 
@@ -31515,7 +30846,6 @@ con Artistas Nacionales, venta a través de máquinas dispensadoras, actividades
 de servicio de uso de terminal aeroportuaria (ejemplo: aeropuerto de Tarija, 
 Sucre, etc.) o uso de terminal terrestre, asimismo boletos o entradas de ingreso a 
 actividades recreacionales, educativas, culturales o similares.
-[Image: Im0]
 
 **b) Facturación Prevalorada en Línea.-** Documentos Fiscales impresos a través  
 de  un  Sistema  Informático de Facturación Autorizado para las modalidades 
@@ -31592,7 +30922,6 @@ la modalidad de facturación Oficina Virtual dispuesta por el SFV, pasarán auto
 a la modalidad de facturación Portal Web en Línea, a este efecto con anterioridad deberán 
 prever su suscripción, personalizando el mismo para su uso.
 SISTEMA DE FACTURACIÓN - RND Nº 102100000011
-[Image: Im0]
 
 **II.** Las Entidades Financieras implementarán el uso de una modalidad de facturación en línea 
 para servicios de pago e instrumentos electrónicos de pago que concluyan con la emisión de 
@@ -31606,7 +30935,6 @@ en la antigua modalidad de facturación tendrá validez hasta un día antes de l
 ingreso a la nueva modalidad.La información de las facturas emitidas en la anterior 
 modalidad de facturación deberá registrarse y/o confirmarse en los plazos y formas 
 establecidos en la presente Resolución.
-[Image: Im0]
 
 ## CAPÍTULO III
 
@@ -31673,7 +31001,6 @@ Autorización impreso en el talonario en la opción habilitada en la página web
 Administración Tributaria. Posteriormente generará y proporcionará la Constancia de 
 Entrega que deberá ser firmada por la Imprenta Autorizada y el Sujeto Pasivo del 
 IVA, acto con el cual los Documentos Fiscales quedarán activados para su emisión.
-[Image: Im0]
 
 El Sujeto Pasivo del IVA es responsable de recoger los talonarios  impresos  verificando  
 presencialmente   que los datos consignados en los Documentos Fiscales sean correctos, 
@@ -31734,7 +31061,6 @@ Los  talonarios  “no  recogidos”  de un periodo fiscal deberán presentarse 
 Tributaria hasta el día cinco (5) del mes siguiente en el que se configuraron como “no 
 recogidos”, para su registro en sistema como “destruido” y destrucción física, hecho que 
 constará en Acta de Destrucción de Documentos Fiscales.
-[Image: Im0]
 
 Los Documentos Fiscales no recogidos en el plazo de cinco (5) días corridos señalado 
 precedentemente, no deberán ser entregados al Sujeto Pasivo del IVA, correspondiendo 
@@ -31749,7 +31075,6 @@ Tributaria a través del SIAT desplegará el número de autorización, fecha lí
 la llave de autorización para generar el código de control y las leyendas correspondientes, 
 siendo responsabilidad del Sujeto Pasivo del IVA su manejo e incorporación a su Sistema de 
 Facturación Computarizado.
-[Image: Im0]
 
 La solicitud de autorización, asignación de número de autorización, llave de emisión y otros 
 aspectos técnicos necesarios para la conclusión del proceso, se realizará a través de la página 
@@ -31809,7 +31134,6 @@ en un plazo de noventa (90) días computables a partir de la fecha de solicitud,
 ser prorrogado por un plazo de sesenta (60) días por única vez a solicitud realizada a través 
 de la opción SIAT de la página web www.impuestos.gob.bo, aplicando los procedimientos 
 descritos en la Guía de Usuario conforme Anexo Técnico disponible en la citada página.
-[Image: Im0]
 
 Vencido el plazo señalado en el párrafo precedente, la solicitud de autorización quedará 
 cancelada de forma automática, sin perjuicio de que el Sujeto Pasivo del IVA efectúe una 
@@ -31866,7 +31190,6 @@ en el Inciso a) precedente, previa verificación de la funcionalidad del mismo, 
 Administración Tributaria procederá a la emisión de la Autorización del Sistema 
 Informático de Facturación, la cual establecerá que superó en forma satisfactoria las 
 pruebas de funcionalidad preliminares.
-[Image: Im0]
 
 Cuando el Sistema Informático de Facturación sea de un Proveedor, la Autorización 
 le permitirá ofertar su producto a terceros a condición de que los mismos superen las 
@@ -31919,7 +31242,6 @@ modalidades de facturación Electrónica en Línea o Computarizada en Línea, se
 expresada mediante la opción “Confirmación de Asociación del Sistema Informático 
 de Facturación”, misma que permitirá generar un reporte denominado “Autorización 
 de Asociación de Sistema Informático de Facturación proveedor – cliente”.
-[Image: Im0]
 
 Las modificaciones efectuadas por el Proveedor o su cliente al Sistema Informático 
 de Facturación Autorizado o el uso inadecuado de este aplicativo serán de exclusiva 
@@ -31949,7 +31271,6 @@ Los Sujetos Pasivos del IVA procederán a la emisión de Documentos Fiscales a t
 los Sistemas Informáticos de Facturación autorizados para las modalidades de facturación 
 Electrónica   en Línea o Computarizada en Línea, para cuyo efecto deberán solicitar a la 
 Administración Tributaria los siguientes códigos:
-[Image: Im0]
 
 a) Código Único de Inicio de Sistemas (CUIS): Para la obtención de este código es 
 necesario que el Sujeto Pasivo del IVA, cuente con sus credenciales de acceso.
@@ -32009,7 +31330,6 @@ un Sujeto Pasivo del IVA proveedor de sistemas requiera inactivar su NIT, deber�
 realizar su solicitud con treinta (30) días de anticipación a la fecha en que se hará 
 efectiva la inactivación, a efecto de que sus clientes dispongan del plazo necesario 
 para asociarse a un nuevo sistema.
-[Image: Im0]
 
 d) La Administración Tributaria como efecto de procesos de control, podrá inhabilitar el 
 Sistema Informático de Facturación Autorizado para las modalidades de facturación 
@@ -32066,7 +31386,6 @@ extranjeras sin residencia, excepto en el caso de exportación de servicios tur�
 su naturaleza o actividad no se encuentran obligados a inscribirse en el Padrón Nacional 
 de Contribuyentes, el proveedor deberá consignar en el espacio destinado al NIT/CI de la 
 factura, el número 99001.
-[Image: Im0]
 
 **V.** En caso de procedimientos de control tributario para verificar el cumplimiento de la 
 obligación de emisión de Factura, Nota Fiscal o Documento Equivalente, realizados por 
@@ -32082,7 +31401,6 @@ facturado consignando lugar, fecha de emisión y la leyenda “VENTAS MENORES DE
 DÍA” en la sección destinada a la razón social del cliente, además de consignar el número 
 99003 en el campo correspondiente al NIT/CI, debiendo mantener también el original para 
 fines de control posterior según la modalidad de facturación utilizada.
-[Image: Im0]
 
 **VII.** La Factura, Nota Fiscal o Documento Equivalente deberá emitirse teniendo el debido 
 cuidado de registrar los datos correctos de la transacción: nominatividad, fecha, detalle y el 
@@ -32166,7 +31484,6 @@ Nota Fiscal o Documento Equivalente, emitida en una modalidad de facturación di
 a las modalidades de facturación en línea, llegue a poder y dominio del comprador hasta 
 antes de la declaración mensual, utilizando los medios más convenientes y adecuados para el 
 cumplimiento de dicho cometido.
-[Image: Im0]
 
 ---
 
@@ -32196,7 +31513,6 @@ Portal Web en Línea, los datos de la transacción en formato XML quedarán regi
 base de datos de la Administración Tributaria, asimismo permitirá enviar el formato XML y 
 la Representación Gráfica del Documento Fiscal Digital al comprador a través de la opción 
 habilitada en el mismo sistema.
-[Image: Im0]
 
 **III.** Cuando lo solicite el comprador, el Sujeto Pasivo del IVA deberá entregar una 
 Representación Gráfica impresa de la factura en línea, con excepción de las facturas emitidas 
@@ -32221,7 +31537,6 @@ SISTEMA DE FACTURACIÓN - RND Nº 102100000011 reproducción
 **II.** Las Facturas en Línea generadas masivamente deberán ser firmadas digitalmente en la 
 modalidad de facturación Electrónica en Línea conforme lo establecido en el Anexo Técnico 
 disponible en la página web www.impuestos.gob.bo.
-[Image: Im0]
 
 **Artículo 28 (Facturas emitidas en Puntos de Venta).-** Los Sujetos Pasivos del IVA podrán 
 emitir Facturas a través de puntos de venta, en las modalidades de facturación Electrónica en 
@@ -32287,7 +31602,6 @@ días, siempre y cuando se registre el evento significativo autorizado por la Ad
 Tributaria: “Ingreso a zonas sin internet por despliegue de puntos de venta” o “Venta en 
 lugares sin Internet” y la firma digital, en el caso de la modalidad de facturación Electrónica 
 en Línea, no se encuentre revocada al inicio o durante el transcurso del evento significativo.
-[Image: Im0]
 
 La autorización será solicitada a través de la opción SIAT habilitada en la página web www.
 impuestos.gob.bo consignando lo siguiente:
@@ -32316,7 +31630,6 @@ Computarizada en Línea o Portal Web en Línea, podrán utilizar facturas por co
 autorizadas en ambos casos conforme al procedimiento de autorización descrito en el 
 Parágrafo I del Artículo 12 de la presente Resolución y formatos contemplados en el Anexo 
 Técnico disponible en la página web www.impuestos.gob.bo.
-[Image: Im0]
 
 **V.** De suscitarse una contingencia, los Sujetos Pasivos del IVA que emitan Documentos 
 Fiscales a través de las modalidades de facturación Electrónica en Línea, Computarizada en 
@@ -32371,7 +31684,6 @@ Línea deberán registrarse en el plazo de setenta y dos (72) horas posteriores 
 de la comunicación y conectividad con la Administración Tributaria. El registro de las 
 transacciones de un periodo fiscal, en el caso de los numerales 3 y 4 del cuadro consignado en 
 el Parágrafo II del presente Artículo deberá realizarse hasta el día nueve (9) del mes siguiente.
-[Image: Im0]
 
 ***Nota del Editor:***
 
@@ -32415,7 +31727,6 @@ señaladas  en  el Artículo 29 precedente, el Sujeto Pasivo del IVA emita Factu
 contingencia, el documento físico impreso deberá ser entregado al comprador, el mismo 
 podrá ser verificado por éste una vez finalizada la contingencia, a través de las opciones de 
 consulta habilitadas por la Administración Tributaria.
-[Image: Im0]
 
 **Artículo 32 (Fecha Límite de Emisión).-** Las Facturas, Notas Fiscales o Documentos 
 Equivalentes deberán ser emitidos hasta la fecha límite de emisión según la modalidad de 
@@ -32447,7 +31758,6 @@ de que los Sujetos Pasivos Incluidos practiquen su derecho a repetir contra el e
 tratamiento no se aplicará en caso de incurrir en la contravención de no emisión de Factura, 
 Nota Fiscal o Documento Equivalente, prevista en el Artículo 164 de la Ley N° 2492 (Código 
 Tributario Boliviano), en cuyo caso será responsable la parte emisora.
-[Image: Im0]
 
 **Artículo 34 (Emisión por Terceros).- I.** El Sujeto Pasivo del IVA titular de una operación 
 podrá habilitar el uso de un Sistema Informático de Facturación Proveedor de un tercero a 
@@ -32503,7 +31813,6 @@ deben registrar en el Sistema de Facturación, el Número de Autorización emiti
 por el Ministerio de Economía y Finanzas Públicas, la Resolución de la MAE del 
 solicitante  y las fechas de las mismas, para la correspondiente autorización de 
 Facturas o Notas Fiscales.
-[Image: Im0]
 
 Para efectos de control, los alimentos comercializados bajo esta característica 
 deberán llevar un kardex de inventario independiente por producto a ser 
@@ -32546,7 +31855,6 @@ impositiva. Asimismo, no se encuentran obligados a emitir Factura Comercial de
 Exportación, las encomiendas internacionales u otras piezas postales, transportadas 
 por entidades de servicio expreso o postal de acuerdo a normas internacionales de 
 servicio de correos, no sujetos a devolución.
-[Image: Im0]
 
 Las Facturas Comerciales de Exportación de minerales no deberán consignar el 
 valor de las regalías.
@@ -32629,7 +31937,6 @@ siguientes a la conclusión del periodo mensual (mes calendario de prestación),
 SISTEMA DE FACTURACIÓN - RND Nº 102100000011
 que ocurra primero; en cualquiera de los dos casos el periodo fiscal corresponderá 
 al mes de emisión de la factura.
-[Image: Im0]
 
 En la provisión de servicios continuos sujetos a medición o liquidación para 
 la determinación del importe a facturar, el Documento Fiscal deberá emitirse 
@@ -32670,7 +31977,6 @@ Estado Plurinacional de Bolivia, en versión impresa y la actividad de Transport
 Internacional de Carga por Carretera, y otros establecidos en normativa específica. 
 Se excluye de este tratamiento, la venta de revistas y periódicos de carácter no 
 oficial.
-[Image: Im0]
 
 ## 12)VENTA DE COMBUSTIBLE
 
@@ -32724,7 +32030,6 @@ del automotor”, el número de la Declaración Única de Importación (DUI) o
 Declaración de Mercancías de Importación (DIM) cuya antigüedad de la misma 
 no podrá ser mayor a tres (3) meses, respecto a la fecha de venta del combustible 
 u otro documento que establezca la Agencia Nacional de Hidrocarburos.
-[Image: Im0]
 
 ---
 
@@ -32734,7 +32039,6 @@ de cualquier origen deberán registrar de forma obligatoria en la Factura, la
 Autorización otorgada por la Dirección General de Sustancias Controladas u otra 
 autoridad competente, cuando se trate de ventas iguales o mayores a 120 litros o el 
 volumen que permita la norma específica aplicable a cada caso.
-[Image: Im0]
 
 El suministro de productos refinados de petróleo (Gasolina Especial, Gasolina 
 Premium o Diésel Oil, Gas Natural Vehicular - GNV, industrializados y otros), a 
@@ -32787,7 +32091,6 @@ Agentes Despachantes de Aduana, restaurantes y toda otra persona que no sea
 usuaria ni concesionaria y preste cualquier otro servicio, estando alcanzadas 
 por los tributos establecidos en la Ley Nº 843 y demás disposiciones 
 complementarias.
-[Image: Im0]
 
 Se deberá consignar en la Factura el Número de Parte de Recepción, otorgado 
 por el concesionario de Zona Franca, en las ventas que comprenden el lote de la 
@@ -32846,7 +32149,6 @@ comercialización, se admitirá un plazo de sesenta (60) meses para la emisión 
 Crédito – Débito, computables a partir de la emisión del Documento Fiscal, previa solicitud 
 justificada a través de la opción SIAT habilitada en la página web www.impuestos.gob.bo o 
 nota dirigida a la Gerencia Distrital o GRACO de la jurisdicción del solicitante.
-[Image: Im0]
 
 ***Nota del Editor:*** *La RND Nº 102200000003 de 08/02/2022 en sus Disposiciones* 
 *Adicionales Segunda,* ***incorporó*** *el Párrafo precedente.*
@@ -32902,7 +32204,6 @@ de Conciliación a través de la opción SIAT de la página web www.impuestos.go
 caso de los Sujetos Pasivos del IVA que utilicen la modalidad de facturación Electrónica 
 en Línea o Computarizada en Línea, emitirán las Notas de Conciliación IVA a través de su 
 Sistema Informático de Facturación.
-[Image: Im0]
 
 ## INHABILITACIÓN Y REGULARIZACIÓN DE DOCUMENTOS FISCALES SISTEMA DE FACTURACIÓN - RND Nº 102100000011
 
@@ -32934,7 +32235,6 @@ registrada no se haya realizado, a través de la opción habilitada en la págin
 Administración Tributaria y/o de su Sistema Informático de Facturación, registrando el 
 motivo de la anulación. La emisión se hará conforme lo establecido en el Capítulo IV de la 
 presente Resolución.
-[Image: Im0]
 
 ***Nota del Editor:***
 
@@ -33001,7 +32301,6 @@ Contribuyentes en el caso de los Incisos a) al f); registro en el sistema SIAT d
 modalidad de facturación en el caso del Inciso g); a la emisión del Certificado de Defunción 
 en caso del Inciso h) y a partir del vencimiento de la fecha límite de emisión en el caso de los 
 Incisos i), j) y k), todos detallados en el Parágrafo precedente.
-[Image: Im0]
 
 i) Por vencimiento de la fecha límite de emisión;
 
@@ -33049,7 +32348,6 @@ impresos con errores en los  datos autorizados, deberá regularizar los mismos i
 a la opción habilitada en la página web www.impuestos.gob.bo o apersonarse al área de 
 Recaudaciones de la dependencia operativa correspondiente, conforme a procedimiento 
 establecido en el Anexo Técnico disponible en la página web www.impuestos.gob.bo.
-[Image: Im0]
 
 El comprador podrá registrar el Documento Fiscal en el Registro de Compras, no obstante 
 el mismo será marcado como “Documento Fiscal con observaciones en su autorización”, 
@@ -33085,7 +32383,6 @@ normativa vigente.
 en la modalidad de facturación Computarizada SFV, cuando se produzcan cambios en 
 la información y no se pueda continuar con la emisión de Facturas de una determinada 
 autorización, como por ejemplo:
-[Image: Im0]
 
 b) Cambio de razón social;
 
@@ -33128,7 +32425,6 @@ a  los Consumos Específicos (ICE), Impuesto Especial a los Hidrocarburos y sus 
 (IEHD), Impuesto a la Participación del Juego (IPJ), tasas y contribuciones especiales, 
 descuentos, bonificaciones y otros cuando corresponda de acuerdo a formatos establecidos 
 en el Anexo Técnico disponible en la página web www.impuestos.gob.bo.
-[Image: Im0]
 
 **III.** El Sujeto Pasivo del IVA tendrá la obligación de informar al Servicio de Impuestos 
 Nacionales los periodos sin movimiento en el “Registro de Compras y Ventas” en la opción 
@@ -33173,7 +32469,6 @@ correspondientes a un periodo fiscal (mensual), desde el día de su emisión has
 (9) del mes siguiente al periodo informado, a través del “Registro de Compras y Ventas” 
 conforme al formato establecido en el Anexo Técnico disponible en la página web www.
 impuestos.gob.bo.
-[Image: Im0]
 
 ***Nota del Editor:***
 
@@ -33237,7 +32532,6 @@ registrar todos los Documentos Fiscales emitidos en el periodo fiscal a liquidar
 el día de su emisión hasta el día nueve (9) del mes siguiente del periodo a registrar, a través del 
 “Registro de Compras y Ventas”, proceso que concluirá con la consolidación de estos registros 
 en la opción habilitada para el efecto.
-[Image: Im0]
 
 ***Nota del Editor:***
 
@@ -33270,7 +32564,6 @@ Documentos Fiscales no reportados por el emisor,  desde el día de su emisión h
 (9) del mes siguiente del periodo a registrar, a través del “Registro de Compras y Ventas”, 
 proceso que concluirá con la consolidación de estos registros en la opción habilitada para el 
 efecto.
-[Image: Im0]
 
 ***Nota del Editor:***
 
@@ -33313,7 +32606,6 @@ en que se produjo la venta del bien y/o la prestación del servicio a través de
 Sistema Informático de Facturación Autorizado, prorrogándose su envío hasta el 
 día nueve (9) del mes siguiente al periodo de emisión, conforme lo establecido en 
 el Anexo Técnico disponible en la página web www.impuestos.gob.bo.
-[Image: Im0]
 
 ***Nota del Editor:***
 
@@ -33392,7 +32684,6 @@ SISTEMA DE FACTURACIÓN - RND Nº 102100000011
 físico o digital, a objeto de respaldar el monto consignado en la Factura o Nota Fiscal que 
 consolida diariamente el importe de estas operaciones, conforme lo dispuesto en la presente 
 Resolución. 
-[Image: Im0]
 
 El registro de ventas menores del día deberá ser resguardado en formato físico o digital en el 
 establecimiento donde se realiza la actividad gravada.
@@ -33431,7 +32722,6 @@ Nota Fiscal o Documento Equivalente será válida para respaldar la liquidación
 al Valor Agregado (IVA) e Impuesto sobre las Utilidades de las Empresas (IUE), en los 
 términos dispuestos en la Ley Nº 843 y Decretos Supremos reglamentarios, siempre que 
 cumpla los siguientes requisitos:
-[Image: Im0]
 
 1) Sea el original del documento físico emitido en las modalidades de facturación 
 Manual, Prevalorada Pre-impresa y Computarizada SFV, o Documento Fiscal 
@@ -33484,7 +32774,6 @@ Parágrafo I precedente, no implicarán la pérdida del derecho al Crédito Fisc
 para fines del Impuesto sobre las Utilidades de las Empresas (IUE), sin perjuicio de que el 
 Sujeto Pasivo o Tercero Responsable emisor sea sancionado por incumplimiento a deber 
 formal.
-[Image: Im0]
 
 En caso que el comprador sea Sujeto Pasivo tanto del IVA y del RC-IVA (dependientes), 
 deberá solicitar se consigne el NIT en los documentos de gastos relacionados a la actividad 
@@ -33510,7 +32799,6 @@ de Identificación no concuerde con el del comprador (o no contenga este dato), 
 cuando el domicilio fiscal consignado en los documentos coincida con el declarado por el 
 beneficiario en el Padrón Nacional de Contribuyentes para el caso del IVA o el domicilio 
 consignado en la Declaración Jurada correspondiente para el caso del RC-IVA.
-[Image: Im0]
 
 **VI.** Serán válidas las Facturas de la modalidad de facturación Prevalorada, emitidas sin NIT 
 o número de Documento de Identificación, ni fecha de emisión conforme las previsiones de 
@@ -33580,7 +32868,6 @@ formato XML, generada por el Sujeto Pasivo del IVA, con firma digital o huella d
 través de los sistemas informáticos o medios electrónicos autorizados por la Administración 
 Tributaria, enviada a ésta y registrada en su base de datos, se constituye en un Documento 
 Fiscal Digital, y tiene validez jurídica y probatoria.
-[Image: Im0]
 
 La Administración Tributaria en el ejercicio de sus facultades de control, verificación, 
 SISTEMA DE FACTURACIÓN - RND Nº 102100000011
@@ -33630,7 +32917,6 @@ de Viaje IATA en Bolivia o en el exterior, para la prestación de servicios de t
 otros servicios complementarios de viaje, que se originen en territorio nacional, están sujetos 
 al IVA e IT y constituyen ingresos gravados a efecto de la determinación del IUE o del IUE 
 por actividades parcialmente realizadas en el país, según corresponda.
-[Image: Im0]
 
 **II.** Los servicios de transporte aéreo, pagados en el exterior del país y originados en Bolivia, 
 se encuentran sujetos al IVA, IT e IUE.
@@ -33676,7 +32962,6 @@ and Settlement Plan (BSP – Plan de Facturación y Pagos) de IATA o no, son con
 como Documentos Equivalentes a efectos tributarios. Los boletos ETKT y los recibos de 
 boletos Computarizados PR (Passenger Receipt) impresos deberán consignar mínimamente 
 los siguientes datos:
-[Image: Im0]
 
 1) Lugar (cuando corresponda);
 SISTEMA DE FACTURACIÓN - RND Nº 102100000011
@@ -33712,7 +32997,6 @@ el Número de NIT o CI del beneficiario de manera digital en los archivos XML qu
 enviados al SIN en el plazo señalado en el Parágrafo I del Artículo 59 de la presente Resolución 
 Normativa, a este efecto deberá habilitar los medios electrónicos pertinentes  para facilitar al 
 beneficiario validar su boleto electrónico para descargo del Crédito Fiscal.
-[Image: Im0]
 
 El importe sujeto a Crédito Fiscal consignado en los boletos aéreos, estará compuesto por:
 
@@ -33776,7 +33060,6 @@ la información sea completa, correcta, exacta, íntegra y permita identificar t
 de la transacción así como las fechas de procesamiento y de registro, con un mecanismo de 
 seguridad que haga evidente algún cambio o alteración, conforme lo dispuesto en el segundo 
 SISTEMA DE FACTURACIÓN - RND Nº 102100000011párrafo del Parágrafo I, Artículo 79 de la Ley N° 2492 Código Tributario Boliviano.
-[Image: Im0]
 
 **VI.** El pago por el Servicio de Terminal Aeroportuaria Nacional o Internacional, realizado por 
 el pasajero al adquirir su boleto o billete aéreo, deberá  ser  facturado  por  el  Administrador 
@@ -33802,7 +33085,6 @@ de acuerdo al último dígito del NIT, consolidando los emitidos por la Línea A
 General Autorizado y Agencia de viaje. La información deberá remitirse en formato XML a 
 través de los Servicios  Web  habilitados para el efecto, conforme al formato establecido en la 
 opción habilitada en el Anexo Técnico disponible en la página web www.impuestos.gob.bo.
-[Image: Im0]
 
 **II.** El Sistema de Información de Facturación de las Líneas Aéreas será autorizado por la 
 Administración Tributaria, conforme el Anexo Técnico disponible en la página web www.
@@ -33876,7 +33158,6 @@ través de la opción habilitada en la página web www.impuestos.gob.bo, que se 
 una Declaración Jurada conforme lo establece el Parágrafo I del Artículo 78 de la Ley N° 
 SISTEMA DE FACTURACIÓN - RND Nº 102100000011
 2492 Código Tributario Boliviano.
-[Image: Im0]
 
 **Artículo 63 (Procedimiento de Autorización de Imprentas).- I.** Registrada la solicitud 
 de autorización de Imprenta y generado el reporte de solicitud, la Administración Tributaria 
@@ -33891,7 +33172,6 @@ inspección, corresponderá a la dependencia operativa registrar los resultados 
 del Certificado de Autorización de Imprenta a través de la opción habilitada en la página web 
 de la Administración Tributaria; caso contrario y en el mismo plazo, se rechazará la solicitud 
 con el formulario de inspección que contendrá las observaciones y motivos del rechazo.
-[Image: Im0]
 
 **III.** El rechazo, no inhibe el derecho de los Sujetos Pasivos  del IVA a formular una nueva 
 solicitud, subsanando las observaciones previas.
@@ -33961,7 +33241,6 @@ impresión de Documentos Fiscales sin la posibilidad de volver a obtener la auto
 realizar trabajos de impresión de Documentos Fiscales; permitiendo la entrega o cancelación 
 de aquellos trabajos autorizados con anterioridad a la aplicación de la cancelación definitiva, 
 en caso de verificarse cualquiera de las siguientes causales descritas a continuación:
-[Image: Im0]
 
 a) Si la Imprenta Autorizada luego de acumular cuatro (4) suspensiones incurriera  
 en  una nueva causal de suspensión, comprendidas dentro el periodo de 
@@ -34019,7 +33298,6 @@ Sujetos Pasivos del IVA que utilicen una modalidad de facturación en línea, st
 deberá estar visible en área de cajas a efecto de que los compradores obtengan un reporte de 
 los datos básicos del contribuyente: Razón Social, Domicilio Fiscal, Actividad Principal y 
 modalidad de facturación.
-[Image: Im0]
 
 **Artículo 67 (Clasificación de Deberes Formales).-** El incumplimiento a las obligaciones 
 establecidas en la presente Resolución constituyen contravención tributaria, tipificada 
@@ -34034,7 +33312,6 @@ presente Resolución, constituyen deberes formales del Sujeto Pasivo del IVA, lo
 proporcionados por el SIN en el reporte de asignación, cumpliendo los aspectos  
 técnicos,  para las modalidades de facturación Manual y Prevalorada, establecidos 
 en normativa específica. (Capítulos X y XII de la presente Resolución).
-[Image: Im0]
 
 2) Activar los Documentos Fiscales autorizados por el SIN (Imprenta Autorizada) a  
 momento de la entrega de las facturas o notas fiscales. (Artículo 12 de la presente 
@@ -34103,7 +33380,6 @@ suspensión temporal o definitiva  de la actividad económica tienen la obligaci
 NIT, durante la inactivación del NIT no podrán realizar actividad gravada, en caso de evidenciarse 
 esto, el contribuyente se tendrá como no inscrito y se aplicará la sanción prevista en    el Artículo 
 163 de la Ley Nº 2492, Código Tributario Boliviano.
-[Image: Im0]
 
 La inactivación del NIT no tiene efecto sobre las deudas tributarias o casos pendientes que pudiera 
 tener el Sujeto Pasivo del IVA con la Administración Tributaria, asimismo en caso de subsistir 
@@ -34121,7 +33397,6 @@ facturas emitidas en línea, deberán ser emitidos conforme el siguiente formato
 ---
 
 SISTEMA DE FACTURACIÓN - RND Nº 102100000011
-[Image: Im0]
 
 | (A)N° | (B)Datos del Documento Fiscal(Factura, Nota Fiscal, Documento Equivalente) o Representación Grafica | Modalidades de Facturación |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -34155,12 +33430,10 @@ SISTEMA DE FACTURACIÓN - RND Nº 102100000011
 | i) | Detalle, Concepto o Descripción del Bien o Servicio | Si | Si | Si | Si |  |
 
 SISTEMA DE FACTURACIÓN - RND Nº 102100000011
-[Image: Im0]
 
 ---
 
 SISTEMA DE FACTURACIÓN - RND Nº 102100000011
-[Image: Im0]
 
 | j) | Cantidad | Si | Si | Si | Si | Para el caso de servicios en el campo Cantidad se podrá consignar el número 1. |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -34192,7 +33465,6 @@ SISTEMA DE FACTURACIÓN - RND Nº 102100000011
 | ff) | Flete de transporte interno de bienes exportados | No aplica para esta modalidad de Facturación | Si | Si | No aplica para esta modalidad de Facturación | Aplica sólo para exportación de bienes. |
 
 SISTEMA DE FACTURACIÓN - RND Nº 102100000011
-[Image: Im0]
 
 ---
 
@@ -34215,7 +33487,6 @@ Las Facturas de los Sujetos Pasivos del IVA que se encuentren sujetos a regulaci
 podrán adecuar sus formatos según las disposiciones emitidas por la Autoridad Reguladora 
 competente, siempre y cuando cumplan con los requisitos establecidos en la presente 
 Resolución.
-[Image: Im0]
 
 ---
 
@@ -34252,7 +33523,6 @@ Artículo), cuando por la magnitud de la información a ser consignada se requie
 más de una hoja, se deberá numerar cada hoja haciendo referencia al número de hoja y a la 
 cantidad total de hojas del documento, conforme al siguiente formato: “1 de n” donde n es el 
 total de hojas, debiendo estar ubicado en la parte superior o inferior central de la Factura.
-[Image: Im0]
 
 **Artículo 71 (Materiales y Colores).- I.** Los materiales y colores utilizados para la elaboración 
 de los originales y copias físicas de las Facturas o Notas Fiscales o Representación Gráfica 
@@ -34285,7 +33555,6 @@ impresión de la Representación Gráfica a través de esta modalidad, se podrá
 cualquier color de papel distinto al negro que permita la completa legibilidad de 
 la información. El Código QR deberá ser impreso en color negro u otro de tinta 
 oscura sobre fondo que permita la legibilidad.
-[Image: Im0]
 
 **II.** La información deberá imprimirse tomando en cuenta lo siguiente:
 
@@ -34338,7 +33607,6 @@ de Documentos Fiscales emitidos en alguna modalidad  de facturación en línea, 
 en la Base de Datos del Servicio de Impuestos Nacionales, en lugar del Documento Fiscal 
 original, deberá proporcionarse únicamente el Código de Autorización de la Factura o su 
 Representación Gráfica, para su respectiva verificación.
-[Image: Im0]
 
 **Cuarta.-** Se modifica el Parágrafo I del Artículo 5 de la RND Nº 101700000014 por el 
 siguiente texto:
@@ -34391,7 +33659,6 @@ o notas fiscales para los Sujetos Pasivos del IVA que utilicen la modalidad de f
 Computarizada SFV se realizará a través de la opción habilitada en el SIAT conforme al 
 procedimiento establecido en el Anexo Técnico disponible en la página web www.impuestos.
 gob.bo.
-[Image: Im0]
 
 **Segunda.-** Los Sujetos Pasivos del IVA que utilizan la modalidad de facturación Oficina 
 Virtual del Sistema de Facturación Virtual-SFV, a partir del 1 de diciembre de 2021 utilizarán 
@@ -34417,7 +33684,6 @@ para el uso de una modalidad de facturación en línea, deberán migrar a una mo
 facturación en línea o a la modalidad de facturación Computarizada del SFV. A la publicación 
 de la presente Resolución no se admitirán nuevas solicitudes para alta de la modalidad de 
 facturación por ciclos.
-[Image: Im0]
 
 **Quinta.-** Los Sujetos Pasivos del IVA que a la fecha de vigencia de la presente Resolución, 
 tengan asignada la modalidad de facturación Computarizada del SFV, podrán continuar su 
@@ -34460,7 +33726,6 @@ e) Resolución Normativa de Directorio Nº 10-0039-05 de 25 de noviembre de 2005
 
 **Segunda.-** Se abrogan o derogan todas las disposiciones contrarias a la presente Resolución 
 Normativa de Directorio.
-[Image: Im0]
 
 ## DISPOSICIÓN FINAL
 
@@ -34501,7 +33766,6 @@ país, debiendo permitir la identificación de quien las emite, garantizar la ve
 integridad de la información y datos registrados, de forma tal que cualquier modificación 
 de los mismos ponga en evidencia su alteración y cumplir los requisitos de pertenecer 
 únicamente al titular y encontrarse bajo su absoluto y exclusivo control.
-[Image: Im0]
 
 Que el Artículo 6 de la Ley Nº 164 de 8 de agosto de 2011, establece que documento 
 digital, es toda representación digital de actos, hechos o datos jurídicamente relevantes, 
@@ -34527,7 +33791,6 @@ regirá sobre todas las actividades gravadas por el IVA en territorio nacional a
 1 de diciembre de 2021. Asimismo, el Artículo 10 de la citada Resolución indica que la 
 Administración Tributaria establecerá periódicamente, mediante Resolución Normativa de 
 Directorio la obligatoriedad para el uso de las modalidades de facturación en línea.
-[Image: Im0]
 
 Que la Disposición Transitoria Segunda de la citada Resolución establece que: *“Los Sujetos* 
 *Pasivos del IVA que utilizan la modalidad de facturación Oficina Virtual del Sistema de* 
@@ -34572,7 +33835,6 @@ reproducción
 **III.** Los contribuyentes alcanzados por los parágrafos precedentes, podrán consultar la 
 modalidad de facturación asignada que deberán utilizar a partir del 1 de diciembre de 2021, 
 a través de la opción SIAT de la página web www.impuestos.gob.bo.
-[Image: Im0]
 
 Regístrese, publíquese y cúmplase.
 
@@ -34630,7 +33892,6 @@ Ejecutivo en uso de sus atribuciones y en aplicación del numeral 1, Inciso a) d
 Administrativa de Directorio Nº 09-0011-02 de 28 de agosto de 2002, se encuentra autorizado 
 a suscribir Resoluciones Normativas de Directorio.
 SISTEMA DE FACTURACIÓN - RND Nº 102100000013
-[Image: Im0]
 
 ## POR TANTO:
 
@@ -34646,7 +33907,6 @@ Boliviano, y las disposiciones precedentemente citadas,
 por la Autoridad de Fiscalización del Juego, deberán adecuar sus Sistemas Informáticos 
 de Facturación a efecto que desde el 1 de diciembre de 2021 emitan Documentos Fiscales 
 Digitales a través de la modalidad de Facturación Electrónica en Línea.
-[Image: Im0]
 
 Regístrese, publíquese y cúmplase.
 
@@ -34699,7 +33959,6 @@ tercer párrafo del Parágrafo VII del Artículo 29, Parágrafo II del Artículo
 SISTEMA DE FACTURACIÓN - RND Nº 102100000017Artículo 43, Parágrafos V y VII del Artículo 44, Parágrafo I del Artículo 45, primer párrafo 
 del Parágrafo I del Artículo 46 e Inciso b) del Parágrafo I del Artículo 47, todos pertenecientes 
 a la Resolución Normativa de Directorio Nº 102100000011 de 11 de agosto de 2021.
-[Image: Im0]
 
 ## RESUELVE:
 
@@ -34716,7 +33975,6 @@ lo siguiente:
 *emitido fuera de línea, tendrá validez jurídica y probatoria. Una vez que los datos sean* 
 *enviados por el emisor y registrados en la Base de Datos de la Administración Tributaria la* 
 *validez recaerá sobre el documento fiscal digital;”*
-[Image: Im0]
 
 Regístrese, publíquese y cúmplase.
 
@@ -34761,7 +34019,6 @@ diciembre de 2001, Reglamento de la Ley Nº 2166, del Servicio de Impuestos Naci
 el Presidente Ejecutivo en uso de sus atribuciones y en aplicación del Inciso a) del Numeral 
 1 de la Resolución Administrativa de Directorio Nº 09-0011-02 de 28 de agosto de 2002, se 
 encuentra autorizado a suscribir Resoluciones Normativas de Directorio.
-[Image: Im0]
 
 ## POR TANTO:
 
@@ -34779,7 +34036,6 @@ Resolución, deberán adecuar e implementar sus Sistemas Informáticos de Factur
 acuerdo a lo dispuesto en la Resolución Normativa de Directorio N° 102100000011 de 11 
 de agosto de 2021, Sistema de Facturación, a efecto que desde el 1 de abril de 2022 emitan 
 Documentos Fiscales Digitales a través de la modalidad de facturación en línea asignada.
-[Image: Im0]
 
 ## DISPOSICIÓN ADICIONAL
 
@@ -34839,7 +34095,6 @@ párrafo del Parágrafo VII del Artículo 29, Parágrafo II del Artículo 38, Pa
 Artículo 43, Parágrafos V y VII del Artículo 44, Parágrafo I del Artículo 45, primer párrafo 
 del Parágrafo I del Artículo 46 e Inciso b) del Parágrafo I del Artículo 47, todos pertenecientes 
 a la Resolución Normativa de Directorio Nº 102100000011 de 11 de agosto de 2021.
-[Image: Im0]
 
 Que es necesario establecer un plazo ecuánime para el registro de la información de los 
 Documentos Fiscales emitidos en un periodo fiscal en el Registro de Compras y Ventas que 
@@ -34889,7 +34144,6 @@ según corresponda. La implementación en sus demás establecimientos, líneas d
 servicios ofertados, deberá realizarse hasta el 01 de marzo de 2022. Durante el plazo antes 
 señalado, podrán autorizar sus facturas en la modalidad de facturación Computarizada SFV 
 o Manual utilizada con anterioridad.
-[Image: Im0]
 
 SISTEMA DE FACTURACIÓN - RND Nº 102100000021
 
@@ -34903,7 +34157,6 @@ utilizaban la modalidad de facturación por Ciclos y migraron a la modalidad de 
 Computarizada SFV podrán enviar la factura emitida a través de los medios digitales 
 disponibles en su anterior modalidad, hasta la fecha de implementación de la modalidad de 
 facturación en línea establecida en RND.
-[Image: Im0]
 
 Regístrese, publíquese y cúmplase.
 
@@ -34949,7 +34202,6 @@ implementación de sus Sistemas Informáticos de Facturación para emisión de D
 Digitales en las modalidades de facturación en línea, se hace necesario establecer el uso transitorio de 
 las modalidades de facturación Computarizada SFV o manual utilizadas con anterioridad, a efecto de 
 garantizar la continuidad en la emisión de facturas.
-[Image: Im0]
 
 Que conforme al Inciso p) del Artículo 19 del Decreto Supremo Nº 26462 de 22 de diciembre de 
 2001, Reglamento de la Ley Nº 2166, del Servicio de Impuestos Nacionales, el Presidente Ejecutivo 
@@ -34976,7 +34228,6 @@ de facturación en línea, mediante RND Nº 102100000012 de 11 de agosto de 2021
 de 27 de agosto de 2021 y Nº 102100000019 de 14 de octubre de 2021, durante el primer mes de 
 implementación, podrán utilizar excepcionalmente la modalidad de facturación Computarizada SFV 
 o manual utilizadas con anterioridad, a efecto de garantizar la continuidad en la emisión de facturas.
-[Image: Im0]
 
 Regístrese, publíquese y cúmplase.
 
@@ -35020,7 +34271,6 @@ de 2001, Reglamento de Aplicación de la Ley N° 2166 del Servicio de Impuestos 
 Presidente Ejecutivo en uso de sus atribuciones y en aplicación del Inciso a) del Numeral 1 de la 
 Resolución Administrativa de Directorio N° 09-0011-02 de 28 de agosto de 2002, se encuentra 
 autorizado a suscribir Resoluciones Normativas de Directorio.
-[Image: Im0]
 
 ## POR TANTO:
 
@@ -35065,7 +34315,6 @@ de 2021, con el siguiente texto:
 *Crédito – Débito, computables a partir de la emisión del Documento Fiscal, previa solicitud* 
 *justificada a través de la opción SIAT habilitada en la página web www.impuestos.gob.bo o* 
 *nota dirigida a la Gerencia Distrital o GRACO de la jurisdicción del solicitante.”*
-[Image: Im0]
 
 Regístrese, publíquese y cúmplase.
 
@@ -35118,7 +34367,6 @@ emitir Documentos Fiscales simultáneamente a través de la modalidad de factura
 asignada así como de las modalidades de facturación Computarizada SFV o manual utilizadas con 
 anterioridad, a efecto de viabilizar la realización de los ajustes pertinentes hasta una implementación 
 integral del Sistema de Facturación.
-[Image: Im0]
 
 SISTEMA DE FACTURACIÓN - RND Nº 102200000005
 
@@ -35144,7 +34392,6 @@ Facturación, los contribuyentes alcanzados por la RND Nº 102100000019 de 14 de
 *Línea”*, podrán realizar la emisión de Documentos Fiscales simultáneamente a través de la modalidad 
 de facturación en línea asignada, así como a través de la modalidad de facturación Computarizada 
 SFV o manual utilizada con anterioridad, hasta el 30 de junio de 2022.
-[Image: Im0]
 
 Ampliar el plazo señalado en el Parágrafo I del Artículo Único de la RND Nº 102200000005 de 25 
 de marzo de 2022, hasta el 31 de julio de 2022, plazo en el que el segundo grupo de contribuyentes 
@@ -35201,7 +34448,6 @@ pasivos o contribuyentes, que deben adecuar e implementar sus Sistemas Informát
 para la emisión de Documentos Fiscales Digitales a través de la modalidad de Facturación Electrónica 
 en Línea, Computarizada en Línea o Portal Web en Línea en base a los criterios técnicos establecidos 
 por la Administración Tributaria.
-[Image: Im0]
 
 Que conforme al Inciso p) del Artículo 19 del Decreto Supremo Nº 26462 de 22 de diciembre de 2001, 
 Reglamento de la Ley Nº 2166, del Servicio de Impuestos Nacionales, el Presidente Ejecutivo en uso 
@@ -35228,7 +34474,6 @@ deberán adecuar e implementar sus Sistemas Informáticos de Facturación de acu
 en la Resolución Normativa de Directorio N° 102100000011 de 11 de agosto de 2021 “Sistema de 
 Facturación”, y a partir del 01 de octubre de 2022 emitir Documentos Fiscales Digitales a través de 
 la modalidad de facturación en línea asignada.
-[Image: Im0]
 
 A efecto de facilitar la implementación de sus Sistemas Informáticos de Facturación, los contribuyentes 
 alcanzados por la RND N° 102200000010 de 18 de mayo de 2022, “Tercer Grupo de Contribuyentes 
@@ -35295,7 +34540,6 @@ través de la modalidad de facturación en línea asignada y/o la modalidad de f
 SFV o manual utilizada con anterioridad, hasta el 30 de junio de 2022, requiriendo la ampliación de 
 este plazo en virtud a la coordinación técnica prolongada con algunos sectores de contribuyentes, 
 supeditados a terceros.
-[Image: Im0]
 
 Que conforme al Inciso p) del Artículo 19 del Decreto Supremo Nº 26462 de 22 de diciembre de 2001, 
 Reglamento de la Ley Nº 2166 del Servicio de Impuestos Nacionales, el Presidente Ejecutivo en uso 
@@ -35322,7 +34566,6 @@ disposiciones precedentemente citadas,
 grupo de contribuyentes clasificados mediante RND Nº 102100000019 de 14 de octubre de 2021, 
 podrá emitir Documentos Fiscales a través de la modalidad de facturación en línea asignada y/o la 
 modalidad de facturación Computarizada SFV o manual utilizada con anterioridad.
-[Image: Im0]
 
 **II.** A partir del 01 de agosto de 2022, los contribuyentes alcanzados por la RND Nº 102100000019 
 de 14 de octubre de 2021, deberán emitir Documentos Fiscales únicamente a través de la modalidad 
@@ -35362,7 +34605,6 @@ el tercer grupo de contribuyentes que deben adecuar e implementar sus Sistemas I
 Facturación de acuerdo a lo dispuesto en la RND N° 102100000011, estableciendo la fecha a partir 
 de la cual deben emitir Documentos Fiscales Digitales a través de la modalidad de facturación en 
 línea asignada.
-[Image: Im0]
 
 Que a efecto de viabilizar la realización de los ajustes pertinentes hasta una implementación integral 
 por parte de los contribuyentes alcanzados por la RND N° 102200000010 en sus Sistemas Informáticos 
@@ -35397,7 +34639,6 @@ Facturación, los contribuyentes alcanzados por la RND N° 102200000010 de 18 de
 podrán emitir Documentos Fiscales a través de la modalidad de facturación en línea asignada y/o la 
 modalidad de facturación Computarizada SFV o manual utilizada con anterioridad, hasta el 30 de 
 noviembre de 2022.
-[Image: Im0]
 
 **II.** A partir del 01 de diciembre de 2022, los citados contribuyentes deberán emitir Documentos 
 Fiscales únicamente a través de la modalidad de facturación en línea asignada, conforme la RND N° 

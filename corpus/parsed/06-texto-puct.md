@@ -1,15 +1,12 @@
-[Image: Im0]
+
 
 APLICACIÓN DEL 
 PLAN ÚNICO DE CUENTAS TRIBUTARIO
 EN EL BALANCE DE COMPROBACIÓN 
-[Image: Im0]
+
 DE SUMAS Y SALDOS
-[Image: Im1]
-[Image: Im0]
 
 *Distribucion Gratuita*
-[Image: Im0]
 
 ---
 
@@ -23,11 +20,6 @@ DE SUMAS Y SALDOS
 
 ## SUMAS Y SALDOS
 
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-
 ## ÕNDICE
 
 1. INTRODUCCIÓN..................................................................................................................................................................................................................................................................3
@@ -35,11 +27,6 @@ DE SUMAS Y SALDOS
 3. PLAN ÚNICO DE CUENTAS TRIBUTARIO (PUCT)........................................................................................................................................................................................... 6
 4. BALANCE DE COMPROBACIÓN DE SUMAS Y SALDOS............................................................................................................................................................................ 8
 5. CASO PRÁCTICO.............................................................................................................................................................................................................................................................. 9
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
 
 ---
 
@@ -94,10 +81,6 @@ la Autoridad de Fiscalización y Control de Pensiones y Seguros
 (APS), aplicarán la Nomenclatura de Cuentas establecidas por 
 estas entidades reguladoras, con las adecuaciones de codificación 
 realizadas con fines tributarios.
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
 
 Distribucion Gratuita
 
@@ -132,14 +115,6 @@ Impuesto sobre las Utilidades de las Empresas, en sus Artículos 2, 36
 y 39, establecen la obligación de presentar Estados Financieros a los 
 sujetos pasivos del Impuesto sobre las Utilidades de las Empresas 
 (IUE), así como los plazos y formas para su cumplimiento.
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0] [Image: Im0]
-[Image: Im0]
-[Image: Im0]
 
 Los Artículos 1 y 3 del Decreto Supremo N° 26226 de 21 de junio de 
 2001, facultan a la Administración Tributaria a definir, reglamentar la 
@@ -165,15 +140,6 @@ enviar sus Estados Financieros con la siguiente información:
 3. Estado de Resultados (Pérdidas y Ganancias)
 
 ---
-
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0] [Image: Im0]
-[Image: Im0]
-[Image: Im0]
 
 4. Estados de Resultados Acumulados (Estado de 
 Evolución del Patrimonio)
@@ -212,10 +178,6 @@ Administrativa expresa, conforme establece el Artículo 48
 del Decreto Supremo N° 24051. Cualquier otra norma técnica 
 o disposición emitida por otra instancia, no tendrá efecto 
 para la determinación del IUE.
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
 
 **b) FORMULARIO 605:**  Formulario electrónico para el envío 
 digital de los Estados Financieros o Memoria Anual y los 
@@ -252,14 +214,6 @@ De la codificación precedente, desde el **1er Nivel (CLASE DE CUENTA=C) hasta e
 Servicio de Impuestos Nacionales; sin embargo, el **5to Nivel (CUENTA ANALÍTICA = CA)** referida a las 
 cuentas analíticas, **podrán ser denominadas y registradas por el contribuyente sin previa autorización**
 del Servicio de Impuestos Nacionales, según su necesidad y actividad económica desarrollada.
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0] [Image: Im0]
-[Image: Im0]
-[Image: Im0]
 
 2. Identificación de la actividad económica en la que utilizará la cuenta principal que requiere 
 adicionar.
@@ -283,11 +237,9 @@ o rechazo al Buzón Tributario del contribuyente.
 
 Solicitud de adición de 
 Cuenta Principal (CP) al SIN
-[Image: Im0]
 
 Análisis de justificación 
 de la solicitud por el SIN
-[Image: Im0]
 
 ---
 
@@ -299,7 +251,6 @@ Para proceder a trasponer las cuentas analíticas del Plan de Cuentas de una Emp
 Plan Único de Cuentas Tributario (PUCT), procedemos como en el siguiente ejemplo:
 
 Del presente plan de Cuentas de la empresa: 
-[Image: Im0]
 
 | CUENTA | DESCRIPCIÓN |
 | --- | --- |
@@ -343,10 +294,6 @@ NACIONAL un activo de la empresa, corresponde el código 001 de CAJA.
 la Cuenta Principal CAJA, se le asignará el código 001, con la denominación establecida por la 
 empresa, es decir, CAJA MONEDA NACIONAL, y al resto de cuentas que pertenecen a la misma 
 Cuenta Principal, se le asignará un código correlativo de 002, 003, etc.
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
 
 En este entendido, la codificación de la cuenta analítica CAJA MONEDA NACIONAL quedará de la 
 siguiente manera:
@@ -385,11 +332,6 @@ la Empresa, es decir, “CAJA MONEDA NACIONAL“; en este entendido, también de
 al resto de cuentas analíticas utilizadas por la Empresa la codificación del PUCT a un 5to nivel, 
 manteniendo el nombre y respetando la naturaleza de la cuenta analítica, en función a naturaleza 
 de la CUENTA PRINCIPAL (CP). Finalmente, deberá respetar los códigos del 1er al 4to nivel.
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
 
 ## 4. BALANCE DE COMPROBACIÓN DE SUMAS Y SALDOS
 
@@ -406,10 +348,6 @@ Asimismo, el Balance de Comprobación de Sumas y Saldos se define como:
 *del mayor y, la comprobación de los saldos deudores y acreedores de las mismas. Su* 
 *propósito fundamental es el de “comprobar” la igualdad entre los débitos y los créditos de* 
 *las cuentas.”* ***(Fuente: “El ABC de la Contabilidad” de Juan Funes Orellana).***
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
 
 El Balance de Comprobación de Sumas y Saldos solicitado por la Administración Tributaria, 
 deberá ser elaborado utilizando el nivel de cuenta analítica, es decir, a su 5to nivel de 
@@ -430,14 +368,6 @@ de las cuentas de Activo, Pasivo, Patrimonio, Ingresos y Egresos.
 La Empresa “Industrias Ejemplo LTDA.” con NIT 1234567890, tiene como actividad principal la fabricación de zapatos 
 que son comercializados en el mercado nacional y en el extranjero. Para el inicio de la nueva gestión fiscal, al 31 de 
 marzo de 2023 presenta el siguiente Balance General:
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0] [Image: Im0]
-[Image: Im0] [Image: Im0]
-[Image: Im0] [Image: Im0] [Image: Im0]
-[Image: Im0] [Image: Im0]
-[Image: Im0]
 
 |  | BS | BS |
 | --- | --- | --- |
@@ -474,8 +404,6 @@ marzo de 2023 presenta el siguiente Balance General:
 | RESULTADOS ACUMULADOS | - 5.864.995,82 |  |
 | TOTAL PASIVO Y PATRIMONIO |  | 77.075.971,12 |
 
-[Image: Im0]
-
 Distribucion Gratuita
 
 ---
@@ -486,15 +414,6 @@ Distribucion Gratuita
 
 Del Balance General elaborado al 31 de marzo de 2023, el 1 de abril de la misma gestión, el área de contabilidad 
 realiza el registro del asiento de apertura de gestión, como se muestra a continuación: 
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0] [Image: Im0]
-[Image: Im0]
-[Image: Im0]
 
 | FECHA | CÓDIGO | DETALLE | DÉBITOS | CRÉDITOS |
 | --- | --- | --- | --- | --- |
@@ -562,7 +481,6 @@ donde funciona la planta administrativa y comercial de la empresa, fue el siguie
 
 El registro contable por el pago del servicio de telefonía y consumo de energía eléctrica a los proveedores COTEL RL 
 y DELAPAZ, una vez prorrateado los gastos entre el área administrativa y comercial, es el siguiente:
-[Image: Im0]
 
 | FECHA | CÓDIGO | DETALLE | DÉBITOS | CRÉDITOS |
 | --- | --- | --- | --- | --- |
@@ -586,15 +504,6 @@ y DELAPAZ, una vez prorrateado los gastos entre el área administrativa y comerc
 Concluido el mes de Mayo de 2023, el propietario del bien inmueble donde funciona la tienda comercial, remite la 
 factura N° 25 por el importe de Bs15.000,00 por el servicio de alquiler del citado mes, el área de contabilidad de la 
 empresa realiza el siguiente asiento contable:
-[Image: Im1]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0] [Image: Im0]
-[Image: Im0] [Image: Im0]
-[Image: Im0] [Image: Im0] [Image: Im0]
-[Image: Im0] [Image: Im0]
-[Image: Im0]
 
 | FECHA | CÓDIGO | DETALLE | DÉBITOS | CRÉDITOS |
 | --- | --- | --- | --- | --- |
@@ -627,7 +536,6 @@ en el almacén de productos terminados, teniendo los siguientes datos:
 | TOTAL |  | 33.500,00 | 4.257,85 | 2.247,85 | 3.350,00 | 323,70 | 28.918,45 |
 
 Con los datos procesados, el área de contabilidad registra el asiento contable:
-[Image: Im0]
 
 | FECHA | CÓDIGO | DETALLE | DÉBITOS | CRÉDITOS |
 | --- | --- | --- | --- | --- |
@@ -649,15 +557,6 @@ Con los datos procesados, el área de contabilidad registra el asiento contable:
 Para el proceso de fabricación de zapatos, la empresa procede a la recepción de materia prima en almacenes, 
 registrando la orden de entrega N° 234 y la factura N° 45 del proveedor “CUERO SRL.” realizando el siguiente 
 registro contable:
-[Image: Im1]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0] [Image: Im0]
-[Image: Im0]
-[Image: Im0]
 
 | FECHA | CÓDIGO | DETALLE | DÉBITOS | CRÉDITOS |
 | --- | --- | --- | --- | --- |
@@ -678,15 +577,6 @@ registro contable:
 A través de la orden de pedido N° 876 y la factura N° 89 del proveedor “MI CARTÓN”, la empresa recepciona 
 en almacenes la compra de cajas de cartón destinadas para la venta de los zapatos fabricados, realizando el 
 siguiente registro contable:
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0] [Image: Im0]
-[Image: Im0] [Image: Im0]
-[Image: Im0] [Image: Im0] [Image: Im0]
-[Image: Im0] [Image: Im0]
-[Image: Im0]
 
 | FECHA | CÓDIGO | DETALLE | DÉBITOS | CRÉDITOS |
 | --- | --- | --- | --- | --- |
@@ -748,7 +638,6 @@ Distribucion Gratuita
 Distribucion Gratuita
 
 El registro contable de los costos de producción en proceso durante el mes de agosto de 2023 es el siguiente:
-[Image: Im0]
 
 | FECHA | CÓDIGO | DETALLE | DÉBITOS | CRÉDITOS |
 | --- | --- | --- | --- | --- |
@@ -778,14 +667,6 @@ El registro contable de los costos de producción en proceso durante el mes de a
 El 30 de septiembre de 2023, el área de producción remite a almacén 1500 unidades de pares 
 de zapatos fabricados, a través de la Orden de Ingreso/Salida de productos terminados, 
 los costos incurridos en la producción de estas unidades son los siguientes:
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0] [Image: Im0]
-[Image: Im0]
-[Image: Im0]
 
 | DESCRIPCIÓN | BS |
 | --- | --- |
@@ -796,7 +677,6 @@ los costos incurridos en la producción de estas unidades son los siguientes:
 
 Realizando el siguiente asiento contable del ingreso de los zapatos fabricados a almacenes de productos 
 terminados:
-[Image: Im1]
 
 | FECHA | CÓDIGO | DETALLE | DÉBITOS | CRÉDITOS |
 | --- | --- | --- | --- | --- |
@@ -816,14 +696,6 @@ terminados:
 
 El 02 de octubre de 2023, la empresa vende 10 pares de zapatos a un costo unitario de Bs490,00, emitiendo la 
 Factura N° 467 al cliente Jorge Castro, realizando el siguiente registro contable:
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0] [Image: Im0]
-[Image: Im0] [Image: Im0]
-[Image: Im0] [Image: Im0] [Image: Im0]
-[Image: Im0] [Image: Im0]
-[Image: Im0]
 
 | FECHA | CÓDIGO | DETALLE | DÉBITOS | CRÉDITOS |
 | --- | --- | --- | --- | --- |
@@ -844,7 +716,6 @@ Factura N° 467 al cliente Jorge Castro, realizando el siguiente registro contab
 |  |  | Por la venta de 10 pares de zapatos, según factura N° 467. |  |  |
 |  |  |  | 5.359,00 | 5.359,00 |
 
-[Image: Im0]
 A continuación, se expone algunos mayores contables de los asientos contables expuestos precedentemente, 
 para la exposición en el Balance de Comprobación de Sumas y Saldos de la empresa:
 
@@ -891,8 +762,6 @@ Distribucion Gratuita
 
 El Balance de Sumas y Saldos de la Empresa Industrial Ejemplo LTDA. es el siguiente:
 
-[Image: Im0]
-
 | CUENTA | DESCRIPCIÓN | DEBE | HABER | DEUDOR | ACREEDOR |
 | --- | --- | --- | --- | --- | --- |
 | 10101010 | CAJA MONEDA NACIONAL | 89.337.709,66 | 89.332.636,74 | 5.072,92 | 0,00 |
@@ -902,14 +771,6 @@ El Balance de Sumas y Saldos de la Empresa Industrial Ejemplo LTDA. es el siguie
 Para codificar las cuentas analíticas expuestas en el Balance de Comprobación de Sumas y Saldos de la Empresa con el PUCT, 
 debemos proceder conforme el ejemplo expuesto en la página 5, punto “3. PLAN ÚNICO DE CUENTAS TRIBUTARIO (PUCT)”, 
 del presente documento. 
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0] [Image: Im0]
-[Image: Im0]
-[Image: Im0]
 
 En este caso, del Balance de Comprobación de Sumas y Saldos precedente, extraemos por ejemplo los datos de las siguientes 
 cuentas analíticas:
@@ -946,15 +807,6 @@ PUCT
 
 Concluida la codificación de las todas cuentas contables analíticas de la empresa en base al PUCT, se obtiene el 
 Balance de Comprobación de Sumas y Saldos como se muestra a continuación:
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0] [Image: Im0]
-[Image: Im0] [Image: Im0]
-[Image: Im0] [Image: Im0] [Image: Im0]
-[Image: Im0] [Image: Im0]
-[Image: Im0]
 
 | C | G | SG | CP | CA | NOMBRE DE LA CUENTA |  | SUMAS |  | SALDOS |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1016,11 +868,6 @@ Distribucion Gratuita
 ---
 
 Distribucion Gratuita
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
 
 | 2 | 1 | 2 | 018 | 001 | DELAPAZ POR PAGAR | 57,325,45 | 62,536,85 | 0,00 | 5.211,40 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1085,23 +932,10 @@ Distribucion Gratuita
 | 2 | 2 | 023 | 001 | SEGURO DE ACTIVOS FIDOS | 8.425,152,00 | 8.425,152,00 | 0,00 | 8.425,152,00 |  |
 
 PUCT
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
 
 ---
 
 PUCT
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0] [Image: Im0]
-[Image: Im0]
-[Image: Im0]
 
 | 5 | 2 | 2 | 029 | 001 | OTROS GASTOS DIVIEROS | 545,581,54 | 10.025,11 | 535,556,43 | 0,00 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1166,11 +1000,6 @@ PUCT
 | 5 | 3 | 2 | Total | 10,425 | 1,460,241,62,48 | 1,460,241,62,48 | 1,460,241,62,48 | 1,460,241,62,48 |  |
 
 Distribucion Gratuita
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
 
 ---
 
@@ -1178,13 +1007,6 @@ Distribucion Gratuita
 
 De la información contenida en el Balance de Comprobación de Sumas y Saldos, se obtiene el presente el **Estado** 
 **de Resultados:**
-
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
 
 | 4 | INGREOS |  |  |
 | --- | --- | --- | --- |
@@ -1246,23 +1068,10 @@ De la información contenida en el Balance de Comprobación de Sumas y Saldos, s
 | 531014 | ALIMENTACIÓN Y REFRIGERIO | 46.912,49 |  |
 
 Estado de Resultados
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
 
 ---
 
 Estado de Resultados Estado de Resultados
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0] [Image: Im0]
-[Image: Im0]
-[Image: Im0]
 
 | 532 | GASTOS OPERACIONALES |  | 5.401.317,35 |
 | --- | --- | --- | --- |
@@ -1323,10 +1132,6 @@ Estado de Resultados Estado de Resultados
 |  | UTILIDAD DE LA GESTIÓN |  | 12.491.805,51 |
 
 Distribucion Gratuita
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
 
 ---
 
@@ -1334,12 +1139,6 @@ Distribucion Gratuita
 
 De la información contenida en el Balance de Comprobación de Sumas y Saldos, se obtiene el presente **Balance** 
 **General:**
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
 
 | 11 | ACTIVO CORRIENTE |  | 119.335.707,66 |
 | --- | --- | --- | --- |
@@ -1389,23 +1188,10 @@ De la información contenida en el Balance de Comprobación de Sumas y Saldos, s
 | 1211003 | BIBLIOTECA | 21.811,99 |  |
 
 Balance General
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
 
 ---
 
 Balance General Balance General
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0] [Image: Im0]
-[Image: Im0]
-[Image: Im0]
 
 | 21 | PASIVO CORRIENTE |  | 130.797,031,36 |
 | --- | --- | --- | --- |
@@ -1467,15 +1253,8 @@ Balance General Balance General
 | TOTAL PASIVO Y PATRIMONIO |  |  | 249.112.289,39 |
 
 Distribucion Gratuita
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
-[Image: Im0]
 
 ---
-
-[Image: Im0]
-[Image: Im0]
 
 www.impuestos.gob.bo
 
@@ -1490,8 +1269,6 @@ Consultas Tributarias
 **HORARIO DE ATENCIÓN DE** 
 **LUNES A VIERNES 08:00 a 18:30**
 
-[Image: Im1]
-
 EN LÍNEA
 
 a través de una 
@@ -1499,4 +1276,3 @@ Video Llamada
 
 **HORARIO DE ATENCIÓN DE** 
 **LUNES A VIERNES 08:00 a 21:00**
-[Image: Im0]

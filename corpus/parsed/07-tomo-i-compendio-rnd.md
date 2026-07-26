@@ -25,7 +25,6 @@
 *que se caracteriza por sus principios y valores en servicio de los contribuyentes y público en* 
 *general, brindando información con calidad y calidez, además de transparentar la información* 
 *institucional facilitando su acceso.*
-[Image: Im0]
 
 *Por lo tanto, me permito presentar el primer Compendio temático que engloba y recopila* 
 *todas aquellas Resoluciones Normativas de Directorio de alcance general y de cumplimiento* 
@@ -51,22 +50,10 @@
 
 ---
 
-[Image: Im0]
-[Image: Im0]
-
 | Bahrain | Syria | Tunisia | Morocco | Egypt | Greece | Italy |
 | --- | --- | --- | --- | --- | --- | --- |
 | Asia, Bahrain, Lebanon, Jordan, Qatar, Tunisia, Saudi Arabia | Cafe Duplexes, #1, Noa, Pla, L. antico americano y Lanza arena central - Benravo | Cafe Duplexes, #1, Noa, Pla, L. antico americano y Lanza arena central - Benravo | Irane Plaza, #1, #2, Noa, Matiuza B. Cube arena central - Benravo | Cafe Galileo, #1, Noa, Matiuza B. Cube arena central - Benravo | Cafe Imperio, #1, Noa, Matiuza B. Cube arena central - Benravo | Cafe Bibione, #1, Noa, Matiuza B. Cube arena central - Benravo |
 | Tunisia, Saudi Arabia | Tunisia, Saudi Arabia | Tunisia, Saudi Arabia | Tunisia, Saudi Arabia | Tunisia, Saudi Arabia | Tunisia, Saudi Arabia | Tunisia, Saudi Arabia |
-
----
-
-[Image: Im0]
-[Image: Im0]
-
----
-
-[Image: Im0]
 
 ---
 
@@ -76,7 +63,6 @@
 *la fidelidad de las mismas. Para cualquier referencia* 
 *de orden legal los lectores deberán remitirse a las* 
 *publicaciones oficiales.*
-[Image: Im0]
 
 *N° de Depósito Legal:* 
 *4-1-348-2021 P.O.*
@@ -112,7 +98,6 @@ reproducción
 *que permitirá una mejor valoración y razonamiento de la normativa tributaria; empero, corresponde* 
 *dilucidar a los lectores que el Compendio contiene información actualizada y no así datos de carácter* 
 *cronológico.*
-[Image: Im0]
 
 ## 2.- ACLARACIONES:
 
@@ -213,7 +198,6 @@ reproducción
 | RND N°102200000001DE 05/01/22 | MODIFICACIONES E INCORPORACIONESA LA RESOLUCIÓNNORMATIVADE DIRECTORION°102000000025 | 111 |
 
 **IMPUESTO SOBRE LAS UTILIDADES DE LAS EMPRESAS (IUE)**
-[Image: Im0]
 
 | RND N° 10-0001-02 DE 09/01/02(Abrogada) | ESTABLECE LA OBLIGATORIEDAD DE PRESENTAR LOS ESTADOSFINANCIEROS CON DICTAMEN DE AUDITORÍA EXTERNA CONPRONUNCIAMIENTO SOBRE LA SITUACIÓN TRIBUTARIA DELCONTRIBUYENTE - ANEXOS REGLAMENTARIOS. | 117 |
 | --- | --- | --- |
@@ -247,12 +231,10 @@ reproducción
 | RND N° 10-0008-11 DE 14/04/11 (Abrogada) | PRESENTACIÓN DE ESTADOS FINANCIEROS O MEMORIA ANUAL. | 220 |
 
 ÍNDICE
-[Image: Im0]
 
 ---
 
 ÍNDICE
-[Image: Im0]
 
 | RND N° 10-0044-11 DE 29/12/11 | ACTUALIZACIÓN DEL IMPUESTO SOBRE LAS UTILIDADES DE LAS EMPRESAS PARA LAS PERSONAS NATURALES QUE PRESTAN SERVICIO PUBLICO DE TRANSPORTE INTERDEPARTAMENTAL DE PASAJEROS Y CARGA. | 226 |
 | --- | --- | --- |
@@ -295,7 +277,6 @@ reproducción
 | RND N° 101900000002 DE 15/02/19 | ACTUALIZACIÓN DEL ANEXO LISTADO DE PAÍSES O REGIONES DE BAJA O NULA TRIBUTACIÓN. | 377 |
 
 ÍNDICE
-[Image: Im0]
 
 ---
 
@@ -323,7 +304,6 @@ reproducción
 | RND N° 102000000008 DE 07/04/20(Abrogada) | REGLAMENTO PARA APLICACIÓN DEL DECRETO SUPREMO N° 4198 DE 18 DE MARZO DE 2020 |  |
 
 **IMPUESTO A LOS CONSUMOS ESPECÍFICOS (ICE)**
-[Image: Im0]
 
 | RND N° 10-0001-03 DE 11/01/03 | SE ESTABLECEN TASAS ESPECÍFICAS POR UNIDAD DE MEDIDA PARA LOS SUJETOS PASIVOS DE IMPUESTO A LOS CONSUMOS ESPECÍFICOS, GESTIÓN 2003. | 421 |
 | --- | --- | --- |
@@ -359,12 +339,10 @@ reproducción
 | RND N° 102100000029 DE 27/12/21 | ACTUALIZACION DE LAS ALÍCUOTAS ESPECIFICAS DEL IMPUESTO A LOS CONSUMOS ESPECIFICOS (ICE) PARA LA GESTION 2022 | 522 |
 
 ÍNDICE
-[Image: Im0]
 
 ---
 
 ÍNDICE
-[Image: Im0]
 
 | IMPUESTO A LAS SUCESIONES Y A LAS TRANSMISIONES GRATUITAS DE BIENES (TGB) |  |
 | --- | --- |
@@ -398,7 +376,6 @@ reproducción
 ---
 
 **IMPUESTO ESPECIAL A LOS HIDROCARBUROS Y SUS DERIVADOS (IEHD)**
-[Image: Im0]
 
 | MÍN CUSTO ESPECIAL A LOS HIDROCARBUROS Y SUS DERIVADOS (HEID) |  |  |
 | --- | --- | --- |
@@ -439,7 +416,6 @@ reproducción
 | RND N° 10-0031-08 DE 17/09/08 | PROCEDIMIENTO PARA EL CUMPLIMIENTO DE OBLIGACIONESTRIBUTARIAS SECTOR MINERO GESTIÓN 2008. | 616 |
 
 **IMPUESTO A LAS TRANSACCIONES FINANCIERAS (ITF)**
-[Image: Im0]
 
 | RND N° 10-0016-04 DE 16/06/04 (Compilada) | REGLAMENTO DEL IMPUESTO A LAS TRANSACCIONES FINANCIERAS. | 623 |
 | --- | --- | --- |
@@ -496,10 +472,6 @@ reproducción
 
 ---
 
-Prohibida su reproducción impresa o digital sin autorización
-
----
-
 # su RESOLUCIÓN NORMATIVA DE DIRECTORIO Nº 10-0028-05 reproducción DISTRIBUCIÓN DEL CRÉDITO FISCAL SECTOR PETROLERO
 
 La Paz, 13 de septiembre de 2005
@@ -520,7 +492,6 @@ Tributaria las Resoluciones Administrativas N° 05-0025-00 de 5 de julio de 2000
 los procedimientos administrativos necesarios para operativizar dicha distribución, por los periodos 
 fiscales comprendidos entre la vigencia del Decreto Supremo N° 21530 (Texto Ordenado de 1995) y la 
 vigencia del RUC-RC.
-[Image: Im0]
 
 $$
 \mathrm{N}{}^{\circ}
@@ -574,7 +545,6 @@ Asociación, Operación y/o Riesgo Compartido, ejercieron la actividad en el pa�
 Petrolero, dentro el período comprendido entre la vigencia del Decreto Supremo N° 21530 (Texto 
 Ordenado de 1995) y la entrada en vigencia del Registro Único de Contribuyentes - Riesgo Compartido 
 RUC-RC.
-[Image: Im0]
 
 **II.** A tal efecto, los integrantes que conforman un Bloque Petrolero deberán demostrar la procedencia y 
 cuantía del Crédito Fiscal IVA que les corresponde, en aplicación de lo dispuesto en el Numeral 5. del 
@@ -642,7 +612,6 @@ sea como consecuencia de la falta de documentación contable, inexistencia de Fa
 o por insuficiencia de información en general; la solicitud será rechazada, pudiendo el Operador del 
 Bloque presentar, por única vez, una nueva solicitud dentro el plazo de 15 días computables a partir de 
 la fecha de rechazo.
-[Image: Im0]
 
 **III.** Cuando una empresa petrolera fuera Operador en más de un Bloque Petrolero, para la revisión 
 señalada, pondrá a disposición del Servicio de Impuestos Nacionales (SIN), toda la documentación 
@@ -678,7 +647,6 @@ será considerada como renuncia expresa a la distribución del Crédito Fiscal I
 Operador, en los períodos fiscales sujetos a regularización; situación que en ningún caso implicará 
 la apropiación, por parte del Operador, del Crédito Fiscal correspondiente a los demás miembros del 
 Bloque Petrolero.
-[Image: Im0]
 
 **Segunda. (Diferencias en Favor del Fisco).-** Si a raíz de la distribución del Crédito Fiscal normada 
 en la presente disposición, se producen diferencias a favor del Fisco por IVA, corresponderá al sujeto 
@@ -722,7 +690,6 @@ Impuesto al Valor Agregado (IVA) entre otros, quienes en forma habitual se dediq
 bienes muebles y que adquirido el carácter del sujeto pasivo del impuesto, serán objeto del gravamen 
 todas las ventas de bienes muebles relacionadas con la actividad determinante de la condición de sujeto 
 pasivo, cualquiera fuere el carácter, la naturaleza o el uso de dichos bienes.
-[Image: Im0]
 
 Que, la Resolución Administrativa Nº 05-0474-92 de 12 de octubre de 1992, referida a la habitualidad de 
 actividades y operaciones gravadas por el IVA, establece en su Numeral 3. que a efectos de determinar 
@@ -771,7 +738,6 @@ sujeto pasivo del mismo. Por lo tanto, toda venta de bienes muebles o prestació
 el sujeto pasivo del impuesto de manera esporádica, se encuentra gravada por el IVA, correspondiendo 
 la emisión de la Factura a momento de perfeccionarse el hecho generador, independientemente del 
 criterio de habitualidad.
-[Image: Im0]
 
 **Artículo 3. (Venta bienes muebles del Activo Fijo).-** Las ventas de bienes muebles del Activo Fijo 
 del sujeto pasivo, relacionados con la actividad gravada, o su retiro para uso particular, constituyen 
@@ -812,7 +778,6 @@ Que, el Inciso b) del Artículo 4 de Ley N° 843 (Texto ordenado Vigente), estab
 imponible del IVA se perfecciona, en el caso de los contratos de obra, de prestación de servicios y de 
 otras prestaciones, cualquiera fuere su naturaleza, desde el momento en el que se inicie la ejecución o 
 prestación, o desde la percepción  total o parcial del precio.
-[Image: Im0]
 
 Que, el Artículo 72 de la Ley N° 843 (Texto Ordenado Vigente), establece que el ejercicio en el territorio 
 nacional del comercio, profesión, oficio, negocio, alquiler de obras, bienes, y servicios o de cualquier 
@@ -855,7 +820,6 @@ consideren no estar alcanzadas por el criterio establecido en el Artículo 2, de
 Normativa de Directorio, frente a los actos del Servicio de Impuestos Nacionales que apliquen dicho 
 criterio, deberán demostrar su no aplicabilidad fundándose en la forma particular de organización 
 recogida en sus normas estatutarias, forma que deberá reflejarse en su realidad económica.
-[Image: Im0]
 
 Regístrese, hágase saber y archívese.
 
@@ -915,7 +879,6 @@ definición del Inciso a) del Artículo 2 del Decreto Supremo N° 28656 de 25 de
 siempre y cuando estén inscritos en el Régimen General de Tributación y presten servicios de 
 transporte internacional de carga por carretera, de acuerdo a la definición dispuesta en el Inciso b) 
 del referido Artículo.
-[Image: Im0]
 
 IVA - RND Nº 10-0012-06
 
@@ -951,7 +914,6 @@ deberán apersonarse ante el Departamento de Recaudaciones de la Gerencia Distri
 de la jurisdicción competente, a objeto de solicitar la inscripción o modificación a la actividad 
 correspondiente, según lo definido en el Artículo 2 del Decreto Supremo N° 28656 de 25 de marzo 
 de 2006.
-[Image: Im0]
 
 **II.** Los contribuyentes que se encuentren inscritos en el STI (incluidos los del STI especial) que 
 deseen acceder al beneficio fiscal, previamente, deberán solicitar el cambio al Régimen General 
@@ -995,7 +957,6 @@ pasivo o tercero responsable con la multa por incumplimiento a deberes formales 
 punto 6.4. del anexo A) de la RND Nº 10-0021-04 de 11 de agosto de 2004; independientemente de 
 aplicarse el concepto de Deuda Tributaria y demás sanciones por ilícitos previstas en la Ley Nº 2492 
 de 2 de agosto de 2003, Código Tributario Boliviano.
-[Image: Im0]
 
 **IV.** A partir de la publicación de la presente resolución, toda prestación de servicio de transporte 
 internacional de carga por carretera, sujeta al beneficio fiscal, deberá estar respaldada por la emisión 
@@ -1032,7 +993,6 @@ pasivos alcanzados por el beneficio, adicionalmente a los registros contables qu
 perteneciendo al Régimen General de Tributación, deberán mantener en sus archivos la documentación 
 correspondiente a los servicios de transporte que prestan por el término de la prescripción establecida, 
 estos documentos son los siguientes:
-[Image: Im0] [Image: Im0]
 
 **a)** Carta de Porte Internacional.
 
@@ -1100,7 +1060,6 @@ definiciones conceptuales de Facturas, Notas Fiscales o documentos equivalentes,
 que deberán emplearse en la elaboración y emisión de estos documentos, y los requisitos y condiciones 
 para la utilización del Crédito Fiscal contenido en las Facturas, Notas Fiscales o Documentos 
 Equivalentes, estableciendo excepciones necesarias para casos concretos.
-[Image: Im1]
 
 Que, a efectos de una aplicación efectiva de la Ley Nº 366, Artículo 8, Parágrafo II, es necesario 
 establecer un procedimiento de facturación, y la correspondiente actualización de los contribuyentes en 
@@ -1136,7 +1095,6 @@ aplicación del Impuesto al Valor Agregado - IVA con Tasa Cero por ciento, deben
 con la Característica Tributaria “IVA con Tasa Cero, Ley Nº 366 del Libro y la Lectura – Oscar Alfaro”, 
 a partir del 17 de junio de 2013, para este efecto estos contribuyentes deberán estar actualizados en el 
 Padrón Biométrico Digital.
-[Image: Im0]
 
 **Artículo 4. (Exclusividad en Emisión de Facturas).-** Las Facturas con Tasa Cero por ciento, para la 
 venta de libros de producción nacional e importados, y de publicaciones oficiales de instituciones del 
@@ -1183,16 +1141,12 @@ Bolivia, siempre y cuando se incluya en la Factura original y copias, la leyenda
 DERECHO A CRÉDITO FISCAL, LEY N° 366, DEL LIBRO Y LA LECTURA”, en forma impresa 
 o con sello. Este tipo de Facturas deberán ser emitidas exclusivamente para los productos señalados 
 en la presente disposición.
-[Image: Im1]
 
 Regístrese, hágase saber y cúmplase.
 
 ---
 
 ## ANEXO
-
-[Image: Im0]
-[Image: Im0]
 
 | CANT. | CONCEPTO | PRECIO UNIT. | TOTAL |
 | --- | --- | --- | --- |
@@ -1234,7 +1188,6 @@ para la liquidación de este impuesto. Asimismo, señala que cuando el sujeto pa
 de producción y venta de bienes y servicios sujetos a Tasa Cero en el citado impuesto, y además 
 realice actividades de producción y venta de otros bienes y servicios no sujetos a Tasa Cero, sólo será 
 computable el Crédito Fiscal en proporción a las actividades no sujetas a Tasa Cero.
-[Image: Im0]
 
 Que, el Artículo 14 del Decreto Supremo Nº 24051 de 29 de junio de 1995, establece la deducibilidad 
 del Impuesto al Valor Agregado incorporado en el precio de las compras de bienes y servicios que no 
@@ -1286,7 +1239,6 @@ Agregado, el Crédito Fiscal no será computable para la liquidación del impues
 **Cero).-** En los casos que el sujeto pasivo realice operaciones gravadas y no gravadas con Tasa Cero 
 en el Impuesto al Valor Agregado, el Crédito Fiscal computable se calculará en la proporción de las 
 IVA - RND Nº 10-0038-13 operaciones no sujetas a Tasa Cero, conforme al siguiente cálculo:
-[Image: Im0]
 
 $$
 \mathrm {CFC} = \left[ \left(\frac {\mathrm {OG}}{\left(\mathrm {OG} + \mathrm {OnG} + \mathrm {OG} _ {\mathrm{T0}}\right)}\right) \times \mathrm {CI} \right] \times 13 \%
@@ -1330,7 +1282,6 @@ Cero simultáneamente, deberán efectuar el cálculo auxiliar del Crédito Fisca
 el resultado en la Casilla “Compras e Importaciones vinculadas con operaciones gravadas más servicios 
 conexos, descuentos, devoluciones y otros autorizados” Código 026 del Rubro C “Determinación del 
 saldo a favor del Fisco o del Contribuyente” del Formulario 200 V.2, de acuerdo al siguiente cálculo: 
-[Image: Im0]
 
 ## Donde:
 
@@ -1388,7 +1339,6 @@ facturen y convengan por separado, los servicios prestados juntamente con la ope
 como consecuencia de la misma, como ser transporte, limpieza, embalaje, seguro, garantía, colocación, 
 mantenimiento y similares, además de los gastos financieros, entendiéndose por tales todos aquellos 
 que tengan origen en pagos diferidos.
-[Image: Im0]
 
 Que, las operaciones de compra y venta de bienes a través de medios electrónicos se han expandido 
 masivamente, por lo que en el marco normativo de la Ley Nº 843 es necesario reglamentar esta actividad, 
@@ -1445,7 +1395,6 @@ la modalidad de Facturación Computarizada o Electrónica, como respaldo de la t
 por Terceros, a través de la modalidad de Facturación Computarizada o Electrónica, debiendo entregarse 
 la Factura, Nota Fiscal o Documento Equivalente a momento de la entrega del bien o acto equivalente 
 que suponga la transferencia de dominio del bien.
-[Image: Im0]
 
 ***Nota del Editor:*** *La RND Nº 10-0021-16 de 01/07/2016 en sus Disposiciones Abrogatorias y* 
 *Derogatorias Segunda, Numeral 11* ***derogó*** *el Artículo precedente.*
@@ -1469,7 +1418,6 @@ Formales y será sancionado conforme el régimen de sanciones vigente.
 **Artículo 8. (Vigencia).-** La presente Resolución Normativa de Directorio entrará en vigencia a partir 
 de su publicación.
 Regístrese, hágase saber y cúmplase.
-[Image: Im0]
 
 ---
 
@@ -1496,7 +1444,6 @@ el Inciso a) del Artículo 8 de la Ley Nº 843, es aquel originado en las compra
 contrataciones o importaciones definitivas alcanzadas por el gravamen, vinculadas con la actividad 
 sujeta al tributo; señalando además que el Servicio de Impuestos Nacionales, establecerá con carácter 
 general los créditos fiscales que no se consideran vinculados a la actividad sujeta al tributo.
-[Image: Im0]
 
 Que es necesario que el Servicio de Impuestos Nacionales establezca las compras o adquisiciones o 
 importaciones definitivas, contratos de obras o servicios y toda otra prestación o insumo de cualquier 
@@ -1527,7 +1474,6 @@ o importaciones definitivas, contratos de obras o servicios y toda otra prestaci
 cualquier naturaleza que se consideran vinculadas con la actividad del transporte interdepartamental 
 e internacional de pasajeros y carga, para ser computadas como Crédito Fiscal en la determinación del 
 Impuesto al Valor Agregado.
-[Image: Im0]
 
 **Artículo 2. (Alcance).-** Las disposiciones contenidas en la presente Resolución, alcanzan a todos los 
 sujetos pasivos del Impuesto al Valor Agregado (IVA) del sector de transporte interdepartamental e 
@@ -1585,7 +1531,6 @@ automotor, reparación de remolques, semirremolques y equipos, tales como: planc
 para plataforma, hierro corrugado, tubos galvanizados, planchas, perfiles de aluminio, 
 perfiles para plataforma, madera para carrocería, platino para carrocería, deben ser 
 utilizadas en los activos del sujeto pasivo. 
-[Image: Im0]
 
 **f) Seguros.-** Las Facturas por concepto de primas de seguros que cubren riesgos sobre 
 bienes utilizados en el desarrollo de la actividad gravada, contra accidentes de trabajo 
@@ -1619,7 +1564,6 @@ usuario y estar respaldadas con documentos tales como contratos de transporte qu
 establezcan fecha y lugar de salida y destino. Los viajes por motivos diferentes a la 
 prestación del servicio deben estar sustentados con documentación de respaldo tales 
 como invitación a reuniones, comunicados entre otros. 
-[Image: Im0]
 
 **h) Dotación al personal.-** Las compras de alimentos y bebidas destinadas a la dotación 
 de  refrigerios  para el personal dependiente que forma parte de la planilla de sueldos y 
@@ -1679,7 +1623,6 @@ establece necesaria la compra de productos farmacéuticos en general, las Factur
 estar a nombre del sujeto pasivo. Asimismo, incluye la atención médica y compra de 
 medicamentos a terceros siempre que sean demostrables con documentación de respaldo 
 y estén vinculadas a la actividad gravada. 
-[Image: Im0]
 
 **p) Material de escritorio e impresos.-** Compras de material de escritorio u oficina en 
 general y material impreso como: Facturas, calendarios, papel membretado, sellos de 
@@ -1712,7 +1655,6 @@ Plurinacional de Bolivia y el Artículo 4 de la Ley Nº 2341 de 23 de abril de 2
 demostrar y justificar a la Administración Tributaria, con documentación de respaldo la vinculación 
 con la actividad gravada, de otras compras, adquisiciones o importaciones, contratos de obras o 
 servicios, y otra prestación o servicio, no contempladas en el Artículo 4 de la presente Resolución.
-[Image: Im0]
 
 **II.** Conforme a los Parágrafos I y II del Artículo 77 de la Ley Nº 2492 Código Tributario Boliviano de 
 2 de agosto de 2003, serán admisibles todos los medios probatorios admitidos en Derecho.
@@ -1768,7 +1710,6 @@ empleador en las situaciones de dependencia, y podrá presentar otras junto a su
 como Independiente, debiendo estar en ambos casos emitidas a nombre de quien las presenta, con 
 las excepciones que al efecto reconozca la Administración Tributaria mediante norma reglamentaria 
 y firmadas por éste.
-[Image: Im0]
 
 Que el Decreto Supremo N° 21531, establece la base jurisdiccional de este impuesto y los sujetos 
 pasivos, encontrándose comprendidos como contribuyentes del RC-IVA las personas naturales 
@@ -1813,7 +1754,6 @@ el Artículo 2 del Decreto Supremo N° 21531, y que además perciban ingresos po
 la profesión u oficio de forma independiente, u de otras actividades económicas gravadas, deberán 
 inscribirse en el Padrón Nacional de Contribuyentes del Servicio de Impuestos Nacionales, como 
 contribuyentes del:
-[Image: Im0]
 
 **1.** Régimen Complementario del Impuesto al Valor Agregado en calidad de Contribuyentes 
 Directos (RC-IVA CD), por sus actividades realizadas mediante contrato suscrito con el 
@@ -1834,7 +1774,6 @@ Contribuyentes del Servicio de Impuestos Nacionales, como sujetos pasivos del Im
 Agregado (IVA), Impuesto a las Transacciones (IT), Impuesto sobre las Utilidades de las Empresas 
 (IUE), Régimen Complementario del Impuesto al Valor Agregado (RC-IVA) como Agente de 
 Retención, u otros impuestos cuando corresponda.
-[Image: Im0]
 
 **III.** Los sujetos pasivos descritos en los Parágrafos I y II anteriores deberán obtener el NIT cumpliendo 
 los requisitos y procedimientos establecidos en la Resolución Normativa de Directorio “Procedimiento 
@@ -1896,7 +1835,6 @@ emergentes de sus relaciones económicas, profesionales o financieras con otras 
 requerido expresamente por la Administración Tributaria, asimismo que estas obligaciones también 
 serán cumplidas por los agentes de información cuya designación, forma y plazo de cumplimiento serán 
 establecidos reglamentariamente.
-[Image: Im0]
 
 Que el Artículo 100 del mismo cuerpo legal, confiere a la Administración Tributaria amplias facultades 
 de control, verificación, fiscalización e investigación, a través de las cuales podrá exigir al sujeto pasivo 
@@ -1964,7 +1902,6 @@ mayor a Bs50.000 (Cincuenta Mil 00/100 Bolivianos), deberán efectuarse obligato
 del comitente, a través de documentos emitidos y/o reconocidos por las entidades de intermediación 
 financiera, conforme a lo establecido en la Resolución Normativa de Directorio de Respaldo de 
 Transacciones con Documentos de pago vigente.
-[Image: Im1]
 
 ---
 
@@ -2012,7 +1949,6 @@ hábil del mes siguiente.
 bienes y/o servicios, deberán entregar a los comisionistas o consignatarios, mediante documento o acta, 
 facturas prevaloradas (con el precio de venta al consumidor final) que cumplan lo establecido en la 
 Resolución Normativa de Directorio del Sistema de Facturación Virtual vigente.
-[Image: Im0]
 
 ---
 
@@ -2021,7 +1957,6 @@ precedente, podrán utilizar otras modalidades de facturación, previa solicitud
 el tipo de productos y/o servicios a ser comercializados, misma que estará sujeta a aceptación o 
 rechazo por la Administración Tributaria en el Sistema de Facturación Virtual, en el plazo de hasta 
 dos (2) días hábiles.
-[Image: Im1]
 
 **III.** El comisionista o consignatario tiene la obligación de emitir factura en nombre del comitente por 
 la venta de los bienes y/o servicios prestados. El incumplimiento será sancionado conforme lo previsto 
@@ -2089,14 +2024,12 @@ establecido para el Régimen Tributario Simplificado, el proveedor, al momento d
 emisión de la factura, deberá exigir al cliente la presentación de una fotocopia simple del Certificado de 
 Inscripción al Régimen General o Certificado Electrónico del NIT. Para tal efecto el proveedor deberá 
 efectuar el control respectivo.
-[Image: Im0]
 
 **Artículo 10. (Informaci**ón su**jetos pasivos del RTS).-** La información de venta de bienes y/o servicios 
 realizados a sujetos pasivos del Régimen Tributario Simplificado, por importes acumulados iguales o mayores a Bs136.000.- (Ciento Treinta y Seis Mil 00/100 Bolivianos) en uno o más periodos fiscales reproducción 
 en una gestión anual (Enero a Diciembre), deberá ser enviada a la Administración Tributaria por los 
 Agentes de Información establecidos en el Artículo 4 de la presente Resolución, utilizando el Aplicativo 
 Proveedores, cumpliendo las siguientes especificaciones:
-[Image: Im1]
 
 Nombre de archivo: SIMPLIFICADO_MMAAAA_NIT.TXT
 
@@ -2143,7 +2076,6 @@ deberán enviar hasta el último día hábil del mes siguiente al que se informa
 en el Artículo 10 de la presente normativa, de ventas acumuladas iguales o mayores a Bs136.000.- 
 (Ciento Treinta y Seis Mil 00/100 Bolivianos) realizadas a contribuyentes del RTS, tomando en cuenta 
 el periodo en el cual se cumpla esta condición.
-[Image: Im0]
 
 **III.** En caso de que el proveedor no realice la venta de bienes y/o servicios, en un período mensual a 
 contribuyentes del Régimen Tributario Simplificado conforme lo establecido en el Artículo 10 de la 
@@ -2182,7 +2114,6 @@ en el Padrón Nacional de Contribuyentes, deberán reportar las ventas acumulada
 Bs136.000.- (Ciento Treinta y Seis Mil 00/100 Bolivianos), realizadas en el periodo donde se cumpla 
 la condición, hasta el último día hábil del mes siguiente al que se informa, utilizando el Aplicativo 
 Proveedores a través de la Oficina Virtual, de acuerdo a las siguientes especificaciones:
-[Image: Im1]
 
 Nombre de archivo: PERSONASNATURALES_MMAAAA_NIT.TXT
 
@@ -2219,7 +2150,6 @@ medios y formas establecidos en la presente Resolución, constituye contravenci�
 a lo establecido en el Artículo 162 de la Ley Nº 2492, Código Tributario Boliviano vigente, y será 
 sancionada conforme lo previsto en la Resolución Normativa de Directorio de Clasificación de 
 Sanciones por Incumplimiento a Deberes Formales vigentes.
-[Image: Im0] [Image: Im0]
 
 El pago de la multa no exime de la obligación del envío de la información establecida en la 
 presente Resolución.
@@ -2264,7 +2194,6 @@ emergentes de sus relaciones económicas, profesionales o financieras con otras 
 requerido expresamente por la Administración Tributaria, asimismo que estas obligaciones también 
 serán cumplidas por los agentes de información cuya designación, forma y plazo de cumplimiento serán 
 establecidos reglamentariamente.
-[Image: Im0]
 
 Que el Artículo 100 del mismo cuerpo legal, confiere a la Administración Tributaria amplias facultades 
 de control, verificación, fiscalización e investigación, a través de las cuales podrá exigir al sujeto pasivo 
@@ -2314,7 +2243,6 @@ referido al tratamiento tributario aplicable a personas naturales o jurídicas q
 y/o servicios a través de comisionistas o consignatarios a cambio de una comisión; así como la venta 
 de  bienes y/o  servicios a  contribuyentes inscritos en el  Régimen Tributario Simplificado y personas 
 naturales no inscritas en el Padrón Nacional de Contribuyentes.
-[Image: Im0]
 
 **Artículo 2. (Definiciones).-** En el marco del Decreto Supremo Nº 3050, y para efectos tributarios en la 
 presente Resolución se aplicarán las siguientes definiciones:
@@ -2367,7 +2295,6 @@ la identificación de las partes intervinientes (proveedor o comitente y comisio
 Número de Identificación Tributaria, objeto del contrato, detalle de los bienes y/o servicios a 
 comercializar, precio de venta, plazo de duración del contrato y comisión (Importe o Porcentaje) por 
 producto y/o servicio, conforme dispone el Artículo 3 del Decreto Supremo Nº 3050.
-[Image: Im0]
 
 **III.** Los contratos de comisión y adendas podrán incluir anexos que detallen los bienes y/o servicios 
 a comercializar, precios de venta u otras características, especificando que son parte indivisible del 
@@ -2410,7 +2337,6 @@ valor total sea igual o mayor a Bs50.000.- (Cincuenta Mil 00/100 Bolivianos), de
 obligatoriamente  a  nombre  del  proveedor  o  comitente,  a  través  de  documentos  emitidos  
 y/o reconocidos por las entidades de intermediación financiera, conforme a lo establecido en la 
 Resolución Normativa de Directorio de Respaldo de Transacciones con Documentos de pago vigente.
-[Image: Im0]
 
 **Artículo 7. (Información comisionistas).-** La información de las actualizaciones de anexos y venta 
 de bienes y/o servicios realizados a través de comisionistas o consignatarios deberá ser enviada a 
@@ -2460,7 +2386,6 @@ Donde:
 **COMISIONISTAS**:  Denominación genérica para el nombre del archivo.
 
 **MMAAAA**:             Corresponde al período y gestión del envío de la información (MesAño);
-[Image: Im0]
 
 **NIT**:                      Corresponde al NIT del proveedor obligado al envío de la información.
 
@@ -2503,7 +2428,6 @@ o jurídicas cuyas ventas de bienes y/o servicios a contribuyentes del Régimen 
 para este Régimen, deberán exigir a sus clientes la exhibición del certificado de inscripción al Régimen 
 General y enviar información a la Administración Tributaria de acuerdo a lo establecido en el Artículo 
 siguiente, utilizando la Oficina Virtual o el Módulo Proveedores del Aplicativo Agentes de Información.
-[Image: Im0]
 
 IVA - RND Nº 101700000014
 **II.** El comprador al momento de realizar la compra de bienes y/o servicios, a efecto de la emisión de 
@@ -2520,7 +2444,6 @@ periodos fiscales en una gestión anual (enero a diciembre), deberá ser enviada
 Tributaria por los Agentes de Información establecidos en el Artículo 11 de la presente Resolución, 
 por la Oficina Virtual o utilizando el Módulo Proveedores del Aplicativo Agentes de Información, 
 cumpliendo las siguientes especificaciones:
-[Image: Im0]
 
 Nombre de archivo: SIMPLIFICADO_MMAAAA_NIT (Extensión Txt o Excel)
 
@@ -2571,7 +2494,6 @@ en uno o varios períodos mensuales o las acumuladas en un año, sean mayores al
 el Régimen Tributario Simplificado deberán informar por una sola vez en la gestión, hasta el último día 
 hábil del mes siguiente al periodo que se informa, a través de la Oficina Virtual o utilizando el Módulo 
 Proveedores del Aplicativo Agentes de Información, de acuerdo a las siguientes especificaciones:
-[Image: Im0]
 
 Nombre de archivo: PERSONASNATURALES_MMAAAA_NIT (Extensión Txt o Excel)
 
@@ -2629,7 +2551,6 @@ b) A través de comisionistas o consignatarios.
 Módulo Proveedores del Aplicativo Agentes de Información para el registro de la información de los 
 contribuyentes designados como Agentes de Información en la presente Resolución, disponible en el 
 sitio web  www.impuestos.gob.bo a partir del 1 de septiembre de 2017.
-[Image: Im0]
 
 **Artículo 13. (Forma y plazos de envío de la información).- I.** Los Agentes de Información, utilizando 
 la Oficina Virtual o el Módulo Proveedores del Aplicativo Agentes de Información, deberán enviar la 
@@ -2649,7 +2570,6 @@ y/o servicios, en un período mensual a contribuyentes del Régimen Tributario S
 naturales no inscritas en el Padrón Nacional de Contribuyentes conforme lo establecido en los Artículos 
 9 y 10 de la presente Resolución; asimismo, cuando no exista entrega ni venta de bienes y/o servicios 
 a través de comisionistas.
-[Image: Im0]
 
 **IV.** Cuando el Agente de Información detecte errores o inconsistencias en la información enviada a 
 través de la Oficina Virtual o módulo Proveedores del Aplicativo Agentes de Información, deberá 
@@ -2700,7 +2620,6 @@ publicación de la presente Resolución, deberán ser adecuados a lo establecido
 Nº 3050 y la presente Resolución hasta el 31 de agosto de 2017 y presentados por el comitente o 
 proveedor, mediante nota a la Gerencia GRACO o Distrital de su Jurisdicción, en fotocopia simple y 
 legible, hasta el último día hábil del mes de septiembre de 2017.
-[Image: Im0]
 
 ## DISPOSICIÓN ABROGATORIA
 
@@ -2743,7 +2662,6 @@ al Valor Agregado (Re-IVA), contenido en las facturas de compra en el mercado in
 las personas naturales que soporten el Impuesto al Valor Agregado en sus compras o adquisiciones y tengan 
 un ingreso promedio mensual igual o menor a los Bs9.000.- (Nueve Mil 00/100 Bolivianos), de acuerdo a lo 
 establecido en Decreto Supremo reglamentario. 
-[Image: Im0]
 
 Que los Artículos 4 y 5 de la citada Ley señalan que las personas naturales alcanzadas por esta Ley, para acceder 
 al beneficio del reintegro, deberán habilitarse ante el Servicio de Impuestos Nacionales como beneficiarios de 
@@ -2788,7 +2706,6 @@ c) En calidad de independientes o por cuenta propia.
 **Artículo 3. (Habilitación de Beneficiarios al Re-IVA).- I.** Las personas naturales alcanzadas por la 
 presente Resolución deberán registrarse como beneficiarios del Re-IVA, a través de la opción “Registro de Beneficiarios Re-IVA” del portal “Servicio al Ciudadano” de la Oficina Virtual del Servicio de 
 Impuestos Nacionales, disponible en la página web www.impuestos.gob.bo. 
-[Image: Im0]
 
 **II.** Para registrarse como beneficiario, la persona natural deberá llenar la Declaración Jurada Formulario 203 seleccionando el tipo de beneficiario y consignando la siguiente información:
 
@@ -2846,7 +2763,6 @@ a través de la opción “Beneficiarios Re-IVA” del Sistema Integrado de la A
 deberá actualizar los mismos a través de la opción “Beneficiarios Re-IVA” del Sistema Integrado de 
 la Administración Tributaria (SIAT) del portal “Servicio al Contribuyente” de la Oficina Virtual del 
 Servicio de Impuestos Nacionales, disponible en la página web www.impuestos.gob.bo.   
-[Image: Im0]
 
 **III.** En caso que el beneficiario quiera inhabilitarse del Re-IVA, podrá realizarlo en cualquier momento 
 a través de la opción “Beneficiarios Re-IVA” del Sistema Integrado de la Administración Tributaria 
@@ -2902,7 +2818,6 @@ del aplicativo “Mis Facturas” del Sistema Integrado de la Administración Tr
 nimamente el primer apellido) y número de cédula de identidad del beneficiario del Re-IVA para la 
 generación automática del Formulario 111 Re-IVA, en base a la información de los Libros de Ventas y 
 Registro de Ventas enviados por los proveedores conforme normativa tributaria vigente. 
-[Image: Im0]
 
 **II.** En esta modalidad, el reintegro del Impuesto al Valor Agregado se hará efectivo a partir del día 
 veintisiete (27) del mes siguiente al periodo sujeto a reintegro.
@@ -2941,7 +2856,6 @@ será acumulable para el reintegro del IVA del siguiente período.
 o registro de ventas del proveedor, y éstas hubiesen sido utilizadas en el Régimen de Reintegro en 
 Efectivo del Impuesto al Valor Agregado, procederá a la retención de lo indebidamente devuelto en los 
 siguientes periodos mensuales.  
-[Image: Im0]
 
 Los beneficiarios de la Modalidad Previo Registro de Facturas y Envío al SIN, que se beneficien indebidamente del Régimen de Reintegro en Efectivo del Impuesto al Valor Agregado, pasarán de oficio a 
 la Modalidad Cómputo Automático del SIN.
@@ -2986,7 +2900,6 @@ por esta Ley, para acceder al beneficio del reintegro, deberán habilitarse ante
 Nacionales como beneficiarios de este Régimen, entidad que computará todas las facturas de compra, 
 emitidas por medios tecnológicos a nombre y documento de identidad de la persona natural, para su 
 reintegro del IVA.
-[Image: Im0]
 
 Que mediante Resolución Normativa de Directorio N° 102000000044 de 31 de diciembre de 2020, 
 se estableció el procedimiento para la habilitación de los beneficiarios del Régimen de Reintegro en 
@@ -3039,7 +2952,6 @@ obligación de remitir a la Administración Tributaria los datos de las mismas y
 tales transacciones en sus Libros de Ventas IVA en el periodo fiscal que se declara hasta la fecha 
 del vencimiento de la Declaración Jurada del IVA de acuerdo al último dígito del NIT a través del 
 aplicativo FACILITO”.
-[Image: Im0]
 
 ## DISPOSICIÓN FINAL
 
@@ -3076,7 +2988,6 @@ comercialización de bienes de capital, plantas industriales y vehículos de car
 en volumen y tonelaje destinados a los sectores agropecuario e industrial, y maquinaria pesada para 
 el sector de la construcción y minería, para la reactivación económica y fomento de la política de 
 sustitución de importaciones.
-[Image: Im0]
 
 Que el Artículo 3 de la citada Ley dispone que la comercialización en el mercado interno de bienes de 
 capital, plantas industriales y vehículos de carga de alta capacidad en volumen y tonelaje destinados a 
@@ -3121,7 +3032,6 @@ establecido en la Ley Nº 1391 deberá realizarse a través de la modalidad de f
 en Línea, opción “Facturación Tasa Cero IVA Ley Nº 1391” del módulo “Sistema de Facturación” 
 del Sistema Integrado de la Administración Tributaria – SIAT, disponible en la página web www.
 impuestos.gob.bo, exclusiva para emisión de facturas Tasa Cero IVA en aplicación de la Ley Nº 1391.
-[Image: Im0]
 
 **II.** La opción “Facturación Tasa Cero IVA Ley Nº 1391”, permitirá al contribuyente la suscripción 
 a esta modalidad de facturación, así como la adición en el Padrón Nacional de Contribuyentes, de 
@@ -3170,13 +3080,8 @@ RÉGIMEN
 COMPLEMENTARIO AL 
 IMPUESTO AL VALOR 
 AGREGADO
-[Image: Im0]
 
 ## (RC - IVA)
-
----
-
-Prohibida su reproducción impresa o digital sin autorización
 
 ---
 
@@ -3217,7 +3122,6 @@ Vigencia), se considera al miembro de directorio como sujeto pasivo del RC-IVA c
 directo, debiendo inscribirse al Registro Único de Contribuyentes (RUC), a efecto de liquidar 
 y declarar el impuesto de manera trimestral, utilizando la Declaración Jurada Formulario 71 
 (Anexo Formulario 87).
-[Image: Im0]
 
 **b)** Conforme lo establece el Artículo 11 del Decreto Supremo Nº 21531 (Texto Ordenado en 
 Vigencia), a los directores que no cumplan con lo dispuesto en el Inciso anterior, se les retendrá 
@@ -3260,7 +3164,6 @@ en relación de dependencia, por lo que el Servicio de Impuestos Nacionales ha d
 que permite al sujeto pasivo o tercero responsable la captura de toda la información requerida para la 
 deducción de sus compras a efectos de la aplicación RC-IVA y la generación de los respectivos reportes 
 sobre la base de la información capturada.
-[Image: Im0]
 
 ## POR TANTO:
 
@@ -3305,7 +3208,6 @@ del RC-IVA la alícuota del IVA contenida en Facturas, Notas Fiscales o Document
 presentar - a sus empleadores o Agentes de Retención - la información necesaria en medio electrónico, 
 utilizando el “Software RC-IVA (Da Vinci) Dependientes”, conforme el cronograma fijado en la Disposición 
 Final Primera de la presente Resolución.
-[Image: Im0]
 
 **II.** Independientemente de lo dispuesto en el Parágrafo anterior, los dependientes antes citados deberán 
 presentar a sus empleadores el Formulario 87-1 impreso y firmado, acompañando las facturas, notas fiscales 
@@ -3356,7 +3258,6 @@ Información, deberán presentar trimestralmente al Servicio de Impuestos Nacion
 Fiscalización - medio magnético con el detalle de las personas que cotizan al Seguro Social Obligatorio de 
 Largo Plazo, que tienen ingresos cotizables iguales o mayores a Bs2.000.- (Dos mil 00/100) mensuales, de 
 acuerdo con los datos detallados a continuación:
-[Image: Im0]
 
 **-DATOS DEL EMPLEADOR**
 
@@ -3431,7 +3332,6 @@ Retención deberá archivar los Formularios 87-1 impresos y todas las facturas, 
 equivalentes presentados por sus dependientes (por empleado y por mes), por el lapso de tiempo que 
 corresponda a los períodos de prescripción, conforme lo establece el numeral 8. del Artículo 70 de la Ley N° 
 2492 de 2 de agosto de 2003, Código Tributario Boliviano.
-[Image: Im0]
 
 ***Nota del Editor:*** *La RND Nº 10-0030-15 de 06/11/2015 en su Disposición Derogatoria Primera,* 
 ***derogó*** *la  Disposición Final precedente****.***
@@ -3470,7 +3370,6 @@ electrónicas realizadas y registradas en el sistema informático de la Administ
 un usuario autorizado surten efectos jurídicos y tienen validez probatoria, presumiéndose asimismo 
 que toda operación electrónica registrada en el sistema informático previamente citado, pertenece al 
 usuario autorizado. 
-[Image: Im0]
 
 Que, el Artículo 19 de la Ley Nº 843 (Texto Ordenado Vigente) crea el Régimen Complementario 
 al Impuesto al Valor Agregado (RC-IVA) estableciendo los conceptos que constituyen ingresos 
@@ -3504,7 +3403,6 @@ mediante nuevos Módulos informáticos, coadyuvando a que la Administración Tri
 mayor información de operaciones electrónicas realizadas y registradas en el sistema informático, 
 facilitando a los usuarios el llenado y envío de la información según corresponda, mediante los 
 aplicativos señalados. 
-[Image: Im0]
 
 Que, conforme al Inciso p) del Artículo 19 del Decreto Supremo Nº 26462 de 22 de diciembre de 2001, 
 Reglamento de aplicación de la Ley Nº 2166 del Servicio de Impuestos Nacionales, el Presidente 
@@ -3553,7 +3451,6 @@ de compras, a efectos de computar como pago a cuenta del impuesto determinado pa
 Régimen Complementario al Impuesto al Valor Agregado (RC-IVA), al Impuesto sobre 
 las Utilidades de las Empresas (IUE), así como respaldo de compensación en el Sistema 
 Tributario Integrado (STI). 
-[Image: Im0]
 
 **b)** El Módulo Formulario Electrónico F-110 V.3 FACILITO como parte del aplicativo 
 informático “FACILITO” para el llenado del Formulario F-110 V.3 del Sujeto Pasivo.
@@ -3606,7 +3503,6 @@ nombre del dependiente que las presenta, con las excepciones reconocidas por la 
 Tributaria mediante normativa reglamentaria, firmadas por éste y serán válidas siempre que la fecha 
 de emisión no sea mayor a ciento veinte (120) días calendario anteriores a la fecha de su presentación 
 al empleador. 
-[Image: Im0]
 
 **2.** El Agente de Retención acusará recibo de la presentación indicada en el Numeral precedente y 
 verificará que las Facturas adjuntas cuenten con los requisitos formales establecidos en normativa 
@@ -3633,7 +3529,6 @@ o agente de retención, la información en medio electrónico generado en el mó
 electrónico F-110 V.3 FACILITO, cuando la diferencia entre los ingresos, sueldos o salarios brutos 
 y las deducciones establecidas en el Inciso a) y Numeral 2 del Inciso c) del Artículo 8 del Decreto 
 Supremo Nº 21531, Reglamento del RC IVA, sea mayor a cero.
-[Image: Im0]
 
 ***Nota del Editor:*** *La RND N° 101900000010 de 05/06/2019 en sus Disposiciones* 
 *Abrogatorias y Derogatorias Segunda, Parágrafo I* ***derogó*** *el Numeral precedente.*
@@ -3686,7 +3581,6 @@ llenar el Formulario F-110 V.3 a través del Módulo Formulario Electrónico F-1
 debiendo custodiar el mismo por el término de prescripción establecido en la Ley Nº 2492 adjunto 
 a las Facturas, Notas Fiscales o Documentos Equivalentes originales de respaldo de acuerdo a la 
 modalidad de facturación que corresponda en normativa vigente. 
-[Image: Im0]
 
 **II.** La información generada en el Módulo Formulario Electrónico F-110 V.3 FACILITO, deberá ser 
 enviada a la Administración Tributaria a través de la Oficina Virtual dentro del plazo de vencimiento 
@@ -3721,7 +3615,6 @@ alcanzados por la presente Resolución podrán obtener los aplicativos informát
 Electrónico F-110 V.3 FACILITO y Módulo Agente de Retención RC-IVA FACILITO desde la 
 página web del Servicio de Impuestos Nacionales (SIN) en la dirección www.impuestos.gob.bo o 
 recabar los mismos de la Gerencia Distrital o Graco de su jurisdicción. 
-[Image: Im0]
 
 **Artículo 11. (Instalación de los aplicativos).-** Para utilizar los aplicativos informáticos señalados 
 en el Artículo anterior se deberán utilizar los Manuales de Usuario de tales aplicativos que podrán 
@@ -3776,7 +3669,6 @@ artículo 16 de la presente resolución, designadas como Agentes de Información
 semestralmente al Servicio de Impuestos Nacionales – Gerencia de Fiscalización, en medio magnético 
 el detalle de las personas que cotizan al Seguro Social Obligatorio de Largo Plazo, de acuerdo con los 
 datos en formato detallados a continuación:
-[Image: Im0]
 
 ## DATOS DEL EMPLEADO DEPENDIENTE
 
@@ -3840,7 +3732,6 @@ alternativamente al Módulo Agente de Retención RC-IVA FACILITO.
 de 2005, en todas sus disposiciones con excepción del Parágrafo II del Artículo 2, en tanto entre en 
 vigencia el Módulo Agente de Retención RC-IVA FACILITO, momento a partir del cual la citada 
 resolución quedará abrogada. 
-[Image: Im0]
 
 **Segunda.-** Quedan derogados el Segundo Párrafo del Numeral 22, Numerales 14, 15, 16, 18, 19, 20, 
 y 23 de la Resolución Administrativa Nº 05-0040-99 de 13 de agosto de 1999 y los Numerales 3, 5, 
@@ -3851,7 +3742,6 @@ y 23 de la Resolución Administrativa Nº 05-0040-99 de 13 de agosto de 1999 y l
 ## DISPOSICIONES FINALES
 
 **Única.-** La presente resolución entrará en vigencia a partir del 1 de enero de 2016. 
-[Image: Im0]
 
 Regístrese, hágase saber y cúmplase.
 
@@ -3861,8 +3751,6 @@ Servicio de Impuestos Nacionales
 ## ANEXO
 
 ## FORMULARIO 110 V.3
-
-[Image: Im0]
 
 | FORMULARIO ANEXO |  |  |  | PERIODO |  | FOLIO |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -3929,7 +3817,6 @@ como Independiente, debiendo estar en ambos casos emitidas a nombre de quien las
 excepciones que al efecto reconozca la Administración Tributaria mediante norma reglamentaria y 
 RC - IVA - RND Nº 101700000004
 firmadas por éste.
-[Image: Im0]
 
 Que el Decreto Supremo N° 21531, establece la base jurisdiccional de este impuesto y los sujetos 
 pasivos, encontrándose comprendidos como contribuyentes del RC-IVA las personas naturales 
@@ -3972,7 +3859,6 @@ Artículo 2 del Decreto Supremo N° 21531, y que además perciban ingresos por e
 profesión u oficio de forma independiente, u de otras actividades económicas gravadas, deberán 
 inscribirse en el Padrón Nacional de Contribuyentes del Servicio de Impuestos Nacionales, como 
 contribuyentes del:
-[Image: Im0]
 
 **1.** Régimen Complementario del Impuesto al Valor Agregado en calidad de Contribuyentes 
 Directos (RC-IVA CD), por sus actividades realizadas mediante contrato suscrito con el 
@@ -3997,7 +3883,6 @@ Contribuyentes del Servicio de Impuestos Nacionales, como sujetos pasivos del Im
 Agregado (IVA), Impuesto a las Transacciones (IT), Impuesto sobre las Utilidades de las Empresas 
 (IUE), Régimen Complementario del Impuesto al Valor Agregado (RC-IVA) como Agente de 
 Retención, u otros impuestos cuando corresponda.
-[Image: Im0]
 
 **III.** Los sujetos pasivos descritos en los Parágrafos I y II anteriores deberán obtener el NIT cumpliendo 
 los requisitos y procedimientos establecidos en la Resolución Normativa de Directorio “Procedimiento 
@@ -4083,7 +3968,6 @@ agente de retención, la información en medio electrónico generado en el módu
 F-110 v3 FACILITO, cuando la diferencia entre los ingresos, sueldos o salarios brutos y las deducciones 
 establecidas en el inciso a) y numeral 2 del inciso c) del artículo 8 del Decreto Supremo Nº 21531, 
 Reglamento del RC IVA, sea mayor a cero.”
-[Image: Im0]
 
 II. Se modifica el segundo párrafo del artículo 16 de la Resolución Normativa de Directorio Nº 10- 
 0030-15 de 06 de noviembre de 2015, con el siguiente texto:
@@ -4129,7 +4013,6 @@ en el parágrafo II del artículo 16 de la Resolución Normativa de Directorio N
 de las personas que cotizan al Seguro Social Obligatorio de Largo Plazo que tienen ingresos cotizables 
 iguales o mayores a Bs7.000.- del periodo enero – junio de 2018 deberá enviarse hasta el 20 de julio de la 
 presente gestión.
-[Image: Im0]
 
 ## RC - IVA - RND Nº 101800000014DISPOSICIÓN FINAL
 
@@ -4170,7 +4053,6 @@ N° 21531 de 27 de febrero de 1987 que reglamenta el Régimen Complementario al 
 de la imputación como pago a cuenta de la alícuota correspondiente al IVA contenido en las facturas, 
 notas fiscales o documentos equivalentes presentados, podrá ser utilizado en la siguiente fuente 
 laboral.   
-[Image: Im0]
 
 Que es necesario adecuar los aspectos técnicos tributarios a efectos de la aplicación del Decreto 
 Supremo N° 3890 de 01 de mayo de 2019.
@@ -4196,7 +4078,6 @@ Declaración Jurada del Régimen Complementario al Impuesto al Valor Agregado (R
 de Retención Formulario 608 V.3 y el traslado del saldo a favor del dependiente RC-IVA de las 
 personas naturales en relación de dependencia en casos de desvinculación, para su imputación como 
 pago a cuenta del RC-IVA, en la siguiente fuente laboral en calidad de dependiente.
-[Image: Im0]
 
 **Artículo 2. (Alcance).-** La presente Resolución alcanza a personas naturales en relación de 
 dependencia y Agentes de Retención del RC-IVA.
@@ -4249,7 +4130,6 @@ tanto no exista traslado del saldo a favor del dependiente RC-IVA a la siguiente
 podrá ser utilizado de forma total o parcial como pago a cuenta del impuesto al RC-IVA resultante 
 de los ingresos percibidos por el ex trabajador con posterioridad a su desvinculación, emergentes de 
 su relación de dependencia.
-[Image: Im0]
 
 **II.** Para la aplicación de lo dispuesto en el parágrafo anterior, el ex trabajador dependiente obtendrá el 
 **“Certificado de Uso de Saldo a favor del Dependiente RC-IVA”**, ingresando a la opción habilitada 
@@ -4324,7 +4204,6 @@ presentación de Facturas proporcionada por sus dependientes, utilizando el apli
 de Retención RC-IVA V.1 FACILITO, y remitir mensualmente a la Administración Tributaria a 
 través del sitio web www.impuestos.gob.bo en la misma fecha de presentación de la Declaración 
 Jurada RC-IVA Agente de Retención.”  
-[Image: Im0]
 
 **CUARTA.** Se modifican los sub numerales 3.9, 3.10 y 3.11 del Numeral 3 del Anexo I, Régimen 
 General de la RND Nº 10-0033-16 de 25 de noviembre de 2016, de acuerdo al siguiente texto:
@@ -4348,7 +4227,6 @@ Resolución.
 en formato digital Excel.csv (Ejemplo: Planilla.csv) la información requerida en el Artículo 8 de la 
 presente Resolución ante la Gerencia de Tecnologías de Información y Comunicación del Servicio de 
 Impuestos Nacionales o Gerencias Distritales o GRACO de su jurisdicción.
-[Image: Im0]
 
 ## DISPOSICIÓN DEROGATORIA
 
@@ -4368,7 +4246,6 @@ Nº 101800000014 de 25 de mayo de 2018.
 
 **ÚNICA.** La presente disposición entrará en vigencia a partir del periodo fiscal mayo cuyo vencimiento 
 se produce en el mes de junio de 2019.
-[Image: Im0]
 
 Regístrese, publíquese y cúmplase.
 
@@ -4384,8 +4261,6 @@ Servicio de Impuestos Nacionales
 | 2019 | 4 | 22222018 | UAW | MEUNES | DUVER | 22222C | C1 | 3.500 | 1.457 | 3.055 | 4.244 | 0 | 0 | 0 | 250 | 33 | 33 | 50 | 40 | 5 | 45 | 95 | 0 | 63 |  |
 | 2019 | 4 | 33333018 | MDREA | OCUDA | SEGUNDO | 33333C | PAS | 6.500 | 826 | 5.674 | 4.244 | 1.490 | 186 | 552 | 0 | 200 | 26 | 26 | 0 | 0 | 0 | 0 | 26 | 0 | 63 |
 | 2019 | 4 | 44444018 | LUS | MEUNES | MAYTA | 44444C | EX | 20.000 | 2.542 | 17.458 | 4.244 | 13.214 | 1.718 | 552 | 1.166 | 2.000 | 260 | 1.426 | 500 | 0 | 0 | 500 | 926 | 0 |  |
-
-[Image: Im0]
 
 ---
 
@@ -4434,7 +4309,6 @@ Ejecutivo en uso de sus atribuciones y en aplicación del Inciso a) del Numeral 
 Administrativa de Directorio Nº 09-0011-02 de 28 de agosto de 2002, se encuentra autorizado a suscribir 
 RC - IVA - RND Nº 101900000010
 Resoluciones Normativas de Directorio. 
-[Image: Im0]
 
 ## POR TANTO:
 
@@ -4451,7 +4325,6 @@ Jurada del Régimen Complementario al Impuesto al Valor Agregado (RC-IVA) Agente
 Formulario 608 V.3 y el traslado del saldo a favor del dependiente RC-IVA de las personas naturales en 
 relación de dependencia en casos de desvinculación, para su imputación como pago a cuenta del RC-
 IVA, en la siguiente fuente laboral en calidad de dependiente.
-[Image: Im0]
 
 **Artículo 2. (Alcance).-** La presente Resolución alcanza a personas naturales en relación de dependencia 
 y Agentes de Retención del RC-IVA.
@@ -4530,7 +4403,6 @@ de su relación de dependencia, mismo que será deducido por la Administración 
 determinación del saldo a favor del dependiente RC-IVA final. El saldo a utilizar del Crédito Fiscal 
 RC-IVA señalado precedentemente se actualizará al último día hábil del mes anterior a la obtención del 
 Certificado.
-[Image: Im0]
 
 **III**. El ex trabajador dependiente presentará a su anterior empleador el “Certificado de Uso de Saldo 
 a favor del Dependiente RC-IVA” como respaldo del pago del RC-IVA resultante de los ingresos 
@@ -4551,7 +4423,6 @@ dependiente deberá registrase como usuario de Portal Tributario del Servicio de
 mantenimiento de valor del saldo del ex trabajador dependiente, desde el momento de su desvinculación 
 hasta la obtención del “Certificado de Uso de Saldo a favor del Dependiente RC-IVA” y/o “Certificado 
 de Saldo a favor del Dependiente RC-IVA”.
-[Image: Im0]
 
 **Artículo 8. (Código Dependiente RC-IVA).- I.** El empleador y/o Agente de Retención, generará un 
 “Código de Dependiente RC-IVA” para su asignación a cada trabajador, debiendo a este efecto ingresar 
@@ -4625,7 +4496,6 @@ de Facturas proporcionada por sus dependientes, utilizando el aplicativo Módulo
 RC-IVA V.1 Facilito, y remitir mensualmente a la Administración Tributaria a través del sitio web 
 www.impuestos.gob.bo en la misma fecha de presentación de la Declaración Jurada RC-IVA Agente 
 de Retención.”  
-[Image: Im0]
 
 **Sexta.-** Se modifican los sub numerales 3.9, 3.10 y 3.11 del Numeral 3 del Anexo I, Régimen General 
 de la RND Nº 10-0033-16 de 25 de noviembre de 2016, de acuerdo al siguiente texto:
@@ -4651,7 +4521,6 @@ ARCHIVO: DEP_NIT_FECHA DE ENVÍO (DD/MM/AAAA).csv) la información requerida en 
 Artículo 8 de la  presente  Resolución  ante  la  Gerencia  de  Tecnologías  de  Información  y  Comunicación 
 del Servicio de Impuestos Nacionales o Gerencias Distritales o GRACO de su jurisdicción hasta el día 
 24 de junio de 2019.
-[Image: Im0]
 
 **Tercera.-** El agente de retención deberá elaborar la planilla tributaria del mes de mayo 2019 en el 
 formato aprobado por la presente Resolución (Planilla Tributaria V.2) y efectuar la presentación y pago 
@@ -4744,7 +4613,6 @@ Que la Resolución Normativa de Directorio Nº 102000000021 de 20 de agosto de 2
 Artículo 9 establece que el titular de la factura podrá utilizar el 5% del precio neto de venta como 
 pago a cuenta del IVA en el mismo periodo fiscal en que se realice la compra, o del RC-IVA dentro 
 del plazo previsto por los Artículos 8 y 9 del Decreto Supremo N° 21531.
-[Image: Im0]
 
 Que la Resolución Normativa de Directorio Nº 102000000022 de 24 de agosto de 2020, en su Artículo 
 2 establece el procedimiento del incentivo tributario previsto en el Artículo 2 del Decreto Supremo 
@@ -4764,7 +4632,6 @@ de 2001, Reglamento de aplicación de la Ley Nº 2166  del Servicio de Impuestos
 Presidente Ejecutivo en uso de sus atribuciones y en aplicación del Inciso a) del Numeral 1 de la 
 Resolución Administrativa de Directorio Nº 09-0011-02 de 28 de agosto de 2002, se encuentra 
 autorizado a suscribir Resoluciones Normativas de Directorio.
-[Image: Im0]
 
 ## POR TANTO:
 
@@ -4840,7 +4707,6 @@ Bs50.000 (Cincuenta mil 00/100 Bolivianos) no cuente con los medios fehacientes 
 a través de entidad bancaria autorizada por la ASFI; el Agente de Retención rechazará a través del 
 aplicativo MIS FACTURAS - Opción Agentes de Retención y devolverá al dependiente el F-110 
 para la corrección.
-[Image: Im0]
 
 **III.** Los Agentes de Retención deberán custodiar los F-110 impresos y todas las facturas, notas fiscales 
 o documentos equivalentes presentados por sus dependientes, por el término de la prescripción 
@@ -4869,7 +4735,6 @@ Tributario Integrado deberán registrar correctamente las facturas, notas fiscal
 equivalentes utilizando el aplicativo “MIS FACTURAS - Opción Generar FORMULARIO 110” 
 para el registro, selección de facturas y generación del F-110 V.4, anexo a la Declaración Jurada 
 Formulario 610, 510 ó 702 según corresponda.
-[Image: Im0]
 
 Los consultores de línea que perciban viáticos y otros ingresos no contemplados en los artículos 
 anteriores deberán llenar el Formulario 110 V.4 a través del aplicativo MIS FACTURAS, para fines 
@@ -4908,7 +4773,6 @@ modificada por la RND Nº 101900000010 de 05 de junio de 2019 con el siguiente t
 Responsable detecte errores o inconsistencias en la información enviada de la Planilla Tributaria V.3; 
 deberá realizar la corrección y enviar nuevamente en el plazo de treinta (30) días corridos a partir de la 
 fecha de vencimiento del envío. Vencido dicho plazo se incurrirá en incumplimiento a deberes formales.”
-[Image: Im0]
 
 **Segunda.** Se modifica el Artículo 16 de la RND Nº 10-0030-15 de 06 de noviembre de 2015, 
 modificada por la RND Nº 101900000010 de 05 de junio de 2019 con el siguiente texto:
@@ -4951,7 +4815,6 @@ su Agente de Retención, en tanto no cuenten con facturas por compras a contribu
 RG y por compras de productos hechos en Bolivia sujetas al incentivo tributario a la Producción 
 Nacional dispuestas en el Decreto Supremo N° 4298 de fecha 24 de julio de 2020, en cuyo caso 
 deberán utilizar el aplicativo MIS FACTURAS (F-110 V.4) para el registro de todas sus facturas.
-[Image: Im0]
 
 ***Nota del Editor****: La RND N° 102000000032 de 16/11/2020 en su Artículo 2, Parágrafo I,* 
 ***modificó*** *la Disposición Transitoria precedente.*
@@ -4993,7 +4856,6 @@ Regístrese, publíquese y cúmplase.
 | a | b | c | d | e | f | g | h | i | j | k | l=k(S)X) | m+13% | n | o=n(n)(s m n) | p | q=o(q)(s m n) | r=o(r)(s m n) | s | t | u=t(k(S)X) | u=u(k(S)X) | x | y | z |  |
 
 RC - IVA - RND Nº 102000000025
-[Image: Im0]
 
 ---
 
@@ -5022,7 +4884,6 @@ reglamenta el uso del aplicativo MIS FACTURAS para sujetos pasivos del RC-IVA de
 (F-110 V.4) y para Agentes de Retención, el envío de la Planilla Tributaria V.3 y presentación 
 de la Declaración Jurada del Régimen Complementario al Impuesto al Valor Agregado RC-IVA 
 Formulario 608 V.4.
-[Image: Im0]
 
 Que ante la necesidad de ampliar el periodo de socialización del aplicativo MIS FACTURAS y 
 facilitar la presentación del F-110 V.4, es preciso habilitar el uso opcional del aplicativo FACILITO.
@@ -5057,7 +4918,6 @@ su Agente de Retención, en tanto no cuenten con facturas por compras a contribu
 RG y por compras de productos hechos en Bolivia sujetas al incentivo tributario a la Producción 
 Nacional dispuestas en el Decreto Supremo N° 4298 de fecha 24 de julio de 2020, en cuyo caso 
 deberán utilizar el aplicativo MIS FACTURAS (F-110 V.4) para el registro de todas sus facturas.”
-[Image: Im0]
 
 **II.** Se modifica la Disposición Transitoria Segunda de la RND Nº 102000000025 de 18 de septiembre 
 de 2020, con el siguiente texto:
@@ -5113,7 +4973,6 @@ propietarios deberán presentar ante el Servicio de Impuestos Nacionales, un doc
 en su defecto un acta de conciliación suscrita ante un conciliador en materia civil, por el cual se haya 
 reducido el cincuenta por ciento (50%) como mínimo del pago de alquiler en favor del inquilino por 
 el tiempo que dure la cuarentena.
-[Image: Im0]
 
 Que los Artículos 4 y 5 del Decreto Supremo N° 4450 de 13 de enero de 2021, que Reglamenta 
 la Ley N° 1342, Excepcional de Arrendamientos (Alquileres), establecen las condiciones para 
@@ -5156,7 +5015,6 @@ Declaración Jurada “Condonación Canon de Alquiler - Ley N°1342 - Formulario
 a la opción “Deducción del RC-IVA Ley Nº 1342 - DS Nº 4450” del portal “Trámites Tributarios” 
 de la Oficina Virtual del contribuyente del Servicio de Impuestos Nacionales, disponible en la página 
 web www.impuestos.gob.bo, debiendo llenar la siguiente información del Contrato:
-[Image: Im0]
 
 **a)** Área: Urbano o rural;
 
@@ -5193,7 +5051,6 @@ Extranjería, Pasaporte o NIT).
 **I.** El total del importe deducible emergente de la aplicación del beneficio otorgado por la Ley N° 
 1342 y el Decreto Supremo N° 4450, quedará consignado en la “Casilla e” del “Formulario 609 v.3 
 – Condonación de Canon de Alquiler, Ley N° 1342”.
-[Image: Im0] [Image: Im0]
 
 **II.** El saldo señalado precedentemente será trasladado a la “Casilla 448”, que será habilitada en el 
 “RC-IVA - Formulario 610 - Ley N° 1342” correspondiente al período fiscal marzo de 2021.
@@ -5267,7 +5124,6 @@ Que conforme al Inciso p) del Artículo 19 del Decreto Supremo Nº 26462 de 22 d
 en uso de sus atribuciones y en aplicación del numeral 1, Inciso a) de la Resolución Administrativa de 
 Directorio Nº 09-0011-02 de 28 de agosto de 2002, se encuentra autorizado a suscribir Resoluciones 
 Normativas de Directorio.
-[Image: Im0]
 
 ## POR TANTO:
 
@@ -5302,7 +5158,6 @@ septiembre de 2020, el siguiente texto:
 *fiscales o documentos equivalentes utilizando el aplicativo “MIS FACTURAS - Opción Generar* 
 *FORMULARIO 110” para el registro, selección de facturas y generación del F-110 V.4, anexo* 
 *a la Declaración Jurada Formulario 610, 510 ó 702 según corresponda.*
-[Image: Im0]
 
 *Los consultores de línea que perciban viáticos y otros ingresos no contemplados en los artículos* 
 *anteriores deberán llenar el Formulario 110 V.4 a través del aplicativo MIS FACTURAS, para* 
@@ -5332,7 +5187,6 @@ RC - IVA - RND Nº 102200000001
 *Tributaria, debiendo custodiar el mismo por el término de la prescripción establecida en la Ley* reproducción 
 *Nº 2492, con las facturas, notas fiscales o documentos equivalentes originales de respaldo de* 
 *acuerdo a la modalidad de facturación que corresponda en normativa vigente.”*
-[Image: Im0]
 
 ## DISPOSICIONES ADICIONALES
 
@@ -5876,10 +5730,6 @@ RC - IVA - RND Nº 102200000001
 
 ---
 
-Prohibida su reproducción impresa o digital sin autorización
-
----
-
 ## RESOLUCIÓN NORMATIVA DE DIRECTORIO Nº 10-0001-02 reproducción
 
 # reproducción RESOLUCIÓN NORMATIVA DE DIRECTORIO Nº 10-0001-02 (COMPILADA)
@@ -5918,7 +5768,6 @@ BOLIVIANOS), están obligados a presentar al Servicio de Impuestos Nacionales su
 financieros, en sujeción a lo dispuesto en el Reglamento aprobado en el Inciso a) del Numeral 3 de 
 la presente resolución. Los auditores deberán además pronunciarse sobre la situación tributaria del 
 contribuyente, en un informe adicional al dictamen requerido en este punto.
-[Image: Im0]
 
 ***Nota del Editor:*** *La RND Nº 10-0015-02 de 29/11/2002 en su Artículo 4,* ***modificó*** *el* 
 *Numeral precedente.*
@@ -5956,7 +5805,6 @@ Unipersonales de Auditoría inscritas en el Colegio de Auditores o Contadores P�
 quedan habilitadas para la elaboración, emisión y firma de los informes y dictámenes de auditoría 
 financiera externa, las que se encuentran sujetas a las responsabilidades previstas en los Artículos 
 81 y 82 del Código Tributario.
-[Image: Im0]
 
 ***Nota del Editor:*** *La RND Nº 10-0002-02 de 28/02/2002 en su Artículo Único,* ***modificó*** *el* 
 *Numeral precedente*
@@ -5991,7 +5839,6 @@ ejemplares de los Estados Financieros con dictamen de auditoría, los que serán
 la entidad receptora. El primer ejemplar corresponderá al Servicio de Impuestos Nacionales, 
 el segundo quedará en poder de la empresa o profesional firmante del dictamen y el tercer 
 ejemplar quedará en poder del contribuyente como constancia de su presentación.
-[Image: Im0]
 
 **5.-**De acuerdo con lo establecido en el Artículo 36 del Decreto Supremo Nº 24051 de 29 de junio 
 de 1995 los Estados Financieros básicos que deberán presentar los sujetos obligados a llevar 
@@ -6054,7 +5901,6 @@ del Auditor o Contador Público con título en provisión nacional con grado uni
 licenciatura, acompañado de la Solvencia Profesional otorgada por el Colegio Profesional 
 correspondiente, cumpliendo con las formalidades establecidas en el Artículo 4 del Decreto 
 Supremo Nº 26226 de 21 de junio de 2001.
-[Image: Im0]
 
 ---
 
@@ -6062,7 +5908,6 @@ Para el efecto y por única vez, los Auditores o Contadores Públicos, deberán 
 Gerencia Distrital del Departamento en que normalmente realizan sus actividades, una 
 fotocopia legalizada del título en provisión nacional que certifique su habilitación profesional 
 como Auditores o Contadores Públicos.
-[Image: Im0]
 
 ***Nota del Editor:*** *La RND Nº 10-0024-05 de 17/08/2005 en su Artículo Único,* ***modificó*** *los* 
 *Párrafos precedentes.*
@@ -6146,7 +5991,6 @@ abonos por cobros de deudas que fueron devengadas en períodos anteriores.
 **GESTIÓN……………………**
 **INFORMACIÓN SOBRE LA DETERMINACIÓN DEL DÉBITO FISCAL IVA DECLARADO**
 **(EXPRESADO EN BOLIVIANOS)**
-[Image: Im0]
 
 | MESES | Total ingresos según los Estados Financieros | Devoluciones recibidas y descuentos otorgados | Ingresos devengados en el periodo no facturados | Ingresos no gravados(1) | Ingresos gravados o facturados | Ventas netas al 100% | Ingresos facturados en el periodo, devengados en periodos anteriores al 100% | Total ingresos gravados | Ingresos declarados según Form.143 | Diferencias |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -6203,7 +6047,6 @@ Fiscal registrado en el período que corresponde a meses anteriores.
 **Columna G:** Crédito Fiscal por Facturas registradas en meses posteriores. Deberá incluir los créditos fiscales 
 que corresponden al mes en curso pero que se contabilizaron en meses posteriores por algún 
 retraso.
-[Image: Im0]
 
 ---
 
@@ -6244,7 +6087,6 @@ retraso.
 
 **Con el propósito de obtener resultados reales, es necesario que todos los datos necesarios para** 
 **obtener los subtotales 1 y 2, sean registrados sin incluir el ajuste por inflación.**
-[Image: Im0]
 
 En este Anexo la empresa debe tener el cuidado de incluir los datos detallados por cada una de las 
 cuentas que se consideran en el cálculo de la proporcionalidad.
@@ -6306,7 +6148,6 @@ cuentas que se consideran en el cálculo de la proporcionalidad.
 edición de libros, periódicos, boletines informativos, porción de capital de las cuotas de 
 leasing, venta de minerales en el mercado interno, establecimientos de educación, venta de 
 vehículos cuando corresponda, etc.
-[Image: Im0]
 
 **Columna C:** Ingresos que están gravados por el IT y no están gravados por el IVA como ser: Intereses 
 obtenidos por entidades financieras.
@@ -6367,7 +6208,6 @@ obtenidos por entidades financieras.
 **Mes 1** Corresponde al saldo del IUE por compensar de la gestión anterior que tiene la empresa al inicio 
 de la gestión. A partir de la segunda gestión en que se presente éste cuadro este importe deberá coincidir 
 con la columna F mes 12 del Anexo 5 de la gestión anterior.
-[Image: Im0]
 
 **Mes 2 al 4 y 6 al 12** Se traslada el importe de la columna E del mes anterior.
 
@@ -6378,7 +6218,6 @@ con la columna F mes 12 del Anexo 5 de la gestión anterior.
 **Rubro (J)** Corresponde a regularizaciones efectuadas en esta cuenta que se pueden producir por 
 variaciones en las estimaciones efectuadas inicialmente en el anticipo del IUE. De acuerdo a la variación esta podrá ser un cargo (estimación en defecto del IUE a compensar) o abono (estimación en exceso del reproducción 
 IUE a compensar) en la cuenta del anticipo.
-[Image: Im0]
 
 ## ANEXO 5
 
@@ -6449,7 +6288,6 @@ por inflación.
 
 **Columna C:** Corresponde al importe cargado a resultados por concepto de horas extras y sobretiempos, netos 
 de ajuste por inflación.
-[Image: Im0]
 
 **Columna D:** Corresponde al importe cargado a resultados por concepto de otros pagos al personal netos de 
 ajuste por inflación.
@@ -6519,7 +6357,6 @@ Mes 12 |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 En este Anexo se debe detallar los ingresos y los gastos del contribuyente por cada una de las cuentas 
 de resultados.
-[Image: Im0]
 
 ## ANEXO 7
 
@@ -6564,7 +6401,6 @@ D que corresponden a beneficiarios locales. Estos saldos deberán obtenerse de l
 corresponden a organismos internacionales exentos. Estos saldos deberán obtenerse de las 
 subcuentas analíticas de las cuentas de gastos o en su caso de un análisis del mayor de cada 
 cuenta.
-[Image: Im0]
 
 **Columna I** En esta columna se deberá registrar, los importes devengados que se encuentran pendientes 
 de pago en cada período.
@@ -6619,7 +6455,6 @@ Totales |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 ---
 
 J. Detalle de remesas devengadas en periodos anteriores pagadas en el periodo
-[Image: Im0]
 
 | Conceptos | Importes Bs |
 | --- | --- |
@@ -6646,7 +6481,6 @@ M.  Detalle de las diferencias encontradas
 
 En este Anexo se deberá detallar los saldos de todas las cuentas relacionados con las operaciones reproducción 
 fiscales al cierre de la gestión.
-[Image: Im0]
 
 ## ANEXO 9
 
@@ -6676,7 +6510,6 @@ fiscales al cierre de la gestión.
 
 Este Anexo deberá ser elaborado para cada uno de los productos terminados que comercialice el 
 contribuyente.
-[Image: Im0]
 
 **Columna A** En esta columna se deberá registrar el inventario inicial de cada período.
 
@@ -6721,7 +6554,6 @@ fueron encomendados a terceros.
 En este Anexo se deberá detallar por producto las cantidades vendidas en cada mes, la tasa del impuesto 
 vigente en cada período para obtener el impuestos determinado según los movimientos de inventarios a 
 ser comparado con el impuesto liquidado por el contribuyente.
-[Image: Im0]
 
 La sumatoria total del Numeral 5. debe coincidir con los ingresos netos de descuentos según los Estados 
 Financieros.
@@ -6791,7 +6623,6 @@ Financieros.
 En este Anexo se deberá detallar por producto las cantidades vendidas en cada mes, el precio de venta 
 (neto de descuentos) y la tasa del impuesto vigente en cada período para obtener el impuesto determinado 
 según los movimientos de inventarios a ser comparado con el impuesto liquidado por el contribuyente.
-[Image: Im0]
 
 La sumatoria total del Numeral 5. debe coincidir con los ingresos netos de descuentos según los Estados 
 Financieros.
@@ -6863,7 +6694,6 @@ Financieros.
 
 Corresponde al importe registrado en la cuenta de gastos por servicios contratados con Beneficiarios del Exterior por Actividades Parcialmente Realizadas en el País (reaseguros, telecomunicaciones, transporte, agencias de noticias, etc. Esta información corresponde al gasto devengado 
 en cada período.
-[Image: Im0]
 
 **Columna C:** Corresponde al impuesto declarado en el Formulario 56 de cada período.
 
@@ -6907,7 +6737,6 @@ en cada período.
 El examen de auditoría externa en general y de la «Información Tributaria Complementaria a los 
 Estados Financieros Básicos» en particular, deberá ser efectuado de acuerdo con Normas de Auditoría 
 Generalmente Aceptadas y por lo tanto cumplir con los siguientes objetivos:
-[Image: Im0]
 
 −	 Lograr una comprensión del negocio de la empresa y de la industria en la que operan y 
 de los impuestos a los que está sujeta.
@@ -6947,7 +6776,6 @@ la necesidad de ampliar el tamaño de las muestras. Es importante aclarar que lo
 se indican a continuación son complementarios de los procedimientos que el auditor debe aplicar para 
 poder emitir su opinión sobre los Estados Financieros básicos, de acuerdo con Normas de Auditoría 
 Generalmente Aceptadas.
-[Image: Im0]
 
 −	 Efectuar seguimiento a la situación de los adeudos tributarios.
 
@@ -7008,7 +6836,6 @@ en los libros de compras, para los mismos tres meses seleccionados para la prueb
 Realizar un muestreo de las Facturas más significativas, seleccionadas al azar, registradas en el Libro de 
 Compras IVA (Pólizas de importación en especial, si las tuvieran) y tomar una prueba de cumplimiento 
 para un mes de la gestión.
-[Image: Im0]
 
 ---
 
@@ -7048,7 +6875,6 @@ Efectuar esta revisión para tres meses tomados al azar
 
 Verificar el cumplimiento de los aspectos formales en la presentación de las declaraciones juradas, 
 tomando en cuenta los siguientes aspectos:
-[Image: Im0]
 
 −	 Llenado de las casillas, incluyendo todos los datos que corresponden a cada una de ellas.
 
@@ -7095,7 +6921,6 @@ Financieros.
 Realizar una prueba global anual para el periodo analizado, a través de la comparación de los ingresos 
 gravados por este impuesto que se encuentran registrados en los Estados Financieros, con aquellos 
 ingresos declarados en los Formularios 156 durante el periodo bajo análisis.
-[Image: Im0]
 
 ## 3.- Conciliaciones de las cuentas del gasto y del pasivo.
 
@@ -7147,7 +6972,6 @@ Verificar que los cálculos de las planillas tributarias sean razonablemente cor
 cuenta los importes de salarios mínimos, el mantenimiento de valor de los créditos fiscales de los 
 dependientes, correcto arrastre de los saldos de créditos fiscales de los meses anteriores para dos 
 meses tomados al azar.
-[Image: Im0]
 
 Realizar una prueba para dos meses, que consiste en la obtención del sueldo neto a partir de los totales 
 ganados registrados en las planillas de sueldos menos los aportes laborales por seguridad social.
@@ -7183,7 +7007,6 @@ con las retenciones por remesas al exterior.
 
 Relevar información de los gastos e ingresos para determinar si su deducibilidad en el cálculo del IUE 
 es efectuada de acuerdo con lo dispuesto por la Ley Nº 843 y el Decreto Supremo Nº 24051.
-[Image: Im0]
 
 ## 2.- Cálculo de la provisión del IUE.
 
@@ -7218,7 +7041,6 @@ movimientos de inventarios y ventas.
 Sobre la base de la información obtenida, determinar los ingresos por ventas mensuales, netos de 
 descuentos y verificar que éstos ingresos coincidan con los ingresos declarados a los efectos del ICE 
 (Formulario 115 y Formulario 185).
-[Image: Im0]
 
 Verificar que las tasas aplicadas por la empresa en la liquidación del ICE coincidan con las tasas 
 establecidas por las normas vigentes y que se encuentren vigentes en el período que corresponde.
@@ -7283,7 +7105,6 @@ los impuestos y su pago íntegro y oportuno en los Formularios correspondientes.
 los listados de clientes de tres meses de la gestión (tomados al azar) y sobre una muestra 
 verificar que la entidad cuente con la documentación detallada a continuación, en los casos de 
 clientes a los cuales no ha efectuado ninguna retención:
-[Image: Im0]
 
 Copia del RUC, debidamente legalizada.
 
@@ -7325,7 +7146,6 @@ conjunto, sobre los que se emitió el dictamen principal.
 examinada ha sido elaborada de conformidad con las normas establecidas en el Reglamento 
 para la preparación de la Información Tributaria Complementaria a los Estados Financieros 
 Básicos emitidas por el Servicio de Impuestos Nacionales.
-[Image: Im0]
 
 **g)** Firma del profesional con aclaración de la misma y mención de su número de matrícula en el 
 Colegio de Auditores de Bolivia. La firma del profesional debe ir acompañada, en el ejemplar 
@@ -7360,7 +7180,6 @@ primera parte de este informe. Esta Información Financiera Tributaria ha sido p
 lineamientos establecidos en el Reglamento para la preparación de Estados Financieros e Información 
 Tributaria Complementaria a los Estados Financieros Básicos, aprobado por el Servicio de Impuestos 
 Nacionales (SIN) mediante la Resolución ………………..
-[Image: Im0]
 
 Nuestro examen, que fue practicado con el objeto principal de emitir una opinión sobre los Estados 
 Financieros considerados en su conjunto, incluyó comprobaciones selectivas de los registros contables, 
@@ -7408,7 +7227,6 @@ Monto de la Factura expresado en Bolivianos.
 
 Fdo. Directorio
 SERVICIO DE IMPUESTOS NACIONALES
-[Image: Im0]
 
 ---
 
@@ -7446,7 +7264,6 @@ las firmas Unipersonales de Auditoría inscritas en el Colegio de Auditores o Co
 Públicos de Bolivia, quedan habilitadas para la elaboración, emisión y firma de los 
 informes y dictámenes de auditoría financiera externa, las que se encuentran sujetas a las 
 responsabilidades previstas en los Artículos 81 y 82 del Código Tributario”.
-[Image: Im0]
 
 Es dada en la Sala de Reuniones del Directorio del Servicio de Impuestos Nacionales, en la ciudad 
 de La Paz.
@@ -7476,7 +7293,6 @@ productos de exportación, a personas naturales que no pudieren demostrar su cal
 deberán proceder a la retención del tres punto veinticinco por ciento (3.25%) del precio de la venta de 
 los productos y servicios, por concepto de los Impuestos a las Transacciones y sobre las Utilidades de 
 las Empresas.
-[Image: Im0]
 
 Que, el Ministerio de Desarrollo Económico mediante Resolución Ministerial N° 208 de octubre de 
 2004, a efecto de la reglamentación operativa de lo dispuesto por el Capítulo II del Decreto Supremo 
@@ -7527,7 +7343,6 @@ Empresas (IUE), cuando acrediten o efectúen pagos por los bienes y/o servicios 
 Resolución Ministerial N° 208 de 7 de octubre de 2004, con excepción de aquellas cuyas mercancías 
 se clasifican como productos de las industrias extractivas de acuerdo a la Clasificación Uniforme 
 para el Comercio Internacional.
-[Image: Im0]
 
 **Artículo Cuarto. (Forma, Condiciones y Plazos).-** Todas las retenciones efectuadas en el periodo 
 fiscal, de manera consolidada deben ser declaradas y pagadas por el Agente de Retención, utilizando 
@@ -7558,7 +7373,6 @@ IUE - RND Nº 10-0004-05
 Nº 2492 de 2 de agosto de 2003, los Agentes de Retención deben llevar un registro mensual de las 
 personas naturales que fueron objeto de retención de acuerdo a lo dispuesto en la presente Resolución 
 Normativa de Directorio, el cual contendrá la siguiente información:
-[Image: Im0]
 
 −	 Lugar y fecha de adquisición de la materia prima o presentación del servicio.
 
@@ -7611,7 +7425,6 @@ contemplando el Artículo 7 de la referida norma, la exención del Impuesto sobr
 Empresas (IUE) por un período de diez años a toda nueva industria, así como a las ampliaciones de las 
 industrias en actual existencia establecidas en la jurisdicción municipal de El Alto; instruyéndose al 
 Poder Ejecutivo su reglamentación en el plazo máximo de 90 días a partir de su promulgación.
-[Image: Im0]
 
 Que, mediante Decreto Supremo N° 27945 de 20 de diciembre de 2004, se reglamentan los beneficios 
 fiscales dispuestos por la Ley N° 2685, disponiéndose que cada Administración Tributaria elabore la 
@@ -7658,7 +7471,6 @@ ampliaciones de las inversiones de empresas industriales ya existentes en esa ju
 la exención se aplicará sobre el Impuesto sobre las Utilidades de las Empresas de cada 
 gestión determinado de acuerdo a los Estados Financieros, conforme lo dispuesto en la 
 Ley N° 843 y Disposiciones Reglamentarias, en base a la siguiente fórmula:
-[Image: Im0]
 
 $$
 Imathit E e x e n t o=\left(\frac{\sum I n\nu\_c t t v o s\_E l A l t o}{T o t a l\__A A t i v o s}\right)*I U E
@@ -7731,7 +7543,6 @@ Nacionales, el cual una vez impreso generará un número de trámite para su seg
 quedando habilitado por un período de diez (10) días hábiles siguientes. Vencido el plazo, el registro 
 y número de trámite en sistema quedará nulo automáticamente y se tendrá por desistida la solicitud, 
 pudiendo optar el sujeto pasivo o tercero responsable de volver a llenar el Formulario.
-[Image: Im0]
 
 **II.** El Formulario GJ-005 “Solicitud de Exención del IUE” debidamente impreso y firmado por el 
 contribuyente, deberá ser presentado junto a memorial o nota de solicitud de formalización de la 
@@ -7785,7 +7596,6 @@ observaciones llenando previamente el Formulario GJ-006 “Reingreso de Solicitu
 IUE” que se encuentra disponible en la Oficina Virtual, debiendo presentar el formulario de reingreso 
 impreso y los documentos requeridos ante la Gerencia Distrital o GRACO de su jurisdicción en el 
 término de quince (15) días a partir del día siguiente hábil de la notificación con el Auto de Rechazo, caso 
-[Image: Im0]
 
 ---
 
@@ -7822,7 +7632,6 @@ Departamento de Fiscalización instruirá la cancelación de la exención en el 
 correspondiendo el cobro de los tributos que se dejaron de pagar por efecto de la exención pérdida, así 
 como la aplicación de la sanción respectiva, conforme lo dispuesto por la Ley N° 2492 de 2 de agosto 
 de 2003 Código Tributario Boliviano.
-[Image: Im0]
 
 Sin perjuicio de lo dispuesto en el Párrafo precedente y a objeto de regularizar la cancelación de 
 la exención, la Gerencia Distrital o la Gerencia GRACO de su jurisdicción, emitirá la respectiva 
@@ -7869,7 +7678,6 @@ consolidados presentados por cada gestión fiscal, conforme establece la Ley N°
 Supremo Nº 24051, la Resolución Normativa de Directorio Nº 10-0001-02 de 9 de enero de 2002, 
 Resolución Normativa de Directorio N° 10-0015-02 de 29 de noviembre de 2002 y demás Disposiciones 
 reglamentarias. 
-[Image: Im0]
 
 Asimismo, por las particularidades establecidas en la Ley N° 2685, los sujetos pasivos que se 
 beneficien con la exención del IUE por las nuevas inversiones o ampliaciones a las inversiones 
@@ -7912,7 +7720,6 @@ con la documentación contable e impositiva, conforme lo dispuesto en el Artícu
 de 2 de agosto de 2003 Código Tributario Boliviano y el Artículo 28 del Decreto Supremo N° 27310 de 9 
 de enero de 2004. El saldo a favor del contribuyente que resulte, como efecto de la presente rectificación 
 deberá ser restituido al contribuyente bajo la acción de repetición conforme al procedimiento vigente.
-[Image: Im0]
 
 Regístrese, hágase saber y cúmplase.
 
@@ -7952,7 +7759,6 @@ a lo dispuesto en el Artículo 9 de la Ley Nº 2166 de 22 de diciembre de 2000, 
 Decreto Supremo Nº 26462 de 22 de diciembre de 2001, el cual faculta al Directorio del Servicio de 
 Impuestos Nacionales a dictar Resoluciones de Directorio, a los efectos de la aplicación de leyes y 
 demás disposiciones en materia tributaria.
-[Image: Im0]
 
 ## POR TANTO:
 
@@ -7977,7 +7783,6 @@ Para el efecto y por única vez, los Auditores o Contadores Públicos, deberán 
 Gerencia Distrital del Departamento en que normalmente realizan sus actividades, una 
 fotocopia legalizada del título en provisión nacional que certifique su habilitación profesional 
 como Auditores o Contadores Públicos”.
-[Image: Im0]
 
 Regístrese, notifíquese y cúmplase.
 
@@ -8008,7 +7813,6 @@ Que, el Artículo 3 del Decreto Supremo Nº 27190 de 30 de septiembre de 2003, a
 Artículo 5 del Decreto Supremo Nº 24051, Reglamento del IUE, modifica el procedimiento para el 
 reconocimiento de la exención y faculta a la Administración Tributaria a emitir la norma general que 
 permita su aplicación.
-[Image: Im0]
 
 Que, a partir de lo dispuesto en las normas citadas, se hace necesario establecer el procedimiento y los 
 requisitos administrativos para la formalización del beneficio señalado.
@@ -8044,7 +7848,6 @@ requisitos establecidos en el Inciso b) del Artículo 49 de la Ley Nº 843 (Text
 constituidas bajo un principio de autonomía patrimonial, en virtud del cual se diferencie el patrimonio 
 de la persona colectiva del de sus miembros o asociados, patrimonio que una vez constituido no podrá 
 ser afectado, sino a los fines para los que fue establecido.
-[Image: Im0]
 
 **II.** Las Entidades sin Fines de Lucro que realicen algún tipo de actividad comercial, podrán gozar de la 
 exención, siempre y cuando los ingresos obtenidos sean destinados por la institución exclusivamente 
@@ -8125,7 +7928,6 @@ IUE - F.520» debidamente impreso y firmado por el sujeto pasivo o tercero respo
 presentado dentro de los diez (10) días hábiles siguientes de realizada su solicitud en línea, acompañando 
 los requisitos señalados en el Artículo 7 de la presente Resolución y según corresponda en las oficinas 
 del SIN de su jurisdicción.
-[Image: Im0]
 
 ***Nota del Editor:*** *La RND Nº 10-0030-14 de 19/12/2014 en su Artículo 4, Parágrafo I,* ***modificó*** 
 IUE - RND Nº 10-0030-05
@@ -8179,7 +7981,6 @@ e) Otra documentación o información según el caso particular.
 4. Organizaciones Sociales, Organizaciones No Gubernamentales (ONG ‹s), Fundaciones y Entidades 
 Civiles sin fines de lucro que desarrollen actividades únicamente a nivel departamental, deberán 
 acompañar a su solicitud la siguiente documentación:
-[Image: Im0]
 
 IUE - RND Nº 10-0030-05 a) Original y fotocopia del documento emitido por autoridad competente que acredite su reproducción 
 personalidad jurídica.
@@ -8201,7 +8002,6 @@ Resolución Normativa de Directorio, para proceder a emitir un Auto Administrati
 o Rechazo de Solicitud de Exención del IUE, que deberá ser comunicado en la Pizarra Tributaria 
 de la Oficina Virtual y notificado en Secretaría conforme al artículo 90 de la Ley Nº 2492, Código 
 Tributario Boliviano. 
-[Image: Im0]
 
 Si la solicitud fuere rechazada por observaciones de forma, el solicitante podrá subsanar las observaciones 
 llenando previamente el Formulario «REINGRESO», que se encuentra disponible en la Oficina Virtual, 
@@ -8243,7 +8043,6 @@ Departamento Jurídico y de Cobranza Coactiva de la Gerencia Distrital o GRACO d
 establecido en el artículo 90 de la Ley N° 2492 de 2 de agosto de 2003, Código Tributario Boliviano; la 
 Resolución Administrativa de Rechazo de Exención del IUE será notificada en el domicilio tributario 
 del contribuyente, conforme lo establecido en los artículos 84 y siguientes de la citada norma legal. 
-[Image: Im0]
 
 Sin perjuicio de las notificaciones señaladas, la Resolución Administrativa que resuelva la solicitud 
 de exención deberá ser comunicada en la pizarra tributaria de la Oficina Virtual del Servicio de 
@@ -8319,7 +8118,6 @@ IUE - RND Nº 10-0030-05
 privadas, debiendo los mismos ser diferenciados considerando las especificaciones establecidas por el 
 generador del recurso respecto a su disponibilidad, ya que esta puede esta puede tener restricciones para 
 su uso. Estas restricciones pueden ser temporales o permanentes. 
-[Image: Im0]
 
 En caso de recibir activos bajo una solo operación que representen varias condiciones, deberán ser 
 expuestos en el grupo al que pertenecen en la proporcionalidad que corresponda.
@@ -8370,7 +8168,6 @@ Se debe considerar que los ingresos derivados de los bienes donados a la institu
 restricción respecto su uso o destino, o estar totalmente liberados de ella, quedando el destino de los 
 ingresos derivados de los bienes donados a juicio de la institución de acuerdo a su objetivo estatuario, 
 por lo que movimiento de estas cuentas debe estar reflejado en este estado. 
-[Image: Im0]
 
 IUE - RND Nº 10-0030-05
 
@@ -8387,7 +8184,6 @@ dieron origen al recurso.
 Este Estado de Flujo de Efectivo será similar al cualquier otra organización, pero además incluir 
 en el acápite de fondos generados o aplicados a actividades financieras los flujos de afectivo con 
 restricciones establecidas por el donante y que tengan que ser aplicados a objetivos de largo plazo.
-[Image: Im0]
 
 ---
 
@@ -8431,7 +8227,6 @@ la declaración y pago de las retenciones del Impuesto sobre las Utilidades de l
 del Exterior (IUE-BE), en aplicación de un Convenio Internacional ratificado por el Poder Legislativo, 
 que disponga un limité máximo del impuesto a ser aplicado a los dividendos u otros conceptos, menor 
 a la alícuota en actual vigencia del IUE-BE.
-[Image: Im0]
 
 **II.** El Formulario en cuestión, deberá ser utilizado por el agente de retención o sustituto, en la medida 
 que se cumplan con las condiciones y requisitos dispuestos por el Convenio Internacional para el goce 
@@ -8445,7 +8240,6 @@ IUE - RND Nº 10-0006-06
 se realizarán conforme a los procedimientos en actual vigencia, dentro el plazo dispuesto en el Decreto 
 Supremo N° 25619 de 17 de diciembre de 1999, de acuerdo al último dígito del NIT del agente de 
 retención o sustituto.
-[Image: Im0]
 
 **II.** La presentación  del Formulario y pago de impuesto fuera del término, originarán Deuda Tributaria 
 conforme las previsiones del Artículo 47 de la Ley N° 2492 de 2 agosto de 2003, Código Tributario 
@@ -8499,7 +8293,6 @@ del sujeto pasivo, de la obligación de respaldar documental y contablemente las
 a lo dispuesto por el Artículo 70 de la Ley Nº 2492 de 2 de agosto de 2003, Código Tributario Boliviano. 
 El incumplimiento de lo dispuesto en el presente Numeral, será sancionado con la multa establecida en 
 el Punto 4.1 del Numeral 4 del Anexo A) de la Resolución Normativa de Directorio N° 10-0021-04.
-[Image: Im0]
 
 ***Nota del Editor:*** *La RND Nº 101700000030 de 29/12/2017 en su Disposición Derogatoria* 
 *Única,* ***derogó*** *el Artículo precedente.*
@@ -8554,7 +8347,6 @@ Impuestos Nacionales (SIN) puede ejecutar acciones que son de competencia del Di
 entendido, el Inciso a) del Numeral 1. de la Resolución Administrativa de Directorio Nº 09-0011-02 
 autoriza al Presidente Ejecutivo a suscribir resoluciones normativas de directorio cuando la urgencia 
 del acto así lo imponga, para su posterior homologación.
-[Image: Im0]
 
 ## POR TANTO:
 
@@ -8573,7 +8365,6 @@ Administrativa de Directorio Nº 09-0011-02 de 28 de agosto de 2002,
 presentación de la Declaración Jurada y Pago del Impuesto sobre las Utilidades de las Empresas – IUE, 
 para las personas naturales afiliadas o no a líneas sindicales, que prestan servicio público de transporte 
 interdepartamental de pasajeros o carga, que tengan en propiedad hasta dos (2) vehículos automotores.
-[Image: Im0]
 
 **Artículo 2. (Registro).-** Los contribuyentes no afiliados a línea sindical y las líneas sindicales 
 en representación de sus afiliados, deberán actualizar su información en el Padrón Nacional de 
@@ -8629,7 +8420,6 @@ IUE - RND Nº 10-0003-07
 **b)** Deberán portar la siguiente información, misma que deberá ser remitida en medio magnético reproducción 
 en formato texto “TXT” o también denominado archivo plano, para el efecto considerarán 
 la siguiente información:
-[Image: Im0]
 
 • Apellido Materno
 
@@ -8730,7 +8520,6 @@ b) Las personas naturales y Líneas Sindicales que realicen la actividad de tran
 interdepartamental de carga, deberán pagar por vehículo el importe establecido en el 
 Decreto Supremo Nº 29745 de 15 de octubre de 2008 de acuerdo a la capacidad de 
 carga o arrastre.
-[Image: Im0]
 
 c) Las personas naturales y Líneas Sindicales que realicen la actividad de transporte 
 interdepartamental de pasajeros y carga deberán pagar por vehículo de acuerdo a los 
@@ -8757,7 +8546,6 @@ que pertenezca, portando la documentación que lo acredite como tal, a objeto de
 Pasajeros), mismo que será generado por Sistema con la información declarada por el contribuyente, 
 seguidamente deberá apersonarse ante cualquier Entidad Financiera autorizada para hacer efectivo el 
 pago del impuesto determinado.
-[Image: Im0]
 
 **III.** Los plazos para la presentación de las declaraciones juradas y el pago del impuesto, vencerá 
 a los ciento veinte días (120) posteriores al cierre de gestión fiscal (31 de diciembre), caso 
@@ -8815,7 +8603,6 @@ Integrado Especial, ya sean originales o fotocopias legalizadas y documentos de 
 **III.**  Las Líneas Sindicales en representación de sus afiliados y los contribuyentes no afiliados a Líneas 
 Sindicales, están obligados a actualizar su información en el Padrón Nacional de Contribuyentes 
 hasta el día 16 de abril de 2007.
-[Image: Im0]
 
 ***Nota del Editor:*** *La RND Nº 10-0009-07 de 30/03/2007 en su Artículo 3,* ***modificó*** *el* 
 *Parágrafo precedente.*
@@ -8856,7 +8643,6 @@ del Servicio de Impuestos Nacionales (SIN) puede ejecutar acciones que son de co
 del Directorio; en ese entendido, el Inciso a) del Numeral 1. de la Resolución Administrativa de 
 Directorio Nº 09-0011-02 autoriza al Presidente Ejecutivo a suscribir Resoluciones Normativas de 
 Directorio cuando la urgencia del acto así lo amerite. 
-[Image: Im0]
 
 ## POR TANTO:
 
@@ -8875,7 +8661,6 @@ Empresas que prestan servicio público de transporte interdepartamental de pasaj
 establece el Decreto Supremo Nº 28988 de 29 de diciembre de 2006, deberán tributar este impuesto 
 por un monto de Bs2.699.- (Dos Mil Seiscientos Noventa y Nueve 00/100 Bolivianos) por la Gestión 
 2007. 
-[Image: Im0]
 
 Regístrese, publíquese y cúmplase
 
@@ -8928,7 +8713,6 @@ IUE - RND Nº 10-0002-08Servicio de Impuestos Nacionales puede ejecutar acciones
 en ese entendido, el Inciso a) del Numeral 1. de la Resolución Administrativa de Directorio Nº 09-
 0011-02 autoriza al Presidente Ejecutivo a suscribir resoluciones normativas de directorio cuando la 
 urgencia del acto así lo amerite.
-[Image: Im0]
 
 ---
 
@@ -8950,7 +8734,6 @@ DIFERENCIAS DE CAMBIO Y MANTENIMIENTO DE VALOR, emitidas por el Consejo Técnico
 Nacional de Auditoria y Contabilidad del Colegio de Auditores o Contadores Públicos Autorizados 
 de Bolivia, relacionadas con la determinación de la utilidad neta imponible del Impuesto sobre las 
 Utilidades de las Empresas (IUE).
-[Image: Im0]
 
 ***Nota del Editor:*** *La RND Nº 10-0004-08 de 18/01/2008 en su Artículo 1, Parágrafo I,* 
 ***modificó*** *el Artículo precedente.*
@@ -9004,7 +8787,6 @@ necesario modificar y complementar la Resolución Normativa de Directorio Nº 10
 la vigencia de las Normas de Contabilidad Nº 3 y 6, con excepción del Apartado 3 de la NC 3, en razón a 
 lo dispuesto en el Artículo 2 del Decreto Supremo Nº 29387 y la facultad de la Administración Tributaria a 
 reglamentar sin encontrarse sujeta a ningún tipo de condición.
-[Image: Im0]
 
 Que, la presente disposición prevé de manera excepcional y sólo por la gestión 2007, que los Estados 
 Financieros puedan re-expresarse utilizando ajustes simplificados tomando en cuenta el promedio 
@@ -9057,7 +8839,6 @@ de  marzo, 30 de junio y 30 de septiembre de 2008, los sujetos pasivos de este i
 excepcional podrán utilizar métodos de ajustes simplificados acordes con  los Principios de Contabilidad 
 Generalmente Aceptados (PCGA), que consideren el   promedio de la variación oficial de las Unidades 
 de Fomento de Vivienda (UFV) de  cada mes de las gestiones de cierre.   
-[Image: Im0]
 
 ***Nota del Editor:*** *La RND Nº 10-0019-08 de 25/06/2008 en su Artículo Único,* ***modificó*** *el* 
 *Artículo precedente.*
@@ -9111,7 +8892,6 @@ y gastos del ejercicio, de manera que la Administración Tributaria pueda verifi
 de los requisitos que justifiquen la exención, de acuerdo a lo definido en la Resolución Normativa de 
 Directorio Nº 10-0030-05 de fecha 14 de septiembre de 2005, que establece requisitos para la exención 
 del IUE, estados que forman parte de la Memoria Anual y plazo de presentación.
-[Image: Im0]
 
 Que, el Artículo 8 de la Resolución Normativa de Directorio Nº 10-0033-04 de 17 de diciembre de 
 2004, dispone que cuando los usuarios del Portal Tributario presenten declaraciones juradas sin monto 
@@ -9132,7 +8912,6 @@ Servicio de Impuestos Nacionales puede ejecutar acciones que son de competencia 
 este entendido el Inciso a) del Numeral 1. de la Resolución Administrativa de Directorio Nº 09-0011-
 02 de 28 de agosto de 2002, autoriza al Presidente Ejecutivo a suscribir Resoluciones Normativas de 
 Directorio cuando la urgencia del acto así lo amerite.
-[Image: Im0]
 
 ## POR TANTO:
 
@@ -9185,7 +8964,6 @@ y proyectos efectuados, además de los ingresos y gastos del ejercicio o gestió
 manera que la Administración Tributaria pueda verificar el cumplimiento de los requisitos 
 que justifiquen la exención y de acuerdo a lo determinado en la Disposición Final Segunda de 
 la Resolución Normativa de Directorio Nº 10-0030-05, debe contener los siguientes Estados:
-[Image: Im0]
 
 **c.1)** Estado de Situación Patrimonial.
 
@@ -9233,7 +9011,6 @@ PRICO, cuyas ventas y/o ingresos brutos anuales, sean menores a Bs1.200.000.- (U
 Doscientos Mil 00/100 Bolivianos), deberán presentar su Declaración Jurada Formulario 605 
 “Presentación de Estados Financieros o Memoria Anual” en cualquiera de las entidades financieras 
 autorizadas, adjuntando los Estados Financieros que se citan a continuación:
-[Image: Im0]
 
 **a.** Balance General.
 
@@ -9264,7 +9041,6 @@ Millón Doscientos Mil 00/100 Bolivianos), deberán presentar su Declaración Ju
 605 “Estados Financieros o Memoria Anual” en cualquiera de las entidades financieras autorizadas, 
 adjuntando la Memoria Anual correspondiente que contenga los documentos que se citan a 
 continuación:
-[Image: Im0]
 
 **a.** Estado de Situación Patrimonial.
 
@@ -9338,7 +9114,6 @@ impuesto, cuyas ventas y/o ingresos brutos anuales sean iguales o mayores a Bs1.
 Formulario 605 “Presentación de Estados Financieros o Memoria Anual” adjuntando la 
 Memoria Anual que contenga los documentos que se citan a continuación, en cualquiera de 
 las entidades financieras autorizadas:
-[Image: Im0]
 
 **a.** Estado de Situación Patrimonial.
 **b.** Estado de Actividades.
@@ -9354,7 +9129,6 @@ Atención al Contribuyente de la Gerencia Distrital de su jurisdicción, donde e
 receptor previa verificación de la presentación de la Declaración Jurada Formulario 605, sellará 
 los documentos de la Memoria Anual presentados y retendrá el ejemplar correspondiente a la 
 Administración Tributaria.
-[Image: Im0]
 
 Los **Contribuyentes Newton**, exentos del pago de IUE, cuyas ventas y/o ingresos brutos anuales 
 sean iguales o mayores a Bs1.200.000.- (Un Millón Doscientos Mil 00/100 Bolivianos), deberán 
@@ -9396,7 +9170,6 @@ pago del IUE, deberán apersonarse a Plataforma de Atención al Contribuyente de
 GRACO de su jurisdicción con el número de trámite de su Declaración Jurada Formulario 605 
 “Presentación de Estados Financieros o Memoria Anual” adjuntando los documentos de la 
 Memoria Anual que a continuación se cita:
-[Image: Im0]
 
 **a.** Estado de Situación Patrimonial.
 
@@ -9443,7 +9216,6 @@ Estados Financieros y Determinación del IUE correspondiente a la gestión fisca
 de diciembre de 2007, por la cual los sujetos pasivos de este impuesto podían utilizar métodos de 
 ajustes simplificados acordes con los Principios de Contabilidad Generalmente Aceptados (PCGA), 
 considerando el promedio de la variación oficial de las UFV’s de cada mes de la gestión 2007.
-[Image: Im0]
 
 Que, en razón del principio de generalidad y con el objeto de facilitar el cumplimiento de la obligación 
 tributaria en el marco del Decreto Supremo N° 29387, se debe modificar el tratamiento de excepción 
@@ -9481,7 +9253,6 @@ sujetos pasivos de este impuesto de manera excepcional podrán utilizar métodos
 simplificados acordes con los Principios de Contabilidad Generalmente Aceptados (PCGA), 
 que consideren el promedio de la variación oficial de las Unidades de Fomento de Vivienda 
 (UFV) de cada mes de las gestiones de cierre”.
-[Image: Im0]
 
 Regístrese, publíquese y cúmplase.
 
@@ -9517,7 +9288,6 @@ Servicio de Impuestos Nacionales puede ejecutar acciones que son de competencia 
 en ese entendido, el Inciso a) del Numeral 1 de la Resolución Administrativa de Directorio Nº 09-
 0011-02 autoriza al Presidente Ejecutivo a suscribir resoluciones normativas de directorio cuando la 
 urgencia del acto así lo amerite. 
-[Image: Im0]
 
 ## POR TANTO:
 
@@ -9587,7 +9357,6 @@ deben regularizar el pago de los Anticipos mensuales por los períodos enero a m
 conforme determina la Disposición Transitoria Cuarta del Decreto Supremo Nº 29577, hasta 
 las fechas de vencimiento correspondientes al periodo junio 2008, mediante el Formulario 587 
 por cada período fiscal.  
-[Image: Im0]
 
 IUE - RND Nº 10-0023-08
 
@@ -9606,7 +9375,6 @@ de Transición”.
 sujetos pasivos o terceros responsables de la AA-IUE que no sean usuarios de este Portal, deberán 
 solicitar su incorporación cumpliendo lo establecido en la Resolución Normativa de Directorio Nº 10-
 0030-07 de 31 de octubre de 2007.
-[Image: Im0]
 
 Regístrese, hágase saber y cúmplase.
 
@@ -9633,7 +9401,6 @@ terceros responsables descritos deben pagar anualmente por vehículo un monto de
 Quinientos 00/100 Bolivianos) por concepto del IUE y que será actualizado anualmente en base a la 
 variación dela Unidad de Fomento a la Vivienda (UFV), correspondiendo actualizar dicho monto por 
 concepto del IUE para la gestión 2008, considerando el parámetro previsto. 
-[Image: Im0]
 
 Que de acuerdo al Inciso p) del Artículo 19 del Decreto Supremo Nº 26462 de 22 de diciembre de 2001, 
 excepcionalmente y cuando las circunstancias lo justifiquen, el Presidente Ejecutivo del SIN puede 
@@ -9697,7 +9464,6 @@ establecido para estos dos rubros de transporte sin distinción, correspondiendo
 la forma de registro de vehículos considerando su capacidad de carga o arrastre a objeto que el 
 transporte interdepartamental de carga pague el monto por concepto de IUE conforme a las escalas de 
 categorización previstas en el Decreto Supremo Nº 29745.
-[Image: Im0]
 
 Que, de conformidad al Inciso p) del Artículo 19 del Decreto Supremo Nº 26462 de 22 de diciembre de 
 IUE - RND Nº 10-0001-09
@@ -9726,7 +9492,6 @@ servicio de Transporte Interdepartamental de Carga considerando la capacidad de 
 vehículos, que ya cuenten con registro en el Servicio de Impuestos Nacionales (SIN) o ingresen al rubro 
 del transporte interdepartamental de carga a partir de la publicación de la presente resolución, a efectos 
 de pago del monto por concepto del Impuesto sobre las Utilidades de las Empresas (IUE).
-[Image: Im0]
 
 **Artículo 2. (Registro de Capacidad de Carga o Arrastre y Plazo).-** Los sujetos pasivos o terceros 
 responsables señalados en el Artículo precedente que ya tuvieren registrados sus vehículos en el Padrón 
@@ -9776,7 +9541,6 @@ registrados, portando la documentación que los acredite como tal, a objeto de r
 y Carga”, que será generado por Sistema con la información declarada, debiendo posteriormente 
 hacer efectivo el pago del monto determinado en cualquier Entidad Financiera autorizada, en el plazo 
 establecido en el Artículo 39 del Decreto Supremo Nº 24051.
-[Image: Im0]
 
 **Artículo 4. (Presunción por Falta de Registro).-** En caso de no registrar la capacidad de carga o 
 arrastre en el plazo previsto en el Artículo 2 de la presente resolución, se presumirá que el vehículo se 
@@ -9804,7 +9568,6 @@ Mil Quinientos 00/100 Bolivianos).
 interdepartamental de carga, deberán pagar por vehículo el importe establecido en el 
 Decreto Supremo Nº 29745 de 15 de octubre de 2008 de acuerdo a la capacidad de 
 carga o arrastre.
-[Image: Im0]
 
 **c)** Las personas naturales y Líneas Sindicales que realicen la actividad de transporte 
 interdepartamental de pasajeros y carga deberán pagar por vehículo de acuerdo a los 
@@ -9847,7 +9610,6 @@ establecido en el Artículo 2 de la Resolución Normativa de Directorio Nº 10-0
 los sujetos pasivos o terceros responsables del sector de autotransporte que prestan servicios de 
 transporte interdepartamental de carga registren la capacidad de carga o arrastre de sus vehículos y 
 paguen el IUE conforme a los nuevos importes.
-[Image: Im0]
 
 Que, de conformidad al Inciso p) del Artículo 19 del Decreto Supremo Nº 26462 de 22 de diciembre 
 de 2001, excepcionalmente y cuando las circunstancias lo justifiquen, el Presidente Ejecutivo 
@@ -9873,7 +9635,6 @@ Resolución Normativa de Directorio Nº 10-0001-09 de 7 de enero de 2009, para q
 naturales afiliadas o no a Líneas Sindicales que presten el servicio de transporte interdepartamental 
 de carga que ya cuenten con registro o ingresen al rubro, registren la capacidad de carga o arrastre 
 de sus vehículos.
-[Image: Im0]
 
 Regístrese, hágase saber y cúmplase.
 
@@ -9921,7 +9682,6 @@ este entendido, el Inciso a) del Numeral 1. de la Resolución Administrativa de 
 02 de 28 de agosto de 2002, autoriza al Presidente Ejecutivo a suscribir Resoluciones Normativas de 
 Directorio cuando la urgencia del acto así lo imponga, para su posterior homologación.
 IUE - RND Nº 10-0020-09
-[Image: Im0]
 
 ## POR TANTO:
 
@@ -9942,7 +9702,6 @@ sujetos pasivos o terceros responsables deben presentar junto con su Declaració
 598 - Impuesto Sobre las Utilidades de las Empresas (IUE), los Estados Financieros de acuerdo a las 
 definiciones establecidas en el Artículo 2 de la Resolución Normativa de Directorio Nº 10-0014-08 
 de 11 de abril de 2008, con excepción del Inciso c). 
-[Image: Im0]
 
 **II.** Los sujetos pasivos definidos en el Capítulo IV del Título III Decreto Supremo Nº 24780, 
 deben presentar el Formulario 571 Impuesto Sobre las Utilidades de las Empresas – Liquidación 
@@ -9996,7 +9755,6 @@ para personas naturales que prestan el servicio público de transporte interdepa
 y carga, estableciendo para la gestión 2008 la suma de Bs3.076.- (Tres Mil Setenta y Seis 00/100 
 Bolivianos), monto que es preciso actualizar para la gestión 2009, considerando las variaciones de la 
 UFV producida entre el 1 de enero al 31 de diciembre de 2009.
-[Image: Im0]
 
 Que, de acuerdo al Inciso p) del Artículo 19 del Decreto Supremo Nº 26462 de 22 de diciembre de 
 2001, excepcionalmente y cuando las circunstancias lo justifiquen, el Presidente Ejecutivo del Servicio 
@@ -10023,7 +9781,6 @@ de 2006 por concepto del Impuesto sobre las Utilidades de las Empresas (IUE), en
 Mil Doscientos Diecinueve 00/100 Bolivianos), que deberá ser pagado por los sujetos pasivos o 
 terceros responsables que prestan servicio público de transporte interdepartamental de pasajeros y 
 carga, por la gestión 2009.
-[Image: Im0]
 
 Regístrese, publíquese y cúmplase
 
@@ -10058,7 +9815,6 @@ de los siguientes importes: Livianos Bs2.000.- (Dos Mil 00/100 Bolivianos); Medi
 00/100 Bolivianos), que deben ser actualizados anualmente en base a la variación de la Unidad de 
 Fomento de Vivienda (UFV), conforme a lo establecido en el Artículo 2 del Decreto Supremo Nº 
 28988 de 29 de diciembre de 2006.
-[Image: Im0]
 
 Que, la Resolución Normativa de Directorio Nº 10-0023-09 de 24 de diciembre de 2009 publicada 
 el 27 de diciembre de 2009 actualizando el Impuesto sobre las Utilidades de las Empresas (IUE) 
@@ -10083,7 +9839,6 @@ conferidas por el Articulo 64 de la Ley Nº 2492 de 2 de agosto de 2003, Código
 Inciso p) del Artículo 19 del Decreto Supremo Nº 26462 de 22 de diciembre de 2001 y en cumplimiento 
 a lo dispuesto en el Inciso a) del Numeral 1. de la Resolución Administrativa de Directorio Nº 09-0011-
 02, de 28 de agosto de 2002,
-[Image: Im0]
 
 ## RESUELVE:
 
@@ -10144,7 +9899,6 @@ Servicio de Impuestos Nacionales puede ejecutar acciones que son de competencia 
 ese sentido, el Inciso a) del Numeral 1. de la Resolución Administrativa de Directorio Nº 09-0011-02 
 autoriza al Presidente Ejecutivo a suscribir resoluciones normativas de directorio cuando la urgencia 
 del acto así lo imponga, para su posterior homologación.
-[Image: Im0]
 
 ## POR TANTO:
 
@@ -10163,7 +9917,6 @@ del Impuesto sobre las Utilidades para los sujetos pasivos que ejercen profesion
 definidos en el Inciso c) del Artículo 2 del Decreto Supremo Nº 24051.
 **Segunda.-** Que la declaración jurada que origina el pago a cuenta, será considerada sólo para efectos 
 de reconocer el importe efectivamente pagado.
-[Image: Im0]
 
 Regístrese, hágase saber y archívese.
 
@@ -10195,7 +9948,6 @@ Bs2.200.- (Dos Mil Doscientos 00/100 Bolivianos), Pesados y Tractocamiones Bs2.6
 Seiscientos 00/100 Bolivianos), que deben ser actualizados anualmente en base a la variación de la 
 Unidad de Fomento a la Vivienda (UFV), conforme a lo establecido en el Artículo 2 del Decreto 
 Supremo Nº 28988 de 29 de diciembre de 2006.
-[Image: Im0]
 
 Que, el Último Párrafo del Artículo 3 del Decreto Supremo Nº 29745, establece la actualización de 
 dichos importes de acuerdo a lo establecido en el Artículo 2 del Decreto Supremo N° 28988.
@@ -10221,7 +9973,6 @@ Directorio Nº 09-0011-02, de 28 de agosto de 2002,
 Empresas (IUE) correspondiente a la gestión 2010, para personas naturales que prestan servicio 
 público de transporte interdepartamental de pasajeros y carga según el tipo de vehículo y capacidad 
 de carga, conforme al siguiente detalle:
-[Image: Im0]
 
 ## TRANSPORTE INTERDEPARTAMENTAL DE PASAJEROS POR CARRETERA
 
@@ -10279,7 +10030,6 @@ que en la misma proporción se incremente la presentación de los Estados Financ
 Gerencias Distritales, razón por la cual es necesario establecer la forma, el lugar y condiciones para 
 la presentación y recepción de los Estados Financieros y/o Memoria Anual de los sujetos pasivos y/o 
 terceros responsables del Impuesto sobre las Utilidades de las Empresas. 
-[Image: Im0]
 
 Que, de conformidad al Inciso p) del Artículo 19 del Decreto Supremo Nº 26462 de 22 de diciembre 
 de 2001, excepcionalmente y cuando las circunstancias así lo justifiquen, el Presidente Ejecutivo del 
@@ -10325,7 +10075,6 @@ La presentación de los Estados Financieros y/o Memoria Anual en la forma y cond
 en la presente disposición, deberá ser efectuada conjuntamente con la Declaración Jurada del Impuesto 
 sobre las Utilidades de las Empresas (IUE) en los plazos determinados en el Artículo 39 del Decreto 
 Supremo Nº 24051 a partir de la gestión fiscal cerrada al 31 de diciembre de 2010, en adelante. 
-[Image: Im0]
 
 ## II. Lugar de Presentación.
 
@@ -10364,7 +10113,6 @@ Financieros y/o Memoria Anual en Plataforma de la Gerencia Distrital de su juris
 debiendo exigir el cumplimiento de lo establecido en el Inciso a) del Parágrafo III. 
 del Artículo 3 de la presente disposición, no debiendo dejar ningún ejemplar de los 
 documentos que les correspondan. 
-[Image: Im0]
 
 ## 2. Contribuyentes RESTO que no son GRACOS, PRICOS y/o NEWTON.
 
@@ -10386,7 +10134,6 @@ a momento de presentar sus Declaraciones Juradas Formulario 500 y Formulario 605
 deberán presentar también en la misma Entidad Financiera Autorizada, sus Estados 
 Financieros y/o Memoria Anual, debiendo exigir el cumplimiento de lo establecido en 
 el Inciso b) del Parágrafo III. del Artículo 3 de la presente disposición. 
-[Image: Im0]
 
 ## III. Constancia de Presentación:
 
@@ -10469,7 +10216,6 @@ el Dictamen de Auditoría Externa.
 iguales o mayores a Bs15.000.000.- (Quince Millones 00/100 Bolivianos), deben presentar 
 de forma obligatoria además de los documentos citados en los Incisos b) y c) precedentes los 
 siguientes documentos: 
-[Image: Im0]
 
 **1.** Información Tributaria Complementaria.
 
@@ -10495,7 +10241,6 @@ obligados a presentar la Memoria Anual, que tengan ingresos anuales iguales o ma
 Bs1.200.000.- (Un Millón Doscientos Mil 00/100 Bolivianos), deben presentar de forma 
 obligatoria además de los documentos citados en el Inciso e) precedente, el Dictamen de 
 Auditoría Externa. 
-[Image: Im0]
 
 **1.** Dictamen de Auditoría Externa.
 
@@ -10546,7 +10291,6 @@ Mil Doscientos 00/100 Bolivianos), Pesados y Tractocamiones Bs2.600.- (Dos Mil S
 Bolivianos), que deben ser actualizados anualmente en base a la variación de la Unidad de Fomento a 
 la Vivienda (UFV), conforme a lo establecido en el Artículo 2 del Decreto Supremo Nº 28988 de 29 de 
 diciembre de 2006. 
-[Image: Im0]
 
 Que, el Último Párrafo del Artículo 3 del Decreto Supremo Nº 29745, establece la actualización de 
 dichos importes de acuerdo a lo establecido en el Artículo 2 del Decreto Supremo Nº 28988.
@@ -10572,7 +10316,6 @@ Administrativa de Directorio Nº 09-0011-02 de 28 de agosto de 2002,
 Empresas (IUE) correspondiente a la gestión 2011, para personas naturales que prestan servicio público 
 de transporte interdepartamental de pasajeros y carga según el tipo de vehículo y capacidad de carga, 
 conforme al siguiente detalle: 
-[Image: Im0]
 
 ## TRANSPORTE INTERDEPARTAMENTAL DE PASAJEROS POR CARRETERA
 
@@ -10610,7 +10353,6 @@ Que, los Artículos 64, 78 y 79 de la Ley N° 2492 de 2 de agosto de 2003, Códi
 facultan a la Administración Tributaria a dictar normas de carácter general para la aplicación de las 
 normas tributarias, reglamentar la presentación de declaraciones juradas de forma impresa o por 
 cualquier medio tecnológicamente disponible en el país. 
-[Image: Im0]
 
 Que, los Artículos 2, 36 y 39 del Decreto Supremo N° 24051, de 29 de junio de 1995, establecen la 
 obligación de presentar Estados Financieros a los sujetos pasivos del Impuesto sobre las Utilidades de 
@@ -10669,7 +10411,6 @@ relativas a la determinación de la Base Imponible del Impuesto sobre las Utilid
 (IUE), puestas en vigencia por la Administración Tributaria mediante Resolución Administrativa 
 expresa, conforme establece el Artículo 48 del Decreto Supremo Nº 24051. Cualquier otra norma 
 técnica o disposición emitida por otra instancia, no tendrá efecto para la determinación del IUE.
-[Image: Im0]
 
 ## CAPÍTULO II
 
@@ -10723,7 +10464,6 @@ Utilidades de las Empresas (IUE) categorizados como Contribuyentes PRICOS y GRAC
 los Contribuyentes Resto con ventas y/o ingresos brutos iguales o mayores a Bs1.200.000.- (Un Millón 
 Doscientos Mil 00/100 Bolivianos), están obligados a presentar en forma física los Estados Financieros 
 con Dictamen de Auditoría Externa o Memoria Anual y otros documentos que correspondan. 
-[Image: Im0]
 
 **Artículo 9. (Lugar y Plazo de Presentación).-** Los Estados Financieros o Memoria Anual y, los 
 documentos que correspondan, deben ser presentados en las Gerencias Distritales, GRACO y Sectoriales 
@@ -10752,7 +10492,6 @@ Formulario 605 - V2.
 **Artículo 11. (Solvencia Profesional).-** Para el Servicio de Impuestos Nacionales, no es requisito la 
 Solvencia Profesional al momento de la presentación de los Estados Financieros o Memoria Anual, 
 según lo determinado por la Resolución Ministerial Nº 560, de 4 de octubre de 2005.
-[Image: Im0]
 
 ## CAPÍTULO IV
 
@@ -10798,7 +10537,6 @@ siguientes documentos:
 a Bs1.200.000.- (Un Millón Doscientos Mil 00/100 Bolivianos), elaborar y presentar de 
 forma obligatoria además de los documentos citados en el Inciso b) precedente, el Dictamen 
 de Auditoría Externa. 
-[Image: Im0]
 
 **5.** Notas a los Estados Financieros.
 
@@ -10851,7 +10589,6 @@ elaborar los registros contables, Estados Financieros, Libros de Compras y Venta
 documentos, conforme lo previsto en la Ley N° 843, el Decreto Supremo N° 24051 y normas vigentes, 
 teniendo la obligación de presentarlos cuando sean requeridos por los funcionarios de la Administración 
 Tributaria y conservarlos por el contribuyente en tanto no prescriba el tributo.
-[Image: Im0]
 
 ## CAPÍTULO V
 
@@ -10909,7 +10646,6 @@ Mil Doscientos 00/100 Bolivianos), Pesados y Tractocamiones Bs2.600.- (Dos Mil S
 Bolivianos), que deben ser actualizados anualmente en base a la variación de la Unidad de Fomento de 
 Vivienda (UFV), conforme a lo establecido en el Artículo 2 del Decreto Supremo Nº 28988, de 29 de 
 diciembre de 2006.
-[Image: Im0]
 
 Que, el Último Párrafo del Artículo 2 del Decreto Supremo N° 28988, establece la actualización de 
 dichos importes anualmente en base a la variación de la Unidad de Fomento de Vivienda (UFV).
@@ -10941,7 +10677,6 @@ Institución, en uso de las facultades conferidas por el Artículo 64 de la Ley 
 (IUE) correspondiente a la Gestión 2012, para personas naturales cuyos vehículos automotores prestan 
 servicio público de transporte interdepartamental de pasajeros y carga según el tipo de vehículo y 
 capacidad de carga, conforme al siguiente detalle:
-[Image: Im0]
 
 ## TRANSPORTE INTERDEPARTAMENTAL DE PASAJEROS POR CARRETERA
 
@@ -10985,7 +10720,6 @@ Artículo 51 ter., con una Alícuota Adicional del 12,5% Impuesto sobre las Util
 para Entidades Financieras bancarias y no bancarias, reguladas por la Autoridad de Supervisión del 
 Sistema Financiero de Bolivia – ASFI, exceptuando los bancos de segundo piso, que excedan el trece 
 por ciento (13%) del coeficiente de rentabilidad respecto del patrimonio neto.
-[Image: Im0]
 
 Que, el Artículo 6 del Decreto Supremo Nº 1288 de 11 de julio de 2012, faculta al Servicio de Impuestos 
 Nacionales normar la implementación de la Alícuota Adicional del Impuesto sobre las Utilidades de 
@@ -11037,7 +10771,6 @@ anualmente por todos los sujetos pasivos definidos en el Artículo 2 de la prese
 en efectivo sin deducción de ninguna naturaleza a partir de la gestión 2012, en el mismo plazo de 
 vencimiento para el Impuesto sobre las Utilidades de las Empresas IUE establecido en el Artículo 39 
 del Decreto Supremo Nº 24051, que reglamenta el IUE.
-[Image: Im0]
 
 **Artículo 6. (No Computable como Pago a Cuenta del Impuesto a las Transacciones - IT).-** De 
 conformidad a lo establecido en el Artículo 51 ter. de la Ley Nº 843, concordante con el Artículo 5 
@@ -11075,7 +10808,6 @@ Que, la Ley Nº 169 de 9 de septiembre de 2011, Artículo 10, sustituye el Artí
 que: “Cuando en un año se produjera una pérdida de fuente boliviana, ésta podrá deducirse de las 
 utilidades gravadas que se obtengan como máximo hasta los tres (3) años siguientes. Las pérdidas 
 acumuladas a ser deducidas no serán objeto de actualización.”
-[Image: Im0]
 
 Que, el Tercer Párrafo del citado Artículo, establece que: “Las pérdidas acumuladas hasta la gestión 
 2010 de las Entidades del Sistema Bancario y de Intermediación Financiera, no serán deducidas en la 
@@ -11123,7 +10855,6 @@ Emprendimientos Productivos, a las actividades económicas inscritas en el Padr�
 de inversión sea mayor o igual a Bs1.000.000.- (Un Millón 00/100 Bolivianos), pudiendo deducir las 
 pérdidas acumuladas sin actualización, con las utilidades gravadas que se obtengan en los cinco (5) 
 años siguientes a la fecha de inicio de operaciones.
-[Image: Im0]
 
 **Artículo 5. (Pérdida no Deducida).-** Concluido el plazo establecido, las pérdidas que no hayan 
 sido deducidas total o parcialmente, no serán consideradas para la compensación con utilidades de 
@@ -11184,7 +10915,6 @@ Informático “Facilito” para la Elaboración y Presentación de Declaracione
 implementación, utilización y Guía de Usuario del aplicativo informático “Facilito” para la gestión 
 de las declaraciones juradas tributarias, estableciendo las condiciones de descarga, instalación, 
 personalización y actualización.
-[Image: Im0]
 
 Que, la Resolución Normativa de Directorio Nº 10-0021-10 de 8 de octubre de 2010, Procedimiento 
 de Certificación de Declaraciones Juradas, Obtención de Extracto Tributario y Confirmación de Certificación por Terceros Vía Oficina Virtual, establece el procedimiento relacionado y las reproducción 
@@ -11207,7 +10937,6 @@ Institución, en uso de las facultades conferidas por la Ley Nº 2492 de 2 de ag
 Tributario Boliviano, Artículo 64, Decreto Supremo Nº 26462 de 22 de diciembre de 2001, Artículo 
 19, Inciso p) y en cumplimiento de lo dispuesto en la Resolución Administrativa de Directorio Nº 
 09-0011-02 de 28 de agosto de 2002, Numeral 1., Inciso a),
-[Image: Im0]
 
 ## RESUELVE:
 
@@ -11251,7 +10980,6 @@ relativas a la determinación de la Base Imponible del Impuesto sobre las Utilid
 (IUE), puestas en vigencia por la Administración Tributaria mediante Resolución Administrativa 
 expresa, conforme establece el Decreto Supremo N° 24051, Artículo 48. Cualquier otra norma técnica 
 o disposición emitida por otra instancia, no tendrá efecto para la determinación del IUE.
-[Image: Im0]
 
 ## PRESENTACIÓN Y CERTIFICACIÓN DE LA INFORMACIÓN DIGITAL DE LOS ESTADOS FINANCIEROS
 
@@ -11326,7 +11054,6 @@ Artículo 39.
 a través de la Oficina Virtual, la Declaración Jurada Informativa de la “Presentación de Estados 
 Financieros”, permitiendo al contribuyente imprimir el Formulario Electrónico 605-V4 debidamente 
 certificado con características de seguridad.
-[Image: Im0]
 
 ---
 
@@ -11335,7 +11062,6 @@ públicas o privadas, deberá ser verificada por éstas a través de la Oficina 
 procedimiento establecido en la Resolución Normativa de Directorio Nº 10-0021-10 de 8 de octubre 
 de 2010, Procedimiento de Certificación de Declaraciones Juradas, Obtención de Extracto Tributario y 
 Confirmación de Certificación por Terceros Vía Oficina Virtual.
-[Image: Im0]
 
 ***Nota del Editor:*** *La RND Nº 10-0005-15 de 12/03/2015 en su Disposición Derogatoria Única,* 
 ***derogó*** *el Artículo precedente.*
@@ -11410,7 +11136,6 @@ Gerencias Distritales o GRACO de su jurisdicción, en el mismo plazo establecido
 de la Declaración Jurada y pago del Impuesto sobre las Utilidades de las Empresas (IUE), conforme lo 
 dispuesto en el Decreto Supremo N° 24051, Artículo 39, a partir de la gestión fiscal cerrada al 31 de 
 diciembre de 2012.
-[Image: Im0]
 
 **Artículo 13. (Constancia de Presentación Física).-** Los servidores públicos actuantes recepcionarán 
 los Estados Financieros o Memoria Anual, previa verificación de los datos registrados y declarados por 
@@ -11445,7 +11170,6 @@ Millón Doscientos Mil 00/100 Bolivianos), de la obligación de elaborar los reg
 Financieros, Libros de Compras y Ventas IVA, y los documentos detallados en el Decreto Supremo N° 
 24051, Articulo 36, teniendo la obligación de presentarlos cuando sean requeridos por los servidores 
 públicos de la Administración Tributaria y conservarlos por el periodo de la prescripción.
-[Image: Im0]
 
 ***Nota del Editor:*** *La RND Nº 10-0005-15 de 12/03/2015 en su Disposición Adicional Única,* 
 ***sustituyó*** *la denominación «Formulario Electrónico 605 Versión 4 (605-V4)», del Artículo* 
@@ -11481,7 +11205,6 @@ condiciones, medios, lugares y plazos establecidos en normas específicas.”
 disposición, que hubieran presentado el Formulario 605-V3 correspondiente a la gestión con cierre 
 al 31 de diciembre de 2012 antes de la publicación de la presente Resolución, no están obligados a la 
 presentación del Formulario Electrónico 605 Versión 5 (F.605-V.5).
-[Image: Im0]
 
 ***Nota del Editor:*** *La RND Nº 10-0005-15 de 12/03/2015 en su Disposición Adicional Única,* 
 ***sustituyó*** *la denominación «Formulario Electrónico 605 Versión 4 (605-V4)», del Artículo* 
@@ -11546,7 +11269,6 @@ digitalizada a través del Formulario Electrónico 605 Versión 4 (605-V4) de la
 Estados Financieros del contribuyente, mediante el aplicativo informático “Facilito” y la Oficina 
 Virtual del Servicio de Impuestos Nacionales, así como la presentación física de los Estados 
 Financieros o Memoria Anual, según corresponda, en dependencias de la Administración Tributaria.
-[Image: Im0]
 
 Que, es necesario modificar el Artículo 11 (Presentación Física) de la Resolución Normativa de 
 Directorio N° 10-0012-13 de 10 de abril de 2013, incorporando el detalle de los documentos a ser 
@@ -11570,7 +11292,6 @@ por el Artículo 64 de la Ley N° 2492, de 2 de agosto de 2003, Código Tributar
 p) del Artículo 19 del Decreto Supremo Nº 26462, de 22 de diciembre de 2001 y en cumplimiento 
 de lo dispuesto en el Inciso a) del Numeral 1. de la Resolución Administrativa de Directorio Nº 09-
 0011-02, de 28 de agosto de 2002,
-[Image: Im0]
 
 ## RESUELVE:
 
@@ -11617,7 +11338,6 @@ presentar:
 **obligados a presentar la Memoria Anual de acuerdo a la Resolución Normativa de** 
 **Directorio Nº 10-0030-05 de 14 de septiembre de 2005, deberán junto a la presentación** 
 **del Formulario 605-V2, cumplir con lo siguiente:**
-[Image: Im0]
 
 **a)** Contribuyentes con Ingresos Anuales, iguales o mayores a Bs1.200.000.- (Un Millón 
 Doscientos Mil 00/100 Bolivianos) y menores a Bs15.000.000.- (Quince Millones 
@@ -11681,7 +11401,6 @@ de Impuestos Nacionales SIN puede ejecutar acciones que son de competencia del D
 entendido, el Inciso a) del Numeral 1. de la Resolución Administrativa de Directorio Nº 09-0011-02 
 autoriza al Presidente Ejecutivo a suscribir Resoluciones Normativas de Directorio cuando la urgencia 
 del acto así lo amerite.
-[Image: Im0]
 
 ## POR TANTO:
 
@@ -11734,7 +11453,6 @@ Exención del IUE”, que se encuentra disponible en la Oficina Virtual de la p�
 impuestos.gob.bo) del Servicio de Impuestos Nacionales, el cual una vez impreso generará 
 un número de trámite para su seguimiento y control quedando habilitado por un período de 
 diez (10) días hábiles siguientes. Vencido el plazo, el registro y número de trámite en sistema 
-[Image: Im0]
 
 ---
 
@@ -11746,7 +11464,6 @@ el contribuyente, deberá ser presentado junto a memorial o nota de solicitud de
 de la exención, dirigido a la Gerencia Distrital o GRACO de su jurisdicción, dentro del plazo 
 establecido en el Parágrafo precedente y adjuntando los requisitos señalados en el Artículo 6 
 de la presente Resolución.**”**
-[Image: Im0]
 
 **II.** Se modifica el Artículo 6 de la Resolución Normativa de Directorio N° 10-0010-05 con el siguiente 
 texto:
@@ -11805,7 +11522,6 @@ siguiente hábil de la notificación con el Auto de Rechazo, caso contrario se c
 desistida la solicitud, disponiéndose el archivo de obrados, correspondiendo el pago del 
 impuesto conforme lo dispuesto por la Ley N° 2492, Código Tributario Boliviano y la Ley Nº 
 843, sin perjuicio que el sujeto pasivo presente una nueva solicitud.
-[Image: Im0]
 
 **III.** La Resolución Administrativa de Reconocimiento de Exención debidamente firmada por 
 el Gerente Distrital o Gerente GRACO de la jurisdicción del sujeto pasivo, será comunicada 
@@ -11840,7 +11556,6 @@ sindicales, que tengan registrados a su nombre en el Padrón Nacional de Contrib
 poseedores de hasta dos (2) vehículos con una antigüedad igual o mayor a los seis (6) años. Dicho 
 monto será actualizado anualmente en base a la variación de la Unidad de Fomento a la Vivienda – 
 UFV.
-[Image: Im0]
 
 Que, el Artículo 1 del Decreto Supremo Nº 29745 de 15 de octubre de 2008, establece sustituir el 
 importe de pago del Impuesto sobre las Utilidades de las Empresas – IUE establecido en el Artículo 
@@ -11879,7 +11594,6 @@ IUE - RND Nº 10-0045-13
 Empresas (IUE) correspondiente a la gestión 2013, para personas naturales que prestan servicio 
 público de transporte interdepartamental de pasajeros y carga según el tipo de vehículo y capacidad 
 de carga, conforme al siguiente detalle:
-[Image: Im0]
 
 ## TRANSPORTE INTERDEPARTAMENTAL DE PASAJEROS POR CARRETERA
 
@@ -11943,7 +11657,6 @@ la personalidad jurídica para las Organizaciones Religiosas y Espirituales, as�
 extinción y causales de revocatoria; por otra parte, reglamenta la suscripción de Acuerdos  Marco  
 de  Cooperación  Básica  entre  el  Estado  Plurinacional  de  Bolivia  con  las Organizaciones No 
 Gubernamentales – ONG´s y Fundaciones Extranjeras.
-[Image: Im0]
 
 IUE - RND Nº 10-0030-14
 
@@ -11958,7 +11671,6 @@ los procedimientos de la Administración Tributaria en favor de los contribuyent
 la Oficina Virtual del Servicio de Impuestos Nacionales un módulo informático para la tramitación y 
 formalización de las solicitudes de exención del IUE, dispuesto en el Inciso b) del Artículo 49 de la Ley 
 Nº 843 (Texto Ordenado Vigente).
-[Image: Im0]
 
 Que, el Artículo 19, Inciso p) del Decreto Supremo Nº 26462 de 22 de diciembre de 2001, Reglamento a 
 la Ley Nº 2166, dispone que el Presidente Ejecutivo del Servicio de Impuestos Nacionales en uso de sus 
@@ -12002,7 +11714,6 @@ Los citados Formularios y documentos serán generados por el sistema con un cód
 número de orden correlativo, reemplazando los que se utilizan actualmente, proporcionando un estándar 
 de documentos a efecto de homogeneizar el trabajo y el uso de los mismos en el Servicio de Impuestos 
 Nacionales.
-[Image: Im0]
 
 **Artículo 3. (Incorporación).-** Se incorpora como Último Párrafo del Artículo 5 de la Resolución 
 Normativa de Directorio Nº 10-0030-05 de 14 de septiembre de 2005 el siguiente texto:
@@ -12056,7 +11767,6 @@ responsable deberá ser presentado dentro de los diez (10) días hábiles siguie
 su solicitud en línea, acompañando los requisitos señalados en el Artículo 7 de la  presente 
 resolución y según corresponda en las oficinas del Servicio de Impuestos Nacionales (SIN) 
 de su jurisdicción.”
-[Image: Im0]
 
 **II.** Se modifica el Artículo 7 de la Resolución Normativa de Directorio Nº 10-0030-05 de 14 de 
 septiembre de 2005, de acuerdo al siguiente texto:
@@ -12126,7 +11836,6 @@ Artículos 6 y 7 de la presente Resolución Normativa de Directorio, para proced
 un Auto Administrativo de Aceptación o Rechazo de Solicitud de Exención del IUE, que 
 deberá ser comunicado en la Pizarra Tributaria de la Oficina Virtual y notificado en Secretaría 
 conforme al Artículo 90 de la Ley Nº 2492, Código Tributario Boliviano.
-[Image: Im0]
 
 Si la solicitud fuere rechazada por observaciones de forma, el solicitante podrá subsanar 
 las observaciones llenando previamente el Formulario “REINGRESO”, que se encuentra 
@@ -12174,7 +11883,6 @@ GRACO de acuerdo a lo establecido en el Artículo 90 de la Ley Nº 2492 de 2 de 
 2003, Código Tributario Boliviano; la Resolución Administrativa de Rechazo de Exención 
 del  IUE  será  notificada en  el  domicilio tributario del  contribuyente, conforme lo 
 establecido en los Artículos 84 y siguientes de la citada norma legal.
-[Image: Im0]
 
 Sin perjuicio de las notificaciones señaladas, la Resolución Administrativa que resuelva la 
 solicitud de exención deberá ser comunicada en la pizarra tributaria de la Oficina Virtual 
@@ -12227,7 +11935,6 @@ carga en: transporte de pasajeros Bs3.981.- (Tres Mil Novecientos Ochenta y Uno 
 transporte de carga: livianos en Bs3.184.- (Tres Mil Ciento Ochenta y Cuatro 00/100 Bolivianos), 
 medianos Bs3.503.- (Tres Mil Quinientos Tres 00/100 Bolivianos) y pesados Bs4.140.-(Cuatro Mil 
 Ciento Cuarenta 00/100 Bolivianos), las cuales deben actualizarse para la gestión 2014.
-[Image: Im0]
 
 Que, de conformidad al Inciso p) del Artículo 19 del Decreto Supremo Nº 26462 de 22 de diciembre de 2001, 
 reglamentario a la Ley Nº 2166 del Servicio de Impuestos Nacionales, el Presidente Ejecutivo en uso de sus 
@@ -12252,7 +11959,6 @@ disposiciones precedentemente citadas,
 Empresas (IUE) correspondiente a la gestión 2014, para personas naturales que prestan servicio público 
 de transporte interdepartamental de pasajeros y carga según el tipo de vehículo y capacidad de carga, 
 conforme al siguiente detalle:
-[Image: Im0]
 
 ## TRANSPORTE INTERDEPARTAMENTAL DE PASAJEROS POR CARRETERA
 
@@ -12306,7 +12012,6 @@ Bs1.000.000.- (Un Millón 00/100 Bolivianos), las pérdidas podrán deducirse de
 que se obtengan en los cinco (5) años inmediatos siguientes a la fecha de inicio de operaciones. Este 
 plazo también es aplicable a las deducciones de pérdidas por el sector productivo de  hidrocarburos 
 y  minería, aclarando que  las  pérdidas acumuladas a  ser deducidas no serán objeto de actualización.
-[Image: Im0]
 
 Que, el Artículo 6 de la Resolución Normativa de Directorio (RND) N° 10-0008-13 del 5 abril de 
 2013, Compensación de Pérdidas Acumuladas para Empresas no Financieras, establece que los sujetos 
@@ -12334,7 +12039,6 @@ Reglamento de la Ley Nº 2166, del Servicio de Impuestos Nacionales, el Presiden
 de  sus  atribuciones  y  en  aplicación  del  Inciso  a)  del  Numeral.  1  de  la  Resolución Administrativa 
 de Directorio Nº 09-0011-02 de 28 de agosto de 2002, se encuentra facultado a suscribir Resoluciones 
 Normativas de Directorio.
-[Image: Im0]
 
 ## POR TANTO:
 
@@ -12409,7 +12113,6 @@ de 2010, Procedimiento de Certificación de Declaraciones Juradas, Obtención de
 Confirmación de Certificación por Terceros Vía Oficina Virtual.
 **Artículo 8.  (Modificaciones).- I.**  Se modifica el Artículo 3 de la Resolución Normativa de Directorio 
 Nº 10-0008-13 de 5 de abril de 2013, con el siguiente texto:
-[Image: Im0]
 
 ---
 
@@ -12440,7 +12143,6 @@ Normativa de Directorio Nº 10-0012-13 de 10 de abril de 2013, que hubieran pres
 Electrónico 605 Versión 4 (605-V4) correspondiente a la gestión con cierre al 31 de diciembre de 
 2014, antes de la publicación de la presente resolución, no están obligados a la presentación del 
 Formulario Electrónico 605 Versión 5 (Formulario 605-V.5), sino hasta la siguiente gestión.
-[Image: Im0]
 
 **Segunda.-** Los contribuyentes que no hubieran cumplido con la presentación de sus Estados 
 Financieros utilizando el Formulario Electrónico 605-V4 ó Formulario 605 V3, deberán utilizar para 
@@ -12478,7 +12180,6 @@ aplicable a las operaciones comerciales y/o financieras realizadas entre empresa
 efectos de la determinación del Impuesto sobre las Utilidades de las Empresas, incorporando entre otros 
 el principio de plena competencia, la definición de partes vinculadas y los métodos de valoración para 
 las transacciones que realizan las mismas. 
-[Image: Im0]
 
 Que, el Decreto Supremo Nº 2227 de 31 de diciembre de 2014, reglamenta la aplicación de los Artículos 
 45, 45 bis y 45 ter de la Ley Nº 843 y establece entre otros las obligaciones de los sujetos pasivos en 
@@ -12531,7 +12232,6 @@ deberá estar expresado en Bolivianos (Bs), a este efecto, cuando la operación 
 una moneda distinta, el sujeto pasivo deberá convertir dichos montos a Bolivianos utilizando el tipo 
 de cambio oficial vigente a la fecha de operación, entre la moneda nacional y la respectiva moneda 
 extranjera, según publicación efectuada por el Banco Central de Bolivia cuando corresponda. 
-[Image: Im0]
 
 En caso de que la moneda extranjera no tenga cotización oficial en moneda nacional, el precio o valor 
 de la operación deberá ser convertido a dólares de los Estados Unidos de Norteamérica (USD) de 
@@ -12582,7 +12282,6 @@ asumidos por ambas partes.
 vinculada). Indicadores de rentabilidad, razones de endeudamiento de las operaciones, 
 asimismo cuando corresponda: tasas de interés, spread bancario, criterios para cálculo de 
 las regalías por uso de intangibles. 
-[Image: Im0]
 
 ## 4. Análisis Económico.-
 
@@ -12629,7 +12328,6 @@ pasivos alcanzados por la presente disposición.
 Jurada Informativa de Operaciones con Partes Vinculadas deberá realizarse a través del aplicativo Da 
 Vinci, cuya actualización e instructivo de llenado estarán disponibles en la página web del Servicio de 
 Impuestos Nacionales www.impuestos.gob.bo. 
-[Image: Im0]
 
 ## DEBER DE INFORMACIÓN, PRESENTACIÓN, ENVÍO Y PLAZOS
 
@@ -12677,7 +12375,6 @@ Partes Vinculadas deberá realizarse dentro del plazo establecido para la presen
 Jurada y pago del Impuesto sobre las Utilidades de las Empresas (IUE), conforme lo dispuesto en el 
 Artículo 39 del Decreto Supremo N° 24051, a partir de la primera gestión alcanzada por la vigencia de 
 la Ley Nº 549 de 21 de julio de 2014. 
-[Image: Im0]
 
 ## CAPÍTULO IV
 
@@ -12711,7 +12408,6 @@ de la determinación realizada por el contribuyente, declarada y presentada medi
 Electrónico 601 Declaración Jurada Informativa de Operaciones con Partes Vinculadas y el Estudio de 
 Precios de Transferencia - EPT, el Servicio de Impuestos Nacionales para efectos fiscales podrá realizar 
 los ajustes que considere necesarios. 
-[Image: Im0]
 
 **II.** Asimismo en el desarrollo de sus tareas de control, verificación, fiscalización e investigación podrá 
 determinar si hubieron criterios de vinculación en las operaciones de los contribuyentes y determinar si 
@@ -12794,7 +12490,6 @@ Que, conforme al Inciso p) del Artículo 19 del Decreto Supremo Nº 26462 de 22 
 Ejecutivo en uso de sus atribuciones y en aplicación del Inciso a) del Numeral 1 de la Resolución 
 Administrativa de Directorio Nº 09-0011-02 de 28 de agosto de 2002, se encuentra autorizado a 
 suscribir Resoluciones Normativas de Directorio. 
-[Image: Im0]
 
 ## POR TANTO:
 
@@ -12817,7 +12512,6 @@ IUE, deberán acompañar a su Formulario de solicitud la siguiente documentació
 **1.** Organizaciones Sociales, Organizaciones No Gubernamentales, Fundaciones y Entidades Civiles 
 sin fines de lucro que desarrollen actividades en más de un departamento y cuyas actividades sean no 
 financieras, deberán acompañar: 
-[Image: Im0]
 
 **a)** Original y fotocopia de Resolución Suprema o Resolución Ministerial de reconocimiento 
 de la personalidad jurídica, registrada en el Sistema de Registro de Personalidades Jurídicas – 
@@ -12864,7 +12558,6 @@ IUE - RND Nº 10-0027-15
 **4.** Organizaciones Sociales, Organizaciones No Gubernamentales (ONG ’s), Fundaciones y Entidades reproducción 
 Civiles sin fines de lucro que desarrollen actividades únicamente a nivel departamental, deberán 
 acompañar a su solicitud la siguiente documentación: 
-[Image: Im0]
 
 **a)** Original y fotocopia del documento emitido por autoridad competente que acredite su 
 personalidad jurídica.
@@ -12917,7 +12610,6 @@ MIL DOSCIENTOS 00/100 BOLIVIANOS), Pesados y Tractocamiones Bs2.600.- (DOS MIL
 SEISCIENTOS 00/100 BOLIVIANOS), que deben ser actualizados anualmente en base a la variación 
 de la Unidad de Fomento a la Vivienda (UFV), conforme a lo establecido en el Artículo 2 del Decreto 
 Supremo Nº 28988 de 29 de diciembre de 2006.
-[Image: Im0]
 
 Que, mediante Resolución Normativa de Directorio 10-0035-14 de 26 de diciembre de 2014, el Servicio 
 de Impuestos Nacionales, actualizó para la gestión 2014 los importes por concepto de IUE para las 
@@ -12949,7 +12641,6 @@ y las disposiciones precedentemente citadas,
 Empresas (IUE) correspondiente a la gestión 2015, para personas naturales que prestan servicio público  
 de  transporte interdepartamental de  pasajeros y  carga  según  el  tipo  de  vehículo y capacidad de 
 carga, conforme al siguiente detalle:
-[Image: Im0]
 
 ## TRANSPORTE INTERDEPARTAMENTAL DE PASAJEROS POR CARRETERA
 
@@ -13002,7 +12693,6 @@ entidades de intermediación financiera, reguladas por la Autoridad de Supervisi
 ASFI, exceda el seis por ciento (6%), las utilidades netas imponibles de estas entidades estarán gravadas con 
 una Alícuota Adicional al Impuesto sobre las Utilidades de las Empresas del veintidós por ciento (22%), la 
 cual no será computable como un pago a cuenta del Impuesto a las Transacciones.
-[Image: Im0]
 
 Que el Decreto Supremo N° 3005 de 30 de noviembre de 2016, reglamenta el Artículo 51 ter. de la Ley 
 N° 843 (Texto Ordenado Vigente), modificado por la Ley N° 771 de 29 de diciembre de 2015, para la 
@@ -13059,7 +12749,6 @@ El valor del Coeficiente de Rentabilidad - CR, estará expresado porcentualmente
 de la división entre el Resultado Antes de Impuestos – RAI, y el Patrimonio – P, datos consignados 
 al cierre de cada gestión en los Estados Financieros que son presentados a la entidad reguladora 
 correspondiente, expresado en la siguiente fórmula: 
-[Image: Im0]
 
 ## CR = RAI/P* 100
 
@@ -13084,7 +12773,6 @@ anualmente por todos los sujetos pasivos definidos en el Artículo 2 de la prese
 pagado en efectivo sin deducción de ninguna naturaleza, en el mismo plazo de vencimiento para 
 el Impuesto sobre las Utilidades de  las Empresas IUE establecido en el Artículo 39 del Decreto 
 Supremo Nº 24051, que reglamenta el IUE.
-[Image: Im0]
 
 **Artículo 6. (No Computable como Pago a Cuenta del Impuesto a las Transacciones - IT).-** De 
 conformidad a lo establecido en el Artículo 51 ter. de la Ley Nº 843, reglamentado con el Artículo 
@@ -13150,7 +12838,6 @@ importes: Livianos Bs2.000.- (Dos Mil 00/100 Bolivianos); Medianos Bs2.200.- (Do
 que deben ser actualizados anualmente en base a la variación de la Unidad  de Fomento a la Vivienda 
 (UFV), conforme a lo establecido en el Artículo 2 del Decreto Supremo Nº 28988 de 29 de diciembre 
 de 2006.
-[Image: Im0]
 
 Que mediante Resolución Normativa de Directorio N° 10-0033-15 de 24 de diciembre de 2015, el 
 Servicio de Impuestos Nacionales, actualizó para la gestión 2015 los importes por concepto de IUE 
@@ -13180,7 +12867,6 @@ disposiciones precedentemente citadas,
 Empresas (IUE) correspondiente a la gestión 2016, para personas naturales que prestan servicio 
 público de transporte interdepartamental de pasajeros y carga según el tipo de vehículo y capacidad 
 de carga, conforme al siguiente detalle:
-[Image: Im0]
 
 ## TRANSPORTE INTERDEPARTAMENTAL DE PASAJEROS POR CARRETERA
 
@@ -13248,7 +12934,6 @@ Nº 812 y lo dispuesto por los Artículos 45, 45 Bis y 45 Ter de la Ley Nº 843 
 modificada por la Ley Nº 549, se consideran países o regiones de baja o nula tributación a aquellos que 
 se encuentren identificados como países o regiones no cooperantes de acuerdo a la Organización para 
 la Cooperación y el Desarrollo Económico – OCDE y aquellos que estén listados como tales en cuatro 
-[Image: Im0]
 
 ---
 
@@ -13264,7 +12949,6 @@ Reglamento de la Ley Nº 2166, del Servicio de Impuestos Nacionales, el Presiden
 de sus atribuciones y en aplicación del Inciso a) del Numeral 1 de la Resolución Administrativa de 
 Directorio Nº 09-0011-02 de 28 de agosto de 2002, se encuentra autorizado a suscribir Resoluciones 
 Normativas de Directorio.
-[Image: Im0]
 
 ## POR TANTO:
 
@@ -13303,7 +12987,6 @@ IUE - RND Nº 101700000001
 ---
 
 IUE - RND Nº 101700000001
-[Image: Im0]
 
 **ANEXO**
 
@@ -13354,7 +13037,6 @@ IUE - RND Nº 101700000001
 | 38 | Islas Vírgenes de EEUU | 76 | Yemen |
 
 IUE - RND Nº 101700000001
-[Image: Im0]
 
 ---
 
@@ -13396,7 +13078,6 @@ será efectuada como pago a cuenta del Régimen Complementario al Impuesto al Va
 situaciones de dependencia, y podrá presentar otras junto a su Declaración Jurada como Independiente, 
 debiendo estar en ambos casos emitidas a nombre de quien las presenta, con las excepciones que al 
 IUE - RND Nº 101700000004efecto reconozca la Administración Tributaria mediante norma reglamentaria y firmadas por éste.
-[Image: Im0]
 
 Que el Decreto Supremo N° 21531, establece la base jurisdiccional de este impuesto y los sujetos 
 pasivos, encontrándose comprendidos como contribuyentes del RC-IVA las personas naturales 
@@ -13438,7 +13119,6 @@ presten sus servicios simultáneamente como contribuyentes directos del RC-IVA p
 2 del Decreto Supremo N° 21531, y que además perciban ingresos por el ejercicio de la profesión u 
 oficio de forma independiente, u de otras actividades económicas gravadas, deberán inscribirse en el 
 Padrón Nacional de Contribuyentes del Servicio de Impuestos Nacionales, como contribuyentes del:
-[Image: Im0]
 
 **1.** Régimen Complementario del Impuesto al Valor Agregado en calidad de Contribuyentes 
 Directos (RC-IVA CD), por sus actividades realizadas mediante contrato suscrito con el 
@@ -13459,7 +13139,6 @@ del Servicio de Impuestos Nacionales, como sujetos pasivos del Impuesto al Valor
 Impuesto a las Transacciones (IT), Impuesto sobre las Utilidades de las Empresas (IUE), Régimen 
 Complementario del Impuesto al Valor Agregado (RC-IVA) como Agente de Retención, u otros 
 impuestos cuando corresponda.
-[Image: Im0]
 
 **III.** Los sujetos pasivos descritos en los Parágrafos I y II anteriores deberán obtener el NIT cumpliendo 
 los requisitos y procedimientos establecidos en la Resolución Normativa de Directorio “Procedimiento 
@@ -13534,7 +13213,6 @@ MIL DOSCIENTOS 00/100 BOLIVIANOS), Pesados y Tractocamiones Bs2.600.- (DOS MIL
 SEISCIENTOS 00/100 BOLIVIANOS), que deben ser actualizados anualmente en base a la variación 
 de la Unidad  de Fomento a la Vivienda (UFV), conforme a lo establecido en el Artículo 2 del Decreto 
 Supremo Nº 28988 de 29 de diciembre de 2006. 
-[Image: Im0]
 
 Que mediante Resolución Normativa de Directorio 10-0035-16 de 23 de diciembre de 2016, el 
 Servicio de Impuestos Nacionales, actualizó para la gestión 2016 los importes por concepto de IUE 
@@ -13565,7 +13243,6 @@ disposiciones precedentemente citadas,
 Empresas (IUE) correspondiente a la gestión 2017, para personas naturales que prestan servicio 
 público de transporte interdepartamental de pasajeros y carga según el tipo de vehículo y capacidad 
 de carga, conforme al siguiente detalle: 
-[Image: Im0]
 
 ## TRANSPORTE INTERDEPARTAMENTAL DE PASAJEROS POR CARRETERA
 
@@ -13611,7 +13288,6 @@ las  entidades de  intermediación financiera, reguladas por  la  Autoridad de S
 Financiero - ASFI, exceda el seis por ciento (6%), las utilidades netas imponibles de estas entidades 
 estarán gravadas con una Alícuota Adicional al Impuesto sobre las Utilidades de las Empresas del 
 veinticinco por ciento (25%).
-[Image: Im0]
 
 Que la Disposición Final Única de la Ley Nº 921, señala que la Alícuota Adicional del Impuesto sobre  
 las  Utilidades  de  las  Empresas  para  las  entidades  de  intermediación  financiera, modificada por 
@@ -13657,7 +13333,6 @@ Directorio Nº 10-0034-16 de 19 de diciembre de 2016, con el siguiente texto:
 del Impuesto sobre las Utilidades de las Empresas, AA-IUE Financiero, del veinticinco (25%) 
 a la Utilidad Neta Imponible, corresponde ser aplicada cuando el Coeficiente de Rentabilidad – 
 CR, respecto del Patrimonio – P, sea superior al seis por ciento (6%)”.
-[Image: Im0]
 
 ## DISPOSICIÓN FINAL
 
@@ -13718,7 +13393,6 @@ Reglamento de aplicación de la Ley Nº 2166 del Servicio de Impuestos Nacionale
 Ejecutivo en uso de sus atribuciones y en aplicación del Inciso a) del Numeral 1 de la Resolución 
 Administrativa de Directorio Nº 09-0011-02 de 28 de agosto de 2002, se encuentra autorizado a 
 suscribir Resoluciones Normativas de Directorio.
-[Image: Im0]
 
 IUE - RND Nº 101800000004
 
@@ -13773,7 +13447,6 @@ y proyectos efectuados, además de los ingresos y gastos del ejercicio o gestió
 la Administración Tributaria pueda verificar el cumplimiento de los requisitos que justifiquen la 
 exención y de acuerdo a Resolución Normativa de Directorio vigente, debe contener los siguientes 
 Estados: 
-[Image: Im0]
 
 ---
 
@@ -13788,7 +13461,6 @@ externo respecto a si los estados financieros de la empresa o entidad auditada c
 determinado periodo de tiempo, presentan razonablemente en todo aspecto significativo la situación 
 patrimonial y financiera, los resultados de sus operaciones y los flujos de efectivo, de conformidad a 
 lo establecido en los Principios de Contabilidad Generalmente Aceptados en Bolivia. 
-[Image: Im0]
 
 **e) Informe de Procedimientos Mínimos Tributarios:** Informe emitido por el auditor externo, 
 mediante el cual se emite un pronunciamiento sobre si la determinación, declaración y pago de las 
@@ -13887,7 +13559,6 @@ IUE - RND Nº 101800000004
 Financieros o Memoria Anual y los documentos que correspondan, según lo señalado en el Artículo 
 4 precedente, deberán ser presentados en las Gerencias Distritales o GRACO de su jurisdicción o en 
 otra jurisdicción, en el mismo plazo establecido para la presentación de la Declaración Jurada y pago 
-[Image: Im0]
 
 ---
 
@@ -13916,7 +13587,6 @@ un máximo de cinco (5) ejemplares. El primer ejemplar corresponderá al Servici
 Nacionales, el segundo quedará en poder de la empresa o profesional firmante del dictamen y los 
 restantes ejemplares quedarán en poder del contribuyente como constancia de su presentación. Estos 
 documentos deberán contener de manera obligatoria las siguientes firmas:
-[Image: Im0]
 
 **a)** Del Profesional con Título en Provisión Nacional de Auditor Financiero, Contador 
 Público Autorizado, Contador General, Licenciado o Doctor en Ciencias Económicas 
@@ -13986,7 +13656,6 @@ documentos que correspondan, según lo señalado en el Artículo 7 de la present
 del formulario 605, deberá realizarse dentro los 120 días posteriores al cierre de la gestión fiscal 
 respectiva, según lo establecido en el Artículo 39 del Decreto Supremo Nº 24051, Reglamento del 
 Impuesto sobre las Utilidades de las Empresas (IUE).
-[Image: Im0]
 
 **Artículo 9. (Certificación).- I.** El Servicio de Impuestos Nacionales certificará a través de la Oficina 
 Virtual el “Envío de Estados Financieros o Memoria Anual”, permitiendo al contribuyente imprimir 
@@ -14037,7 +13706,6 @@ establecidos en la presente disposición, así como la presentación y/o envío 
 Incumplimiento a Deberes Formales y serán sancionados conforme lo previsto en la Resolución 
 Normativa de Directorio de Clasificación de Sanciones por Incumplimiento a Deberes Formales 
 vigente.
-[Image: Im0]
 
 ## DISPOSICIONES TRANSITORIAS
 
@@ -14085,7 +13753,6 @@ en los módulos “Envío Digital de Estados Financieros” y “Envío Digital 
 acuerdo a un análisis fundamentado para su mejora en el mes de diciembre de cada gestión, para 
 su aplicación inmediata en las gestiones fiscales iniciadas en el año de actualización, la citada 
 modificación será comunicada a través del sitio web www.impuestos.gob.bo.
-[Image: Im0]
 
 ***Nota del Editor:*** *La RND Nº 101800000007 de 16/03/2018 en su Artículo 1, Parágrafo VI* 
 ***modificó*** *la Disposición Adicional precedente.*
@@ -14112,7 +13779,6 @@ de Directorio N° 10-0005-15 de 12 de marzo de 2015, así como todas las disposi
 contrarias a la presente Resolución Normativa de Directorio. Asimismo, los formularios 605-V2 y 
 605-V5 se mantienen vigentes hasta la entrada en vigencia de los módulos “Envío Digital de Estados 
 Financieros” y “Envío Digital de Memoria Anual” del “Aplicativo Contribuyentes”.
-[Image: Im0]
 
 ## DISPOSICIÓN FINAL
 
@@ -14179,7 +13845,6 @@ auditada, poseedores individualmente o en conjunto de un porcentaje que exceda e
 10% del patrimonio o el capital, en su caso, de la empresa respectiva. Esta situación es 
 aplicable cuando la relación de parentesco alcance hasta el 4° grado de consanguinidad 
 o hasta el 2° grado de afinidad.
-[Image: Im0]
 
 **e)** Hubieran participado en la elaboración de los Estados Financieros o Memoria Anual.
 
@@ -14243,7 +13908,6 @@ Como Anexo a este Reglamento se incluyen modelos de formato de cada anexo con in
 para su preparación. Los contribuyentes obligados a presentar esta Información Tributaria 
 Complementaria deberán presentar los 15 Anexos indicados anteriormente, marcando con la mención 
 “NO APLICABLE” aquellos anexos que no fueran aplicables a su actividad. 
-[Image: Im0]
 
 Asimismo, no podrán modificar la descripción ni la codificación de las columnas definidas en los 
 modelos de los Anexos, sin embargo, el contribuyente podrá insertar nuevas columnas de acuerdo a 
@@ -14253,12 +13917,9 @@ IUE - RND Nº 101800000004
 
 ---
 
-[Image: Im0]
-
 ## ANEXOS 1 AL 15
 
 IUE - RND Nº 101800000004
-[Image: Im0]
 
 **ANEXO 1**
 
@@ -14326,7 +13987,6 @@ seguros de vida, ingresos por reaseguro, etc. Otros ajustes como reversión de p
 **Columna M** Al igual que la columna E, esta columna es aplicable solo para empresas que prestan servicios y tiene
 trabajos en curso. Debe consignarse los ingresos facturados que fueron devengados en períodos anteriores al 100%. Estos datos pueden obtenerse del análisis de las cuentas de activo y/o pasivo. En este caso, 
 deberán considerarse los abonos por cobros de deudas que fueron devengadas en periodos anteriores.
-[Image: Im0]
 
 **Columna N** Al igual que la columna F, esta columna es aplicable solo para empresas que prestan servicios y tienen
 trabajos en curso. Debe consignarse los Ingresos facturados en el periodo, a devengar en periodos posteriores al 100%.
@@ -14346,11 +14006,7 @@ IUE - RND Nº 101800000004
 
 ---
 
-[Image: Im0]
-
 IUE - RND Nº 101800000004
-
-[Image: Im0]
 
 | 2001 | 2002 | 2003 | 2004 | 2005 | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -14400,14 +14056,12 @@ IUE - RND Nº 101800000004
 
 ***Nota del Editor:*** *La RND Nº 101800000007 de 16/03/2018 en su Artículo 1, Parágrafo III* 
 ***modificó*** *el Anexo precedente.*
-[Image: Im0]
 
 IUE - RND Nº 101800000004
 
 ---
 
 IUE - RND Nº 101800000004
-[Image: Im0]
 
 **ANEXO 3**
 
@@ -14456,7 +14110,6 @@ IUE - RND Nº 101800000004
 
 **Con el propósito de obtener resultados reales, es necesario que todos los datos necesarios para** reproducción 
 **obtener los subtotales 1 y 2, sean registrados sin incluir el ajuste por inflación.**
-[Image: Im0]
 
 En este Anexo la empresa debe tener el cuidado de incluir los datos detallados por cada una de las 
 cuentas que se consideran en el cálculo de la proporcionalidad.
@@ -14466,8 +14119,6 @@ IUE - RND Nº 101800000004
 ---
 
 **314**
-
-[Image: Im0]
 
 **ANEXO 4**
 
@@ -14504,7 +14155,6 @@ IUE - RND Nº 101800000004
 **Columna B** Ingresos por actividades no gravadas por IT pero que, si están gravadas por IVA, como por ejemplo, la 
 venta de minerales en el mercado interno que tenga como destino la exportación, establecimientos de 
 educación y otros.
-[Image: Im0]
 
 **Columna C** Ingresos que están gravados por el IT y no están gravados por el IVA como ser: Intereses obtenidos por 
 IUE - RND Nº 101800000004entidades financieras.
@@ -14537,13 +14187,10 @@ Corresponde al IT compensado según el formulario 400 de los últimos doce meses
 Corresponde a regularizaciones efectuadas en esta cuenta que se pueden producir por variaciones en las estimaciones efectuadas 
 inicialmente en el anticipo del IUE. De acuerdo a la variación esta podrá ser un cargo (estimación en defecto del IUE a compensar) 
 o abono (estimación en exceso del IUE a compensar) en la cuenta del anticipo.
-[Image: Im0]
 
 IUE - RND Nº 101800000004
 
 ---
-
-[Image: Im0]
 
 IUE - RND Nº 101800000004
 
@@ -14595,7 +14242,6 @@ IUE - RND Nº 101800000004
 | Columna L | Corresponde a los sueldos netos declarados en el formulario 608 de cada período |
 
 **Columna L** Corresponde a los sueldos netos declarados en el formulario 608 de cada período.
-[Image: Im0]
 
 IUE - RND Nº 101800000004
 
@@ -14623,7 +14269,6 @@ RESULTADO TRIBUTARIO |  |  |  |  |  |
 
 En este anexo se debe detallar los ingresos y los gastos del contribuyente por cada una de las 
 cuentas de resultados.
-[Image: Im0]
 
 ---
 
@@ -14633,7 +14278,6 @@ cuentas de resultados.
 
 **Columna B**  Consignar los códigos de cuentas contables, que deberán ser ingresados al máximo detalle posible, de 
 tal forma que los componentes del Anexo 7, se puedan identificar claramente.
-[Image: Im0]
 
 **Columna C**  Consignar el nombre de la cuenta contable.
 
@@ -14657,7 +14301,6 @@ IUE - RND Nº 101800000004
 **Columna B** Consignar los códigos de cuentas contables, que deberán ser ingresados al máximo detalle posible, de tal
 forma que los componentes del Anexo 7, se puedan identificar claramente.
 IUE - RND Nº 101800000004
-[Image: Im0]
 
 **Columna C** Consignar el nombre de la cuenta contable.
 
@@ -14666,8 +14309,6 @@ IUE - RND Nº 101800000004
 **Columna E** Consignar la sumatoria del total de la cuenta según la descripción general del gasto no deducible de la Columna D.
 
 ---
-
-[Image: Im0]
 
 **ANEXO 10**
 
@@ -14716,7 +14357,6 @@ IUE - RND Nº 101800000004
 | Columna L | En esta columna se deberá registrar los importes declarados en el formulario 520 de cada período. |
 
 **Columna L** En esta columna se deberá registrar, los importes declarados en el formulario 530 de cada período.
-[Image: Im0]
 
 ---
 
@@ -14761,14 +14401,12 @@ Otros (1) |  |
 
 En este Anexo se deberá detallar los saldos de todas las cuentas relacionados con las operaciones 
 fiscales al cierre de la gestión.
-[Image: Im0]
 
 IUE - RND Nº 101800000004
 
 ---
 
 IUE - RND Nº 101800000004
-[Image: Im0]
 
 **ANEXO 12**
 
@@ -14795,7 +14433,6 @@ IUE - RND Nº 101800000004
 
 Este Anexo deberá ser elaborado para cada uno de los productos terminados que comercialice el reproducción 
 contribuyente.
-[Image: Im0]
 
 **Columna A** En esta columna se deberá registrar el inventario inicial de cada período.
 
@@ -14817,8 +14454,6 @@ el período o las que fueran transferidas de producción en proceso.
 IUE - RND Nº 101800000004
 
 ---
-
-[Image: Im0]
 
 IUE - RND Nº 101800000004
 
@@ -14874,7 +14509,6 @@ IUE - RND Nº 101800000004
 En este Anexo se deberá detallar por producto las cantidades vendidas en cada mes, la tasa del reproducción 
 impuesto vigente en cada período para obtener el impuesto determinado según los movimientos de 
 inventarios a ser comparado con el impuesto liquidado por el contribuyente.
-[Image: Im0]
 
 La sumatoria total del numeral 5 debe coincidir con los ingresos netos de descuentos según los 
 Estados Financieros.
@@ -14882,8 +14516,6 @@ Estados Financieros.
 IUE - RND Nº 101800000004
 
 ---
-
-[Image: Im0]
 
 IUE - RND Nº 101800000004
 
@@ -15025,7 +14657,6 @@ En este Anexo se deberá detallar por producto las cantidades vendidas en cada m
 venta (neto de descuentos) y la tasa del impuesto vigente en cada período para obtener el impuesto 
 determinado según los movimientos de inventarios a ser comparado con el impuesto liquidado por 
 el contribuyente.
-[Image: Im0]
 
 La sumatoria total del numeral 5 debe coincidir con los ingresos netos de descuentos según los 
 Estados Financieros.
@@ -15035,7 +14666,6 @@ IUE - RND Nº 101800000004
 ---
 
 IUE - RND Nº 101800000004
-[Image: Im0]
 
 **ANEXO 15**
 
@@ -15076,7 +14706,6 @@ seguros, reaseguros y retrocesiones, primas y otros.
 cinematográficas, discos fonográficos, matrices y otros elementos destinados a cualquier 
 medio comercial de reproducción de imágenes y sonidos, contratados con beneficiarios del
 exterior por actividades parcialmente realizadas en el país.
-[Image: Im0]
 
 **Columna G** Corresponde al impuesto declarado en el formulario 551 V.3. de cada período.
 
@@ -15135,14 +14764,12 @@ que deberá ejecutar el auditor que dictamine sobre Información Tributaria Comp
 Estados Financieros. Este detalle es solo enunciativo y no limitativo. El auditor deberá basarse en su 
 evaluación de los controles internos y de las debilidades detectadas en los procedimientos aplicados 
 para determinar la necesidad de ampliar el tamaño de las muestras. Es importante aclarar que los 
-[Image: Im0]
 
 ---
 
 procedimientos que se indican a continuación son complementarios de los procedimientos que el reproducción 
 auditor debe aplicar para poder emitir su opinión sobre los estados financieros, de acuerdo con 
 Normas de Auditoría Generalmente Aceptadas en Bolivia. 
-[Image: Im0]
 
 ## I. Impuesto Al Valor Agregado
 
@@ -15232,7 +14859,6 @@ En caso de establecer observaciones o diferencias, éstas deberán ser informada
 Realizar un muestreo de las facturas más significativas, seleccionadas al azar, registradas en el 
 Libro de Compras IVA. (Pólizas de importación en especial, si las tuvieran) y tomar una prueba de 
 cumplimiento para un mes de la gestión. 
-[Image: Im0]
 
 Sobre esa muestra, verificar los siguientes aspectos: 
 IUE - RND Nº 101800000004
@@ -15279,7 +14905,6 @@ En caso de establecer observaciones, éstas deberán ser informadas por el audit
 
 Verificar el cumplimiento de los aspectos formales en la presentación de las Declaraciones Juradas, 
 tomando en cuenta los siguientes aspectos: 
-[Image: Im0]
 
 - Llenado de las casillas, incluyendo todos los datos que corresponden a cada una de ellas.
 
@@ -15340,7 +14965,6 @@ Realizar una prueba global anual para el periodo analizado, a través de la comp
 gravados por este impuesto que se encuentran registrados en los estados financieros, con aquellos 
 IUE - RND Nº 101800000004
 ingresos declarados en los formularios 400 durante el periodo bajo análisis. 
-[Image: Im0]
 
 ## Resultado del procedimiento
 
@@ -15369,7 +14993,6 @@ En caso de establecer observaciones o diferencias, éstas deberán ser informada
 
 Verificar el cumplimiento de los aspectos formales en la presentación de las Declaraciones Juradas, 
 tomando en cuenta los siguientes aspectos: 
-[Image: Im0]
 
 - Llenado de las casillas, incluyendo todos los datos que corresponden a cada una de ellas.
 
@@ -15417,7 +15040,6 @@ Verificar que los cálculos de las planillas tributarias sean razonablemente cor
 cuenta los importes de salarios mínimos, el mantenimiento de valor de los créditos fiscales de los 
 dependientes, correcto arrastre de los saldos de créditos fiscales de los meses anteriores para dos 
 meses tomados al azar. 
-[Image: Im0]
 
 Realizar una prueba para dos meses, que consiste en la obtención del sueldo neto a partir de los totales 
 ganados registrados en las planillas de sueldos menos los aportes laborales por seguridad social.
@@ -15455,7 +15077,6 @@ comparar, para dos meses tomados al azar la razonabilidad de los montos declarad
 
 Comparar los importes declarados en el formulario 530 con los saldos de la cuenta de pasivo reproducción 
 relacionados con las retenciones por remesas al exterior.
-[Image: Im0]
 
 ## Resultado del procedimiento
 
@@ -15516,7 +15137,6 @@ movimientos de inventarios y ventas.
 Sobre la base de la información obtenida, determinar los ingresos por ventas mensuales, netos de 
 descuentos y verificar que éstos ingresos coincidan con los ingresos declarados a los efectos del ICE 
 (formularios 650, 651 y 185). 
-[Image: Im0]
 
 Verificar que las tasas aplicadas por la empresa en la liquidación del ICE coincidan con las tasas 
 establecidas por las normas vigentes y que se encuentren vigentes en el período que corresponde.
@@ -15597,7 +15217,6 @@ En las entidades financieras que efectúan pagos de rendimientos a personas natu
 los listados de clientes de tres meses tomados al azar y sobre una muestra con los importes más 
 significativos pagados, deberá verificar que la entidad cuente con información y la documentación de 
 respaldo que sustente la no retención efectuada detallada a continuación:
-[Image: Im0]
 
 a) Nombre del cliente.
 
@@ -15619,7 +15238,6 @@ auditor.
 los gastos por honorarios, servicios, compras de bienes efectuados a personas naturales (profesiones 
 liberales u oficios) por los cuales la empresa no obtuvo una factura, nota fiscal o documento 
 equivalente. 
-[Image: Im0]
 
 **2.** Sobre una muestra de tres meses seleccionados al azar, elegir diez (10) casos con importes más 
 significativos de las cuentas identificadas y verificar la adecuada determinación de los impuestos 
@@ -15690,7 +15308,6 @@ emitimos el dictamen que se presenta en la primera parte de este informe, siguie
 establecidos en el reglamento para la preparación de Información Tributaria Complementaria a los 
 Estados Financieros, aprobado por el Servicio de Impuestos Nacionales (SIN) mediante Resolución 
 Normativa de Directorio N° 101800000004 de 2 de marzo de 2018.
-[Image: Im0]
 
 La Información Tributaria Complementaria a los estados financieros (ITC) requerida por el Servicio 
 de Impuestos Nacionales (SIN), aunque no es esencial para una correcta interpretación de la situación 
@@ -15743,7 +15360,6 @@ presenta en la primera parte de este informe, siguiendo los lineamientos estable
 para la preparación de Información Tributaria Complementaria a los Estados Financieros, aprobado 
 por el Servicio de Impuestos Nacionales (SIN) mediante Resolución Normativa de Directorio N° 
 101800000004 de 2 de marzo de 2018.
-[Image: Im0]
 
 Durante el mes de Diciembre la Sociedad ha realizado la facturación anticipada de venta de bienes 
 por un valor de Bs XXXXX que se han incluido en el Anexo 1 bajo la columna “ajustes” y ha 
@@ -15804,7 +15420,6 @@ emitimos el dictamen que se presenta en la primera parte de este informe, siguie
 establecidos en el reglamento para la preparación de Información Tributaria Complementaria a los 
 Estados Financieros, aprobado por el Servicio de Impuestos Nacionales (SIN) mediante Resolución 
 Normativa de Directorio N° 101800000004 de 2 de marzo de 2018.
-[Image: Im0]
 
 La Información Tributaria Complementaria a los estados financieros (ITC) requerida por el Servicio 
 de Impuestos Nacionales (SIN), aunque no es esencial para una correcta interpretación de la situación 
@@ -15863,7 +15478,6 @@ IUE - RND Nº 101800000004opinión de auditoría sobre la Información Tributari
 establecidos en el reglamento para la preparación de Información Tributaria Complementaria a los 
 Estados Financieros, aprobado por el Servicio de Impuestos Nacionales (SIN) mediante Resolución 
 Normativa de Directorio N° 101800000004 de 2 de marzo de 2018.
-[Image: Im0]
 
 La Sociedad no nos ha presentado la información de soporte con la cual se preparó la Información 
 Tributaria Complementaria con los respaldos que sustenten que la información expuesta en los
@@ -15909,7 +15523,6 @@ complementaria, un resumen de los procedimientos utilizados para examinar la “
 Tributaria Complementaria a los Estados Financieros”. Este resumen deberá incluir una descripción 
 del alcance de las pruebas, el criterio utilizado para tomar las muestras, la cobertura alcanzada, y el 
 resultado de las verificaciones efectuadas. 
-[Image: Im0]
 
 Las muestras indicadas en el “Alcance mínimo de las tareas de auditoría sobre la información 
 tributaria complementaria a los estados financieros” de este Reglamento, son alcances mínimos. 
@@ -15956,7 +15569,6 @@ Complementaria  a los Estados Financieros o Memoria Anual” de este Reglamento,
 *presentada con el envío de la Información Tributaria Complementaria a través de los* 
 *módulos “Envío Digital de Estados Financieros” o “Envío Digital de Memoria Anual”* 
 *del “Aplicativo Contribuyentes” en el plazo establecido en la presente Resolución.”* 
-[Image: Im0]
 
 ---
 
@@ -15998,7 +15610,6 @@ Reglamento de aplicación de la Ley Nº 2166 del Servicio de Impuestos Nacionale
 Ejecutivo en uso de sus atribuciones y en aplicación del Inciso a) del Numeral 1 de la Resolución 
 Administrativa de Directorio Nº 09-0011-02 de 28 de agosto de 2002, se encuentra autorizado a 
 suscribir Resoluciones Normativas de Directorio.
-[Image: Im0]
 
 ## POR TANTO:
 
@@ -16030,7 +15641,6 @@ Emprendimientos Productivos, a las actividades económicas inscritas en el Padr�
 de inversión sea mayor o igual a Bs1.000.000.- (Un Millón 00/100 de Bolivianos), pudiendo deducir 
 las pérdidas acumuladas sin actualización, con las utilidades gravadas que se obtengan en los cinco 
 (5) años siguientes a la fecha de inicio de operaciones. 
-[Image: Im0]
 
 **Artículo 5. (Pérdida no Deducida).-** Concluido el plazo establecido, las pérdidas que no hayan 
 sido deducidas total o parcialmente, no serán consideradas para la compensación con utilidades de 
@@ -16096,7 +15706,6 @@ que se encuentren identificados como países o regiones no cooperantes de acuerd
 para la Cooperación y el Desarrollo Económico – OCDE y aquellos que estén listados como tales en 
 cuatro o más legislaciones de Sud América. Disponiendo además que la Administración Tributaria 
 establecerá y actualizará el citado listado mediante norma administrativa.
-[Image: Im0]
 
 Que la Resolución Normativa de Directorio N° 101700000001 de 13 de enero de 2017, en merito 
 a la Disposición Adicional Segunda del Decreto Supremo Nº 2993, estableció el listado de países
@@ -16111,7 +15720,6 @@ Decreto Supremo Nº 2993, excluyendo del listado original a las jurisdicciones d
 Guatemala, Madeira, Micronesia y Samoa Occidental; e incluyendo bajo nuevos numerales a las 
 jurisdicciones de Bonaire, Saba y San Eustaquio, Emiratos Árabes Unidos, Guam, Islas Christmas, 
 Islas de Cocos o Keeling, Islas Malvinas, Palau, Puerto Rico, Sri Lanka, Tokelau y Tuvalu.
-[Image: Im0]
 
 Que conforme al Inciso p) del Artículo 19 del Decreto Supremo Nº 26462 de 22 de diciembre de 2001, 
 Reglamento de la Ley Nº 2166, del Servicio de Impuestos Nacionales, el Presidente Ejecutivo en uso 
@@ -16181,12 +15789,10 @@ Servicio de Impuestos Nacionales
 | 27 | Guyana | 68 | San Marino |
 
 IUE - RND Nº 101800000006
-[Image: Im0]
 
 ---
 
 IUE - RND Nº 101800000006
-[Image: Im0]
 
 | 28 | Hong Kong | 69 | San Vicente y las Granadinas |
 | --- | --- | --- | --- |
@@ -16232,7 +15838,6 @@ acreditados ante el Servicio de Impuestos Nacionales; tales dictámenes podrán 
 profesionales independientes o por propietarios de empresas unipersonales de auditoria, así como por 
 empresas especializadas de auditoria externa y empresas consultoras en el área económica financiera, 
 siempre que estos dictámenes sean elaborados por los profesionales señalados en este Artículo.”.
-[Image: Im0]
 
 Que mediante Resolución Normativa de Directorio (RND) Nº 101800000004 de 02 de marzo de 
 2018, el Servicio de Impuestos Nacionales reglamentó la forma, medios y plazos para la presentación 
@@ -16281,7 +15886,6 @@ Contadores Públicos, las empresas de auditoría externa y auditores o contadore
 con título en provisión nacional inscritos en el Colegio de Auditores o de Contadores Provincial, 
 Departamental y de Bolivia, quedan habilitados para la elaboración, emisión y firma de los Informes 
 y dictámenes de auditoría financiera externa.”
-[Image: Im0]
 
 **II.** Se modifica el inciso g) del modelo de “Dictamen Tributario sobre la Información Tributaria 
 Complementaria de los Estados Financieros” del inciso c) “Reglamento para la Emisión del Dictamen 
@@ -16330,7 +15934,6 @@ Mes 12 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Total | 0.00 |
 
 IUE - RND Nº 101800000007
-[Image: Im0]
 
 ---
 
@@ -16338,7 +15941,6 @@ reproducción
 **Columna A**  Ingresos totales según Estado de Resultados netos del IVA. Por lo tanto, el total debe coincidir 
 con los ingresos consignados en el Estado de Resultados. Este importe se puede obtener de las 
 cuentas de ingresos del Estado de Resultados.
-[Image: Im0]
 
 **Columna C**  Devoluciones y/o descuentos en ventas otorgados en el período, que pueden estar registradas 
 en cuentas específicas de gasto.
@@ -16418,12 +16020,10 @@ Mes 12 |  |  |  |  |  |  |  |  | 0 |  | 0 |  |  | 0 |
 | Total | 0 |
 
 IUE - RND Nº 101800000007
-[Image: Im0]
 
 ---
 
 IUE - RND Nº 101800000007
-[Image: Im0]
 
 | Columna A | Saldo del Crédito Fiscal al inicio del mes. Este dato se deberá obtener del mayor de la cuenta. |
 | --- | --- |
@@ -16485,7 +16085,6 @@ correspondiente a las columnas A, B y C del Anexo 10, del inciso b) **“**Regla
 de la Información Tributaria Complementaria a los Estados Financieros o Memoria Anual” de los 
 Anexos de la Resolución Normativa de Directorio Nº 101800000004 de 02 de marzo de 2018 con el 
 siguiente texto:
-[Image: Im0]
 
 **“Columna A, B** En estas columnas se debe incluir los saldos mensuales de las cuentas contables de los 
 **y C**  Estados Financieros donde se registran los conceptos detallados.**”**
@@ -16531,7 +16130,6 @@ en los módulos “Envío Digital de Estados Financieros” y “Envío Digital 
 acuerdo a un análisis fundamentado para su mejora en el mes de diciembre de cada gestión, para 
 su aplicación inmediata en las gestiones fiscales iniciadas en el año de actualización, la citada 
 modificación será comunicada a través del sitio web www.impuestos.gob.bo.”
-[Image: Im0]
 
 **Artículo 2. (Incorporaciones).- I.** Se incorpora como Disposición Transitoria Tercera del Título 
 Disposiciones Transitorias de la Resolución Normativa de Directorio Nº 101800000004 de 02 de 
@@ -16567,7 +16165,6 @@ dentro de los cinco (5) días hábiles siguientes a la publicación de la presen
 de Directorio, con lo cual se entenderá que cumplieron con el deber formal de presentación y envío 
 de sus Estados Financieros o Memoria Anual y no están obligados a cumplir con la Resolución 
 Normativa de Directorio Nº 101800000004 de 2 de marzo de 2018.
-[Image: Im0]
 
 ***Nota del Editor:*** *La RND Nº 101800000010 de 26/04/2018 en sus Disposiciones* 
 *Derogatorias Segunda* ***derogó*** *la Disposición precedente.*
@@ -16611,7 +16208,6 @@ través del Formulario Electrónico 605 Versión 5 ó Versión 2, según corresp
 de los Estados Financieros del contribuyente mediante el aplicativo informático “Facilito” y la 
 Oficina Virtual del Servicio de Impuestos Nacionales, así como la presentación física de los Estados 
 Financieros o Memoria Anual, según corresponda, en dependencias de la Administración Tributaria. 
-[Image: Im0]
 
 Que mediante Resolución Normativa de Directorio (RND) Nº 101800000004 de 02 de marzo de 
 2018, el Servicio de Impuestos Nacionales reglamentó la forma, medios y plazos para la presentación 
@@ -16666,7 +16262,6 @@ Distritales o GRACO de su jurisdicción o en otra jurisdicción, en el mismo pla
 la presentación de la Declaración Jurada y pago del Impuesto sobre las Utilidades de las Empresas 
 (IUE), conforme lo dispuesto en el Artículo 39 del Decreto Supremo N° 24051, a partir de la gestión 
 fiscal cerrada al 31 de marzo de 2018, en adelante.” 
-[Image: Im0]
 
 **Tercera.-** Se sustituye la Disposición Transitoria Tercera de la Resolución Normativa de Directorio 
 Nº 101800000004 de 2 de marzo de 2018, por el siguiente texto:
@@ -16691,7 +16286,6 @@ entenderá que la obligación de envío fue cumplida, cuando se complete la info
 con el envío de la Información Tributaria Complementaria a través de los módulos “Envío Digital 
 de Estados Financieros” o “Envío Digital de Memoria Anual” del “Aplicativo Contribuyentes” en el 
 plazo establecido en la Disposición Transitoria Primera de la presente Resolución.” 
-[Image: Im0]
 
 ## DISPOSICIONES DEROGATORIAS
 
@@ -16730,7 +16324,6 @@ beneficiarios del exterior, se presumirá, sin admitir prueba en contrario, que 
 será equivalente al 50% (cincuenta por ciento) del monto total pagado o remesado, sobre dicha Base 
 Imponible se aplica la alícuota del 25% (veinticinco por ciento) del Impuesto sobre las Utilidades de 
 las Empresas.
-[Image: Im0]
 
 Que el Artículo 34 del Decreto Supremo N° 24051 de 29 de junio de 1995, Reglamento del Impuesto 
 sobre las Utilidades de las Empresas, establece las rentas de fuente boliviana a efecto de la aplicación 
@@ -16769,7 +16362,6 @@ realizadas en el País – Inciso a) Art. 43 DS 24051), así como las Boletas de
 a Beneficiarios del Exterior) y 3051 V.3 (IUE- Pagos a Beneficiarios del Exterior por Actividades 
 Parcialmente realizadas en el País); para la declaración y pago de la Retención del Impuesto sobre las 
 Utilidades de las Empresas a Beneficiarios del Exterior.
-[Image: Im0]
 
 **II.** Todos los pagos, remesas o acreditaciones del período, por rentas de fuente boliviana en el marco 
 de lo dispuesto en el Artículo 51 de la Ley Nº 843, deberán ser consolidados en el formulario 530 V.3. 
@@ -16840,7 +16432,6 @@ y digitalizada a la Administración Tributaria de los Estados Financieros, Dicta
 Externa, Dictamen Tributario, Informe de Procedimientos Mínimos Tributarios, Información 
 Tributaria Complementaria y/o Memoria Anual, de los sujetos pasivos o terceros responsables del 
 Impuesto sobre las Utilidades de las Empresas (IUE).
-[Image: Im0]
 
 Que debido a ajustes en el sistema informático del Servicio de Impuestos Nacionales y a efecto de 
 garantizar el correcto cumplimento de las obligaciones tributarias de los contribuyentes, es necesario 
@@ -16889,7 +16480,6 @@ formal establecida en el Artículo 7 de la Resolución Normativa de Directorio N
 con el envío de la Información Tributaria Complementaria a través de los módulos “Envío Digital de 
 Estados Financieros” o “Envío Digital de Memoria Anual” del “Aplicativo Contribuyentes SIAT” en 
 el plazo establecido en la presente Resolución.
-[Image: Im0]
 
 ***Nota del Editor:*** *La RND Nº 101800000020 de 03/09/2018 en su Disposición Derogatoria* 
 *Única* ***derogó*** *la Disposición precedente.*
@@ -16932,7 +16522,6 @@ física y digitalizada a la Administración Tributaria de los Estados Financiero
 Auditoria Externa, Dictamen Tributario, Informe de Procedimientos Mínimos Tributarios, 
 Información Tributaria Complementaria y/o Memoria Anual, de los sujetos pasivos o terceros 
 responsables del Impuesto sobre las Utilidades de las Empresas (IUE).
-[Image: Im0]
 
 Que mediante Resolución Normativa de Directorio Nº 101800000018 de 20 de julio de 2018, el Servicio de 
 Impuestos Nacionales prorrogó el plazo para la presentación digital de estados financieros o memoria anual 
@@ -16988,7 +16577,6 @@ formal establecida en el Artículo 7 de la Resolución Normativa de Directorio N
 presentada con el envío de la Información Tributaria Complementaria a través de los módulos “Envío 
 Digital de Estados Financieros” o “Envío Digital de Memoria Anual” del “Aplicativo Contribuyentes” 
 en el plazo establecido en la presente Resolución.
-[Image: Im0]
 
 ## DISPOSICIÓN DEROGATORIA
 
@@ -17030,7 +16618,6 @@ Que mediante Resolución Normativa de Directorio Nº 101800000020 de 03 de septi
 Financieros o Memoria Anual e Información Tributaria Complementaria de los Sujetos Pasivos 
 o Terceros Responsables del Impuesto sobre las Utilidades de las Empresas (IUE), que realizan 
 actividades con cierre al 31 de marzo de 2018 y 30 de junio de 2018.
-[Image: Im0]
 
 Que ante la necesidad de adecuar las condiciones y características técnicas para la presentación 
 digital de los Estados Financieros o Memoria Anual e Información Tributaria Complementaria, los 
@@ -17063,7 +16650,6 @@ IUE - RND Nº 101800000025
 
 Responsables del Impuesto sobre las Utilidades de las Empresas (IUE), que realizan actividades con reproducción 
 cierre de gestión al 31 de marzo de 2018 y 30 de junio de 2018.
-[Image: Im0]
 
 ## DISPOSICIÓN FINAL
 
@@ -17112,7 +16698,6 @@ MIL DOSCIENTOS 00/100 BOLIVIANOS), Pesados y Tractocamiones Bs2.600.- (DOS MIL
 SEISCIENTOS 00/100 BOLIVIANOS), que deben ser actualizados anualmente en base a la variación 
 de la Unidad de Fomento a la Vivienda (UFV), conforme a lo establecido en el Artículo 2 del Decreto 
 Supremo Nº 28988 de 29 de diciembre de 2006.
-[Image: Im0]
 
 Que mediante Resolución Normativa de Directorio Nº 101700000025 de 26 de diciembre de 2017, el 
 Servicio de Impuestos Nacionales, actualizó para la gestión 2017 los importes por concepto de IUE 
@@ -17144,7 +16729,6 @@ disposiciones precedentemente citadas,
 Empresas (IUE) correspondiente a la gestión 2018, para personas naturales que prestan servicio 
 público de transporte interdepartamental de pasajeros y carga según el tipo de vehículo y capacidad 
 de carga, conforme al siguiente detalle:
-[Image: Im0]
 
 **TRANSPORTE INTERDEPARTAMENTAL DE PASAJEROS POR CARRETERA**
 
@@ -17213,7 +16797,6 @@ que se encuentren identificados como países o regiones no cooperantes de acuerd
 para la Cooperación y el Desarrollo Económico – OCDE y aquellos que estén listados como tales en 
 cuatro o más legislaciones de Sud América. Estableciendo además que la Administración Tributaria 
 establecerá y actualizará el citado listado mediante norma administrativa.
-[Image: Im0]
 
 Que la Resolución Normativa de Directorio N° 101800000006 de fecha 09/03/2018, en mérito a 
 la Disposición Adicional Segunda del Decreto Supremo Nº 2993, actualizó el listado de países o
@@ -17730,10 +17313,6 @@ Regístrese, publíquese y cúmplase.
 IMPUESTO A LAS
 TRANSACCIONES
 (IT)
-
----
-
-Prohibida su reproducción impresa o digital sin autorización
 
 ---
 
@@ -18307,10 +17886,6 @@ Regístrese, publíquese y cúmplase.
 IMPUESTO A LOS
 CONSUMOS ESPECÍFICOS
 (ICE)
-
----
-
-Prohibida su reproducción impresa o digital sin autorización
 
 ---
 
@@ -22194,10 +21769,6 @@ GRATUITAS DE BIENES
 
 ---
 
-Prohibida su reproducción impresa o digital sin autorización
-
----
-
 RESOLUCIÓN NORMATIVA DE DIRECTORIO Nº 10-0003-16
 PRESENTACIÓN DE DECLARACIONES JURADAS IMPUESTO A LA
 TRANSMISIÓN GRATUITA DE BIENES - FORMULARIOS 692 V.2 Y 695 V.2.
@@ -22249,10 +21820,6 @@ Servicio de Impuestos Nacionales
 IMPUESTO A LAS SALIDAS
 AÉREAS AL EXTERIOR
 (ISAE)
-
----
-
-Prohibida su reproducción impresa o digital sin autorización
 
 ---
 
@@ -23203,10 +22770,6 @@ DERIVADOS
 
 ---
 
-Prohibida su reproducción impresa o digital sin autorización
-
----
-
 RESOLUCIÓN NORMATIVA DE DIRECTORIO Nº 10-0026-05
 ACTUALIZACIÓN ANUAL ALÍCUOTA MÁXIMA IMPUESTO ESPECIAL A LOS
 HIDROCARBUROS Y SUS DERIVADOS
@@ -23992,10 +23555,6 @@ REGALÍA MINERA
 
 ---
 
-Prohibida su reproducción impresa o digital sin autorización
-
----
-
 RESOLUCIÓN NORMATIVA DE DIRECTORIO Nº 10-0007-02
 (COMPILADA A LA FECHA)
 
@@ -24397,7 +23956,6 @@ Servicio de Impuestos Nacionales
 ---
 
 NOTAS
-Prohibida su reproducción impresa o digital sin autorización
 
 ---
 
@@ -24405,10 +23963,6 @@ IMPUESTO A LAS
 TRANSACCIONES
 FINANCIERAS
 (ITF)
-
----
-
-Prohibida su reproducción impresa o digital sin autorización
 
 ---
 
@@ -26456,10 +26010,6 @@ HIDROCARBUROS
 
 ---
 
-Prohibida su reproducción impresa o digital sin autorización
-
----
-
 RESOLUCIÓN NORMATIVA DE DIRECTORIO N° 10-0017-05
 PROCEDIMIENTO OPERATIVO PARA LA APLICACIÓN DEL IMPUESTO DIRECTO A
 LOS HIDROCARBUROS
@@ -27115,10 +26665,6 @@ JUEGOS
 
 ---
 
-Prohibida su reproducción impresa o digital sin autorización
-
----
-
 RESOLUCIÓN NORMATIVA DE DIRECTORIO Nº 10-0005-11
 (COMPILADA A LA FECHA)
 
@@ -27610,17 +27156,12 @@ TOTAL
 ---
 
 NOTAS
-Prohibida su reproducción impresa o digital sin autorización
 
 ---
 
 IMPUESTO A LA VENTA DE
 MONEDA EXTRANJERA
 (IVME)
-
----
-
-Prohibida su reproducción impresa o digital sin autorización
 
 ---
 
@@ -27803,10 +27344,6 @@ FORTUNAS
 
 ---
 
-Prohibida su reproducción impresa o digital sin autorización
-
----
-
 RESOLUCIÓN NORMATIVA DE DIRECTORIO Nº 102100000001
 
 R-0011-01
@@ -27917,10 +27454,6 @@ Regístrese, publíquese y cúmplase.
 
 Fdo. Presidente Ejecutivo
 Servicio de Impuestos Nacionales
-
----
-
-Prohibida su reproducción impresa o digital sin autorización
 
 ---
 
