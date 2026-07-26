@@ -37,9 +37,6 @@ export async function responderTelegram(params: {
   try {
     const result = await ragAsk({ pregunta });
     respuesta = result.respuesta;
-    if (result.fuentes.length > 0) {
-      respuesta += `\n\nFuentes: ${result.fuentes.slice(0, 3).join(", ")}`;
-    }
   } catch (err) {
     console.error("[telegram] RAG/Ollama falló:", err);
     respuesta =

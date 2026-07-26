@@ -6,6 +6,7 @@
  */
 import type { EnvioResultado } from "../types/resultado";
 import type { EnviarRecordatorioInput } from "../types/tools";
+import { CHECKLIST_NIT } from "../data/checklist-nit";
 import { validarDestino } from "../utils/validar-destino";
 import { enviarMensaje, getZavuChannel } from "../utils/zavu";
 
@@ -25,10 +26,23 @@ export async function enviarRecordatorio(input: EnviarRecordatorioInput): Promis
     `Proximo vencimiento: ${fecha}`,
     `Concepto: ${input.concepto}`,
   ];
+  const incluyePasoSimplificado = input.regimen.toLowerCase().includes("simplificado");
+  const pasos = CHECKLIST_NIT.filter(
+    (paso) => paso.paso !== 4 || incluyePasoSimplificado,
+  );
+
+  lineas.push(
+    "",
+    "Checklist para empezar a formalizarte:",
+    ...pasos.map((paso) => `☐ ${paso.paso}. ${paso.titulo}`),
+  );
   if (input.linkCalendario) {
     lineas.push("", `Calendario fiscal: ${input.linkCalendario}`);
   }
-  lineas.push("", "Te avisaremos antes de cada vencimiento.");
+  lineas.push(
+    "",
+    "Orientacion informativa. Verifica los requisitos de tu actividad con el SIN.",
+  );
 
   const resultado = await enviarMensaje({
     to: dest.to,

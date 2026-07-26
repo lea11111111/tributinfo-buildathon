@@ -171,8 +171,8 @@ export function ResultScreen({ result, onRestart }: Props) {
           <div className="delivery-zone">
             <h3>Recibilo ahora</h3>
             <p className="muted">
-              Guardá los vencimientos en tu Google Calendar y recibilos por
-              Telegram.
+              Recibí por Telegram tu resumen, el próximo vencimiento y una
+              checklist para empezar a formalizarte.
             </p>
 
             <button
@@ -184,16 +184,12 @@ export function ResultScreen({ result, onRestart }: Props) {
               {tgStatus === 'sending' && 'Confirmá en Telegram…'}
               {tgStatus === 'sent' && 'Enviado ✓'}
               {(tgStatus === 'idle' || tgStatus === 'error') &&
-                'Enviármelo por Telegram'}
+                'Enviar resumen y checklist'}
             </button>
-            <p className="gcal-hint">
-              Se abrirá Telegram para conectar tu cuenta. No necesitás buscar ni
-              copiar ningún identificador.
-            </p>
 
             {tgStatus === 'sent' && (
               <p className="wa-status wa-status--ok" role="status">
-                Calendario enviado. Revisá Telegram en el celular.
+                Resumen y checklist enviados. Revisá Telegram en el celular.
               </p>
             )}
             {tgStatus === 'error' && tgError && (
@@ -256,7 +252,7 @@ export function ResultScreen({ result, onRestart }: Props) {
                 }
                 title="Archivo .ics para Outlook, Apple Calendar u otros"
               >
-                Archivo .ics (respaldo)
+                Descargar calendario
               </button>
             </div>
           </div>
