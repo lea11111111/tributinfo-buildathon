@@ -8,6 +8,7 @@ import type {
 import { ToolsPanel } from './ToolsPanel'
 import { AskBox } from './AskBox'
 import { downloadChecklist, downloadIcs, sendWhatsApp } from '@/lib/api'
+import { fechaLegible, googleCalendarUrlDe } from '@/lib/google-calendar'
 
 type Props = {
   result: DiagnosisResult
@@ -47,32 +48,41 @@ function formatBs(n: number) {
   return `Bs ${n.toLocaleString('es-BO')}`
 }
 
-/** Elige el evento más próximo (fecha >= hoy); si no hay, usa datos de prueba. */
+/** Elige el evento más próximo (fecha >= hoy); si no hay ninguno, cae al primero. */
 function proximoVencimiento(eventos: CalendarioEvento[]): {
   fecha: string
   concepto: string
+  evento: CalendarioEvento
 } {
   const hoy = new Date().toISOString().slice(0, 10)
   const futuros = eventos
     .filter((e) => e.fecha >= hoy)
     .sort((a, b) => a.fecha.localeCompare(b.fecha))
   const elegido = futuros[0] ?? eventos[0]
+
   if (elegido) {
     return {
       fecha: elegido.fecha,
       concepto: elegido.descripcion ?? elegido.titulo,
+      evento: elegido,
     }
   }
-  return {
+
+  // El backend siempre manda al menos un vencimiento; esto solo cubre el tipo.
+  const respaldo: CalendarioEvento = {
     fecha: '2026-08-17',
-    concepto: 'Cuota bimestral RTS — mensaje de prueba de TributInfo',
+    titulo: 'Vencimiento fiscal',
+    descripcion: 'Consultá tu calendario en TributInfo.',
   }
+  return { fecha: respaldo.fecha, concepto: respaldo.titulo, evento: respaldo }
 }
 
 export function ResultScreen({ result, onRestart }: Props) {
   const [phone, setPhone] = useState('+591')
   const [waStatus, setWaStatus] = useState<WhatsAppStatus>('idle')
   const [waError, setWaError] = useState<string | null>(null)
+
+  const proximo = proximoVencimiento(result.calendario.eventos)
 
   async function handleWhatsApp() {
     const cleaned = phone.replace(/\s/g, '')
@@ -82,8 +92,6 @@ export function ResultScreen({ result, onRestart }: Props) {
       return
     }
 
-    const proximo = proximoVencimiento(result.calendario.eventos)
-
     setWaStatus('sending')
     setWaError(null)
     try {
@@ -92,6 +100,7 @@ export function ResultScreen({ result, onRestart }: Props) {
         regimen: result.regimen,
         proximoVencimiento: proximo.fecha,
         concepto: proximo.concepto,
+        linkCalendario: googleCalendarUrlDe(proximo.evento),
       })
       setWaStatus('sent')
     } catch (err) {
@@ -99,7 +108,7 @@ export function ResultScreen({ result, onRestart }: Props) {
       setWaError(
         err instanceof Error
           ? err.message
-          : 'No se pudo enviar. Descargá el calendario abajo.',
+          : 'No se pudo enviar. Usá el botón de Google Calendar.',
       )
     }
   }
@@ -150,7 +159,7 @@ export function ResultScreen({ result, onRestart }: Props) {
           <div className="delivery-zone">
             <h3>Recibilo ahora</h3>
             <p className="muted">
-              El calendario va a tu WhatsApp y también lo podés descargar.
+              Guardá los vencimientos en tu Google Calendar y recibilos por WhatsApp.
             </p>
 
             <div className="wa-row">
@@ -186,16 +195,43 @@ export function ResultScreen({ result, onRestart }: Props) {
               </p>
             )}
 
+            <a
+              className="btn btn--gcal btn--block"
+              href={googleCalendarUrlDe(proximo.evento)}
+              target="_blank"
+              rel="noreferrer"
+            >
+              Añadir a Google Calendar
+            </a>
+            <p className="gcal-hint">
+              Se abre Google Calendar con el vencimiento del{' '}
+              {fechaLegible(proximo.fecha)} listo para guardar. Si no tenés sesión
+              iniciada, Google te la pide primero.
+            </p>
+
+            {result.calendario.eventos.length > 1 && (
+              <details className="gcal-more">
+                <summary>
+                  Ver los {result.calendario.eventos.length} vencimientos del año
+                </summary>
+                <ul className="gcal-list">
+                  {result.calendario.eventos.map((evento) => (
+                    <li key={`${evento.fecha}-${evento.titulo}`}>
+                      <span>{fechaLegible(evento.fecha)}</span>
+                      <a
+                        href={googleCalendarUrlDe(evento)}
+                        target="_blank"
+                        rel="noreferrer"
+                      >
+                        Añadir
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+              </details>
+            )}
+
             <div className="download-row">
-              <button
-                type="button"
-                className="btn btn--secondary"
-                onClick={() =>
-                  downloadIcs(result.calendario.filename, result.calendario.eventos)
-                }
-              >
-                Descargar calendario (.ics)
-              </button>
               <button
                 type="button"
                 className="btn btn--secondary"
@@ -203,7 +239,17 @@ export function ResultScreen({ result, onRestart }: Props) {
                   downloadChecklist(result.checklist.filename, result.checklist.pasos)
                 }
               >
-                Descargar checklist
+                Checklist del NIT
+              </button>
+              <button
+                type="button"
+                className="btn btn--secondary"
+                onClick={() =>
+                  downloadIcs(result.calendario.filename, result.calendario.eventos)
+                }
+                title="Archivo .ics para Outlook, Apple Calendar u otros"
+              >
+                Archivo .ics (respaldo)
               </button>
             </div>
           </div>

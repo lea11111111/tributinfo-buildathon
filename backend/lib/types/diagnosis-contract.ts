@@ -68,5 +68,14 @@ export type DiagnosisResult = {
 export type WhatsAppPayload = {
   telefono: string;
   regimen: string;
-  calendarioFilename: string;
+  /**
+   * Datos del próximo vencimiento. El frontend los manda porque ya los tiene
+   * del diagnóstico: así el envío no depende de una caché del servidor, que en
+   * Render (plan free) se pierde cada vez que el servicio se duerme o reinicia.
+   */
+  proximoVencimiento?: string;
+  concepto?: string;
+  /** Link que va en el mensaje (hoy: "Añadir a Google Calendar" del evento). */
+  linkCalendario?: string;
+  calendarioFilename?: string;
 };

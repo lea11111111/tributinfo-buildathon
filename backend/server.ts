@@ -81,6 +81,8 @@ async function handleWhatsApp(req: IncomingMessage, res: ServerResponse) {
     return;
   }
 
+  // Preferimos lo que manda el frontend; la caché es solo respaldo (se pierde
+  // cuando Render reinicia el servicio en el plan free).
   const meta = getLastDiagnosisMeta();
   const appUrl =
     process.env.NEXT_PUBLIC_APP_URL ??
@@ -90,9 +92,14 @@ async function handleWhatsApp(req: IncomingMessage, res: ServerResponse) {
   const resultado = await enviarRecordatorio({
     telefono: body.telefono,
     regimen: body.regimen,
-    proximoVencimiento: meta?.proximoVencimiento ?? new Date().toISOString().slice(0, 10),
-    concepto: meta?.concepto ?? "Obligaciones fiscales",
-    linkCalendario: `${appUrl}/api/descargar-calendario?regimen=${encodeURIComponent(body.regimen)}&digito=0`,
+    proximoVencimiento:
+      body.proximoVencimiento ??
+      meta?.proximoVencimiento ??
+      new Date().toISOString().slice(0, 10),
+    concepto: body.concepto ?? meta?.concepto ?? "Obligaciones fiscales",
+    linkCalendario:
+      body.linkCalendario ??
+      `${appUrl}/api/descargar-calendario?regimen=${encodeURIComponent(body.regimen)}&digito=0`,
   });
 
   json(res, resultado.exito ? 200 : 502, resultado);

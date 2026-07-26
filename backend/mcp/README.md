@@ -14,19 +14,25 @@ Correr a mano (para probar que arranca): `pnpm --filter tributinfo-backend mcp`
 
 ## Registrar en Cursor / Claude Desktop
 
-Cursor: `.cursor/mcp.json` (en el repo o global). Claude Desktop: `claude_desktop_config.json`.
-El bloque es el mismo:
+Cursor: `.cursor/mcp.json` (ya está creado en este repo, apunta a esta máquina).
+Claude Desktop: `claude_desktop_config.json`. El bloque es el mismo:
 
 ```json
 {
   "mcpServers": {
     "tributinfo": {
-      "command": "npx",
-      "args": ["tsx", "C:/Users/Usuario/Desktop/Proyectos/CursorBuildathon/backend/mcp/server.ts"]
+      "command": "C:/Users/Usuario/Desktop/Proyectos/CursorBuildathon/backend/node_modules/.bin/tsx.cmd",
+      "args": ["C:/Users/Usuario/Desktop/Proyectos/CursorBuildathon/backend/mcp/server.ts"]
     }
   }
 }
 ```
+
+**Por qué el binario de `tsx.cmd` y no `npx tsx`:** en Windows, `child_process.spawn`
+sin `shell: true` falla con `ENOENT` al intentar ejecutar `npx` (no es un `.exe`,
+es un `.cmd`, y sin el shell Node no lo resuelve). No todos los clientes MCP spawnean
+con shell, así que apuntar directo al binario de `tsx` dentro de `node_modules/.bin/`
+evita el problema por completo. Si migran a Mac/Linux, `npx tsx <ruta>` sí funciona.
 
 Las variables de entorno se leen de `backend/.env` automáticamente (el server resuelve
 la ruta solo, no importa desde dónde lo spawnee el cliente). También podés pasarlas

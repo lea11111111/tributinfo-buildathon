@@ -65,6 +65,8 @@ export type CalendarioEvento = {
   titulo: string
   fecha: string
   descripcion?: string
+  /** Link "Añadir a Google Calendar" que manda el backend (opcional) */
+  googleCalendarUrl?: string
 }
 
 export type Calendario = {

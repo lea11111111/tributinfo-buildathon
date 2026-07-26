@@ -84,12 +84,17 @@ El código ya está: cada evento del calendario trae un link "Añadir a Google C
 las tools `generar_calendario_fiscal` y `agregar_a_google_calendar`. Lo que falta
 son las credenciales y el registro, que son manuales:
 
-- [ ] **Probar un link de la capa demo** (2 min, sin credenciales): correr
+- [x] **Probar un link de la capa demo** (2 min, sin credenciales): correr
   `pnpm run test:tools`, copiar cualquier `googleCalendarUrl` de un evento
   (también sale en la respuesta de `POST /api/diagnose`) y abrirlo en el
   navegador logueado en Google → debe abrir Google Calendar con el evento precargado.
-- [ ] **Registrar el MCP en Cursor**: copiar el bloque de `backend/mcp/README.md`
-  a `.cursor/mcp.json` y verificar que las tools aparecen en el cliente.
+- [x] **Registrar el MCP en Cursor**: ya está en `.cursor/mcp.json` (gitignoreado,
+  tiene rutas absolutas de esta máquina — cada compañero que quiera usar el MCP
+  local tiene que crear el suyo con sus propias rutas, ver `backend/mcp/README.md`).
+  Verificado con una prueba de humo real por stdio: `initialize` OK, lista las
+  2 tools, y `generar_calendario_fiscal` devuelve eventos con `googleCalendarUrl`
+  bien formado. **Falta:** reiniciar Cursor (o recargar MCP servers) para que
+  aparezca `tributinfo` en la lista y probarlo desde el chat.
 - [ ] **Credenciales de Google** (solo para la tool `agregar_a_google_calendar`,
   paso a paso completo en `backend/mcp/README.md`):
   - [ ] Crear proyecto en Google Cloud Console.

@@ -25,6 +25,9 @@ dist-ssr
 .vscode/*
 !.vscode/extensions.json
 .idea
+
+# Config de MCP local (tiene rutas absolutas de esta máquina, no es portable)
+.cursor/mcp.json
 .DS_Store
 *.suo
 *.ntvs*

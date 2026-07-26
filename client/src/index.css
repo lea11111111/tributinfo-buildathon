@@ -561,6 +561,76 @@ input {
   margin-top: 1rem;
 }
 
+/* —— Añadir a Google Calendar —— */
+/* Es un <a>, no un <button>: sin display explícito quedaría inline e ignoraría el ancho. */
+.btn--gcal {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  background: #1a73e8;
+  color: #fff;
+  font-size: 1.05rem;
+  padding: 0.95rem 1.4rem;
+  text-decoration: none;
+  margin-top: 1rem;
+}
+
+.btn--gcal:hover:not(:disabled) {
+  background: #1765cc;
+  transform: translateY(-1px);
+}
+
+.gcal-hint {
+  margin: 0.6rem 0 0;
+  color: var(--muted);
+  font-size: 0.82rem;
+  line-height: 1.45;
+}
+
+.gcal-more {
+  margin-top: 0.85rem;
+  font-size: 0.88rem;
+}
+
+.gcal-more summary {
+  cursor: pointer;
+  color: var(--muted);
+}
+
+.gcal-more summary:hover {
+  color: var(--text);
+}
+
+.gcal-list {
+  list-style: none;
+  margin: 0.7rem 0 0;
+  padding: 0;
+  display: grid;
+  gap: 0.35rem;
+}
+
+.gcal-list li {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  padding: 0.45rem 0.6rem;
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.04);
+}
+
+.gcal-list a {
+  color: #8ab4f8;
+  text-decoration: none;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.gcal-list a:hover {
+  text-decoration: underline;
+}
+
 .wa-status {
   margin: 0.75rem 0 0;
   font-weight: 600;
