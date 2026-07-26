@@ -27,6 +27,7 @@ import {
 const PORT = Number(process.env.PORT ?? 3001);
 const REGIMENES: NombreRegimen[] = ["General", "Simplificado", "STI", "RAU"];
 const TELEGRAM_CONNECTION_TTL_MS = 10 * 60 * 1000;
+let cachedTelegramBotUsername: string | undefined;
 
 type TelegramConnection = {
   input: Omit<EnviarRecordatorioInput, "telefono">;
@@ -101,7 +102,8 @@ const server = createServer(async (req, res) => {
         telegramConfigured: Boolean(
           process.env.ZAVU_API_KEY &&
             process.env.ZAVU_SENDER_ID &&
-            process.env.TELEGRAM_BOT_USERNAME,
+            (process.env.TELEGRAM_BOT_USERNAME ||
+              process.env.TELEGRAM_BOT_TOKEN),
         ),
         webhookConfigured: Boolean(
           process.env.ZAVU_WEBHOOK_SECRET || process.env.ZAVU_WEBHOOK_TOKEN,
@@ -164,11 +166,9 @@ async function handleTelegramConnect(req: IncomingMessage, res: ServerResponse) 
   const body = (await readJson(req)) as Partial<
     Omit<EnviarRecordatorioInput, "telefono">
   >;
-  const botUsername = (process.env.TELEGRAM_BOT_USERNAME ?? "")
-    .trim()
-    .replace(/^@/, "");
+  const botUsername = await getTelegramBotUsername();
 
-  if (!/^[A-Za-z0-9_]{5,32}$/.test(botUsername)) {
+  if (!botUsername) {
     json(res, 503, {
       error: "El envío por Telegram no está disponible en este momento.",
     });
@@ -196,6 +196,33 @@ async function handleTelegramConnect(req: IncomingMessage, res: ServerResponse) 
     token,
     telegramUrl: `https://t.me/${botUsername}?start=${token}`,
   });
+}
+
+async function getTelegramBotUsername(): Promise<string | undefined> {
+  const configured = (process.env.TELEGRAM_BOT_USERNAME ?? "")
+    .trim()
+    .replace(/^@/, "");
+  if (/^[A-Za-z0-9_]{5,32}$/.test(configured)) return configured;
+  if (cachedTelegramBotUsername) return cachedTelegramBotUsername;
+
+  const token = process.env.TELEGRAM_BOT_TOKEN;
+  if (!token) return undefined;
+
+  try {
+    const response = await fetch(`https://api.telegram.org/bot${token}/getMe`, {
+      signal: AbortSignal.timeout(5000),
+    });
+    const data = (await response.json()) as {
+      ok?: boolean;
+      result?: { username?: string };
+    };
+    const username = data.ok ? data.result?.username : undefined;
+    if (!username || !/^[A-Za-z0-9_]{5,32}$/.test(username)) return undefined;
+    cachedTelegramBotUsername = username;
+    return username;
+  } catch {
+    return undefined;
+  }
 }
 
 function handleTelegramConnectStatus(url: URL, res: ServerResponse) {
