@@ -20,6 +20,8 @@ export interface RegimenResultado {
   nombre: NombreRegimen;
   /** Categoría dentro del Simplificado (1..N), si aplica */
   categoria?: number;
+  /** Categoría STI ("B" | "1" | "2"), si aplica */
+  categoriaSti?: "B" | "1" | "2";
   /** Explicación en lenguaje simple de por qué le corresponde */
   justificacion: string;
   fuente: Fuente;
@@ -30,7 +32,8 @@ export interface RegimenResultado {
 export interface LineaImpuesto {
   impuesto: string; // "IVA", "IT", "IUE", "Cuota bimestral"
   sigla: string;
-  monto: number; // en Bs
+  /** null = dato no disponible (nunca inventar 0 como cuota) */
+  monto: number | null; // en Bs
   periodicidad: "mensual" | "bimestral" | "trimestral" | "anual";
   detalle: string; // cómo se calculó, p. ej. "13% sobre Bs 8.000"
   fuente: Fuente;
@@ -38,7 +41,8 @@ export interface LineaImpuesto {
 
 export interface CalculoResultado {
   lineas: LineaImpuesto[];
-  totalMensualEstimado: number; // en Bs, normalizado a mes
+  /** null si no hay datos para estimar (p. ej. RAU sin planilla) */
+  totalMensualEstimado: number | null; // en Bs, normalizado a mes
   advertencias: string[];
 }
 

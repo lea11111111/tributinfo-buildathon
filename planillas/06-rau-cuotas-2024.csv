@@ -1,0 +1,23 @@
+id,zona,subzona,clase_tierra,cuota_agricola_bs_ha,cuota_pecuaria_bs_ha,min_agricola_ha,max_agricola_ha,min_pecuaria_ha,max_pecuaria_ha,fuente_cuota,fuente_limites,notas
+altiplano-norte-riberena-titicaca,Altiplano y Puna,Norte,Ribereña al Lago Titicaca,49.06,3.03,10,160,,,RND 102500000038,DS 24463 Anexo I,
+altiplano-norte-influencia-titicaca,Altiplano y Puna,Norte,Con influencia del Lago Titicaca,44.34,3.03,10,160,,,RND 102500000038,DS 24463 Anexo I,
+altiplano-norte-sin-influencia-titicaca,Altiplano y Puna,Norte,Sin influencia del Lago Titicaca,34.77,3.03,20,300,,,RND 102500000038,DS 24463 Anexo I,
+altiplano-central-influencia-poopo,Altiplano y Puna,Central,Con influencia del Lago Poopó,36.72,3.15,15,240,,,RND 102500000038,DS 24463 Anexo I,
+altiplano-central-sin-influencia-poopo,Altiplano y Puna,Central,Sin influencia del Lago Poopó,28.51,1.62,30,500,,,RND 102500000038,DS 24463 Anexo I,
+altiplano-sur-semidesertica,Altiplano y Puna,Sur,Sur y semidesértica,15.87,1.78,35,700,,,RND 102500000038,DS 24463 Anexo I,
+altiplano-sur-andina,Altiplano y Puna,Sur,"Andina, altiplano y puna",15.87,1.78,35,700,,,RND 102500000038,DS 24463 Anexo I,
+valles-cochabamba-riego,Valles,Abiertos adyacentes a Cochabamba,Riego,136.96,6.17,6,100,,,RND 102500000038,DS 24463 Anexo I,
+valles-cochabamba-secano,Valles,Abiertos adyacentes a Cochabamba,Secano,45.54,1.57,12,200,,,RND 102500000038,DS 24463 Anexo I,
+valles-cochabamba-viticola,Valles,Abiertos adyacentes a Cochabamba,Vinícola,155.07,0.00,3,48,,,RND 102500000038,DS 24463 Anexo I,La actividad pecuaria figura con 0.00 en la RND y como no aplicable en el DS 24463
+valles-abiertos-riego,Valles,Otros valles abiertos,Riego,136.96,6.17,6,120,,,RND 102500000038,DS 24463 Anexo I,
+valles-abiertos-secano,Valles,Otros valles abiertos,Secano,45.54,1.57,12,300,,,RND 102500000038,DS 24463 Anexo I,
+valles-abiertos-viticola,Valles,Otros valles abiertos,Vinícola,155.07,0.00,3,48,,,RND 102500000038,DS 24463 Anexo I,La actividad pecuaria figura con 0.00 en la RND y como no aplicable en el DS 24463
+valles-cerrados-serranias,Valles,Valles cerrados,En valles y serranías,65.93,2.90,,160,,,RND 102500000038,DS 24463 Anexo I,
+valles-cerrados-riego,Valles,Otros valles cerrados,Riego,142.64,5.84,4,60,,,RND 102500000038,DS 24463 Anexo I,
+valles-cerrados-secano,Valles,Otros valles cerrados,Secano,65.93,2.90,8,120,,,RND 102500000038,DS 24463 Anexo I,
+valles-cerrados-viticola,Valles,Otros valles cerrados,Vinícola,155.07,0.00,3,48,,,RND 102500000038,DS 24463 Anexo I,La actividad pecuaria figura con 0.00 en la RND y como no aplicable en el DS 24463
+cabecera-valle-secano,Valles,Cabecera de valle,Secano,21.80,1.70,20,400,,,RND 102500000038,DS 24463 Anexo I,
+subtropical-yungas,Subtropical,Yungas,Yungas,57.44,3.03,10,300,500,10000,RND 102500000038,DS 24463 Anexo I,
+subtropical-santa-cruz,Subtropical,Santa Cruz,Santa Cruz,35.51,2.61,50,1000,500,10000,RND 102500000038,DS 24463 Anexo I,
+subtropical-chaco,Subtropical,Chaco,Chaco,3.69,1.37,80,1200,500,10000,RND 102500000038,DS 24463 Anexo I,
+tropical-beni-pando-iturralde,Tropical,"Beni, Pando e Iturralde","Beni, Pando y provincia Iturralde",32.57,2.61,50,1000,500,10000,RND 102500000038,DS 24463 Anexo I,

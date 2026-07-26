@@ -3,9 +3,10 @@
  * Fuente: planillas/03-calendario-vencimientos.csv
  */
 import type { Fuente } from "../types/resultado";
+import { FUENTE_REGLAS_RAU } from "./cuotas-rau";
 import {
   FUENTE_LEY_843_RTS_ART19,
-  FUENTE_PENDIENTE,
+  FUENTE_LEY_843_STI_ART9,
   FUENTE_VENCIMIENTO_DIGITO_NIT,
 } from "./verificacion";
 
@@ -61,13 +62,16 @@ export const OBLIGACIONES: ObligacionPeriodica[] = [
   {
     regimen: "STI",
     concepto: "Pago trimestral STI",
-    meses: [3, 6, 9, 12],
-    fuente: FUENTE_PENDIENTE,
+    // Art. 9: hasta el 22 del mes siguiente al trimestre vencido
+    meses: [4, 7, 10, 1],
+    diaVencimientoFijo: 22,
+    fuente: FUENTE_LEY_843_STI_ART9,
   },
   {
     regimen: "RAU",
     concepto: "Pago anual RAU",
     meses: [10],
-    fuente: FUENTE_PENDIENTE,
+    diaVencimientoFijo: 31,
+    fuente: FUENTE_REGLAS_RAU,
   },
 ];

@@ -1,7 +1,7 @@
 {
   "embeddingModel": "tfidf-v1",
-  "documents": 9,
-  "chunks": 6378,
+  "documents": 11,
+  "chunks": 6384,
   "sources": [
     "01-ley-2492-codigo-tributario.md",
     "02-ley-843-impuestos.md",
@@ -11,7 +11,10 @@
     "06-texto-puct.md",
     "07-tomo-i-compendio-rnd.md",
     "08-tomo-ii-compendio-rnd.md",
-    "09-texto-rcv.md"
+    "09-texto-rcv.md",
+    "10-rnc-inscripcion-nit.md",
+    "11-rau-cuotas-2024.md"
   ],
-  "note": "El índice completo no va en Git. Se genera con pnpm --filter tributinfo-backend run build:embeddings o se construye en memoria al arrancar el backend."
+  "generatedAt": "2026-07-26T06:49:05.675Z",
+  "cachePath": "backend/.cache/embeddings.json"
 }

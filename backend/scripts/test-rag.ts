@@ -49,6 +49,8 @@ const CASOS: Caso[] = [
   { pregunta: "¿Cada cuánto paga una tiendita?", terminosEsperados: ["bimestral"], critico: true },
   { pregunta: "¿Cuánto me descuentan de impuestos si vendo Bs 10.000?", terminosEsperados: ["13%"] },
   { pregunta: "Tengo una tiendita chiquita, ¿cuánto pago?", terminosEsperados: ["cuota bimestral"], critico: true },
+  { pregunta: "¿Cuánto paga un taxista en el STI?", terminosEsperados: ["100", "150", "275"], critico: true },
+  { pregunta: "¿Cómo se calcula y cuánto paga el RAU por hectárea?", terminosEsperados: ["hectáreas", "49.06", "31 de octubre"], critico: true },
   // — Vigencia/actualidad: deben disparar el refuerzo web —
   { pregunta: "¿Cuál es la última norma vigente del RTS?", esperaWeb: true },
   { pregunta: "¿Cuál es el calendario actual de vencimientos?", esperaWeb: true },

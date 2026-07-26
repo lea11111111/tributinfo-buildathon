@@ -24,11 +24,34 @@ export type Actividad = "comercio" | "servicios" | "agropecuario" | "transporte"
 
 export type TipoClientes = "consumidores" | "empresas" | "ambos";
 
+/** Tipo de servicio de transporte (mapa STI Art. 3–4 / exclusiones). */
+export type TipoTransporte =
+  | "taxi_vagoneta_minibus"
+  | "carga_urbana"
+  | "micro_bus_urbano"
+  | "interprovincial"
+  | "interdepartamental_internacional"
+  | "flota_radio_taxi";
+
+/** Ubicación para categoría STI. */
+export type UbicacionSti = "capital_lp_cbba_sc" | "otros";
+
+export type ActividadRau = "agricola" | "pecuaria";
+export type CertificadoNoImponibilidadRau = "si" | "no_no_se";
+
 export type DiagnosisInput = {
   actividad: Actividad;
   tipoClientes: TipoClientes;
   ventasMensuales: number;
   capital: number;
+  /** Requerido (en la UI) si actividad = transporte */
+  tipoTransporte?: TipoTransporte;
+  ubicacionSti?: UbicacionSti;
+  /** Requeridos (en la UI) si actividad = agropecuario. */
+  actividadRau?: ActividadRau;
+  hectareasRau?: number;
+  zonaRau?: string;
+  certificadoNoImponibilidadRau?: CertificadoNoImponibilidadRau;
   ultimoDigitoNit?: number;
   telefono?: string;
 };
@@ -42,7 +65,15 @@ export type DiagnosisResult = {
     url: string;
   };
   calculo: {
-    items: { label: string; montoBs: number; periodicidad: string }[];
+    /** montoBs null = dato no disponible (no inventar 0) */
+    items: {
+      label: string;
+      montoBs: number | null;
+      periodicidad: string;
+      detalle?: string;
+      fuente?: string;
+      fuenteUrl?: string;
+    }[];
     resumen: string;
   };
   calendario: {

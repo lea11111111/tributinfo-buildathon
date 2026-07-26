@@ -1,0 +1,14 @@
+categoria,ingreso_trimestral_bs,impuesto_trimestral_bs,fuente_norma,fuente_articulo,link,notas,vigente
+B,1000,100,"D.S. N° 23027 (en Ley 843 TO)","Art. 4","https://sac.impuestos.gob.bo/formularios/pdf/LEY%20843-09-22.pdf","Art. 10 faculta actualizar montos anualmente; confirmar vigencia en el SIN.",SI
+1,1500,150,"D.S. N° 23027 (en Ley 843 TO)","Art. 4","https://sac.impuestos.gob.bo/formularios/pdf/LEY%20843-09-22.pdf","Art. 10 faculta actualizar montos anualmente; confirmar vigencia en el SIN.",SI
+2,2750,275,"D.S. N° 23027 (en Ley 843 TO)","Art. 4","https://sac.impuestos.gob.bo/formularios/pdf/LEY%20843-09-22.pdf","Art. 10 faculta actualizar montos anualmente; confirmar vigencia en el SIN.",SI
+
+servicio,ubicacion,categoria_resultante,fuente_norma,fuente_articulo,link,notas
+taxi_vagoneta_minibus,capital_lp_cbba_sc,1,"D.S. N° 23027 (en Ley 843 TO)","Art. 3–4","https://sac.impuestos.gob.bo/formularios/pdf/LEY%20843-09-22.pdf","La Paz, Cochabamba o Santa Cruz (capitales)"
+taxi_vagoneta_minibus,otros,B,"D.S. N° 23027 (en Ley 843 TO)","Art. 3–4","https://sac.impuestos.gob.bo/formularios/pdf/LEY%20843-09-22.pdf","Otros departamentos, El Alto y provincias"
+carga_urbana,capital_lp_cbba_sc,1,"D.S. N° 23027 (en Ley 843 TO)","Art. 3–4","https://sac.impuestos.gob.bo/formularios/pdf/LEY%20843-09-22.pdf","Transporte urbano de carga y material de construcción"
+carga_urbana,otros,B,"D.S. N° 23027 (en Ley 843 TO)","Art. 3–4","https://sac.impuestos.gob.bo/formularios/pdf/LEY%20843-09-22.pdf",""
+micro_bus_urbano,capital_lp_cbba_sc,2,"D.S. N° 23027 (en Ley 843 TO)","Art. 3–4","https://sac.impuestos.gob.bo/formularios/pdf/LEY%20843-09-22.pdf","Micros y buses urbanos"
+micro_bus_urbano,otros,1,"D.S. N° 23027 (en Ley 843 TO)","Art. 3–4","https://sac.impuestos.gob.bo/formularios/pdf/LEY%20843-09-22.pdf",""
+interprovincial,capital_lp_cbba_sc,2,"D.S. N° 23027 (en Ley 843 TO)","Art. 3–4","https://sac.impuestos.gob.bo/formularios/pdf/LEY%20843-09-22.pdf","Transporte interprovincial de pasajeros y carga"
+interprovincial,otros,1,"D.S. N° 23027 (en Ley 843 TO)","Art. 3–4","https://sac.impuestos.gob.bo/formularios/pdf/LEY%20843-09-22.pdf",""

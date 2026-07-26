@@ -11,6 +11,7 @@ export { enviarRecordatorio } from "./enviar-recordatorio";
 export { buscarNormativa } from "./buscar-normativa";
 
 export { CHECKLIST_NIT } from "../data/checklist-nit";
+export { CUOTAS_RAU, buscarCuotaRau } from "../data/cuotas-rau";
 
 export type {
   ClasificarRegimenInput,

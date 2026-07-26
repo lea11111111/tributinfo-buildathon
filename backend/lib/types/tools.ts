@@ -1,5 +1,7 @@
 /** Inputs de cada tool. Leandro usa estos tipos para los schemas de Zod del agente. */
 
+import type { CategoriaSTI, TipoTransporte, UbicacionSti } from "../data/categorias-sti";
+
 export type Actividad =
   | "comercio_minorista" // tienda de barrio, kiosco
   | "artesania"
@@ -12,6 +14,8 @@ export type Actividad =
 
 export type TipoClientes = "consumidor_final" | "empresas" | "exterior" | "mixto";
 
+export type { CategoriaSTI, TipoTransporte, UbicacionSti };
+
 export interface ClasificarRegimenInput {
   actividad: Actividad;
   /** Capital de trabajo en Bs */
@@ -19,6 +23,14 @@ export interface ClasificarRegimenInput {
   /** Ventas anuales estimadas en Bs */
   ventasAnuales: number;
   tipoClientes: TipoClientes;
+  /** Tipo de servicio (transporte → STI o General por exclusión) */
+  tipoTransporte?: TipoTransporte;
+  /** Ubicación para mapa de categorías STI */
+  ubicacionSti?: UbicacionSti;
+  /** Datos de superficie para validar los límites del RAU. */
+  actividadRau?: "agricola" | "pecuaria";
+  hectareasRau?: number;
+  zonaRau?: string;
 }
 
 export interface CalcularImpuestosInput {
@@ -27,6 +39,13 @@ export interface CalcularImpuestosInput {
   ventasMensuales: number;
   /** Requerida si regimen = Simplificado */
   categoria?: number;
+  /** Categoría STI ("B" | "1" | "2"); si falta, se informa el rango sin inventar */
+  categoriaSti?: CategoriaSTI;
+  /** Datos necesarios para estimar la cuota anual del RAU. */
+  actividadRau?: "agricola" | "pecuaria";
+  hectareasRau?: number;
+  zonaRau?: string;
+  certificadoNoImponibilidadRau?: "si" | "no_no_se";
 }
 
 export interface GenerarCalendarioInput {

@@ -57,6 +57,11 @@ export function runDiagnosis(input: DiagnosisInput): {
     capital: input.capital,
     ventasAnuales,
     tipoClientes: mapTipoClientes(input.tipoClientes),
+    tipoTransporte: input.tipoTransporte,
+    ubicacionSti: input.ubicacionSti,
+    actividadRau: input.actividadRau,
+    hectareasRau: input.hectareasRau,
+    zonaRau: input.zonaRau,
   });
 
   const regimen = regimenResult.nombre as Regimen;
@@ -65,6 +70,11 @@ export function runDiagnosis(input: DiagnosisInput): {
     regimen,
     ventasMensuales: input.ventasMensuales,
     categoria: regimenResult.categoria,
+    categoriaSti: regimenResult.categoriaSti,
+    actividadRau: input.actividadRau,
+    hectareasRau: input.hectareasRau,
+    zonaRau: input.zonaRau,
+    certificadoNoImponibilidadRau: input.certificadoNoImponibilidadRau,
   });
 
   const digito = input.ultimoDigitoNit ?? 0;
@@ -77,6 +87,13 @@ export function runDiagnosis(input: DiagnosisInput): {
   const proximoEvento =
     calendarioResult.eventos.find((e) => e.fecha >= hoy) ?? calendarioResult.eventos[0];
 
+  const calcSummary =
+    regimen === "RAU" && calculoResult.lineas[0]?.monto != null
+      ? `Bs ${calculoResult.lineas[0].monto.toFixed(0)} / año est.`
+      : calculoResult.totalMensualEstimado != null
+      ? `Bs ${calculoResult.totalMensualEstimado.toFixed(0)} / mes est.`
+      : "dato no disponible";
+
   const tools: ToolEvent[] = [
     {
       name: "buscar_normativa",
@@ -87,7 +104,7 @@ export function runDiagnosis(input: DiagnosisInput): {
     {
       name: "calcular_impuestos",
       status: "done",
-      summary: `Bs ${calculoResult.totalMensualEstimado.toFixed(0)} / mes est.`,
+      summary: calcSummary,
     },
     {
       name: "generar_calendario",
@@ -96,6 +113,25 @@ export function runDiagnosis(input: DiagnosisInput): {
     },
     { name: "enviar_recordatorio", status: "waiting" },
   ];
+
+  const resumenCalculo = (() => {
+    if (calculoResult.totalMensualEstimado != null && regimen === "STI") {
+      return `Cuota trimestral STI. Estimación mensual: Bs ${calculoResult.totalMensualEstimado.toFixed(2)}. ${calculoResult.advertencias[0] ?? ""}`.trim();
+    }
+    if (calculoResult.totalMensualEstimado != null && regimen === "RAU") {
+      const montoAnual = calculoResult.lineas[0]?.monto;
+      return montoAnual != null
+        ? `Cuota anual estimada: Bs ${montoAnual.toFixed(2)}. ${calculoResult.advertencias[0] ?? ""}`.trim()
+        : calculoResult.advertencias[0] ?? "No se pudo calcular la cuota RAU.";
+    }
+    if (calculoResult.totalMensualEstimado != null && calculoResult.advertencias.length === 0) {
+      return `Estimación mensual: Bs ${calculoResult.totalMensualEstimado.toFixed(2)}`;
+    }
+    if (calculoResult.advertencias.length > 0) {
+      return calculoResult.advertencias[calculoResult.advertencias.length - 1];
+    }
+    return `Estimación mensual: Bs ${(calculoResult.totalMensualEstimado ?? 0).toFixed(2)}`;
+  })();
 
   return {
     result: {
@@ -111,11 +147,11 @@ export function runDiagnosis(input: DiagnosisInput): {
           label: l.impuesto,
           montoBs: l.monto,
           periodicidad: l.periodicidad,
+          detalle: l.detalle,
+          fuente: `${l.fuente.norma}, ${l.fuente.articulo}`,
+          fuenteUrl: l.fuente.link,
         })),
-        resumen:
-          calculoResult.advertencias.length > 0
-            ? calculoResult.advertencias[0]
-            : `Estimación mensual: Bs ${calculoResult.totalMensualEstimado.toFixed(2)}`,
+        resumen: resumenCalculo,
       },
       calendario: {
         eventos: calendarioResult.eventos.map((e) => ({

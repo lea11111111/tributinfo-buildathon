@@ -30,11 +30,32 @@ export type TipoClientes =
   | 'empresas'
   | 'ambos'
 
+export type TipoTransporte =
+  | 'taxi_vagoneta_minibus'
+  | 'carga_urbana'
+  | 'micro_bus_urbano'
+  | 'interprovincial'
+  | 'interdepartamental_internacional'
+  | 'flota_radio_taxi'
+
+export type UbicacionSti = 'capital_lp_cbba_sc' | 'otros'
+
+export type ActividadRau = 'agricola' | 'pecuaria'
+export type CertificadoNoImponibilidadRau = 'si' | 'no_no_se'
+
 export type DiagnosisInput = {
   actividad: Actividad
   tipoClientes: TipoClientes
   ventasMensuales: number
   capital: number
+  /** Si actividad = transporte */
+  tipoTransporte?: TipoTransporte
+  ubicacionSti?: UbicacionSti
+  /** Si actividad = agropecuario */
+  actividadRau?: ActividadRau
+  hectareasRau?: number
+  zonaRau?: string
+  certificadoNoImponibilidadRau?: CertificadoNoImponibilidadRau
   /** Último dígito del NIT; opcional si aún no tiene */
   ultimoDigitoNit?: number
   telefono?: string
@@ -49,8 +70,12 @@ export type Justification = {
 
 export type CalculoItem = {
   label: string
-  montoBs: number
+  /** null = dato no disponible */
+  montoBs: number | null
   periodicidad: string
+  detalle?: string
+  fuente?: string
+  fuenteUrl?: string
 }
 
 export type Calculo = {

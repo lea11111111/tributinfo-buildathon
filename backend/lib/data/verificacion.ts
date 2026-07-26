@@ -14,7 +14,7 @@ export const DATOS_VERIFICADOS = true;
 export const ADVERTENCIA_DATOS_NO_VERIFICADOS =
   "DATOS PLACEHOLDER: los montos NO fueron verificados contra las planillas. NO usar en demo.";
 
-/** Usar solo cuando aún no hay cita oficial en el corpus (p. ej. STI/RAU cuotas). */
+/** Usar solo cuando aún no hay una cita oficial cargada. */
 export const FUENTE_PENDIENTE = {
   norma: "NO ENCONTRADO",
   articulo: "NO ENCONTRADO",
@@ -39,6 +39,31 @@ export const FUENTE_LEY_843_RTS_ART18 = {
 export const FUENTE_LEY_843_RTS_ART19 = {
   norma: "D.S. N° 24484 (en Ley 843 TO)",
   articulo: "Art. 19",
+  link: LINK_LEY_843,
+};
+
+export const FUENTE_LEY_843_STI_ART3_4 = {
+  norma: "D.S. N° 23027 (en Ley 843 TO)",
+  articulo: "Art. 3–4",
+  link: LINK_LEY_843,
+};
+
+export const FUENTE_LEY_843_STI_ART4 = {
+  norma: "D.S. N° 23027 (en Ley 843 TO)",
+  articulo: "Art. 4",
+  link: LINK_LEY_843,
+};
+
+export const FUENTE_LEY_843_STI_ART9 = {
+  norma: "D.S. N° 23027 (en Ley 843 TO)",
+  articulo: "Art. 9",
+  link: LINK_LEY_843,
+};
+
+/** Exclusión de transporte interdepartamental/internacional del STI (D.S. 28522). */
+export const FUENTE_LEY_843_STI_EXCLUSION = {
+  norma: "D.S. N° 28522 (en Ley 843 TO)",
+  articulo: "Art. único (exclusión STI)",
   link: LINK_LEY_843,
 };
 

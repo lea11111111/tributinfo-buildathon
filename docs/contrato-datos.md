@@ -10,6 +10,20 @@ type DiagnosisInput = {
   tipoClientes: 'consumidores' | 'empresas' | 'ambos'
   ventasMensuales: number
   capital: number
+  /** Si actividad = transporte: tipo de servicio y ubicación para categoría STI */
+  tipoTransporte?:
+    | 'taxi_vagoneta_minibus'
+    | 'carga_urbana'
+    | 'micro_bus_urbano'
+    | 'interprovincial'
+    | 'interdepartamental_internacional'
+    | 'flota_radio_taxi'
+  ubicacionSti?: 'capital_lp_cbba_sc' | 'otros'
+  /** Si actividad = agropecuario: datos para cuota y límites RAU */
+  actividadRau?: 'agricola' | 'pecuaria'
+  hectareasRau?: number
+  zonaRau?: string
+  certificadoNoImponibilidadRau?: 'si' | 'no_no_se'
   ultimoDigitoNit?: number
   telefono?: string
 }
@@ -27,7 +41,15 @@ type DiagnosisResult = {
     url: string
   }
   calculo: {
-    items: { label: string; montoBs: number; periodicidad: string }[]
+    /** montoBs null = dato no disponible (nunca mostrar Bs 0 inventado) */
+    items: {
+      label: string
+      montoBs: number | null
+      periodicidad: string
+      detalle?: string
+      fuente?: string
+      fuenteUrl?: string
+    }[]
     resumen: string
   }
   calendario: {

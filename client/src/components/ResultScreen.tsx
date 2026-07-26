@@ -49,8 +49,13 @@ function toolsWithTelegram(
   return [...withoutReminder, reminder]
 }
 
-function formatBs(n: number) {
+function formatBs(n: number | null) {
+  if (n == null) return 'Dato no disponible'
   return `Bs ${n.toLocaleString('es-BO')}`
+}
+
+function citeEsValida(url: string) {
+  return Boolean(url) && url !== 'NO ENCONTRADO' && /^https?:\/\//i.test(url)
 }
 
 /** Elige el evento más próximo (fecha >= hoy); si no hay ninguno, cae al primero. */
@@ -142,14 +147,20 @@ export function ResultScreen({ result, onRestart }: Props) {
           <div className="result-block">
             <h3>Por qué</h3>
             <p>{result.justification.text}</p>
-            <a
-              className="cite-link"
-              href={result.justification.url}
-              target="_blank"
-              rel="noreferrer"
-            >
-              {result.justification.articulo} · {result.justification.fuente}
-            </a>
+            {citeEsValida(result.justification.url) ? (
+              <a
+                className="cite-link"
+                href={result.justification.url}
+                target="_blank"
+                rel="noreferrer"
+              >
+                {result.justification.articulo} · {result.justification.fuente}
+              </a>
+            ) : (
+              <p className="cite-link cite-link--plain">
+                {result.justification.articulo} · {result.justification.fuente}
+              </p>
+            )}
           </div>
 
           <div className="result-block">
@@ -158,10 +169,27 @@ export function ResultScreen({ result, onRestart }: Props) {
             <ul className="calc-list">
               {result.calculo.items.map((item) => (
                 <li key={item.label}>
-                  <span>{item.label}</span>
+                  <div className="calc-item__body">
+                    <span>{item.label}</span>
+                    {item.detalle && (
+                      <small>{item.detalle}</small>
+                    )}
+                    {item.fuente && item.fuenteUrl && citeEsValida(item.fuenteUrl) && (
+                      <a
+                        className="cite-link calc-item__source"
+                        href={item.fuenteUrl}
+                        target="_blank"
+                        rel="noreferrer"
+                      >
+                        {item.fuente}
+                      </a>
+                    )}
+                  </div>
                   <strong>
                     {formatBs(item.montoBs)}
-                    <em> / {item.periodicidad}</em>
+                    {item.montoBs != null && (
+                      <em> / {item.periodicidad}</em>
+                    )}
                   </strong>
                 </li>
               ))}

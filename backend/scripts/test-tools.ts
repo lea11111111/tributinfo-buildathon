@@ -69,6 +69,20 @@ const productor = clasificarRegimen({
 console.log(`Productor de papa -> ${productor.nombre}`);
 check("agropecuaria -> RAU", productor.nombre === "RAU");
 
+const productorSobreLimite = clasificarRegimen({
+  actividad: "agropecuaria",
+  capital: 30000,
+  ventasAnuales: 60000,
+  tipoClientes: "mixto",
+  actividadRau: "agricola",
+  hectareasRau: 121,
+  zonaRau: "valles-abiertos-riego",
+});
+check(
+  "propiedad agrícola sobre máximo RAU -> General",
+  productorSobreLimite.nombre === "General",
+);
+
 // Caso 4: transportista
 const transportista = clasificarRegimen({
   actividad: "transporte",
@@ -77,6 +91,30 @@ const transportista = clasificarRegimen({
   tipoClientes: "consumidor_final",
 });
 check("transporte -> STI", transportista.nombre === "STI");
+
+// Caso 4b: taxi en capital → STI cat. 1
+const taxiLp = clasificarRegimen({
+  actividad: "transporte",
+  capital: 50000,
+  ventasAnuales: 80000,
+  tipoClientes: "consumidor_final",
+  tipoTransporte: "taxi_vagoneta_minibus",
+  ubicacionSti: "capital_lp_cbba_sc",
+});
+check(
+  "taxi capital -> STI cat. 1",
+  taxiLp.nombre === "STI" && taxiLp.categoriaSti === "1",
+);
+
+// Caso 4c: interdepartamental → General (exclusión STI)
+const interdept = clasificarRegimen({
+  actividad: "transporte",
+  capital: 100000,
+  ventasAnuales: 200000,
+  tipoClientes: "empresas",
+  tipoTransporte: "interdepartamental_internacional",
+});
+check("interdepartamental -> General", interdept.nombre === "General");
 
 // Caso 5: tope inclusivo de categoría 1 (Bs 15.000) -> sigue en cat. 1
 const topeCat1 = clasificarRegimen({
@@ -121,12 +159,66 @@ console.log(
   `General Bs 10.000/mes -> ${general.lineas.map((l) => `${l.sigla}: Bs ${l.monto} (${l.periodicidad})`).join(", ")}`
 );
 check("General devuelve IVA, IT e IUE", general.lineas.length === 3);
-check("total mensual estimado > 0", general.totalMensualEstimado > 0);
-
-const sti = calcularImpuestos({ regimen: "STI", ventasMensuales: 5000 });
 check(
-  "STI sin datos: no inventa, devuelve advertencia",
-  sti.totalMensualEstimado === 0 && sti.advertencias.some((a) => a.includes("STI"))
+  "total mensual estimado > 0",
+  general.totalMensualEstimado != null && general.totalMensualEstimado > 0,
+);
+
+const stiSinCat = calcularImpuestos({ regimen: "STI", ventasMensuales: 5000 });
+check(
+  "STI sin categoría: no inventa monto (null, no 0)",
+  stiSinCat.totalMensualEstimado === null &&
+    stiSinCat.lineas[0].monto === null &&
+    stiSinCat.advertencias.some((a) => a.includes("STI")),
+);
+
+const stiCat1 = calcularImpuestos({
+  regimen: "STI",
+  ventasMensuales: 5000,
+  categoriaSti: "1",
+});
+check("STI cat. 1 = Bs 150 trimestral", stiCat1.lineas[0].monto === 150);
+check("STI cat. 1 total mensual ≈ 50", stiCat1.totalMensualEstimado === 50);
+
+const stiCatB = calcularImpuestos({
+  regimen: "STI",
+  ventasMensuales: 5000,
+  categoriaSti: "B",
+});
+check("STI cat. B = Bs 100 trimestral", stiCatB.lineas[0].monto === 100);
+
+const rau = calcularImpuestos({ regimen: "RAU", ventasMensuales: 5000 });
+check(
+  "RAU sin superficie: monto null (no 0)",
+  rau.totalMensualEstimado === null && rau.lineas[0].monto === null,
+);
+
+const rauAgricola = calcularImpuestos({
+  regimen: "RAU",
+  ventasMensuales: 5000,
+  actividadRau: "agricola",
+  hectareasRau: 20,
+  zonaRau: "valles-abiertos-riego",
+  certificadoNoImponibilidadRau: "no_no_se",
+});
+check(
+  "RAU agrícola usa hectáreas × cuota oficial",
+  rauAgricola.lineas[0].monto === 2739.2,
+);
+check("RAU agrícola mensualiza solo para resumen", rauAgricola.totalMensualEstimado === 228.27);
+
+const rauPequena = calcularImpuestos({
+  regimen: "RAU",
+  ventasMensuales: 5000,
+  actividadRau: "agricola",
+  hectareasRau: 5,
+  zonaRau: "valles-abiertos-riego",
+  certificadoNoImponibilidadRau: "no_no_se",
+});
+check(
+  "pequeña propiedad no se presenta como cuota Bs 0",
+  rauPequena.lineas[0].monto === null &&
+    rauPequena.advertencias.some((a) => a.includes("certificación")),
 );
 
 try {
@@ -146,6 +238,19 @@ check("nombre de archivo correcto", cal.nombreArchivo === "calendario-fiscal-202
 check("el .ics tiene VCALENDAR", cal.icsContent.includes("BEGIN:VCALENDAR"));
 check("el .ics tiene alarmas", cal.icsContent.includes("BEGIN:VALARM"));
 
+const calSti = generarCalendario({ regimen: "STI", ultimoDigitoNit: 4, anio: 2026 });
+check("STI genera 4 vencimientos trimestrales", calSti.eventos.length === 4);
+check(
+  "STI vence día 22 (no dígito NIT)",
+  calSti.eventos.every((e) => e.fecha.endsWith("-22")),
+);
+check(
+  "STI meses de pago abr/jul/oct/ene",
+  calSti.eventos.map((e) => e.fecha.slice(5, 7)).join(",") === "04,07,10,01",
+);
+const calRau = generarCalendario({ regimen: "RAU", ultimoDigitoNit: 4, anio: 2026 });
+check("RAU genera un vencimiento anual", calRau.eventos.length === 1);
+check("RAU vence el 31 de octubre", calRau.eventos[0]?.fecha === "2026-10-31");
 const calGeneral = generarCalendario({ regimen: "General", ultimoDigitoNit: 0, anio: 2026 });
 check("General tiene 12 vencimientos (mensual)", calGeneral.eventos.length === 12);
 

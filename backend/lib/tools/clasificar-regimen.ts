@@ -12,9 +12,21 @@ import {
   VENTAS_MAXIMAS_RTS,
 } from "../data/categorias-simplificado";
 import {
+  FUENTE_MAPA_STI,
+  resolverCategoriaSTI,
+  TIPOS_TRANSPORTE_EXCLUIDOS_STI,
+} from "../data/categorias-sti";
+import {
+  buscarCuotaRau,
+  FUENTE_REGLAS_RAU,
+  limitesRau,
+} from "../data/cuotas-rau";
+import {
   ADVERTENCIA_DATOS_NO_VERIFICADOS,
   DATOS_VERIFICADOS,
   FUENTE_LEY_843_RTS_ART18,
+  FUENTE_LEY_843_STI_ART3_4,
+  FUENTE_LEY_843_STI_EXCLUSION,
   LINK_LEY_843,
 } from "../data/verificacion";
 
@@ -22,7 +34,16 @@ export function clasificarRegimen(input: ClasificarRegimenInput): RegimenResulta
   const advertencias: string[] = [];
   if (!DATOS_VERIFICADOS) advertencias.push(ADVERTENCIA_DATOS_NO_VERIFICADOS);
 
-  const { actividad, capital, ventasAnuales } = input;
+  const {
+    actividad,
+    capital,
+    ventasAnuales,
+    tipoTransporte,
+    ubicacionSti,
+    actividadRau,
+    hectareasRau,
+    zonaRau,
+  } = input;
 
   if (capital < 0 || ventasAnuales < 0) {
     throw new Error("Capital y ventas anuales deben ser números positivos.");
@@ -30,31 +51,76 @@ export function clasificarRegimen(input: ClasificarRegimenInput): RegimenResulta
 
   // RAU: actividad agropecuaria
   if (actividad === "agropecuaria") {
+    const cuota = buscarCuotaRau(zonaRau);
+    if (actividadRau && hectareasRau != null && cuota) {
+      const { minimo, maximo } = limitesRau(cuota, actividadRau);
+
+      if (maximo != null && hectareasRau > maximo) {
+        return {
+          nombre: "General",
+          justificacion: `Tu propiedad tiene ${hectareasRau} ha y supera el máximo de ${maximo} ha previsto para esta zona y actividad dentro del RAU. Según el Art. 8 del D.S. Nº 24463, corresponde el Régimen General.`,
+          fuente: FUENTE_REGLAS_RAU,
+          advertencias,
+        };
+      }
+
+      if (minimo != null && hectareasRau <= minimo) {
+        advertencias.push(
+          `La superficie declarada (${hectareasRau} ha) está dentro del máximo no imponible de ${minimo} ha para esta zona. Debés tramitar y mantener vigente el Certificado de No Imponibilidad RAU.`,
+        );
+      }
+    }
+
     return {
       nombre: "RAU",
       justificacion:
-        "Tu actividad es agropecuaria, por lo que te corresponde el Régimen Agropecuario Unificado (RAU), un régimen especial con pago anual simplificado.",
-      fuente: {
-        norma: "Ley 843 (Texto Ordenado) — RAU",
-        articulo: "NO ENCONTRADO — detalle de cuotas RAU",
-        link: LINK_LEY_843,
-      },
+        "Por tu actividad agropecuaria y la superficie declarada, tu perfil puede corresponder al Régimen Agropecuario Unificado (RAU), que reúne IVA, IT, IUE y RC-IVA en un pago anual simplificado.",
+      fuente: FUENTE_REGLAS_RAU,
       advertencias,
     };
   }
 
-  // STI: transporte
+  // Transporte: STI o General según exclusiones
   if (actividad === "transporte") {
+    if (tipoTransporte && (TIPOS_TRANSPORTE_EXCLUIDOS_STI as readonly string[]).includes(tipoTransporte)) {
+      const motivo =
+        tipoTransporte === "flota_radio_taxi"
+          ? "las flotas y radio taxis están excluidas del STI"
+          : "el transporte interdepartamental e internacional está excluido del STI (D.S. N° 28522)";
+      return {
+        nombre: "General",
+        justificacion: `Tu actividad es transporte, pero ${motivo}, por lo que te corresponde el Régimen General (IVA, IT e IUE con facturación).`,
+        fuente: FUENTE_LEY_843_STI_EXCLUSION,
+        advertencias,
+      };
+    }
+
+    if (tipoTransporte && ubicacionSti) {
+      const cat = resolverCategoriaSTI(tipoTransporte, ubicacionSti);
+      if (cat) {
+        return {
+          nombre: "STI",
+          categoriaSti: cat,
+          justificacion: `Tu actividad es el transporte público, por lo que te corresponde el Sistema Tributario Integrado (STI), categoría ${cat}, con cuota fija trimestral según el D.S. N° 23027.`,
+          fuente: FUENTE_MAPA_STI,
+          advertencias,
+        };
+      }
+    }
+
     return {
       nombre: "STI",
       justificacion:
-        "Tu actividad es el transporte, por lo que te corresponde el Sistema Tributario Integrado (STI), diseñado para transportistas.",
-      fuente: {
-        norma: "Ley 843 (Texto Ordenado) — STI",
-        articulo: "NO ENCONTRADO — detalle de cuotas STI",
-        link: LINK_LEY_843,
-      },
-      advertencias,
+        "Tu actividad es el transporte, por lo que te corresponde el Sistema Tributario Integrado (STI), diseñado para transportistas. La cuota exacta depende del tipo de vehículo y la ubicación (categorías B, 1 o 2).",
+      fuente: FUENTE_LEY_843_STI_ART3_4,
+      advertencias: [
+        ...advertencias,
+        ...(tipoTransporte && !ubicacionSti
+          ? ["Falta la ubicación para fijar la categoría STI."]
+          : !tipoTransporte
+            ? ["Indicá el tipo de servicio y la ubicación para fijar la categoría STI."]
+            : []),
+      ],
     };
   }
 
