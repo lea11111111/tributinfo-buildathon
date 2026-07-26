@@ -14,6 +14,7 @@
                     "mcp":  "tsx mcp/server.ts",
                     "test:tools":  "tsx scripts/test-tools.ts",
                     "test:zavu":  "tsx scripts/test-zavu.ts",
+                    "test:rag":  "tsx scripts/test-rag.ts",
                     "typecheck":  "tsc --noEmit",
                     "build:embeddings":  "tsx scripts/build-embeddings.ts"
                 },

@@ -37,3 +37,7 @@ services:
         sync: false
       - key: NEXT_PUBLIC_APP_URL
         value: https://tributinfo-buildathon-1.onrender.com
+      # Exa (sponsor): refuerzo web de buscar_normativa restringido a
+      # impuestos.gob.bo. Sin la key el RAG funciona 100% local.
+      - key: EXA_API_KEY
+        sync: false

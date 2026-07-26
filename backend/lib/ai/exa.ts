@@ -34,7 +34,7 @@ export async function searchExaSin(
         type: "auto",
         numResults,
         includeDomains: ["impuestos.gob.bo"],
-        contents: { highlights: { numSentences: 5, highlightsPerUrl: 1 } },
+        contents: { highlights: { query, maxCharacters: 800 } },
       }),
       signal: controller.signal,
     });
@@ -45,8 +45,14 @@ export async function searchExaSin(
       results?: Array<{ title?: string; url?: string; highlights?: string[] }>;
     };
 
+    const vistos = new Set<string>();
     return (data.results ?? [])
-      .filter((r) => r.url && (r.highlights?.length ?? 0) > 0)
+      .filter((r) => {
+        if (!r.url || (r.highlights?.length ?? 0) === 0) return false;
+        if (vistos.has(r.url)) return false;
+        vistos.add(r.url);
+        return true;
+      })
       .map((r) => ({
         titulo: r.title ?? r.url!,
         url: r.url!,
