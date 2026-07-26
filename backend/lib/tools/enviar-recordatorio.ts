@@ -18,14 +18,14 @@ export async function enviarRecordatorio(input: EnviarRecordatorioInput): Promis
   const fecha = formatearFecha(input.proximoVencimiento);
 
   const lineas = [
-    "*TributInfo* — tu resumen fiscal",
+    "TributInfo - tu resumen fiscal",
     "",
-    `Régimen: *${input.regimen}*`,
-    `Próximo vencimiento: *${fecha}*`,
+    `Regimen: ${input.regimen}`,
+    `Proximo vencimiento: ${fecha}`,
     `Concepto: ${input.concepto}`,
   ];
   if (input.linkCalendario) {
-    lineas.push("", `Descargá tu calendario fiscal completo: ${input.linkCalendario}`);
+    lineas.push("", `Calendario fiscal: ${input.linkCalendario}`);
   }
   lineas.push("", "Te avisaremos antes de cada vencimiento.");
 

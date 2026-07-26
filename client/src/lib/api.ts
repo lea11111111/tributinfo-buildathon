@@ -1,6 +1,6 @@
 import type { DiagnosisInput, DiagnosisResult, ToolEvent } from './types'
 import { isMock, API_URL } from './config'
-import { runMockDiagnosis } from './mock-data'
+import { animateToolSequence, runMockDiagnosis } from './mock-data'
 
 export async function diagnose(
   input: DiagnosisInput,
@@ -20,7 +20,16 @@ export async function diagnose(
     throw new Error('El diagnóstico falló. Probá de nuevo.')
   }
 
-  return res.json() as Promise<DiagnosisResult>
+  const result = (await res.json()) as DiagnosisResult
+  // enviar_recordatorio no corre en el diagnose; se usa al mandar WhatsApp.
+  const finalTools = (Array.isArray(result.tools) ? result.tools : []).filter(
+    (t) => t.name !== 'enviar_recordatorio',
+  )
+
+  // El backend responde de una; animamos el panel para la demo.
+  await animateToolSequence(finalTools, onTools)
+
+  return { ...result, tools: finalTools }
 }
 
 export async function sendWhatsApp(payload: {

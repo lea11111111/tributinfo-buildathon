@@ -11,6 +11,12 @@
 
 const ZAVU_API_URL = "https://api.zavu.dev/v1/messages";
 
+/**
+ * Canal de envío. Por defecto "sms" (no requiere WhatsApp Business ni Meta).
+ * Cambiar a "whatsapp" en el .env cuando el número esté conectado a WhatsApp.
+ */
+const ZAVU_CHANNEL = (process.env.ZAVU_CHANNEL ?? "sms").toLowerCase();
+
 export interface ZavuSendParams {
   /** E.164, p. ej. +59170000000 */
   to: string;
@@ -50,7 +56,7 @@ export async function enviarWhatsApp(params: ZavuSendParams): Promise<ZavuResult
       }
     : {
         to: params.to,
-        channel: "whatsapp",
+        channel: ZAVU_CHANNEL,
         text: params.text,
       };
 

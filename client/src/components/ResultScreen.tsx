@@ -1,11 +1,45 @@
 import { useState } from 'react'
-import type { CalendarioEvento, DiagnosisResult, WhatsAppStatus } from '@/lib/types'
+import type {
+  CalendarioEvento,
+  DiagnosisResult,
+  ToolEvent,
+  WhatsAppStatus,
+} from '@/lib/types'
 import { ToolsPanel } from './ToolsPanel'
 import { downloadChecklist, downloadIcs, sendWhatsApp } from '@/lib/api'
 
 type Props = {
   result: DiagnosisResult
   onRestart: () => void
+}
+
+function toolsWithWhatsApp(
+  base: ToolEvent[],
+  waStatus: WhatsAppStatus,
+): ToolEvent[] {
+  const withoutReminder = base.filter((t) => t.name !== 'enviar_recordatorio')
+  if (waStatus === 'idle') return withoutReminder
+
+  const reminder: ToolEvent =
+    waStatus === 'sending'
+      ? {
+          name: 'enviar_recordatorio',
+          status: 'running',
+          summary: 'Enviando por WhatsApp…',
+        }
+      : waStatus === 'sent'
+        ? {
+            name: 'enviar_recordatorio',
+            status: 'done',
+            summary: 'Mensaje enviado',
+          }
+        : {
+            name: 'enviar_recordatorio',
+            status: 'error',
+            summary: 'Falló el envío',
+          }
+
+  return [...withoutReminder, reminder]
 }
 
 function formatBs(n: number) {
@@ -174,7 +208,7 @@ export function ResultScreen({ result, onRestart }: Props) {
           </div>
         </div>
 
-        <ToolsPanel tools={result.tools} />
+        <ToolsPanel tools={toolsWithWhatsApp(result.tools, waStatus)} />
       </div>
     </section>
   )

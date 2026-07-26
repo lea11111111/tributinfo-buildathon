@@ -221,26 +221,48 @@ export function createInitialTools(): ToolEvent[] {
   return INITIAL_TOOLS.map((t) => ({ ...t }))
 }
 
+const TOOL_ANIMATION_DELAYS_MS = [700, 900, 800, 700, 600]
+
+/**
+ * Reproduce el “teatro” del agente: waiting → running → estado final,
+ * una tool tras otra. Sirve para mock y para el diagnose real (el backend
+ * hoy no streamea tool events).
+ */
+export async function animateToolSequence(
+  finalTools: ToolEvent[],
+  onTools: (tools: ToolEvent[]) => void,
+): Promise<void> {
+  const tools: ToolEvent[] = finalTools.map((t) => ({
+    name: t.name,
+    status: 'waiting',
+  }))
+  onTools([...tools])
+
+  for (let i = 0; i < finalTools.length; i++) {
+    const final = finalTools[i]
+    // Tools que el backend deja en waiting (ej. enviar_recordatorio) no se “ejecutan”
+    if (final.status === 'waiting') {
+      tools[i] = { ...final }
+      onTools([...tools])
+      continue
+    }
+
+    tools[i] = { ...tools[i], status: 'running', summary: 'Ejecutando...' }
+    onTools([...tools])
+    await wait(TOOL_ANIMATION_DELAYS_MS[i] ?? 700)
+    tools[i] = { ...final }
+    onTools([...tools])
+  }
+}
+
 /** Simula el agente ejecutando tools con retardo escalonado. */
 export async function runMockDiagnosis(
   input: DiagnosisInput,
   onTools: (tools: ToolEvent[]) => void,
 ): Promise<DiagnosisResult> {
   const final = mockResultFor(input)
-  const tools = createInitialTools()
-  onTools([...tools])
-
-  const delays = [700, 900, 800, 700]
-
-  for (let i = 0; i < tools.length; i++) {
-    tools[i] = { ...tools[i], status: 'running', summary: 'Ejecutando...' }
-    onTools([...tools])
-    await wait(delays[i])
-    tools[i] = { ...final.tools[i] }
-    onTools([...tools])
-  }
-
-  return { ...final, tools: [...tools] }
+  await animateToolSequence(final.tools, onTools)
+  return { ...final, tools: [...final.tools] }
 }
 
 function wait(ms: number) {
