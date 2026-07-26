@@ -96,7 +96,7 @@ export type DiagnosisResult = {
   tools: ToolEvent[];
 };
 
-export type WhatsAppPayload = {
+export type TelegramPayload = {
   telefono: string;
   regimen: string;
   /**

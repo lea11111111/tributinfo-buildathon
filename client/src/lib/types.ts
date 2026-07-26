@@ -109,8 +109,6 @@ export type Checklist = {
 }
 
 export type TelegramStatus = 'idle' | 'sending' | 'sent' | 'error'
-/** @deprecated usar TelegramStatus */
-export type WhatsAppStatus = TelegramStatus
 
 export type DiagnosisResult = {
   regimen: Regimen

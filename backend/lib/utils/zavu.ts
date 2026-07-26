@@ -101,6 +101,3 @@ export async function enviarMensaje(params: ZavuSendParams): Promise<ZavuResult>
     };
   }
 }
-
-/** @deprecated usar enviarMensaje */
-export const enviarWhatsApp = enviarMensaje;

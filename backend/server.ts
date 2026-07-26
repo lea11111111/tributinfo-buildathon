@@ -13,7 +13,7 @@ import {
 import { generarCalendario } from "./lib/tools/generar-calendario";
 import { enviarRecordatorio } from "./lib/tools/enviar-recordatorio";
 import { responderTelegram } from "./lib/tools/responder-telegram";
-import type { DiagnosisInput, WhatsAppPayload } from "./lib/types/diagnosis-contract";
+import type { DiagnosisInput, TelegramPayload } from "./lib/types/diagnosis-contract";
 import { getAiProvider } from "./lib/ai/chat";
 import { ragAsk } from "./lib/ai/rag-ask";
 import { buscarNormativaConWeb } from "./lib/tools/buscar-normativa";
@@ -64,11 +64,7 @@ const server = createServer(async (req, res) => {
         return;
       }
     }
-    // Alias: /api/telegram (preferido) y /api/whatsapp (compat)
-    if (
-      req.method === "POST" &&
-      (url.pathname === "/api/telegram" || url.pathname === "/api/whatsapp")
-    ) {
+    if (req.method === "POST" && url.pathname === "/api/telegram") {
       await handleTelegramSend(req, res);
       return;
     }
@@ -131,7 +127,7 @@ async function handleDiagnose(req: IncomingMessage, res: ServerResponse) {
 }
 
 async function handleTelegramSend(req: IncomingMessage, res: ServerResponse) {
-  const body = (await readJson(req)) as WhatsAppPayload & { chatId?: string };
+  const body = (await readJson(req)) as TelegramPayload & { chatId?: string };
   const destino = body.chatId ?? body.telefono;
   if (!destino || !body.regimen) {
     json(res, 400, { exito: false, error: "Faltan chatId/telefono o regimen." });

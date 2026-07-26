@@ -91,6 +91,6 @@ Cada evento de `calendario.eventos` ahora incluye un campo **opcional**
 ## Endpoints previstos (cuando `VITE_DATA_SOURCE=real`)
 
 - `POST /api/diagnose` → body `DiagnosisInput` → `DiagnosisResult`
-- `POST /api/whatsapp` → `{ telefono, regimen, calendarioFilename }` → 200 | error
+- `POST /api/telegram` → `{ chatId, regimen, proximoVencimiento, concepto, linkCalendario }` → 200 | error
 
 Fuente tipada en el frontend: `client/src/lib/types.ts`.
