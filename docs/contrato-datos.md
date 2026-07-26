@@ -1,6 +1,8 @@
 # Contrato de datos — Frontend ↔ Backend
 
-Firmado entre Gabriel (frontend) y Leonardo (tools). No cambiar sin avisar.
+Contrato entre Gabriel (frontend) y Leonardo (tools). No cambiar sin avisar.
+
+Fuente tipada: `client/src/lib/types.ts` y `backend/lib/types/diagnosis-contract.ts`.
 
 ## Entrada del diagnóstico
 
@@ -25,7 +27,6 @@ type DiagnosisInput = {
   zonaRau?: string
   certificadoNoImponibilidadRau?: 'si' | 'no_no_se'
   ultimoDigitoNit?: number
-  telefono?: string
 }
 ```
 
@@ -53,8 +54,13 @@ type DiagnosisResult = {
     resumen: string
   }
   calendario: {
-    // googleCalendarUrl: adición opcional retrocompatible (ver nota abajo)
-    eventos: { titulo: string; fecha: string; descripcion?: string; googleCalendarUrl?: string }[]
+    eventos: {
+      titulo: string
+      fecha: string
+      descripcion?: string
+      /** Link "Añadir a Google Calendar" (TEMPLATE) */
+      googleCalendarUrl?: string
+    }[]
     filename: string // ej. calendario-fiscal-2026.ics
   }
   checklist: {
@@ -76,21 +82,25 @@ type ToolEvent = {
 }
 ```
 
-## Adición opcional: `googleCalendarUrl` (propuesto por Leonardo, pendiente OK de Gabriel)
+## Google Calendar
 
-Cada evento de `calendario.eventos` ahora incluye un campo **opcional**
-`googleCalendarUrl?: string` con un link "Añadir a Google Calendar"
-(formato `https://calendar.google.com/calendar/render?action=TEMPLATE&...`).
+Cada evento puede incluir `googleCalendarUrl` con un link
+`https://calendar.google.com/calendar/render?action=TEMPLATE&...`.
+El frontend abre ese link; el usuario confirma “Guardar” en Google.
+El `.ics` (`GET /api/descargar-calendario` o descarga en cliente) sigue como respaldo.
 
-- Es **retrocompatible**: el frontend actual lo ignora sin romperse porque el campo es opcional.
-- Si el frontend quiere usarlo: renderizar un botón/link por evento que abra la URL
-  en una pestaña nueva; Google Calendar se abre con el evento precargado y el usuario
-  solo confirma con "Guardar".
-- El .ics descargable (`GET /api/descargar-calendario`) sigue funcionando igual (plan B).
+## Endpoints (`VITE_DATA_SOURCE=real`)
 
-## Endpoints previstos (cuando `VITE_DATA_SOURCE=real`)
+| Método | Ruta | Body / query | Respuesta |
+|---|---|---|---|
+| `POST` | `/api/diagnose` | `DiagnosisInput` | `DiagnosisResult` |
+| `POST` | `/api/ask` | `{ pregunta, topK? }` | `{ pregunta, respuesta, fuentes, fragmentos }` |
+| `POST` | `/api/buscar-normativa` | `{ consulta, limite? }` | Fragmentos del corpus (+ Exa si hay key) |
+| `POST` | `/api/telegram/connect` | `{ regimen, proximoVencimiento, concepto, linkCalendario? }` | `{ token, telegramUrl }` |
+| `GET` | `/api/telegram/connect?token=` | — | `{ status: pending \| sent \| error \| expired }` |
+| `POST` | `/api/telegram` | `{ chatId o telefono, regimen, … }` | `{ exito, … }` |
+| `POST` | `/api/zavu/webhook` | Evento Zavu | Ack `{ ok: true }` |
+| `GET` | `/api/descargar-calendario` | `regimen`, `digito`, `anio?` | Archivo `.ics` |
+| `GET` | `/health` | — | Estado de config (sin secretos) |
 
-- `POST /api/diagnose` → body `DiagnosisInput` → `DiagnosisResult`
-- `POST /api/telegram` → `{ chatId, regimen, proximoVencimiento, concepto, linkCalendario }` → 200 | error
-
-Fuente tipada en el frontend: `client/src/lib/types.ts`.
+`enviar_recordatorio` no corre dentro de `/api/diagnose`: se dispara al conectar Telegram (o al enviar con chatId).

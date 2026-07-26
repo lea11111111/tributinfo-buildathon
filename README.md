@@ -1,81 +1,157 @@
 # TributInfo
 
-Agente tributario boliviano — frontend (Vite + React + TypeScript + Tailwind).
+Agente tributario boliviano para el **Cursor Buildathon Bolivia 2026**.
+
+Con una entrevista corta, TributInfo recomienda el régimen (General, Simplificado, STI o RAU), estima cuánto pagarías con tablas verificadas del SIN, arma el calendario de vencimientos y entrega una checklist de inscripción al NIT. Las reglas y montos son determinísticos; Gemini responde consultas libres sobre normativa con RAG sobre el corpus oficial.
+
+## Stack
+
+| Pieza | Tecnología |
+|---|---|
+| Frontend | Vite + React + TypeScript (carpeta `client/`) |
+| Backend | Node.js + TypeScript (carpeta `backend/`) |
+| Deploy frontend | Netlify |
+| Deploy backend | Render |
+| IA (consultas / RAG) | Google Gemini |
+| Mensajería | Zavu → Telegram |
+| Búsqueda web normativa | Exa (dominio `impuestos.gob.bo`) |
+| Evaluación | Adaption |
+| Calendario | Links “Añadir a Google Calendar” + archivo `.ics` |
+| MCP (opcional, local) | Tools de calendario en Cursor — ver `backend/mcp/README.md` |
+
+## Qué hace el producto
+
+1. **Diagnóstico** — actividad, clientes, ventas, capital (y datos STI/RAU si aplica).
+2. **Tools en pantalla** — `buscar_normativa`, `clasificar_regimen`, `calcular_impuestos`, `generar_calendario`.
+3. **Resultado** — régimen, justificación con fuente, cálculo, vencimientos.
+4. **Entrega** — resumen y checklist por Telegram; Google Calendar; descarga de checklist y `.ics`.
+5. **Preguntas libres** — `POST /api/ask` con RAG sobre `corpus/parsed/`.
+
+## Monorepo
+
+```
+client/          # Frontend Vite
+backend/         # API + tools + RAG
+corpus/          # Markdown oficial del SIN
+planillas/       # Tablas fuente (CSV) de cuotas y vencimientos
+docs/            # Contrato de datos y overview del proyecto
+```
 
 ## Correr en local
-
-Desde la raíz del repo (frontend + backend en paralelo):
 
 ```bash
 pnpm install
 pnpm dev
 ```
 
-- Frontend: `http://localhost:5173` (Vite)
-- Backend API: `http://localhost:3001`
+- Frontend: http://localhost:5173  
+- Backend: http://localhost:3001  
 
-Solo frontend o solo backend:
+Solo uno de los dos:
 
 ```bash
 pnpm --filter tributinfo-client dev
 pnpm --filter tributinfo-backend dev
 ```
 
-## Datos mock vs reales
+### Variables
 
-Por defecto usa mocks (`VITE_DATA_SOURCE=mock`). Copiá `client/.env.example` a `client/.env` y cambiá a `real` cuando el backend esté listo.
+**Client** — copiá `client/.env.example` → `client/.env`:
 
-## Pantallas
+```
+VITE_DATA_SOURCE=real
+VITE_API_URL=http://localhost:3001
+```
 
-1. **Inicio** — Empezar + 3 casos de ejemplo
-2. **Entrevista** — diagnóstico por botones + panel de tools
-3. **Resultado** — régimen, cálculo, Telegram, .ics y checklist
+Con `VITE_DATA_SOURCE=mock` el frontend no llama al API (útil para UI).
 
-## Publicar en Netlify
+**Backend** — copiá `backend/.env.example` → `backend/.env` y completá al menos:
 
-La app vive en la carpeta `client`. En Netlify (Site configuration → Build & deploy → Build settings) tiene que quedar así:
+| Variable | Para qué |
+|---|---|
+| `GOOGLE_AI_API_KEY` | Gemini (consultas / RAG) |
+| `ZAVU_API_KEY` | Envío por Telegram |
+| `ZAVU_SENDER_ID` | Sender de Zavu con canal Telegram activo |
+| `TELEGRAM_BOT_USERNAME` | Usuario del bot (sin `@`) |
+| `ZAVU_WEBHOOK_SECRET` o `ZAVU_WEBHOOK_TOKEN` | Webhook de mensajes entrantes |
+| `EXA_API_KEY` | Opcional; refuerzo web de normativa |
+| `NEXT_PUBLIC_APP_URL` | URL pública del API (links en mensajes) |
 
-| Ajuste | Valor |
-|--------|--------|
-| Base directory | `client` |
-| Build command | `pnpm build` |
-| Publish directory | `dist` |
+## API principal
 
-También está el archivo `netlify.toml` en la raíz del repo, que configura lo mismo automáticamente.
+| Método | Ruta | Descripción |
+|---|---|---|
+| `POST` | `/api/diagnose` | Diagnóstico completo |
+| `POST` | `/api/ask` | Pregunta libre (RAG + Gemini) |
+| `POST` | `/api/buscar-normativa` | Búsqueda en corpus (+ Exa si hay key) |
+| `POST` | `/api/telegram/connect` | Inicia conexión Telegram (deep link) |
+| `GET` | `/api/telegram/connect?token=` | Estado de la conexión |
+| `POST` | `/api/telegram` | Envío directo (chatId) |
+| `POST` | `/api/zavu/webhook` | Inbound Telegram → respuesta RAG |
+| `GET` | `/api/descargar-calendario` | Descarga `.ics` |
+| `GET` | `/health` | Health check |
 
-Si ves **Page not found**, casi seguro el Publish directory está mal (por ejemplo vacío o apuntando a la raíz en vez de `client/dist`).
+Contrato tipado: [`docs/contrato-datos.md`](docs/contrato-datos.md) y `client/src/lib/types.ts`.
 
-## Publicar el backend en Render
+## Deploy
 
-El archivo `render.yaml` en la raíz configura solo la API (`backend/`).
+### Frontend (Netlify)
 
-1. Render → **New** → **Blueprint** → conectar este repo.
-2. Agregar en **Environment** los secretos requeridos:
-   - `GOOGLE_AI_API_KEY`
-   - `ZAVU_API_KEY`
-   - `ZAVU_SENDER_ID`
-   - `ZAVU_WEBHOOK_SECRET`
-   - `ZAVU_WEBHOOK_TOKEN`
-   - `TELEGRAM_BOT_USERNAME` (usuario del bot, sin `@`)
-3. Las variables no secretas ya están declaradas en `render.yaml`:
-   - `AI_PROVIDER=google`
-   - `GOOGLE_AI_MODEL=gemini-3.1-flash-lite`
-   - `ZAVU_CHANNEL=telegram`
-   - `NEXT_PUBLIC_APP_URL=https://tributinfo-buildathon-1.onrender.com`
-4. Configurar el webhook del Sender de Zavu con:
-   - URL: `https://tributinfo-buildathon-1.onrender.com/api/zavu/webhook?token=<ZAVU_WEBHOOK_TOKEN>`
-   - Evento: `message.inbound`
-5. Netlify ya queda configurado por `netlify.toml` con:
-   - `VITE_DATA_SOURCE=real`
-   - `VITE_API_URL=https://tributinfo-buildathon-1.onrender.com`
+Configurado en `netlify.toml`:
 
-Después del deploy, `GET /health` confirma sin exponer secretos si Google AI,
-Telegram y el webhook están configurados.
+- Base: `client`
+- Build: `pnpm build`
+- Publish: `dist`
+- `VITE_DATA_SOURCE=real`
+- `VITE_API_URL` → URL del backend en Render
 
-Si configurás el servicio a mano (sin Blueprint):
+### Backend (Render)
 
-| Ajuste | Valor |
-|--------|--------|
-| Root Directory | `backend` |
-| Build Command | `corepack enable && corepack prepare pnpm@11.10.0 --activate && pnpm install` |
-| Start Command | `pnpm start` |
+Configurado en `render.yaml` (`rootDir: backend`). Secretos en el dashboard de Render (`GOOGLE_AI_API_KEY`, keys de Zavu, etc.).
+
+Webhook de Zavu (Sender → Webhooks):
+
+```
+URL: https://<tu-api>.onrender.com/api/zavu/webhook?token=<ZAVU_WEBHOOK_TOKEN>
+Evento: message.inbound
+```
+
+Tras el deploy, `GET /health` confirma si Gemini y Telegram están configurados (sin exponer secretos).
+
+## Datos y fuentes
+
+- Planillas CSV en `planillas/` → reflejadas en `backend/lib/data/`.
+- Corpus en `corpus/parsed/` (leyes, RND, calendario, RNC).
+- Regla del equipo: **ningún monto inventado**. Si falta un dato, se marca y no se inventa.
+
+## Scripts útiles
+
+```bash
+pnpm test:tools          # Tools determinísticas
+pnpm test:zavu           # Envío de prueba por Zavu/Telegram
+pnpm typecheck
+pnpm --filter tributinfo-backend test:rag   # Benchmark RAG / Adaption
+pnpm --filter tributinfo-backend mcp        # Servidor MCP local
+```
+
+## Documentación
+
+| Doc | Contenido |
+|---|---|
+| [`docs/contrato-datos.md`](docs/contrato-datos.md) | Contrato frontend ↔ backend |
+| [`docs/plan-tributinfo.md`](docs/plan-tributinfo.md) | Overview del proyecto (as-built) |
+| [`backend/mcp/README.md`](backend/mcp/README.md) | MCP + Google Calendar API |
+| [`backend/eval/README.md`](backend/eval/README.md) | Evaluación con Adaption |
+| [`corpus/README.md`](corpus/README.md) | Corpus SIN |
+| [`planillas/README.md`](planillas/README.md) | Tablas fuente |
+
+## Equipo
+
+| Persona | Rol |
+|---|---|
+| Fernanda | Corpus, QA, pitch |
+| Gabriel | Frontend |
+| Leandro | Agente, RAG |
+| Leonardo | Tools determinísticas, calendario, Telegram/Zavu |
+
+Orientación informativa. No constituye asesoría fiscal.

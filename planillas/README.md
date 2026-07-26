@@ -1,6 +1,7 @@
 # Planillas tributarias (fuente de verdad)
 
-Tablas copiadas del corpus oficial del SIN / Ley 843. El backend en `backend/lib/data/` debe reflejar estas celdas.
+Tablas copiadas del corpus oficial del SIN / Ley 843.
+El backend en `backend/lib/data/` refleja estas celdas para `clasificar_regimen` y `calcular_impuestos`.
 
 | Archivo | Contenido | Estado |
 |---|---|---|

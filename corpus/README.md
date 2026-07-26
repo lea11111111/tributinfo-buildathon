@@ -1,16 +1,9 @@
 # Corpus SIN — TributInfo
 
-Markdown parseado de PDFs oficiales del Servicio de Impuestos Nacionales (Bolivia).
+Markdown parseado de documentos oficiales del Servicio de Impuestos Nacionales (Bolivia).
+Es la base del RAG (`buscar_normativa` / `/api/ask`).
 
-## Contenido piloto (`parsed/`)
-
-Copiar desde el trabajo local de ingesta:
-
-```powershell
-Copy-Item "$env:USERPROFILE\.firecrawl\sin-corpus\parsed\*.md" "corpus\parsed\" -Force
-```
-
-Documentos parseados:
+## Contenido (`parsed/`)
 
 - `01-ley-2492-codigo-tributario.md`
 - `02-ley-843-impuestos.md`
@@ -21,20 +14,20 @@ Documentos parseados:
 - `07-tomo-i-compendio-rnd.md`
 - `08-tomo-ii-compendio-rnd.md`
 - `09-texto-rcv.md`
-- `10-rnc-inscripcion-nit.md` — checklist NIT / RNC (Anexo Técnico + RND 1025/1026)
+- `10-rnc-inscripcion-nit.md` — checklist NIT / RNC
+- `11-rau-cuotas-2024.md` — cuotas RAU
 
-Pendiente: `11-rnd-estados-financieros.md` (RND-101800000004)
+Catálogo de URLs oficiales: `urls_oficiales_sin.txt`.
 
-URLs por ingestar: ver `urls_oficiales_sin.txt` (171 PDFs oficiales).
-
-## Regenerar índice (local, no commitear)
+## Regenerar índice de embeddings (local)
 
 ```bash
 pnpm --filter tributinfo-backend run build:embeddings
 ```
 
 Genera:
-- `backend/.cache/embeddings.json` — cache local (gitignored)
-- `corpus/stats.json` — resumen liviano para el repo
 
-Si no hay cache, el backend construye el índice en memoria desde `corpus/parsed/` al arrancar.
+- `backend/.cache/embeddings.json` (gitignored)
+- `corpus/stats.json` (resumen liviano)
+
+Si no hay cache, el backend indexa desde `corpus/parsed/` al arrancar.
