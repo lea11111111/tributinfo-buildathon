@@ -26,13 +26,13 @@ export async function diagnose(
     (t) => t.name !== 'enviar_recordatorio',
   )
 
-  // El backend responde de una; animamos el panel para la demo.
+  // La respuesta llega completa; animamos el panel para la demo.
   await animateToolSequence(finalTools, onTools)
 
   return { ...result, tools: finalTools }
 }
 
-/** Pregunta libre sobre normativa (RAG + LLM del backend). */
+/** Pregunta libre sobre normativa (RAG + LLM). */
 export async function ask(pregunta: string): Promise<AskResult> {
   if (isMock) {
     return runMockAsk(pregunta)
@@ -55,55 +55,72 @@ export async function ask(pregunta: string): Promise<AskResult> {
   return data
 }
 
-export async function sendTelegram(payload: {
-  chatId: string
+type TelegramPayload = {
   regimen: string
   proximoVencimiento: string
   concepto: string
   linkCalendario?: string
-}): Promise<void> {
+}
+
+type TelegramConnectionStatus = {
+  status: 'pending' | 'sent' | 'error' | 'expired'
+  error?: string
+}
+
+export async function connectTelegram(payload: TelegramPayload): Promise<{
+  token: string
+  telegramUrl?: string
+}> {
   if (isMock) {
-    await new Promise((r) => setTimeout(r, 1400))
-    return
+    await new Promise((r) => setTimeout(r, 400))
+    return { token: 'mock' }
   }
 
-  const res = await fetch(`${API_URL}/api/telegram`, {
+  const res = await fetch(`${API_URL}/api/telegram/connect`, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({
-      chatId: payload.chatId,
-      telefono: payload.chatId,
-      regimen: payload.regimen,
-      proximoVencimiento: payload.proximoVencimiento,
-      concepto: payload.concepto,
-      linkCalendario: payload.linkCalendario,
-    }),
+    body: JSON.stringify(payload),
   })
 
   const data = (await res.json().catch(() => null)) as
-    | { exito?: boolean; error?: string }
+    | { token?: string; telegramUrl?: string; error?: string }
     | null
 
-  if (!res.ok || !data?.exito) {
-    throw new Error(data?.error ?? 'No se pudo enviar por Telegram.')
+  if (!res.ok || !data?.token || !data.telegramUrl) {
+    throw new Error(data?.error ?? 'No se pudo abrir Telegram.')
   }
+
+  return { token: data.token, telegramUrl: data.telegramUrl }
 }
 
-/** @deprecated usar sendTelegram */
-export const sendWhatsApp = (payload: {
-  telefono: string
-  regimen: string
-  proximoVencimiento: string
-  concepto: string
-  linkCalendario?: string
-}) =>
-  sendTelegram({
-    chatId: payload.telefono,
-    regimen: payload.regimen,
-    proximoVencimiento: payload.proximoVencimiento,
-    concepto: payload.concepto,
-    linkCalendario: payload.linkCalendario,
-  })
+export async function waitForTelegramConnection(
+  token: string,
+): Promise<void> {
+  if (isMock) {
+    await new Promise((r) => setTimeout(r, 1000))
+    return
+  }
+
+  const deadline = Date.now() + 2 * 60 * 1000
+  while (Date.now() < deadline) {
+    await new Promise((r) => setTimeout(r, 1500))
+    const res = await fetch(
+      `${API_URL}/api/telegram/connect?token=${encodeURIComponent(token)}`,
+    )
+    const data = (await res.json().catch(() => null)) as
+      | TelegramConnectionStatus
+      | null
+
+    if (data?.status === 'sent') return
+    if (!res.ok || data?.status === 'error' || data?.status === 'expired') {
+      throw new Error(
+        data?.error ?? 'No se pudo completar el envío por Telegram.',
+      )
+    }
+  }
+
+  throw new Error('No recibimos la confirmación de Telegram. Intentá de nuevo.')
+}
 
 /** Genera un .ics mínimo descargable (mock / plan B). */
 export function downloadIcs(

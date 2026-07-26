@@ -1,4 +1,4 @@
-/** Cambiar a `real` cuando el backend esté listo. Una sola variable. */
+/** Cambiar a `real` para usar datos en vivo. */
 export const DATA_SOURCE = (import.meta.env.VITE_DATA_SOURCE ?? 'mock') as
   | 'mock'
   | 'real'

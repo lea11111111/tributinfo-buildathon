@@ -226,8 +226,7 @@ const TOOL_ANIMATION_DELAYS_MS = [700, 900, 800, 700, 600]
 
 /**
  * Reproduce el “teatro” del agente: waiting → running → estado final,
- * una tool tras otra. Sirve para mock y para el diagnose real (el backend
- * hoy no streamea tool events).
+ * una tool tras otra. Sirve para datos simulados y en vivo.
  */
 export async function animateToolSequence(
   finalTools: ToolEvent[],
@@ -241,7 +240,7 @@ export async function animateToolSequence(
 
   for (let i = 0; i < finalTools.length; i++) {
     const final = finalTools[i]
-    // Tools que el backend deja en waiting (ej. enviar_recordatorio) no se “ejecutan”
+    // Las tools que quedan en waiting (ej. enviar_recordatorio) no se “ejecutan”.
     if (final.status === 'waiting') {
       tools[i] = { ...final }
       onTools([...tools])
@@ -276,7 +275,7 @@ export async function runMockAsk(pregunta: string): Promise<AskResult> {
   return {
     pregunta,
     respuesta:
-      'Según la Ley 843, el Régimen Tributario Simplificado agrupa a comerciantes minoristas, artesanos y vivanderos cuyo capital y ventas anuales están dentro de los topes vigentes. La cuota se paga por bimestre según la categoría. (Respuesta mock — conectá el backend para consultas reales.)',
+      'Según la Ley 843, el Régimen Tributario Simplificado agrupa a comerciantes minoristas, artesanos y vivanderos cuyo capital y ventas anuales están dentro de los topes vigentes. La cuota se paga por bimestre según la categoría. (Respuesta de demostración.)',
     fuentes: ['02-ley-843-impuestos.md'],
     fragmentos: [
       {

@@ -3,6 +3,7 @@
  * Corre en http://localhost:3001 — ver client/src/lib/config.ts
  */
 import "dotenv/config";
+import { randomBytes } from "node:crypto";
 import { createServer, type IncomingMessage, type ServerResponse } from "node:http";
 import {
   cacheDiagnosisMeta,
@@ -17,6 +18,7 @@ import { getAiProvider } from "./lib/ai/chat";
 import { ragAsk } from "./lib/ai/rag-ask";
 import { buscarNormativaConWeb } from "./lib/tools/buscar-normativa";
 import type { NombreRegimen } from "./lib/types/resultado";
+import type { EnviarRecordatorioInput } from "./lib/types/tools";
 import {
   verifyZavuSignature,
   type ZavuInboundEvent,
@@ -24,6 +26,16 @@ import {
 
 const PORT = Number(process.env.PORT ?? 3001);
 const REGIMENES: NombreRegimen[] = ["General", "Simplificado", "STI", "RAU"];
+const TELEGRAM_CONNECTION_TTL_MS = 10 * 60 * 1000;
+
+type TelegramConnection = {
+  input: Omit<EnviarRecordatorioInput, "telefono">;
+  status: "pending" | "sent" | "error";
+  error?: string;
+  expiresAt: number;
+};
+
+const telegramConnections = new Map<string, TelegramConnection>();
 
 const server = createServer(async (req, res) => {
   setCors(res);
@@ -40,6 +52,16 @@ const server = createServer(async (req, res) => {
     if (req.method === "POST" && url.pathname === "/api/diagnose") {
       await handleDiagnose(req, res);
       return;
+    }
+    if (url.pathname === "/api/telegram/connect") {
+      if (req.method === "POST") {
+        await handleTelegramConnect(req, res);
+        return;
+      }
+      if (req.method === "GET") {
+        handleTelegramConnectStatus(url, res);
+        return;
+      }
     }
     // Alias: /api/telegram (preferido) y /api/whatsapp (compat)
     if (
@@ -77,7 +99,9 @@ const server = createServer(async (req, res) => {
             ? Boolean(process.env.GOOGLE_AI_API_KEY)
             : Boolean(process.env.OLLAMA_BASE_URL),
         telegramConfigured: Boolean(
-          process.env.ZAVU_API_KEY && process.env.ZAVU_SENDER_ID,
+          process.env.ZAVU_API_KEY &&
+            process.env.ZAVU_SENDER_ID &&
+            process.env.TELEGRAM_BOT_USERNAME,
         ),
         webhookConfigured: Boolean(
           process.env.ZAVU_WEBHOOK_SECRET || process.env.ZAVU_WEBHOOK_TOKEN,
@@ -136,6 +160,62 @@ async function handleTelegramSend(req: IncomingMessage, res: ServerResponse) {
   json(res, resultado.exito ? 200 : 502, resultado);
 }
 
+async function handleTelegramConnect(req: IncomingMessage, res: ServerResponse) {
+  const body = (await readJson(req)) as Partial<
+    Omit<EnviarRecordatorioInput, "telefono">
+  >;
+  const botUsername = (process.env.TELEGRAM_BOT_USERNAME ?? "")
+    .trim()
+    .replace(/^@/, "");
+
+  if (!/^[A-Za-z0-9_]{5,32}$/.test(botUsername)) {
+    json(res, 503, {
+      error: "El envío por Telegram no está disponible en este momento.",
+    });
+    return;
+  }
+  if (!body.regimen || !body.proximoVencimiento || !body.concepto) {
+    json(res, 400, { error: "Faltan datos del recordatorio." });
+    return;
+  }
+
+  cleanupTelegramConnections();
+  const token = randomBytes(18).toString("base64url");
+  telegramConnections.set(token, {
+    input: {
+      regimen: body.regimen,
+      proximoVencimiento: body.proximoVencimiento,
+      concepto: body.concepto,
+      linkCalendario: body.linkCalendario,
+    },
+    status: "pending",
+    expiresAt: Date.now() + TELEGRAM_CONNECTION_TTL_MS,
+  });
+
+  json(res, 201, {
+    token,
+    telegramUrl: `https://t.me/${botUsername}?start=${token}`,
+  });
+}
+
+function handleTelegramConnectStatus(url: URL, res: ServerResponse) {
+  cleanupTelegramConnections();
+  const token = url.searchParams.get("token") ?? "";
+  const connection = telegramConnections.get(token);
+  if (!connection) {
+    json(res, 404, {
+      status: "expired",
+      error: "La conexión venció. Intentá nuevamente.",
+    });
+    return;
+  }
+
+  json(res, 200, {
+    status: connection.status,
+    error: connection.error,
+  });
+}
+
 /**
  * Webhook de Zavu: cuando alguien escribe al bot de Telegram,
  * respondemos con RAG + Ollama.
@@ -185,9 +265,45 @@ async function handleZavuWebhook(req: IncomingMessage, res: ServerResponse) {
   if (channel && channel !== "telegram") return;
 
   console.log(`[zavu-webhook] Telegram inbound de ${chatId}: ${texto.slice(0, 80)}`);
+  const connectionToken = telegramConnectionToken(texto);
+  if (connectionToken && telegramConnections.has(connectionToken)) {
+    void completeTelegramConnection(connectionToken, chatId);
+    return;
+  }
+
   void responderTelegram({ chatId, texto }).catch((err) => {
     console.error("[zavu-webhook] Error respondiendo Telegram:", err);
   });
+}
+
+function telegramConnectionToken(text: string): string | undefined {
+  return text.trim().match(/^\/start(?:@\w+)?\s+([A-Za-z0-9_-]{16,64})$/i)?.[1];
+}
+
+async function completeTelegramConnection(token: string, chatId: string) {
+  const connection = telegramConnections.get(token);
+  if (
+    !connection ||
+    connection.status !== "pending" ||
+    connection.expiresAt <= Date.now()
+  ) {
+    return;
+  }
+
+  const result = await enviarRecordatorio({
+    ...connection.input,
+    telefono: chatId,
+  });
+  connection.status = result.exito ? "sent" : "error";
+  connection.error = result.error;
+  connection.expiresAt = Date.now() + TELEGRAM_CONNECTION_TTL_MS;
+}
+
+function cleanupTelegramConnections() {
+  const now = Date.now();
+  for (const [token, connection] of telegramConnections) {
+    if (connection.expiresAt <= now) telegramConnections.delete(token);
+  }
 }
 
 function handleDescargarCalendario(url: URL, res: ServerResponse) {

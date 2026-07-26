@@ -56,6 +56,7 @@ El archivo `render.yaml` en la raíz configura solo la API (`backend/`).
    - `ZAVU_SENDER_ID`
    - `ZAVU_WEBHOOK_SECRET`
    - `ZAVU_WEBHOOK_TOKEN`
+   - `TELEGRAM_BOT_USERNAME` (usuario del bot, sin `@`)
 3. Las variables no secretas ya están declaradas en `render.yaml`:
    - `AI_PROVIDER=google`
    - `GOOGLE_AI_MODEL=gemini-3.1-flash-lite`

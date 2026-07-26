@@ -1,7 +1,4 @@
-/**
- * Contrato de datos frontend ↔ backend (Leonardo / Leandro).
- * No cambiar sin avisar al otro.
- */
+/** Contrato de datos de la aplicación. */
 
 export type Regimen = 'General' | 'Simplificado' | 'STI' | 'RAU'
 
@@ -65,7 +62,7 @@ export type CalendarioEvento = {
   titulo: string
   fecha: string
   descripcion?: string
-  /** Link "Añadir a Google Calendar" que manda el backend (opcional) */
+  /** Link opcional para añadir el evento a Google Calendar. */
   googleCalendarUrl?: string
 }
 

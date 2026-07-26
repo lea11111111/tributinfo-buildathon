@@ -33,5 +33,7 @@ services:
         sync: false
       - key: ZAVU_WEBHOOK_TOKEN
         sync: false
+      - key: TELEGRAM_BOT_USERNAME
+        sync: false
       - key: NEXT_PUBLIC_APP_URL
         value: https://tributinfo-buildathon-1.onrender.com

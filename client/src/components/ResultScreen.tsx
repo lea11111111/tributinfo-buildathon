@@ -7,7 +7,12 @@ import type {
 } from '@/lib/types'
 import { ToolsPanel } from './ToolsPanel'
 import { AskBox } from './AskBox'
-import { downloadChecklist, downloadIcs, sendTelegram } from '@/lib/api'
+import {
+  connectTelegram,
+  downloadChecklist,
+  downloadIcs,
+  waitForTelegramConnection,
+} from '@/lib/api'
 import { fechaLegible, googleCalendarUrlDe } from '@/lib/google-calendar'
 
 type Props = {
@@ -27,7 +32,7 @@ function toolsWithTelegram(
       ? {
           name: 'enviar_recordatorio',
           status: 'running',
-          summary: 'Enviando por Telegram…',
+          summary: 'Esperando confirmación en Telegram…',
         }
       : tgStatus === 'sent'
         ? {
@@ -68,7 +73,7 @@ function proximoVencimiento(eventos: CalendarioEvento[]): {
     }
   }
 
-  // El backend siempre manda al menos un vencimiento; esto solo cubre el tipo.
+  // El resultado siempre trae al menos un vencimiento; esto solo cubre el tipo.
   const respaldo: CalendarioEvento = {
     fecha: '2026-08-17',
     titulo: 'Vencimiento fiscal',
@@ -78,34 +83,39 @@ function proximoVencimiento(eventos: CalendarioEvento[]): {
 }
 
 export function ResultScreen({ result, onRestart }: Props) {
-  const [chatId, setChatId] = useState('')
   const [tgStatus, setTgStatus] = useState<TelegramStatus>('idle')
   const [tgError, setTgError] = useState<string | null>(null)
 
   const proximo = proximoVencimiento(result.calendario.eventos)
 
   async function handleTelegram() {
-    const cleaned = chatId.replace(/\s/g, '')
-    if (!/^-?\d{5,20}$/.test(cleaned)) {
-      setTgStatus('error')
-      setTgError(
-        'Pegá tu chat ID de Telegram (número). Primero escribile /start al bot.',
-      )
-      return
-    }
-
     setTgStatus('sending')
     setTgError(null)
+    const telegramWindow = window.open('about:blank', '_blank')
+
     try {
-      await sendTelegram({
-        chatId: cleaned,
+      const connection = await connectTelegram({
         regimen: result.regimen,
         proximoVencimiento: proximo.fecha,
         concepto: proximo.concepto,
         linkCalendario: googleCalendarUrlDe(proximo.evento),
       })
+      if (connection.telegramUrl) {
+        if (!telegramWindow) {
+          throw new Error(
+            'El navegador bloqueó Telegram. Permití las ventanas emergentes e intentá de nuevo.',
+          )
+        }
+        telegramWindow.opener = null
+        telegramWindow.location.href = connection.telegramUrl
+      } else {
+        telegramWindow?.close()
+      }
+
+      await waitForTelegramConnection(connection.token)
       setTgStatus('sent')
     } catch (err) {
+      telegramWindow?.close()
       setTgStatus('error')
       setTgError(
         err instanceof Error
@@ -165,31 +175,20 @@ export function ResultScreen({ result, onRestart }: Props) {
               Telegram.
             </p>
 
-            <div className="wa-row">
-              <input
-                type="text"
-                inputMode="numeric"
-                value={chatId}
-                onChange={(e) => setChatId(e.target.value)}
-                placeholder="Chat ID de Telegram"
-                aria-label="Chat ID de Telegram"
-                disabled={tgStatus === 'sending'}
-              />
-              <button
-                type="button"
-                className="btn btn--telegram"
-                onClick={handleTelegram}
-                disabled={tgStatus === 'sending' || tgStatus === 'sent'}
-              >
-                {tgStatus === 'sending' && 'Enviando…'}
-                {tgStatus === 'sent' && 'Enviado ✓'}
-                {(tgStatus === 'idle' || tgStatus === 'error') &&
-                  'Enviármelo por Telegram'}
-              </button>
-            </div>
+            <button
+              type="button"
+              className="btn btn--telegram btn--block"
+              onClick={handleTelegram}
+              disabled={tgStatus === 'sending' || tgStatus === 'sent'}
+            >
+              {tgStatus === 'sending' && 'Confirmá en Telegram…'}
+              {tgStatus === 'sent' && 'Enviado ✓'}
+              {(tgStatus === 'idle' || tgStatus === 'error') &&
+                'Enviármelo por Telegram'}
+            </button>
             <p className="gcal-hint">
-              Escribile /start al bot, pedile tu chat ID (o miralo en el Inbox de
-              Zavu) y pegalo acá.
+              Se abrirá Telegram para conectar tu cuenta. No necesitás buscar ni
+              copiar ningún identificador.
             </p>
 
             {tgStatus === 'sent' && (

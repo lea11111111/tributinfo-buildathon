@@ -1,11 +1,8 @@
 /**
  * Link "Añadir a Google Calendar" generado en el cliente.
  *
- * El backend ya manda `googleCalendarUrl` por evento, pero lo replicamos acá
- * como fallback: así el botón funciona igual con datos mock, y si el backend
- * queda dormido (plan free de Render) el usuario no se queda sin la acción.
- *
- * Espejo de `backend/lib/utils/google-calendar-link.ts`.
+ * Si el evento no incluye `googleCalendarUrl`, lo generamos localmente para
+ * que la acción también funcione con datos de demostración.
  */
 import type { CalendarioEvento } from './types'
 
@@ -36,7 +33,7 @@ export function buildGoogleCalendarUrl(evento: CalendarioEvento): string {
   return `${BASE_URL}?${params.toString()}`
 }
 
-/** Usa el link del backend si vino; si no, lo genera acá. */
+/** Usa el link recibido si existe; si no, lo genera localmente. */
 export function googleCalendarUrlDe(evento: CalendarioEvento): string {
   return evento.googleCalendarUrl ?? buildGoogleCalendarUrl(evento)
 }
