@@ -2,8 +2,7 @@
  * Prueba las tools determinísticas sin agente ni servidor.
  * Correr: npm run test:tools
  *
- * Los casos vienen de los ejemplos del pitch. Las salidas esperadas hay que
- * verificarlas contra las planillas de Fernanda cuando estén cargadas.
+ * Casos alineados a planillas/ (D.S. 24484 Art. 17/18, Ley 843).
  */
 import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
@@ -27,17 +26,28 @@ function check(nombre: string, condicion: boolean, detalle?: string) {
 
 console.log("\n=== clasificar_regimen ===\n");
 
-// Caso 1: doña Carmen — tienda de barrio chica
+// Caso 1: doña Carmen — capital dentro de categoría 1 (Art. 17)
 const carmen = clasificarRegimen({
   actividad: "comercio_minorista",
-  capital: 5000,
-  ventasAnuales: 48000, // ~Bs 4.000/mes
+  capital: 13000,
+  ventasAnuales: 48000,
   tipoClientes: "consumidor_final",
 });
 console.log(`Doña Carmen -> ${carmen.nombre} (cat. ${carmen.categoria})`);
-check("tienda de barrio chica -> Simplificado", carmen.nombre === "Simplificado");
+check("tienda de barrio -> Simplificado", carmen.nombre === "Simplificado");
+check("categoría 1", carmen.categoria === 1);
 check("tiene justificación", carmen.justificacion.length > 20);
-check("tiene fuente", !!carmen.fuente.norma);
+check("fuente Art. 17", carmen.fuente.articulo.includes("17"));
+
+// Caso 1b: capital Bs1–12.000 excluido del RTS (Art. 18)
+const capitalBajo = clasificarRegimen({
+  actividad: "comercio_minorista",
+  capital: 5000,
+  ventasAnuales: 48000,
+  tipoClientes: "consumidor_final",
+});
+check("capital < 12.001 -> General (excluido RTS)", capitalBajo.nombre === "General");
+check("explica exclusión Art. 18", capitalBajo.justificacion.includes("excluido"));
 
 // Caso 2: freelancer con clientes del exterior
 const freelancer = clasificarRegimen({
@@ -68,18 +78,23 @@ const transportista = clasificarRegimen({
 });
 check("transporte -> STI", transportista.nombre === "STI");
 
-// Caso 5: borde — capital exactamente en el tope de una categoría
-const borde = clasificarRegimen({
+// Caso 5: tope inclusivo de categoría 1 (Bs 15.000) -> sigue en cat. 1
+const topeCat1 = clasificarRegimen({
   actividad: "comercio_minorista",
-  capital: 10000, // tope placeholder de la categoría 1
+  capital: 15000,
   ventasAnuales: 40000,
   tipoClientes: "consumidor_final",
 });
-check(
-  "caso borde en tope de categoría genera advertencia",
-  borde.advertencias.some((a) => a.includes("borde")),
-  JSON.stringify(borde.advertencias)
-);
+check("tope inclusivo cat. 1 -> Simplificado cat. 1", topeCat1.nombre === "Simplificado" && topeCat1.categoria === 1);
+
+// Caso 5b: capital 25.000 -> categoría 4 (cuota 158)
+const cat4 = clasificarRegimen({
+  actividad: "comercio_minorista",
+  capital: 25000,
+  ventasAnuales: 96000,
+  tipoClientes: "consumidor_final",
+});
+check("capital 25.000 -> Simplificado cat. 4", cat4.nombre === "Simplificado" && cat4.categoria === 4);
 
 // Caso 6: supera topes del RTS -> General con explicación
 const superaTope = clasificarRegimen({
@@ -96,7 +111,10 @@ console.log("\n=== calcular_impuestos ===\n");
 const cuotaRTS = calcularImpuestos({ regimen: "Simplificado", ventasMensuales: 4000, categoria: 1 });
 console.log(`Simplificado cat.1 -> Bs ${cuotaRTS.lineas[0].monto} ${cuotaRTS.lineas[0].periodicidad}`);
 check("Simplificado devuelve 1 línea (cuota fija)", cuotaRTS.lineas.length === 1);
-check("cuota > 0", cuotaRTS.lineas[0].monto > 0);
+check("cuota cat. 1 = Bs 47", cuotaRTS.lineas[0].monto === 47);
+
+const cuotaCat4 = calcularImpuestos({ regimen: "Simplificado", ventasMensuales: 8000, categoria: 4 });
+check("cuota cat. 4 = Bs 158", cuotaCat4.lineas[0].monto === 158);
 
 const general = calcularImpuestos({ regimen: "General", ventasMensuales: 10000 });
 console.log(
@@ -122,7 +140,8 @@ console.log("\n=== generar_calendario ===\n");
 
 const cal = generarCalendario({ regimen: "Simplificado", ultimoDigitoNit: 4, anio: 2026 });
 console.log(`Simplificado, NIT ...4, 2026 -> ${cal.eventos.length} eventos, archivo: ${cal.nombreArchivo}`);
-check("genera eventos", cal.eventos.length > 0);
+check("Simplificado genera 6 vencimientos bimestrales", cal.eventos.length === 6);
+check("RTS vence día 10 (no dígito NIT)", cal.eventos.every((e) => e.fecha.endsWith("-10")));
 check("nombre de archivo correcto", cal.nombreArchivo === "calendario-fiscal-2026.ics");
 check("el .ics tiene VCALENDAR", cal.icsContent.includes("BEGIN:VCALENDAR"));
 check("el .ics tiene alarmas", cal.icsContent.includes("BEGIN:VALARM"));
@@ -194,9 +213,11 @@ check("extranjero rechazado", !validarTelefonoBoliviano("+5491155551234").valido
 console.log("\n===============================\n");
 if (!DATOS_VERIFICADOS) {
   console.warn(
-    "ADVERTENCIA: lib/data/ tiene montos PLACEHOLDER sin verificar.\n" +
-      "Reemplazar con las planillas de Fernanda y poner DATOS_VERIFICADOS = true antes de la demo.\n"
+    "ADVERTENCIA: lib/data/ tiene montos sin verificar.\n" +
+      "Sincronizar con planillas/ y poner DATOS_VERIFICADOS = true antes de la demo.\n"
   );
+} else {
+  console.log("DATOS_VERIFICADOS = true (planillas cargadas desde corpus).\n");
 }
 
 if (fallos > 0) {

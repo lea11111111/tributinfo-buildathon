@@ -10,7 +10,7 @@ Copiar desde el trabajo local de ingesta:
 Copy-Item "$env:USERPROFILE\.firecrawl\sin-corpus\parsed\*.md" "corpus\parsed\" -Force
 ```
 
-Documentos parseados (9):
+Documentos parseados:
 
 - `01-ley-2492-codigo-tributario.md`
 - `02-ley-843-impuestos.md`
@@ -21,8 +21,9 @@ Documentos parseados (9):
 - `07-tomo-i-compendio-rnd.md`
 - `08-tomo-ii-compendio-rnd.md`
 - `09-texto-rcv.md`
+- `10-rnc-inscripcion-nit.md` — checklist NIT / RNC (Anexo Técnico + RND 1025/1026)
 
-Pendiente: `10-rnd-estados-financieros.md` (RND-101800000004)
+Pendiente: `11-rnd-estados-financieros.md` (RND-101800000004)
 
 URLs por ingestar: ver `urls_oficiales_sin.txt` (171 PDFs oficiales).
 

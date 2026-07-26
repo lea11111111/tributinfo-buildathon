@@ -76,7 +76,7 @@ export function calcularImpuestos(input: CalcularImpuestosInput): CalculoResulta
         sigla: regimen,
         monto: 0,
         periodicidad: regimen === "RAU" ? "anual" : "trimestral",
-        detalle: `NO DISPONIBLE: la tabla de cuotas del ${regimen} no está cargada todavía. TODO_FERNANDA.`,
+        detalle: `NO DISPONIBLE: la tabla de cuotas del ${regimen} no está cargada todavía (NO ENCONTRADO en planillas).`,
         fuente: FUENTE_PENDIENTE,
       },
     ],

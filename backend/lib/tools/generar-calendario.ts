@@ -30,16 +30,22 @@ export function generarCalendario(input: GenerarCalendarioInput): CalendarioResu
     throw new Error(`No hay obligaciones cargadas para el régimen ${regimen}. Revisar planilla 3.`);
   }
 
+  const dia =
+    obligacion.diaVencimientoFijo ?? regla.diaVencimiento;
+  const fuenteEvento = obligacion.diaVencimientoFijo ? obligacion.fuente : regla.fuente;
+
   const eventos: EventoFiscal[] = obligacion.meses.map((mes) => {
-    const fecha = `${anio}-${String(mes).padStart(2, "0")}-${String(regla.diaVencimiento).padStart(2, "0")}`;
+    const fecha = `${anio}-${String(mes).padStart(2, "0")}-${String(dia).padStart(2, "0")}`;
     const titulo = `Vencimiento: ${obligacion.concepto}`;
-    const descripcion = `${obligacion.concepto} — NIT terminado en ${ultimoDigitoNit} vence el día ${regla.diaVencimiento}. Régimen ${regimen}.`;
+    const descripcion = obligacion.diaVencimientoFijo
+      ? `${obligacion.concepto} — vence el día ${dia} (no depende del dígito del NIT). Régimen ${regimen}.`
+      : `${obligacion.concepto} — NIT terminado en ${ultimoDigitoNit} vence el día ${dia}. Régimen ${regimen}.`;
     return {
       fecha,
       titulo,
       descripcion,
       impuesto: obligacion.concepto,
-      fuente: regla.fuente,
+      fuente: fuenteEvento,
       googleCalendarUrl: generarLinkGoogleCalendar({ fecha, titulo, descripcion }),
     };
   });

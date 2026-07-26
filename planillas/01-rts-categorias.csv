@@ -1,0 +1,7 @@
+categoria,capital_desde_bs,capital_hasta_bs,ventas_anuales_hasta_bs,cuota_bimestral_bs,fuente_norma,fuente_articulo,link,notas,vigente
+1,12001,15000,184000,47,"D.S. N° 24484 (en Ley 843 TO) mod. D.S. N° 3698","Art. 17","https://sac.impuestos.gob.bo/formularios/pdf/LEY%20843-09-22.pdf","Ventas = tope global Art. 18 (no por categoría). Capital Bs1–12.000 excluidos del RTS (Art. 18).",SI
+2,15001,18700,184000,90,"D.S. N° 24484 (en Ley 843 TO) mod. D.S. N° 3698","Art. 17","https://sac.impuestos.gob.bo/formularios/pdf/LEY%20843-09-22.pdf","",SI
+3,18701,23500,184000,147,"D.S. N° 24484 (en Ley 843 TO) mod. D.S. N° 3698","Art. 17","https://sac.impuestos.gob.bo/formularios/pdf/LEY%20843-09-22.pdf","",SI
+4,23501,29500,184000,158,"D.S. N° 24484 (en Ley 843 TO) mod. D.S. N° 3698","Art. 17","https://sac.impuestos.gob.bo/formularios/pdf/LEY%20843-09-22.pdf","",SI
+5,29501,37000,184000,200,"D.S. N° 24484 (en Ley 843 TO) mod. D.S. N° 3698","Art. 17","https://sac.impuestos.gob.bo/formularios/pdf/LEY%20843-09-22.pdf","",SI
+6,37001,60000,184000,350,"D.S. N° 24484 (en Ley 843 TO) mod. D.S. N° 3698","Art. 17","https://sac.impuestos.gob.bo/formularios/pdf/LEY%20843-09-22.pdf","Pago unificado: 6 cuotas, día 10 de mar/may/jul/sep/nov/ene (Art. 19). Sin facturas Art. 25.",SI

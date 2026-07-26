@@ -1,0 +1,12 @@
+ultimo_digito_nit,dia_vencimiento,que_se_declara,regimen,meses,fuente_norma,fuente_articulo,link,notas
+0,13,"Declaración y pago IVA e IT",General,"1,2,3,4,5,6,7,8,9,10,11,12","Ley 843 / Reglamento IVA e IT","Regl. IVA Art. 10; Regl. IT Art. 7","https://sac.impuestos.gob.bo/formularios/pdf/LEY%20843-09-22.pdf","Mes siguiente al período; feriados pueden mover la fecha (calendario SIN anual)"
+1,14,"Declaración y pago IVA e IT",General,"1,2,3,4,5,6,7,8,9,10,11,12","Ley 843 / Reglamento IVA e IT","Regl. IVA Art. 10; Regl. IT Art. 7","https://sac.impuestos.gob.bo/formularios/pdf/LEY%20843-09-22.pdf",""
+2,15,"Declaración y pago IVA e IT",General,"1,2,3,4,5,6,7,8,9,10,11,12","Ley 843 / Reglamento IVA e IT","Regl. IVA Art. 10; Regl. IT Art. 7","https://sac.impuestos.gob.bo/formularios/pdf/LEY%20843-09-22.pdf",""
+3,16,"Declaración y pago IVA e IT",General,"1,2,3,4,5,6,7,8,9,10,11,12","Ley 843 / Reglamento IVA e IT","Regl. IVA Art. 10; Regl. IT Art. 7","https://sac.impuestos.gob.bo/formularios/pdf/LEY%20843-09-22.pdf",""
+4,17,"Declaración y pago IVA e IT",General,"1,2,3,4,5,6,7,8,9,10,11,12","Ley 843 / Reglamento IVA e IT","Regl. IVA Art. 10; Regl. IT Art. 7","https://sac.impuestos.gob.bo/formularios/pdf/LEY%20843-09-22.pdf",""
+5,18,"Declaración y pago IVA e IT",General,"1,2,3,4,5,6,7,8,9,10,11,12","Ley 843 / Reglamento IVA e IT","Regl. IVA Art. 10; Regl. IT Art. 7","https://sac.impuestos.gob.bo/formularios/pdf/LEY%20843-09-22.pdf",""
+6,19,"Declaración y pago IVA e IT",General,"1,2,3,4,5,6,7,8,9,10,11,12","Ley 843 / Reglamento IVA e IT","Regl. IVA Art. 10; Regl. IT Art. 7","https://sac.impuestos.gob.bo/formularios/pdf/LEY%20843-09-22.pdf",""
+7,20,"Declaración y pago IVA e IT",General,"1,2,3,4,5,6,7,8,9,10,11,12","Ley 843 / Reglamento IVA e IT","Regl. IVA Art. 10; Regl. IT Art. 7","https://sac.impuestos.gob.bo/formularios/pdf/LEY%20843-09-22.pdf",""
+8,21,"Declaración y pago IVA e IT",General,"1,2,3,4,5,6,7,8,9,10,11,12","Ley 843 / Reglamento IVA e IT","Regl. IVA Art. 10; Regl. IT Art. 7","https://sac.impuestos.gob.bo/formularios/pdf/LEY%20843-09-22.pdf",""
+9,22,"Declaración y pago IVA e IT",General,"1,2,3,4,5,6,7,8,9,10,11,12","Ley 843 / Reglamento IVA e IT","Regl. IVA Art. 10; Regl. IT Art. 7","https://sac.impuestos.gob.bo/formularios/pdf/LEY%20843-09-22.pdf",""
+,10,"Pago de cuota bimestral RTS",Simplificado,"3,5,7,9,11,1","D.S. N° 24484 (en Ley 843 TO)","Art. 19","https://sac.impuestos.gob.bo/formularios/pdf/LEY%20843-09-22.pdf","NO usa dígito NIT. Enero es del año siguiente a la gestión. STI/RAU: NO ENCONTRADO en esta planilla."

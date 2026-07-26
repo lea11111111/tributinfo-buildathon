@@ -7,10 +7,16 @@ import type { ClasificarRegimenInput } from "../types/tools";
 import {
   ACTIVIDADES_RTS,
   CAPITAL_MAXIMO_RTS,
+  CAPITAL_MINIMO_RTS,
   CATEGORIAS_RTS,
   VENTAS_MAXIMAS_RTS,
 } from "../data/categorias-simplificado";
-import { ADVERTENCIA_DATOS_NO_VERIFICADOS, DATOS_VERIFICADOS, FUENTE_PENDIENTE } from "../data/verificacion";
+import {
+  ADVERTENCIA_DATOS_NO_VERIFICADOS,
+  DATOS_VERIFICADOS,
+  FUENTE_LEY_843_RTS_ART18,
+  LINK_LEY_843,
+} from "../data/verificacion";
 
 export function clasificarRegimen(input: ClasificarRegimenInput): RegimenResultado {
   const advertencias: string[] = [];
@@ -28,7 +34,11 @@ export function clasificarRegimen(input: ClasificarRegimenInput): RegimenResulta
       nombre: "RAU",
       justificacion:
         "Tu actividad es agropecuaria, por lo que te corresponde el Régimen Agropecuario Unificado (RAU), un régimen especial con pago anual simplificado.",
-      fuente: FUENTE_PENDIENTE, // TODO_FERNANDA: norma del RAU
+      fuente: {
+        norma: "Ley 843 (Texto Ordenado) — RAU",
+        articulo: "NO ENCONTRADO — detalle de cuotas RAU",
+        link: LINK_LEY_843,
+      },
       advertencias,
     };
   }
@@ -39,39 +49,44 @@ export function clasificarRegimen(input: ClasificarRegimenInput): RegimenResulta
       nombre: "STI",
       justificacion:
         "Tu actividad es el transporte, por lo que te corresponde el Sistema Tributario Integrado (STI), diseñado para transportistas.",
-      fuente: FUENTE_PENDIENTE, // TODO_FERNANDA: norma del STI
+      fuente: {
+        norma: "Ley 843 (Texto Ordenado) — STI",
+        articulo: "NO ENCONTRADO — detalle de cuotas STI",
+        link: LINK_LEY_843,
+      },
+      advertencias,
+    };
+  }
+
+  const actividadAdmiteRTS = (ACTIVIDADES_RTS as readonly string[]).includes(actividad);
+
+  // Art. 18: capital Bs1–12.000 quedan excluidos del RTS
+  if (actividadAdmiteRTS && capital > 0 && capital < CAPITAL_MINIMO_RTS) {
+    return {
+      nombre: "General",
+      justificacion: `Con un capital de Bs ${capital} (menor a Bs ${CAPITAL_MINIMO_RTS}), quedás excluido del Régimen Tributario Simplificado según el Art. 18 del D.S. N° 24484. Te corresponde el Régimen General u orientar tu caso en una oficina del SIN.`,
+      fuente: FUENTE_LEY_843_RTS_ART18,
       advertencias,
     };
   }
 
   // Simplificado: actividad admitida + dentro de topes
-  const actividadAdmiteRTS = (ACTIVIDADES_RTS as readonly string[]).includes(actividad);
-
   if (actividadAdmiteRTS && capital <= CAPITAL_MAXIMO_RTS && ventasAnuales <= VENTAS_MAXIMAS_RTS) {
     const cat = CATEGORIAS_RTS.find(
       (c) => capital >= c.capitalDesde && capital <= c.capitalHasta
     );
 
     if (!cat) {
-      // Capital por debajo del mínimo de la primera categoría u otro hueco en la tabla
       advertencias.push(
-        `El capital (Bs ${capital}) no encaja en ninguna categoría de la tabla RTS. Revisar la planilla 1 con Fernanda.`
+        `El capital (Bs ${capital}) no encaja en ninguna categoría de la tabla RTS (Art. 17). Revisar planillas/01-rts-categorias.csv.`
       );
       return {
-        nombre: "Simplificado",
-        categoria: CATEGORIAS_RTS[0].categoria,
+        nombre: "General",
         justificacion:
-          "Tu actividad y nivel de ventas encajan en el Régimen Simplificado, pero tu capital no coincide con ninguna categoría de la tabla. Consultá en una oficina del SIN para confirmar tu categoría.",
-        fuente: CATEGORIAS_RTS[0].fuente,
+          "Tu actividad podría encajar en el Simplificado, pero tu capital no coincide con ninguna categoría de la tabla oficial. Consultá en una oficina del SIN para confirmar tu régimen.",
+        fuente: FUENTE_LEY_843_RTS_ART18,
         advertencias,
       };
-    }
-
-    // Caso borde: justo en el límite superior de la categoría
-    if (capital === cat.capitalHasta) {
-      advertencias.push(
-        `Caso borde: el capital está exactamente en el tope de la categoría ${cat.categoria} (Bs ${cat.capitalHasta}). TODO_FERNANDA: confirmar si el tope es inclusivo según la norma.`
-      );
     }
 
     return {
@@ -92,7 +107,7 @@ export function clasificarRegimen(input: ClasificarRegimenInput): RegimenResulta
     return {
       nombre: "General",
       justificacion: `Aunque tu actividad podría entrar en el Simplificado, ${motivo}, por lo que te corresponde el Régimen General (IVA, IT e IUE con facturación).`,
-      fuente: FUENTE_PENDIENTE, // TODO_FERNANDA: artículo que define los topes
+      fuente: FUENTE_LEY_843_RTS_ART18,
       advertencias,
     };
   }
@@ -102,7 +117,11 @@ export function clasificarRegimen(input: ClasificarRegimenInput): RegimenResulta
     nombre: "General",
     justificacion:
       "Tu actividad no está comprendida en los regímenes especiales (Simplificado, STI, RAU), por lo que te corresponde el Régimen General: emitís factura y declarás IVA, IT e IUE.",
-    fuente: FUENTE_PENDIENTE, // TODO_FERNANDA: artículo del Régimen General / exclusiones RTS
+    fuente: {
+      norma: "Ley 843 (Texto Ordenado)",
+      articulo: "Régimen General (títulos IVA, IT, IUE)",
+      link: LINK_LEY_843,
+    },
     advertencias,
   };
 }

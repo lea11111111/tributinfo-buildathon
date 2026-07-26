@@ -1,0 +1,4 @@
+impuesto,sigla,alicuota,periodicidad,base_calculo,fuente_norma,fuente_articulo,link,notas
+Impuesto al Valor Agregado,IVA,0.13,mensual,"Precios netos de ventas/servicios del período (débito fiscal)","Ley 843 (Texto Ordenado)","Art. 15 (alícuota); Art. 10 (período mensual)","https://sac.impuestos.gob.bo/formularios/pdf/LEY%20843-09-22.pdf","Alícuota general 13%"
+Impuesto a las Transacciones,IT,0.03,mensual,"Ingresos brutos del período","Ley 843 (Texto Ordenado)","Art. 75; Regl. IT Art. 7 (pago por dígito NIT)","https://sac.impuestos.gob.bo/formularios/pdf/LEY%20843-09-22.pdf","Alícuota general 3%"
+Impuesto sobre las Utilidades de las Empresas,IUE,0.25,anual,"Utilidad neta imponible de la gestión","Ley 843 (Texto Ordenado)","Art. 50","https://sac.impuestos.gob.bo/formularios/pdf/LEY%20843-09-22.pdf","Tasa 25%"
