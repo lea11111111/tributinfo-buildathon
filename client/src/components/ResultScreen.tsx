@@ -6,6 +6,7 @@ import type {
   WhatsAppStatus,
 } from '@/lib/types'
 import { ToolsPanel } from './ToolsPanel'
+import { AskBox } from './AskBox'
 import { downloadChecklist, downloadIcs, sendWhatsApp } from '@/lib/api'
 
 type Props = {
@@ -206,6 +207,8 @@ export function ResultScreen({ result, onRestart }: Props) {
               </button>
             </div>
           </div>
+
+          <AskBox />
         </div>
 
         <ToolsPanel tools={toolsWithWhatsApp(result.tools, waStatus)} />

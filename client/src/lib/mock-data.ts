@@ -1,4 +1,5 @@
 import type {
+  AskResult,
   DiagnosisInput,
   DiagnosisResult,
   ExampleCase,
@@ -267,6 +268,26 @@ export async function runMockDiagnosis(
 
 function wait(ms: number) {
   return new Promise((resolve) => setTimeout(resolve, ms))
+}
+
+/** Simula una consulta libre al RAG (/api/ask). */
+export async function runMockAsk(pregunta: string): Promise<AskResult> {
+  await wait(1200)
+  return {
+    pregunta,
+    respuesta:
+      'Según la Ley 843, el Régimen Tributario Simplificado agrupa a comerciantes minoristas, artesanos y vivanderos cuyo capital y ventas anuales están dentro de los topes vigentes. La cuota se paga por bimestre según la categoría. (Respuesta mock — conectá el backend para consultas reales.)',
+    fuentes: ['02-ley-843-impuestos.md'],
+    fragmentos: [
+      {
+        fuente: '02-ley-843-impuestos.md',
+        chunkIndex: 371,
+        score: 0.21,
+        texto: 'El impuesto así determinado deberá empozarse considerando el último dígito del número del NIT…',
+        resumen: '02-ley-843-impuestos.md (chunk 371)',
+      },
+    ],
+  }
 }
 
 export const ACTIVIDAD_OPTIONS: { value: DiagnosisInput['actividad']; label: string }[] = [

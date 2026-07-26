@@ -1,6 +1,6 @@
-import type { DiagnosisInput, DiagnosisResult, ToolEvent } from './types'
+import type { AskResult, DiagnosisInput, DiagnosisResult, ToolEvent } from './types'
 import { isMock, API_URL } from './config'
-import { animateToolSequence, runMockDiagnosis } from './mock-data'
+import { animateToolSequence, runMockAsk, runMockDiagnosis } from './mock-data'
 
 export async function diagnose(
   input: DiagnosisInput,
@@ -30,6 +30,29 @@ export async function diagnose(
   await animateToolSequence(finalTools, onTools)
 
   return { ...result, tools: finalTools }
+}
+
+/** Pregunta libre sobre normativa (RAG + LLM del backend). */
+export async function ask(pregunta: string): Promise<AskResult> {
+  if (isMock) {
+    return runMockAsk(pregunta)
+  }
+
+  const res = await fetch(`${API_URL}/api/ask`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ pregunta }),
+  })
+
+  const data = (await res.json().catch(() => null)) as
+    | (AskResult & { error?: string })
+    | null
+
+  if (!res.ok || !data?.respuesta) {
+    throw new Error(data?.error ?? 'La consulta falló. Probá de nuevo.')
+  }
+
+  return data
 }
 
 export async function sendWhatsApp(payload: {

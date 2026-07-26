@@ -95,6 +95,24 @@ export type DiagnosisResult = {
   tools: ToolEvent[]
 }
 
+/** Respuesta de POST /api/ask (RAG: pregunta libre sobre normativa) */
+export type AskFragmento = {
+  fuente: string
+  chunkIndex: number
+  score: number
+  texto: string
+  resumen: string
+  /** Solo presente en resultados web (fallback Exa) */
+  url?: string
+}
+
+export type AskResult = {
+  pregunta: string
+  respuesta: string
+  fuentes: string[]
+  fragmentos: AskFragmento[]
+}
+
 export type ExampleCaseId = 'tienda' | 'freelancer' | 'agricultor'
 
 export type ExampleCase = {
