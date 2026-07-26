@@ -1,5 +1,5 @@
 import { chatOllama } from "./ollama";
-import { buscarNormativa } from "../tools/buscar-normativa";
+import { buscarNormativa, buscarNormativaConWeb } from "../tools/buscar-normativa";
 
 export type RagAskInput = {
   pregunta: string;
@@ -14,10 +14,15 @@ export type RagAskResult = {
 };
 
 export async function ragAsk(input: RagAskInput): Promise<RagAskResult> {
-  const retrieval = buscarNormativa({ consulta: input.pregunta, limite: input.topK ?? 4 });
+  const retrieval = await buscarNormativaConWeb({
+    consulta: input.pregunta,
+    limite: input.topK ?? 4,
+  });
 
-  const contextBlocks = retrieval.fragmentos.map(
-    (f) => `[Fuente: ${f.fuente} | chunk ${f.chunkIndex}]\n${f.texto}`,
+  const contextBlocks = retrieval.fragmentos.map((f) =>
+    f.url
+      ? `[Fuente: ${f.fuente} | ${f.url}]\n${f.texto}`
+      : `[Fuente: ${f.fuente} | chunk ${f.chunkIndex}]\n${f.texto}`,
   );
   const context = contextBlocks.join("\n\n---\n\n");
 

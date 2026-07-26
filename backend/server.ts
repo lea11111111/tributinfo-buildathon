@@ -13,7 +13,7 @@ import { generarCalendario } from "./lib/tools/generar-calendario";
 import { enviarRecordatorio } from "./lib/tools/enviar-recordatorio";
 import type { DiagnosisInput, WhatsAppPayload } from "./lib/types/diagnosis-contract";
 import { ragAsk } from "./lib/ai/rag-ask";
-import { buscarNormativa } from "./lib/tools/buscar-normativa";
+import { buscarNormativaConWeb } from "./lib/tools/buscar-normativa";
 import type { NombreRegimen } from "./lib/types/resultado";
 
 const PORT = Number(process.env.PORT ?? 3001);
@@ -161,7 +161,7 @@ async function handleBuscarNormativa(req: IncomingMessage, res: ServerResponse) 
     json(res, 400, { error: "Falta consulta." });
     return;
   }
-  json(res, 200, buscarNormativa({ consulta: body.consulta.trim(), limite: body.limite }));
+  json(res, 200, await buscarNormativaConWeb({ consulta: body.consulta.trim(), limite: body.limite }));
 }
 function readJson(req: IncomingMessage): Promise<unknown> {
   return new Promise((resolve, reject) => {
