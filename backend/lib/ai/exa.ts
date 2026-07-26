@@ -54,7 +54,8 @@ export async function searchExaSin(
         return true;
       })
       .map((r) => ({
-        titulo: r.title ?? r.url!,
+        // title puede venir como cadena vacía; caer al nombre del archivo/URL
+        titulo: r.title?.trim() || r.url!.split("/").pop() || r.url!,
         url: r.url!,
         texto: r.highlights!.join(" … "),
       }));
