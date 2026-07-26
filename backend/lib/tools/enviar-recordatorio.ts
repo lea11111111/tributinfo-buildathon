@@ -1,18 +1,19 @@
 /**
- * Tool: envía el resumen fiscal + link del calendario por WhatsApp vía Zavu.
+ * Tool: envía el resumen fiscal + link del calendario por Telegram (Zavu).
  *
  * Regla del proyecto: NUNCA simular un envío exitoso. Si falla, se reporta
  * el error y la UI ofrece la descarga del .ics.
  */
 import type { EnvioResultado } from "../types/resultado";
 import type { EnviarRecordatorioInput } from "../types/tools";
-import { validarTelefonoBoliviano } from "../utils/validar-telefono";
-import { enviarWhatsApp } from "../utils/zavu";
+import { validarDestino } from "../utils/validar-destino";
+import { enviarMensaje, getZavuChannel } from "../utils/zavu";
 
 export async function enviarRecordatorio(input: EnviarRecordatorioInput): Promise<EnvioResultado> {
-  const tel = validarTelefonoBoliviano(input.telefono);
-  if (!tel.valido || !tel.e164) {
-    return { exito: false, error: tel.error ?? "Número de teléfono inválido." };
+  const channel = getZavuChannel();
+  const dest = validarDestino(input.telefono, channel);
+  if (!dest.valido || !dest.to) {
+    return { exito: false, error: dest.error ?? "Destinatario inválido." };
   }
 
   const fecha = formatearFecha(input.proximoVencimiento);
@@ -29,15 +30,16 @@ export async function enviarRecordatorio(input: EnviarRecordatorioInput): Promis
   }
   lineas.push("", "Te avisaremos antes de cada vencimiento.");
 
-  const resultado = await enviarWhatsApp({
-    to: tel.e164,
+  const resultado = await enviarMensaje({
+    to: dest.to,
+    channel,
     text: lineas.join("\n"),
   });
 
   if (!resultado.ok) {
     return {
       exito: false,
-      error: mensajeLegible(resultado.errorCode, resultado.errorMessage),
+      error: mensajeLegible(resultado.errorCode, resultado.errorMessage, channel),
     };
   }
 
@@ -58,7 +60,8 @@ function formatearFecha(iso: string): string {
   return `${d} de ${meses[m - 1]} de ${y}`;
 }
 
-function mensajeLegible(code?: string, raw?: string): string {
+function mensajeLegible(code?: string, raw?: string, channel = "telegram"): string {
+  const canal = channel === "telegram" ? "Telegram" : channel === "whatsapp" ? "WhatsApp" : "SMS";
   switch (code) {
     case "whatsapp_window_closed":
       return "WhatsApp no permite iniciar la conversación: el destinatario debe escribirnos primero, o hay que usar un template aprobado. Descargá el calendario mientras tanto.";
@@ -67,6 +70,6 @@ function mensajeLegible(code?: string, raw?: string): string {
     case "missing_api_key":
       return "Falta configurar la API key de Zavu en el servidor.";
     default:
-      return `No se pudo enviar el WhatsApp${raw ? `: ${raw}` : "."} Podés descargar el calendario directamente.`;
+      return `No se pudo enviar por ${canal}${raw ? `: ${raw}` : "."} Podés descargar el calendario directamente.`;
   }
 }

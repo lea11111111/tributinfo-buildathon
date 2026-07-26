@@ -11,10 +11,15 @@ import {
 } from "./lib/adapters/diagnosis";
 import { generarCalendario } from "./lib/tools/generar-calendario";
 import { enviarRecordatorio } from "./lib/tools/enviar-recordatorio";
+import { responderTelegram } from "./lib/tools/responder-telegram";
 import type { DiagnosisInput, WhatsAppPayload } from "./lib/types/diagnosis-contract";
 import { ragAsk } from "./lib/ai/rag-ask";
 import { buscarNormativaConWeb } from "./lib/tools/buscar-normativa";
 import type { NombreRegimen } from "./lib/types/resultado";
+import {
+  verifyZavuSignature,
+  type ZavuInboundEvent,
+} from "./lib/utils/zavu-webhook";
 
 const PORT = Number(process.env.PORT ?? 3001);
 const REGIMENES: NombreRegimen[] = ["General", "Simplificado", "STI", "RAU"];
@@ -35,15 +40,26 @@ const server = createServer(async (req, res) => {
       await handleDiagnose(req, res);
       return;
     }
-    if (req.method === "POST" && url.pathname === "/api/whatsapp") {
-      await handleWhatsApp(req, res);
+    // Alias: /api/telegram (preferido) y /api/whatsapp (compat)
+    if (
+      req.method === "POST" &&
+      (url.pathname === "/api/telegram" || url.pathname === "/api/whatsapp")
+    ) {
+      await handleTelegramSend(req, res);
+      return;
+    }
+    if (
+      req.method === "POST" &&
+      (url.pathname === "/api/zavu/webhook" || url.pathname === "/webhooks/zavu")
+    ) {
+      await handleZavuWebhook(req, res);
       return;
     }
     if (req.method === "GET" && url.pathname === "/api/descargar-calendario") {
       handleDescargarCalendario(url, res);
       return;
     }
-        if (req.method === "POST" && url.pathname === "/api/ask") {
+    if (req.method === "POST" && url.pathname === "/api/ask") {
       await handleAsk(req, res);
       return;
     }
@@ -74,10 +90,11 @@ async function handleDiagnose(req: IncomingMessage, res: ServerResponse) {
   json(res, 200, result);
 }
 
-async function handleWhatsApp(req: IncomingMessage, res: ServerResponse) {
-  const body = (await readJson(req)) as WhatsAppPayload;
-  if (!body.telefono || !body.regimen) {
-    json(res, 400, { exito: false, error: "Faltan telefono o regimen." });
+async function handleTelegramSend(req: IncomingMessage, res: ServerResponse) {
+  const body = (await readJson(req)) as WhatsAppPayload & { chatId?: string };
+  const destino = body.chatId ?? body.telefono;
+  if (!destino || !body.regimen) {
+    json(res, 400, { exito: false, error: "Faltan chatId/telefono o regimen." });
     return;
   }
 
@@ -90,7 +107,7 @@ async function handleWhatsApp(req: IncomingMessage, res: ServerResponse) {
     `http://localhost:${PORT}`;
 
   const resultado = await enviarRecordatorio({
-    telefono: body.telefono,
+    telefono: destino,
     regimen: body.regimen,
     proximoVencimiento:
       body.proximoVencimiento ??
@@ -103,6 +120,54 @@ async function handleWhatsApp(req: IncomingMessage, res: ServerResponse) {
   });
 
   json(res, resultado.exito ? 200 : 502, resultado);
+}
+
+/**
+ * Webhook de Zavu: cuando alguien escribe al bot de Telegram,
+ * respondemos con RAG + Ollama.
+ *
+ * Configurar en Zavu → Sender → Webhooks:
+ *   URL: https://<tu-api>/api/zavu/webhook
+ *   Events: message.inbound
+ *   Secret → ZAVU_WEBHOOK_SECRET (opcional en local)
+ */
+async function handleZavuWebhook(req: IncomingMessage, res: ServerResponse) {
+  const rawBody = await readRaw(req);
+  const secret = process.env.ZAVU_WEBHOOK_SECRET;
+
+  if (secret) {
+    const signature = req.headers["x-zavu-signature"];
+    const header = Array.isArray(signature) ? signature[0] : signature;
+    if (!verifyZavuSignature(header, rawBody, secret)) {
+      json(res, 401, { error: "Invalid signature" });
+      return;
+    }
+  }
+
+  let event: ZavuInboundEvent;
+  try {
+    event = rawBody ? (JSON.parse(rawBody) as ZavuInboundEvent) : {};
+  } catch {
+    json(res, 400, { error: "JSON inválido" });
+    return;
+  }
+
+  // Ack inmediato (<30s) y procesar async (Ollama puede tardar).
+  json(res, 200, { ok: true });
+
+  if (event.type !== "message.inbound") return;
+
+  const data = event.data;
+  const chatId = data?.from;
+  const texto = data?.text ?? "";
+  const channel = (data?.channel ?? "").toLowerCase();
+
+  if (!chatId) return;
+  if (channel && channel !== "telegram") return;
+
+  void responderTelegram({ chatId, texto }).catch((err) => {
+    console.error("[zavu-webhook] Error respondiendo Telegram:", err);
+  });
 }
 
 function handleDescargarCalendario(url: URL, res: ServerResponse) {
@@ -170,19 +235,22 @@ async function handleBuscarNormativa(req: IncomingMessage, res: ServerResponse) 
   }
   json(res, 200, await buscarNormativaConWeb({ consulta: body.consulta.trim(), limite: body.limite }));
 }
-function readJson(req: IncomingMessage): Promise<unknown> {
+function readRaw(req: IncomingMessage): Promise<string> {
   return new Promise((resolve, reject) => {
     let raw = "";
     req.on("data", (chunk) => (raw += chunk));
-    req.on("end", () => {
-      try {
-        resolve(raw ? JSON.parse(raw) : {});
-      } catch {
-        reject(new Error("JSON inválido"));
-      }
-    });
+    req.on("end", () => resolve(raw));
     req.on("error", reject);
   });
+}
+
+async function readJson(req: IncomingMessage): Promise<unknown> {
+  const raw = await readRaw(req);
+  try {
+    return raw ? JSON.parse(raw) : {};
+  } catch {
+    throw new Error("JSON inválido");
+  }
 }
 
 server.listen(PORT, () => {

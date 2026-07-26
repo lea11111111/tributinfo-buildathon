@@ -38,7 +38,7 @@ export interface GenerarCalendarioInput {
 }
 
 export interface EnviarRecordatorioInput {
-  /** Acepta formatos locales; se normaliza a +591XXXXXXXX */
+  /** Chat ID de Telegram, o celular +591… si ZAVU_CHANNEL=sms/whatsapp */
   telefono: string;
   regimen: string;
   /** Próximo vencimiento en ISO, p. ej. "2026-08-15" */

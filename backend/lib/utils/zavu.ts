@@ -2,39 +2,40 @@
  * Cliente mínimo de Zavu (API REST directa, sin SDK).
  * Docs: https://docs.zavu.dev/api-reference/send-a-message
  *
- * Notas importantes (ver TODO-LEONARDO.md):
- * - WhatsApp libre solo dentro de la ventana de 24h (el usuario escribió primero).
- *   Para iniciar conversación en frío hace falta un template preaprobado.
- * - Links en mensajes pueden requerir verificación previa (error url_not_verified).
- * - Cuentas sin KYC: máx. 200 mensajes/día por canal.
+ * Canales: telegram | sms | whatsapp (via ZAVU_CHANNEL).
+ * Telegram usa chat ID numérico, no teléfono.
  */
 
 const ZAVU_API_URL = "https://api.zavu.dev/v1/messages";
 
-/**
- * Canal de envío. Por defecto "sms" (no requiere WhatsApp Business ni Meta).
- * Cambiar a "whatsapp" en el .env cuando el número esté conectado a WhatsApp.
- */
-const ZAVU_CHANNEL = (process.env.ZAVU_CHANNEL ?? "sms").toLowerCase();
+export type ZavuChannel = "telegram" | "sms" | "whatsapp";
+
+export function getZavuChannel(): ZavuChannel {
+  const raw = (process.env.ZAVU_CHANNEL ?? "telegram").toLowerCase();
+  if (raw === "sms" || raw === "whatsapp" || raw === "telegram") return raw;
+  return "telegram";
+}
 
 export interface ZavuSendParams {
-  /** E.164, p. ej. +59170000000 */
+  /** E.164 (+591…) o chat ID de Telegram */
   to: string;
   text: string;
-  /** Si hay template aprobado para iniciar conversación en frío */
+  /** Override del canal; por defecto ZAVU_CHANNEL */
+  channel?: ZavuChannel;
+  /** Si hay template aprobado para iniciar conversación en frío (WhatsApp) */
   templateId?: string;
   templateVariables?: Record<string, string>;
 }
 
 export interface ZavuResult {
   ok: boolean;
-  status?: string; // queued | sent | delivered | failed...
+  status?: string;
   messageId?: string;
   errorCode?: string;
   errorMessage?: string;
 }
 
-export async function enviarWhatsApp(params: ZavuSendParams): Promise<ZavuResult> {
+export async function enviarMensaje(params: ZavuSendParams): Promise<ZavuResult> {
   const apiKey = process.env.ZAVU_API_KEY;
   if (!apiKey) {
     return {
@@ -44,10 +45,12 @@ export async function enviarWhatsApp(params: ZavuSendParams): Promise<ZavuResult
     };
   }
 
+  const channel = params.channel ?? getZavuChannel();
+
   const body: Record<string, unknown> = params.templateId
     ? {
         to: params.to,
-        channel: "whatsapp",
+        channel: params.channel ?? "whatsapp",
         messageType: "template",
         content: {
           templateId: params.templateId,
@@ -56,7 +59,7 @@ export async function enviarWhatsApp(params: ZavuSendParams): Promise<ZavuResult
       }
     : {
         to: params.to,
-        channel: ZAVU_CHANNEL,
+        channel,
         text: params.text,
       };
 
@@ -98,3 +101,6 @@ export async function enviarWhatsApp(params: ZavuSendParams): Promise<ZavuResult
     };
   }
 }
+
+/** @deprecated usar enviarMensaje */
+export const enviarWhatsApp = enviarMensaje;

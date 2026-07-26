@@ -18,7 +18,7 @@ export function HomeScreen({ onStart, onExample }: Props) {
         </h1>
         <p className="home-screen__lead">
           Entrevista corta, decisión con herramientas, y entrega accionable:
-          WhatsApp, .ics y checklist de NIT.
+          Telegram, .ics y checklist de NIT.
         </p>
         <button type="button" className="btn btn--primary btn--lg" onClick={onStart}>
           Empezar

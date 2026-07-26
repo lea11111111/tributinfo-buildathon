@@ -10,7 +10,8 @@
   --brand: #3dd6c6;
   --brand-deep: #0f6b63;
   --accent: #6c63ff;
-  --whatsapp: #25d366;
+  --telegram: #2aabee;
+  --whatsapp: var(--telegram);
   --danger: #ff6b7a;
   --ok: #3ecf8e;
   --radius: 14px;
@@ -227,15 +228,17 @@ input {
   color: var(--text);
 }
 
+.btn--telegram,
 .btn--whatsapp {
-  background: var(--whatsapp);
-  color: #052e14;
+  background: var(--telegram);
+  color: #041018;
   font-size: 1.05rem;
   padding: 0.95rem 1.4rem;
   white-space: nowrap;
   flex: 1;
 }
 
+.btn--telegram:hover:not(:disabled),
 .btn--whatsapp:hover:not(:disabled) {
   filter: brightness(1.05);
 }
@@ -551,7 +554,7 @@ input {
 }
 
 .wa-row input:focus {
-  border-color: var(--whatsapp);
+  border-color: var(--telegram);
 }
 
 .download-row {
@@ -685,6 +688,7 @@ input {
     flex-direction: column;
   }
 
+  .btn--telegram,
   .btn--whatsapp {
     width: 100%;
   }

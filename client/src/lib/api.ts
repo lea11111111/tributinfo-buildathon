@@ -21,7 +21,7 @@ export async function diagnose(
   }
 
   const result = (await res.json()) as DiagnosisResult
-  // enviar_recordatorio no corre en el diagnose; se usa al mandar WhatsApp.
+  // enviar_recordatorio no corre en el diagnose; se usa al mandar por Telegram.
   const finalTools = (Array.isArray(result.tools) ? result.tools : []).filter(
     (t) => t.name !== 'enviar_recordatorio',
   )
@@ -55,8 +55,8 @@ export async function ask(pregunta: string): Promise<AskResult> {
   return data
 }
 
-export async function sendWhatsApp(payload: {
-  telefono: string
+export async function sendTelegram(payload: {
+  chatId: string
   regimen: string
   proximoVencimiento: string
   concepto: string
@@ -67,10 +67,17 @@ export async function sendWhatsApp(payload: {
     return
   }
 
-  const res = await fetch(`${API_URL}/api/whatsapp`, {
+  const res = await fetch(`${API_URL}/api/telegram`, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify(payload),
+    body: JSON.stringify({
+      chatId: payload.chatId,
+      telefono: payload.chatId,
+      regimen: payload.regimen,
+      proximoVencimiento: payload.proximoVencimiento,
+      concepto: payload.concepto,
+      linkCalendario: payload.linkCalendario,
+    }),
   })
 
   const data = (await res.json().catch(() => null)) as
@@ -78,9 +85,25 @@ export async function sendWhatsApp(payload: {
     | null
 
   if (!res.ok || !data?.exito) {
-    throw new Error(data?.error ?? 'No se pudo enviar por WhatsApp.')
+    throw new Error(data?.error ?? 'No se pudo enviar por Telegram.')
   }
 }
+
+/** @deprecated usar sendTelegram */
+export const sendWhatsApp = (payload: {
+  telefono: string
+  regimen: string
+  proximoVencimiento: string
+  concepto: string
+  linkCalendario?: string
+}) =>
+  sendTelegram({
+    chatId: payload.telefono,
+    regimen: payload.regimen,
+    proximoVencimiento: payload.proximoVencimiento,
+    concepto: payload.concepto,
+    linkCalendario: payload.linkCalendario,
+  })
 
 /** Genera un .ics mínimo descargable (mock / plan B). */
 export function downloadIcs(

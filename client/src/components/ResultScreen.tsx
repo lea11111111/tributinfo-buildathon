@@ -3,11 +3,11 @@ import type {
   CalendarioEvento,
   DiagnosisResult,
   ToolEvent,
-  WhatsAppStatus,
+  TelegramStatus,
 } from '@/lib/types'
 import { ToolsPanel } from './ToolsPanel'
 import { AskBox } from './AskBox'
-import { downloadChecklist, downloadIcs, sendWhatsApp } from '@/lib/api'
+import { downloadChecklist, downloadIcs, sendTelegram } from '@/lib/api'
 import { fechaLegible, googleCalendarUrlDe } from '@/lib/google-calendar'
 
 type Props = {
@@ -15,21 +15,21 @@ type Props = {
   onRestart: () => void
 }
 
-function toolsWithWhatsApp(
+function toolsWithTelegram(
   base: ToolEvent[],
-  waStatus: WhatsAppStatus,
+  tgStatus: TelegramStatus,
 ): ToolEvent[] {
   const withoutReminder = base.filter((t) => t.name !== 'enviar_recordatorio')
-  if (waStatus === 'idle') return withoutReminder
+  if (tgStatus === 'idle') return withoutReminder
 
   const reminder: ToolEvent =
-    waStatus === 'sending'
+    tgStatus === 'sending'
       ? {
           name: 'enviar_recordatorio',
           status: 'running',
-          summary: 'Enviando por WhatsApp…',
+          summary: 'Enviando por Telegram…',
         }
-      : waStatus === 'sent'
+      : tgStatus === 'sent'
         ? {
             name: 'enviar_recordatorio',
             status: 'done',
@@ -78,34 +78,36 @@ function proximoVencimiento(eventos: CalendarioEvento[]): {
 }
 
 export function ResultScreen({ result, onRestart }: Props) {
-  const [phone, setPhone] = useState('+591')
-  const [waStatus, setWaStatus] = useState<WhatsAppStatus>('idle')
-  const [waError, setWaError] = useState<string | null>(null)
+  const [chatId, setChatId] = useState('')
+  const [tgStatus, setTgStatus] = useState<TelegramStatus>('idle')
+  const [tgError, setTgError] = useState<string | null>(null)
 
   const proximo = proximoVencimiento(result.calendario.eventos)
 
-  async function handleWhatsApp() {
-    const cleaned = phone.replace(/\s/g, '')
-    if (!/^\+591\d{8}$/.test(cleaned)) {
-      setWaStatus('error')
-      setWaError('Usá formato boliviano: +591 y 8 dígitos.')
+  async function handleTelegram() {
+    const cleaned = chatId.replace(/\s/g, '')
+    if (!/^-?\d{5,20}$/.test(cleaned)) {
+      setTgStatus('error')
+      setTgError(
+        'Pegá tu chat ID de Telegram (número). Primero escribile /start al bot.',
+      )
       return
     }
 
-    setWaStatus('sending')
-    setWaError(null)
+    setTgStatus('sending')
+    setTgError(null)
     try {
-      await sendWhatsApp({
-        telefono: cleaned,
+      await sendTelegram({
+        chatId: cleaned,
         regimen: result.regimen,
         proximoVencimiento: proximo.fecha,
         concepto: proximo.concepto,
         linkCalendario: googleCalendarUrlDe(proximo.evento),
       })
-      setWaStatus('sent')
+      setTgStatus('sent')
     } catch (err) {
-      setWaStatus('error')
-      setWaError(
+      setTgStatus('error')
+      setTgError(
         err instanceof Error
           ? err.message
           : 'No se pudo enviar. Usá el botón de Google Calendar.',
@@ -159,39 +161,45 @@ export function ResultScreen({ result, onRestart }: Props) {
           <div className="delivery-zone">
             <h3>Recibilo ahora</h3>
             <p className="muted">
-              Guardá los vencimientos en tu Google Calendar y recibilos por WhatsApp.
+              Guardá los vencimientos en tu Google Calendar y recibilos por
+              Telegram.
             </p>
 
             <div className="wa-row">
               <input
-                type="tel"
-                value={phone}
-                onChange={(e) => setPhone(e.target.value)}
-                placeholder="+59170000000"
-                aria-label="Número de WhatsApp"
-                disabled={waStatus === 'sending'}
+                type="text"
+                inputMode="numeric"
+                value={chatId}
+                onChange={(e) => setChatId(e.target.value)}
+                placeholder="Chat ID de Telegram"
+                aria-label="Chat ID de Telegram"
+                disabled={tgStatus === 'sending'}
               />
               <button
                 type="button"
-                className="btn btn--whatsapp"
-                onClick={handleWhatsApp}
-                disabled={waStatus === 'sending' || waStatus === 'sent'}
+                className="btn btn--telegram"
+                onClick={handleTelegram}
+                disabled={tgStatus === 'sending' || tgStatus === 'sent'}
               >
-                {waStatus === 'sending' && 'Enviando…'}
-                {waStatus === 'sent' && 'Enviado ✓'}
-                {(waStatus === 'idle' || waStatus === 'error') &&
-                  'Enviármelo por WhatsApp'}
+                {tgStatus === 'sending' && 'Enviando…'}
+                {tgStatus === 'sent' && 'Enviado ✓'}
+                {(tgStatus === 'idle' || tgStatus === 'error') &&
+                  'Enviármelo por Telegram'}
               </button>
             </div>
+            <p className="gcal-hint">
+              Escribile /start al bot, pedile tu chat ID (o miralo en el Inbox de
+              Zavu) y pegalo acá.
+            </p>
 
-            {waStatus === 'sent' && (
+            {tgStatus === 'sent' && (
               <p className="wa-status wa-status--ok" role="status">
-                Calendario enviado. Revisá WhatsApp en el celular.
+                Calendario enviado. Revisá Telegram en el celular.
               </p>
             )}
-            {waStatus === 'error' && waError && (
+            {tgStatus === 'error' && tgError && (
               <p className="wa-status wa-status--err" role="alert">
-                {waError}
+                {tgError}
               </p>
             )}
 
@@ -257,7 +265,7 @@ export function ResultScreen({ result, onRestart }: Props) {
           <AskBox />
         </div>
 
-        <ToolsPanel tools={toolsWithWhatsApp(result.tools, waStatus)} />
+        <ToolsPanel tools={toolsWithTelegram(result.tools, tgStatus)} />
       </div>
     </section>
   )
