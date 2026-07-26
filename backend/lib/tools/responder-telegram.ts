@@ -1,7 +1,9 @@
 /**
  * Responde un mensaje inbound de Telegram con RAG + Ollama vía Zavu.
+ * Zavu envía texto plano (sin parse_mode), así que limpiamos Markdown/citas.
  */
 import { ragAsk } from "../ai/rag-ask";
+import { limpiarRespuestaChat } from "../utils/limpiar-respuesta-chat";
 import { enviarMensaje } from "../utils/zavu";
 
 const TELEGRAM_MAX = 3900;
@@ -46,7 +48,7 @@ export async function responderTelegram(params: {
   const envio = await enviarMensaje({
     to: params.chatId,
     channel: "telegram",
-    text: truncarTelegram(respuesta),
+    text: truncarTelegram(limpiarRespuestaChat(respuesta)),
   });
   if (!envio.ok) {
     console.error(
