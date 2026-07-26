@@ -2,8 +2,8 @@
 # Docs: https://render.com/docs/blueprint-spec
 #
 # Crear el servicio: Dashboard → New → Blueprint → conectar este repo.
-# ZAVU_API_KEY no es obligatoria para desplegar; agregala en Environment cuando
-# quieras activar WhatsApp (POST /api/whatsapp devolverá error legible sin ella).
+# Los secretos marcados con sync: false se cargan una sola vez desde el
+# Dashboard de Render y nunca se guardan en Git.
 
 services:
   - type: web
@@ -17,3 +17,21 @@ services:
     envVars:
       - key: NODE_ENV
         value: production
+      - key: AI_PROVIDER
+        value: google
+      - key: GOOGLE_AI_MODEL
+        value: gemini-3.1-flash-lite
+      - key: GOOGLE_AI_API_KEY
+        sync: false
+      - key: ZAVU_CHANNEL
+        value: telegram
+      - key: ZAVU_API_KEY
+        sync: false
+      - key: ZAVU_SENDER_ID
+        sync: false
+      - key: ZAVU_WEBHOOK_SECRET
+        sync: false
+      - key: ZAVU_WEBHOOK_TOKEN
+        sync: false
+      - key: NEXT_PUBLIC_APP_URL
+        value: https://tributinfo-buildathon-1.onrender.com

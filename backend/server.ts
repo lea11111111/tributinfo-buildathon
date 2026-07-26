@@ -13,6 +13,7 @@ import { generarCalendario } from "./lib/tools/generar-calendario";
 import { enviarRecordatorio } from "./lib/tools/enviar-recordatorio";
 import { responderTelegram } from "./lib/tools/responder-telegram";
 import type { DiagnosisInput, WhatsAppPayload } from "./lib/types/diagnosis-contract";
+import { getAiProvider } from "./lib/ai/chat";
 import { ragAsk } from "./lib/ai/rag-ask";
 import { buscarNormativaConWeb } from "./lib/tools/buscar-normativa";
 import type { NombreRegimen } from "./lib/types/resultado";
@@ -68,7 +69,20 @@ const server = createServer(async (req, res) => {
       return;
     }
     if (req.method === "GET" && url.pathname === "/health") {
-      json(res, 200, { ok: true });
+      json(res, 200, {
+        ok: true,
+        aiProvider: getAiProvider(),
+        aiConfigured:
+          getAiProvider() === "google"
+            ? Boolean(process.env.GOOGLE_AI_API_KEY)
+            : Boolean(process.env.OLLAMA_BASE_URL),
+        telegramConfigured: Boolean(
+          process.env.ZAVU_API_KEY && process.env.ZAVU_SENDER_ID,
+        ),
+        webhookConfigured: Boolean(
+          process.env.ZAVU_WEBHOOK_SECRET || process.env.ZAVU_WEBHOOK_TOKEN,
+        ),
+      });
       return;
     }
 
@@ -134,11 +148,16 @@ async function handleTelegramSend(req: IncomingMessage, res: ServerResponse) {
 async function handleZavuWebhook(req: IncomingMessage, res: ServerResponse) {
   const rawBody = await readRaw(req);
   const secret = process.env.ZAVU_WEBHOOK_SECRET;
+  const webhookToken = process.env.ZAVU_WEBHOOK_TOKEN;
+  const requestUrl = new URL(req.url ?? "/", `http://localhost:${PORT}`);
+  const hasValidUrlToken =
+    Boolean(webhookToken) && requestUrl.searchParams.get("token") === webhookToken;
 
-  if (secret) {
+  if (secret && !hasValidUrlToken) {
     const signature = req.headers["x-zavu-signature"];
     const header = Array.isArray(signature) ? signature[0] : signature;
     if (!verifyZavuSignature(header, rawBody, secret)) {
+      console.warn("[zavu-webhook] Firma HMAC inválida.");
       json(res, 401, { error: "Invalid signature" });
       return;
     }
@@ -158,13 +177,14 @@ async function handleZavuWebhook(req: IncomingMessage, res: ServerResponse) {
   if (event.type !== "message.inbound") return;
 
   const data = event.data;
-  const chatId = data?.from;
+  const chatId = data?.from?.replace(/^telegram:/i, "");
   const texto = data?.text ?? "";
   const channel = (data?.channel ?? "").toLowerCase();
 
   if (!chatId) return;
   if (channel && channel !== "telegram") return;
 
+  console.log(`[zavu-webhook] Telegram inbound de ${chatId}: ${texto.slice(0, 80)}`);
   void responderTelegram({ chatId, texto }).catch((err) => {
     console.error("[zavu-webhook] Error respondiendo Telegram:", err);
   });

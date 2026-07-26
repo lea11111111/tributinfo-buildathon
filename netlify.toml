@@ -5,4 +5,5 @@
 
 [build.environment]
   NODE_VERSION = "22"
-  VITE_DATA_SOURCE = "mock"
+  VITE_DATA_SOURCE = "real"
+  VITE_API_URL = "https://tributinfo-buildathon-1.onrender.com"

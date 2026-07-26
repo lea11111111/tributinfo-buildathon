@@ -29,7 +29,7 @@ Por defecto usa mocks (`VITE_DATA_SOURCE=mock`). Copiá `client/.env.example` a 
 
 1. **Inicio** — Empezar + 3 casos de ejemplo
 2. **Entrevista** — diagnóstico por botones + panel de tools
-3. **Resultado** — régimen, cálculo, WhatsApp, .ics y checklist
+3. **Resultado** — régimen, cálculo, Telegram, .ics y checklist
 
 ## Publicar en Netlify
 
@@ -50,12 +50,26 @@ Si ves **Page not found**, casi seguro el Publish directory está mal (por ejemp
 El archivo `render.yaml` en la raíz configura solo la API (`backend/`).
 
 1. Render → **New** → **Blueprint** → conectar este repo.
-2. (Opcional, cuando activen WhatsApp) Agregar en **Environment**:
+2. Agregar en **Environment** los secretos requeridos:
+   - `GOOGLE_AI_API_KEY`
    - `ZAVU_API_KEY`
-   - `ZAVU_SENDER_ID` (opcional)
-   - `NEXT_PUBLIC_APP_URL` (opcional; si no se setea, Render usa `RENDER_EXTERNAL_URL`)
-3. Tras el deploy, apuntar el frontend a la API:
-   - En Netlify: `VITE_DATA_SOURCE=real` y `VITE_API_URL=https://tu-servicio.onrender.com`
+   - `ZAVU_SENDER_ID`
+   - `ZAVU_WEBHOOK_SECRET`
+   - `ZAVU_WEBHOOK_TOKEN`
+3. Las variables no secretas ya están declaradas en `render.yaml`:
+   - `AI_PROVIDER=google`
+   - `GOOGLE_AI_MODEL=gemini-3.1-flash-lite`
+   - `ZAVU_CHANNEL=telegram`
+   - `NEXT_PUBLIC_APP_URL=https://tributinfo-buildathon-1.onrender.com`
+4. Configurar el webhook del Sender de Zavu con:
+   - URL: `https://tributinfo-buildathon-1.onrender.com/api/zavu/webhook?token=<ZAVU_WEBHOOK_TOKEN>`
+   - Evento: `message.inbound`
+5. Netlify ya queda configurado por `netlify.toml` con:
+   - `VITE_DATA_SOURCE=real`
+   - `VITE_API_URL=https://tributinfo-buildathon-1.onrender.com`
+
+Después del deploy, `GET /health` confirma sin exponer secretos si Google AI,
+Telegram y el webhook están configurados.
 
 Si configurás el servicio a mano (sin Blueprint):
 

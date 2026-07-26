@@ -1,4 +1,4 @@
-import { chatOllama } from "./ollama";
+import { chatAI } from "./chat";
 import { buscarNormativa, buscarNormativaConWeb } from "../tools/buscar-normativa";
 
 export type RagAskInput = {
@@ -35,7 +35,7 @@ Responde en español, claro y conciso.`;
 
   const user = `CONTEXTO:\n${context || "(sin contexto recuperado)"}\n\nPREGUNTA:\n${input.pregunta}`;
 
-  const respuesta = await chatOllama([
+  const respuesta = await chatAI([
     { role: "system", content: system },
     { role: "user", content: user },
   ]);
