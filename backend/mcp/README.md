@@ -24,9 +24,9 @@ Archivo `.cursor/mcp.json` (rutas absolutas de esta máquina; no se commitea):
 {
   "mcpServers": {
     "tributinfo": {
-      "command": "C:/Users/Usuario/Desktop/Proyectos/CursorBuildathon/backend/node_modules/.bin/tsx.cmd",
+      "command": "C:/ruta/a/tu/proyecto/backend/node_modules/.bin/tsx.cmd",
       "args": [
-        "C:/Users/Usuario/Desktop/Proyectos/CursorBuildathon/backend/mcp/server.ts"
+        "C:/ruta/a/tu/proyecto/backend/mcp/server.ts"
       ]
     }
   }
